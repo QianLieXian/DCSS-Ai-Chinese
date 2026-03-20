@@ -1584,19 +1584,13 @@ w:5
 dragon
 %%%%
 _laughs_
-# also used by mimics
 
-snickers
+cackles madly
 
-titters
+chuckles harshly
 
-giggles
-
-chortles
-
-chuckles
-
-guffaws
+w:6
+gibbers darkly
 %%%%
 player ghost
 
@@ -8279,21 +8273,13 @@ holy_being_pacification_speech
 @The_monster@ says to you, "Carry on, mortal."
 %%%%
 #############################################################
-# evil monsters may also have some choice things to say...
+# Gozag bribery keys
+# Prefix this with a specific monster name to give speech
+# for a specific monster type.
 #############################################################
-good god '&'
+Gozag bribe
 
-w:20
-@_demon_taunt_@
-
-w:1
-@The_monster@ screams @at_foe@, "@Foe_god@ won't protect you, @foe_name@!"
-
-w:1
-@The_monster@ screams @at_foe@, "@Foe_god@ is but a nuisance to me, mortal!"
-
-w:1
-@The_monster@ screams @at_foe@, "@Foe_god@ will weep as I flay your corpse!"
+@The_monster@ stares @at_foe@, then turns away, jangling a coin purse.
 %%%%
 ##############################################
 # Special orc speech
@@ -8418,34 +8404,30 @@ says
 shouts
 %%%%
 #######################################################
-# Heretic orcs, not believing in Beogh.
-#######################################################
-related unbeliever orc
+#
+####
+orc_priest_preaching
 
-# hostile orcs shouldn't be too talkative
-w:60
-__NONE
+@The_monster@ shouts, "Beogh offers mercy even to people such as you. Join us and be reborn!"
 
-w:1
-@_generic_orc_speech_@
+@The_monster@ shouts, "The Pantheon deserves no one's loyalty. Let us show you the true path!"
 
-w:5
-@_hostile_orc_beogh_unbeliever_speech_@
+@The_monster@ shouts, "Surrender to Beogh and we'll let you live!"
+
+@The_monster@ threatens, "Beogh's wrath is as vast as Beogh's mercy. Make your choice!"
 %%%%
 #######################################################
-# Heretic orcs, doubting the saviour story.
-#######################################################
-related beogh orc
+#
+####
+orc_priest_preaching
 
-# hostile orcs shouldn't be too talkative
-w:60
-__NONE
+@The_monster@ shouts, "Beogh offers mercy even to people such as you. Join us and be reborn!"
 
-w:1
-@_generic_orc_speech_@
+@The_monster@ shouts, "The Pantheon deserves no one's loyalty. Let us show you the true path!"
 
-w:5
-@_hostile_orc_beogh_believer_speech_@
+@The_monster@ shouts, "Surrender to Beogh and we'll let you live!"
+
+@The_monster@ threatens, "Beogh's wrath is as vast as Beogh's mercy. Make your choice!"
 %%%%
 _hostile_orc_beogh_believer_speech_
 
@@ -8734,11 +8716,13 @@ beogh_converted_orc_resurrection
 @The_monster@ says, "Now I can live to fight another day."
 %%%%
 ########################################################
-# Maybe use different speech if converted by a follower.
-########################################################
-beogh_converted_orc_reaction_battle_follower
+orc_apostle_yield
 
-@beogh_converted_orc_reaction_battle@
+@The_monster@ shouts, "I yield! You are indeed the chosen one!"
+
+@The_monster@ shouts, "I yield! Victory is yours!"
+
+@The_monster@ falls to @possessive@ knees and submits.
 %%%%
 beogh_converted_orc_speech_battle_follower
 
@@ -8749,19 +8733,17 @@ beogh_converted_orc_speech_vengeance_follower
 @beogh_converted_orc_speech_vengeance@
 %%%%
 #######################################################
-# Or if they weren't converted because you did this already.
+#
 ####
-orc_priest_apostate
+orc_priest_preaching
 
-The priest shouts, "Disloyal scoundrel, leave my sight!"
+@The_monster@ shouts, "Beogh offers mercy even to people such as you. Join us and be reborn!"
 
-The priest snarls, "I'll spare you only if you run away! Begone!"
+@The_monster@ shouts, "The Pantheon deserves no one's loyalty. Let us show you the true path!"
 
-The priest curses, "Your faithless show of piety disgusts me!"
+@The_monster@ shouts, "Surrender to Beogh and we'll let you live!"
 
-The priest sneers, "Beogh may forgive you, but I don't!"
-
-The priest shouts, "You had your chance, apostate scum!"
+@The_monster@ threatens, "Beogh's wrath is as vast as Beogh's mercy. Make your choice!"
 %%%%
 #######################################################
 #
@@ -8831,44 +8813,96 @@ friendly bfb orc
 @The_monster@ cries, "Return their pain upon them a hundredfold!"
 %%%%
 #################################
-# Cherubs.
+# Monsters who worship Nemelex Xobeh
 #################################
-cherub
+goblin sharper
 
-@The_monster@ sings praise to the Shining One, in four-part harmony.
+VISUAL:@The_monster@ fiddles with @possessive@ portable altar.
 
-@The_monster_possessive@ lion-head roars!
+VISUAL:@The_monster@ shuffles one of @possessive@ decks.
 
-@The_monster_possessive@ eagle-head screeches!
+VISUAL:@The_monster@ fans some cards from one of @possessive@ decks.
 
-@The_monster@ sings praise to Zin.
+VISUAL:@The_monster_possessive@ deck briefly glows with a rainbow of weird colours.
 
-@The_monster@ sings praise to Elyvilon.
-%%%%
-#################################
-# Monsters who worship Zin
-#################################
-zin angel
+# Kenny Rogers, "The Gambler"
+@The_monster@ chants, "Know when to hold 'em, know when to fold 'em..."
 
-w:40
-@The_monster@ recites @_axioms_of_law_@
+@The_monster@ praises @possessive_God@.
 
-@The_monster@ recites @_recite_what_@ @_recite_subject_@
+@The_monster@ grins. "So many cards! Brought to you by @my_God@!"
 
-@The_monster@ preaches about @_recite_subject_@
+@The_monster@ refuses insurance.
 
-@The_monster@ @_recites_start_@ a @_lecture_modifier_@ lecture about @_recite_subject_@
+w:20
+@_deck_of_destruction_line_@
 
-@The_monster@ explains in detail about @_recite_subject_@
+w:20
+@_deck_of_escape_line_@
 
-@The_monster@ explains the importance of @_important_subject_@
+w:20
+@_deck_of_summoning_line_@
 
-@The_monster@ @_recites_start_@ a @_lecture_modifier_@ sermon about @_recite_subject_@
-
-@The_monster@ @_recites_start_@ a @_lecture_modifier_@ speech about @_recite_subject_@
+w:10
+@_deck_of_punishment_line_@
 
 w:5
-@The_monster@ speaks about @_recite_subject_@
+@The_monster@ draws @_deck_of_oddities_card_@. "Wait, this doesn't belong here!"
+
+w:5
+@The_monster@ draws @_misplaced_card_@. "Wait, where'd this come from?"
+
+w:5
+@The_monster@ fumbles a card and drops it. "Whoops!"
+
+w:1
+@The_monster@ says, "I wanted to be a wyvern-rider, but @my_God@ had other plans!"
+%%%%
+#################################
+# Monsters who worship Nemelex Xobeh
+#################################
+goblin sharper
+
+VISUAL:@The_monster@ fiddles with @possessive@ portable altar.
+
+VISUAL:@The_monster@ shuffles one of @possessive@ decks.
+
+VISUAL:@The_monster@ fans some cards from one of @possessive@ decks.
+
+VISUAL:@The_monster_possessive@ deck briefly glows with a rainbow of weird colours.
+
+# Kenny Rogers, "The Gambler"
+@The_monster@ chants, "Know when to hold 'em, know when to fold 'em..."
+
+@The_monster@ praises @possessive_God@.
+
+@The_monster@ grins. "So many cards! Brought to you by @my_God@!"
+
+@The_monster@ refuses insurance.
+
+w:20
+@_deck_of_destruction_line_@
+
+w:20
+@_deck_of_escape_line_@
+
+w:20
+@_deck_of_summoning_line_@
+
+w:10
+@_deck_of_punishment_line_@
+
+w:5
+@The_monster@ draws @_deck_of_oddities_card_@. "Wait, this doesn't belong here!"
+
+w:5
+@The_monster@ draws @_misplaced_card_@. "Wait, where'd this come from?"
+
+w:5
+@The_monster@ fumbles a card and drops it. "Whoops!"
+
+w:1
+@The_monster@ says, "I wanted to be a wyvern-rider, but @my_God@ had other plans!"
 %%%%
 _recites_start_
 

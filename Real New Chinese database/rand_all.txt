@@ -14,21 +14,57 @@
 ######################################################
 %%%%
 ######################################################
-# Library of keywords used (mostly) for randart jewellery.
+# Library of keywords used for all randart types.
 ######################################################
-_jewellery_animal_
+# Used for god gifts from C++ side, as "of $GOD's @divine_esteem@".
+divine_esteem
 
-Death Scarab
+# good
+Approval
 
-Firefly
+Benevolence
 
-Scarab
+Delight
+
+Esteem
+
+Favour
 
 w:5
-Magpie
+Felicitations
+
+Generosity
+
+Grace
+
+Hope
+
+Inspiration
+
+Pride
+
+Regard
 
 w:5
-Raven
+Respect
+
+Supremacy
+
+Whim
+
+# bad
+Castigation
+
+Condemnation
+
+Displeasure
+
+Envy
+
+Reproof
+
+w:70
+@_anger_quality_@
 %%%%
 _jewellery_special_name_
 

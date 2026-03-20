@@ -61,122 +61,134 @@
 ######################################################
 %%%%
 ######################################################
-# 1. WEAPONS
+# Jewellery appearance
 ######################################################
-weapon
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# weapon specific keywords (see rand_wpn.txt)
-of @_power_or_anger_@
+scintillating
 
-of @_battle_or_war_@
+sparkling
 
-w:1
-of @player_doom@
+flickering
 
-w:8
-of @death_or_doom@
+glittering
 
-w:1
-of @_verbing_@ @death_or_doom@
+smoking
 
-w:6
-of @_adjective_@ @_strategy_or_justice_@
+scorched
 
-of @_strategy_or_justice_@
+shimmering
 
-w:3
-of the @_verbing_@ @_people_name_@
+wavering
 
-w:3
-of the @_people_name_@
+warped
 
-w:2
-of the @_verbing_@ @_diviner_name_@
+transparent
 
-w:5
-of the @_verbing_@ @_weapon_animal_@
+translucent
 
-w:5
-of the @_weapon_animal_@
+pitted
 
-w:2
-of the @_plant_name_@
+slimy
 
-w:7
-of @_evil_stuff_@
+fine
 
-w:5
-of @_catastrophe_name_@
+radiant
 
-w:8
-of @_chaos_name_@
+ancient
 
-w:8
-of @_balance_or_order_@
+brightly glowing
 
-of @_economics_or_politics_@
+faintly glowing
 
-w:8
-of @branch_name@
+steaming
 
-w:7
-of @_place_name_@
+heavily runed
 
-w:5
-of @_discomfort_weapon_@
+vibrating
 
-w:4
-of the @_item_name_@
+twitching
 
-w:1
-of @_magic_name_@
+coiled
 
-w:5
-of @_substance_name_@
+bound
 
-w:7
-of @_science_name_@
-
-w:5
-of @other_weapon_name@
-
-w:30
-"@_plain_weapon_name_@"
-
-# general keywords (see rand_all.txt)
-w:5
-of @_time_name_@
-
-w:5
-of @_sky_or_light_@
-
-w:18
-of @_virtue_or_vice_@
-
-of @_number_or_qualifier_@ @_thing_names_@
-
-w:5
-of @_destiny_name_@
-
-w:9
-of @god_name_possessive@ @divine_esteem@
-
-w:4
-of the @_verbing_@ Gods
-
-w:4
-of the @_adjective_@ God
+clouded
 
 w:2
-of @god_name@, @_verbing_@
-
-# hardcoded keywords
-w:1
-of @god_name@
+serpentine
 %%%%
 ######################################################
-# 2. ARMOUR
+# Jewellery appearance
 ######################################################
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
+
+scintillating
+
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
+
+w:2
+serpentine
 %%%%
 talisman
 
@@ -287,228 +299,264 @@ w:15
 of @branch_name@
 %%%%
 ######################################################
-# 3. JEWELLERY
+# Jewellery appearance
 ######################################################
-jewellery
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# jewellery specials (see rand_all.txt)
-w:3
-of the @_jewellery_animal_@
+scintillating
 
-of @_jewellery_special_name_@
+sparkling
 
-of @_suspicion_name_@
+flickering
 
-# as defined for weapons (see rand_wpn.txt)
-of the @_people_name_@
+glittering
 
-w:5
-of the @_verbing_@ @_people_name_@
+smoking
 
-w:17
-of @_balance_or_order_@
+scorched
 
-w:14
-of @_philosophy_name_@
+shimmering
 
-of @other_weapon_name@
+wavering
 
-# as defined for armour (see rand_arm.txt)
-w:20
-of the @_armour_animal_@
+warped
 
-w:3
-of @_flower_name_@
+transparent
 
-w:3
-of the @_adjective_@ @_fruit_name_@
+translucent
 
-w:5
-of @_evil_being_@
+pitted
 
-w:20
-of @_good_or_divine_@
+slimy
 
-w:12
-of @_politics_name_armour_@
+fine
 
-w:2
-"@_plain_armour_name_@"
+radiant
 
-# same for all three types (see rand_all.txt)
-w:13
-of @_time_name_@
+ancient
 
-of @_sky_or_light_@
+brightly glowing
 
-w:20
-of @god_name_possessive@ @divine_esteem@
+faintly glowing
 
-w:4
-of the @_verbing_@ Gods
+steaming
 
-w:4
-of the @_adjective_@ God
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
 
 w:2
-of @god_name@, @_verbing_@
-
-of Xom's @_xom_esteem_@
-
-w:7
-of @_virtue_name_@
-
-w:13
-of @_vice_name_@
-
-of @_number_or_qualifier_@ @_thing_names_@
-
-of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+serpentine
 %%%%
 ######################################################
-# GOD GIFT specials
+# Jewellery appearance
 ######################################################
-# TROG (weapons only)
-######################################################
-Trog weapon
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# names containing battle and death are more likely
-w:20
-of @_power_or_anger_@
+scintillating
 
-w:5
-of @_adjective_@ @_power_or_anger_@
+sparkling
 
-w:20
-of @_battle_or_war_@
+flickering
 
-w:5
-of the @_verbing_@ @_battle_or_war_@
+glittering
 
-w:20
-of @death_or_doom@
+smoking
 
-w:5
-of @_adjective_@ @death_or_doom@
+scorched
 
-w:7
-of @_strategy_name_@
+shimmering
 
-w:15
-of @_justice_name_@
+wavering
 
-w:30
-of @_virtue_or_vice_@
+warped
 
-w:1
-of Trog
+transparent
 
-w:20
-of Trog's @divine_esteem@
+translucent
 
-of Trog's @_anger_quality_@
+pitted
 
-w:15
-of the @_weapon_animal_@
+slimy
 
-w:15
-of @_evil_stuff_@
+fine
 
-of @_catastrophe_name_@
+radiant
 
-w:15
-of @_chaos_name_@
+ancient
 
-w:20
-of @_balance_or_order_@
+brightly glowing
 
-w:20
-of @_economics_or_politics_@
+faintly glowing
 
-w:15
-of @branch_name@
+steaming
 
-w:15
-of @_place_name_@
+heavily runed
 
-w:15
-of @_time_name_@
+vibrating
 
-of @_sky_or_light_@
+twitching
 
-w:20
-of @_number_or_qualifier_@ @_thing_names_@
+coiled
 
-of @_discomfort_weapon_@
+bound
 
-of the @_item_name_@
+clouded
 
-w:15
-of @_philosophy_name_@
-
-of @_science_name_@
-
-of @other_weapon_name@
-
-of @_monster_name_@@killer_name@
-
-w:30
-"@_plain_weapon_name_@"
-
-"@_adjective_@ @_plain_weapon_name_@"
+w:2
+serpentine
 %%%%
 ######################################################
-# OKAWARU weapon
+# Jewellery appearance
 ######################################################
-Okawaru weapon
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# basically use normal set
-w:400
-@weapon@
+scintillating
 
-# with a few special cases
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
+
 w:2
-of @player_name_possessive@ @_valour_name_@
-
-w:3
-of Okawaru's @divine_esteem@
-
-w:1
-of Okawaru, @_verbing_@
-
-# and bonus probability for some of the more harmless themes
-of @_strategy_or_justice_@
-
-w:5
-of @_philosophy_name_@
-
-w:3
-of @_balance_or_order_@
-
-w:5
-of @_power_name_@
-
-w:2
-of @_virtue_name_@
-
-w:1
-of the @_diviner_name_@
-
-w:5
-of the @_weapon_animal_@
-
-w:5
-of @_place_name_@
-
-w:2
-of @_item_name_@
+serpentine
 %%%%
 ######################################################
-# OKAWARU armour
+# Jewellery appearance
 ######################################################
-Okawaru robe
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-@Okawaru armour@
+scintillating
+
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
+
+w:2
+serpentine
 %%%%
 Okawaru body armour
 
@@ -545,48 +593,134 @@ w:2
 of @_politics_name_armour_@
 %%%%
 ######################################################
-# XOM weapon
+# Jewellery appearance
 ######################################################
-# Xom will basically allow everything
-Xom weapon
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# increased chances (obviously!)
-w:5
-of @_chaos_name_@
+scintillating
 
-w:5
-of Xom's @_xom_esteem_@
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
 
 w:2
-of Xom's @divine_esteem@
-
-w:2
-"Xom, @_verbing_@ and @_verbing_@"
-
-w:2
-of the @_verbing_@ @_fruit_name_@
-
-# uses the long name
-w:1
-of @xom_name@
-
-w:1
-of @_game_name_@
-
-w:400
-@weapon@
-
-# and why not some of the other names?
-@jewellery@
-
-@armour@
+serpentine
 %%%%
 ######################################################
-# XOM armour
+# Jewellery appearance
 ######################################################
-Xom robe
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-@Xom armour@
+scintillating
+
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
+
+w:2
+serpentine
 %%%%
 Xom body armour
 
@@ -625,165 +759,134 @@ w:400
 @jewellery@
 %%%%
 ######################################################
-# XOM jewellery
+# Jewellery appearance
 ######################################################
-Xom jewellery
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-# increased chances (obviously!)
-w:5
-of @_chaos_name_@
+scintillating
 
-w:5
-of Xom's @_xom_esteem_@
+sparkling
+
+flickering
+
+glittering
+
+smoking
+
+scorched
+
+shimmering
+
+wavering
+
+warped
+
+transparent
+
+translucent
+
+pitted
+
+slimy
+
+fine
+
+radiant
+
+ancient
+
+brightly glowing
+
+faintly glowing
+
+steaming
+
+heavily runed
+
+vibrating
+
+twitching
+
+coiled
+
+bound
+
+clouded
 
 w:2
-of Xom's @divine_esteem@
-
-w:2
-of @_verbing_@ Xom
-
-# uses the long name
-w:1
-of @xom_name@
-
-w:1
-of @_game_name_@
-
-w:1
-of @player_death@
-
-w:1
-of @player_doom@
-
-w:300
-@jewellery@
-
-# why not some other names?
-# (sadly, some weapon names don't make sense even for Xom)
-@armour@
+serpentine
 %%%%
 ######################################################
-# ASHENZARI
-# All types of curses
+# Jewellery appearance
 ######################################################
-Ashenzari
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-w:100
-of the @_ashenzari_adjective_@ @_ashenzari_object_@
+scintillating
 
-w:100
-of @god_name_possessive@ @_ashenzari_object_@
+sparkling
 
-w:100
-"@_ashenzari_adjective_@ @_ashenzari_object_@"
+flickering
 
-w:50
-"@_ashenzari_object_@ of @god_name@"
+glittering
 
-w:100
-"@_ashenzari_object_@ of the @_ashenzari_epithet_@"
+smoking
 
-w:20
-"@_celestial_bodies_@ of the @_ashenzari_epithet_@"
+scorched
 
-w:20
-of the @_ashenzari_epithet_@
+shimmering
 
-w:20
-of the @_ashenzari_bound_adjective_@ @_celestial_bodies_@
+wavering
 
-w:20
-of the @_ashenzari_knowledge_adjective_@ @_celestial_bodies_@
+warped
 
-w:20
-of @god_name_possessive@ @_celestial_bodies_@
+transparent
 
-w:20
-"Share My @_ashenzari_object_@"
+translucent
 
-w:20
-"@_ashenzari_bound_adjective_@ With Me"
+pitted
 
-w:20
-"@_ashenzari_bound_adjective_@ Together"
+slimy
 
-of the @_ashenzari_bound_adjective_@ @_ashenzari_heavens_@
+fine
 
-of the @_ashenzari_knowledge_adjective_@ @_ashenzari_heavens_@
+radiant
 
-of the Fated @_ashenzari_object_@
+ancient
 
-w:5
-of Apeoromancy
+brightly glowing
 
-w:5
-"At What Cost Knowledge?"
+faintly glowing
 
-w:5
-"Behold Eternity"
+steaming
 
-w:5
-of Cremastomancy
+heavily runed
 
-w:5
-of Curses and Power
+vibrating
 
-w:5
-of Desmomancy
+twitching
 
-w:5
-of the Eye in the Sky
+coiled
 
-w:5
-"Gaze Upon Infinity"
+bound
 
-w:5
-"I Knew You'd Do That"
+clouded
 
-w:5
-"I Foresaw This"
-
-w:5
-of Ouranomancy
-
-w:5
-"Overhang to Understand"
-
-w:5
-"Per Aspera Ad Scientiam"
-
-w:5
-of Panopticon
-
-w:5
-of Star-Bound Wisdom
-
-w:5
-of Supernal Gnosis
-
-w:5
-of Supernal Knowledge
-
-w:5
-of Supernal Understanding
-
-w:5
-of Supernal Wisdom
-
-w:5
-"Thunder Perfect Mind"
-
-w:5
-of Toth-Mos' Legacy
-
-w:5
-of the Unyielding Gaze
-
-w:5
-of the Wild Blue Yonder
-
-w:1
-"Oscillating Fan"
+w:2
+serpentine
 %%%%
 _ashenzari_object_
 
@@ -983,20 +1086,32 @@ Sphere
 Welkin
 %%%%
 ######################################################
-# Library of randart APPEARANCE (un-identified).
+# Jewellery appearance
 ######################################################
-# common to all three types of randarts
-general appearance
+#
+# While for the appearance of randart weapons and armour you can just stick an
+# adjective in front of the object type name ("bloodstained dagger"),
+# unidentified non-artefact jewellery is described with both an adjective and
+# material ("runed wooden ring"), making a description like "runed ring" a bit
+# weird. So give randart jewellery an adjective that no non-artefact jewellery
+# would have, plus a material that a non-artefact might or might not have.
+_jewellery appearance_
 
-brightly glowing
+scintillating
+
+sparkling
+
+flickering
+
+glittering
 
 smoking
 
 scorched
 
-twisted
-
 shimmering
+
+wavering
 
 warped
 
@@ -1004,42 +1119,36 @@ transparent
 
 translucent
 
-encrusted
-
 pitted
 
 slimy
 
-polished
-
 fine
 
-incandescent
+radiant
 
 ancient
+
+brightly glowing
 
 faintly glowing
 
 steaming
 
-dazzling
+heavily runed
 
-masterwork
+vibrating
 
-w:2
-smouldering
+twitching
 
-w:5
-glimmering
+coiled
 
-w:2
-buzzing
+bound
 
-w:5
-fading
+clouded
 
 w:2
-blackened
+serpentine
 %%%%
 weapon appearance
 

@@ -1,169 +1,169 @@
 %%%%
 Zin lastname
 
-Zin the Law-Giver
+定法者辛
 %%%%
 Yredelemnul lastname
 
-Yredelemnul the Fallen
+黑暗神伊莱德莱姆努尔
 %%%%
 Okawaru lastname
 
-Warmaster Okawaru
+战争之主奥卡瓦鲁
 %%%%
 Makhleb lastname
 
-Makhleb the Destroyer
+毁灭者马科列布
 %%%%
 Sif Muna lastname
 
-Sif Muna the Loreminder
+学识之主席夫·穆纳
 %%%%
 Trog lastname
 
-Trog the Wrathful
+狂怒者特洛戈
 %%%%
 Elyvilon lastname
 
-Elyvilon the Healer
+治愈者艾利维隆
 %%%%
 Lugonu lastname
 
-Lugonu the Unformed
+无形之神卢格努
 %%%%
 Beogh lastname
 
-Beogh the Shepherd
+强盗比欧弗
 %%%%
 Fedhas lastname
 
-Fedhas Madash
+费德哈·莽动
 %%%%
 Cheibriados lastname
 
-Cheibriados the Contemplative
+深思者切布理亚多
 %%%%
 Ashenzari lastname
 
-Ashenzari the Shackled
+束缚者艾申扎利
 %%%%
 Dithmenos lastname
 
-Dithmenos the Shrouded
+隐没者迪斯姆诺
 %%%%
 Nemelex Xobeh lastname
 
-Nemelex Xobeh the Trickster
+杂耍者尼姆雷斯・索布
 %%%%
 Gozag lastname
 
-Gozag Ym Sagoz the Greedy
+贪婪者哥萨戈·亿·赛格斯
 %%%%
 Qazlal lastname
 
-Qazlal Stormbringer
+兴风者卡兹拉尔
 %%%%
 Ru lastname
 
-Ru the Awakened
+觉醒者入
 %%%%
 Pakellas lastname
 
-Pakellas the Inventive
+发明者帕克拉斯
 %%%%
 Uskayaw lastname
 
-Uskayaw the Reveller
+狂欢者乌斯卡亚
 %%%%
 Hepliaklqana lastname
 
-Hepliaklqana the Forgotten
+遗忘者惠普利亚卡纳
 %%%%
 Ignis lastname
 
-Ignis, the Dying Flame
+伊格尼斯，曳焰
 %%%%
 Wu Jian lastname
 
-the Wu Jian Council
+无间门派
 %%%%
 Xom lastname
 
 w:280
-Xom of Chaos
+混沌之主佐姆
 
 w:20
-Xom the Chaotic
+混沌神佐姆
 
 w:5
-Xom the Random
+随机之主佐姆
 
 w:5
-Xom the Random Number God
+随机数之神佐姆
 
 w:5
-Xom the Elder Chaos God
+年长的混沌神佐姆
 
-Xom the Tricky
-
-w:5
-Xom the Less-Predictable
+谲诈之主佐姆
 
 w:5
-Xom the Unpredictable
-
-Xom of Many Doors
-
-Xom the Capricious
+不定之主佐姆
 
 w:5
-Xom of Bloodstained Whimsey
+无常之主佐姆
+
+重门之主佐姆
+
+任性之主佐姆
 
 w:5
-Xom of Enforced Whimsey
-
-Xom of Bone-Dry Humour
+血腥的奇想之主佐姆
 
 w:5
-Xom of Malevolent Giggling
+强施的奇想之主佐姆
+
+冷幽默之主佐姆
 
 w:5
-Xom of Malicious Giggling
+恶意的咯咯笑之主佐姆
+
+w:5
+恶毒的咯咯笑之主佐姆
 
 w:2
-Xom of Gnomic Intent
+深意之主佐姆
 
 w:2
-Xom of Ineffable Intent
+妙意之主佐姆
 
 w:2
-Xom of Fickle Intent
+随意之主佐姆
 
 w:2
-Xom of Swiftly Tilting Intent
+肆意之主佐姆
 
 w:2
-Xom of Unknown Intent
+隐意之主佐姆
 
-Xom the Fickle
+易变之主佐姆
 
-Xom of Unknown Intention
+意图不详之主佐姆
 
 w:4
-The Xom-Meister
+佐姆大师
 
 w:2
-The Xom-Meister, Xom-a-lom-a-ding-dong
+佐姆大师，佐姆罗姆叮咚
 
 w:2
-The Xom-Meister, Xom-o-Rama
+佐姆大师，乐子神佐姆
 
 w:2
-The Xom-Meister, Xom-Xom-bo-Bom, Banana-Fana-fo-Fom
+佐姆大师，佐姆佐姆与鲍姆，布拉娜范娜与佛姆
 
 w:5
-Xom the Begetter of Turbulence
+混乱之源佐姆
 
 w:5
-Xom the Begetter of Discontinuities
+间断之源佐姆
 %%%%
