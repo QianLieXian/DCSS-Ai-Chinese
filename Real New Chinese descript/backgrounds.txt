@@ -1,129 +1,129 @@
 %%%%
-Air Elementalist
+空气元素师
 
-Air Elementalists have learned the Shock spell. Their electrical magic can harm
-groups of foes, while their air spells assist in fighting or fleeing enemies.
+空气元素师学会了震击法术。他们的电魔法会伤害
+成群结队的敌人，而他们的空中法术则有助于战斗或逃离敌人。
 %%%%
-Artificer
+技师
 
-Artificers start with a few magic wands and a club. They'll need to find better
-weapons and armour before their wands run out.
+技师从几根魔杖和一根棍棒开始。他们需要找到更好的
+在他们的魔杖用完之前获得武器和盔甲。
 %%%%
-Berserker
+狂战士
 
-Berserkers believe in Trog, the magic-hating god of frenzy. Not much can stop a
-raging berserker early on, apart from hubris.
+狂战士信仰穴居人，他是厌恶魔法的狂怒之神。没有什么可以阻止
+早期的狂暴狂暴，除了傲慢之外。
 %%%%
-Brigand
+强盗
 
-Brigands carry poisoned darts and a small number of nasty curare darts.
+强盗携带毒镖和少量令人讨厌的箭毒镖。
 %%%%
-Chaos Knight
+混沌骑士
 
-Chaos Knights are playthings of the unpredictable Xom, and are subject to the
-god's constantly changing moods.
+混沌骑士是不可预测的Xom的玩物，并且受到
+上帝的情绪不断变化。
 %%%%
-Cinder Acolyte
+煤渣侍僧
 
-Cinder Acolytes worship Ignis, drawing upon the flame of a dying god until
-there is nothing left. They have both melee and fire magic capabilities.
+灰烬追随者崇拜伊格尼斯，汲取垂死之神的火焰，直到
+什么都没有了。他们同时具有近战和火魔法能力。
 %%%%
-Conjurer
+魔术师
 
-Conjurers begin with the Magic Dart spell, and can learn other non-elemental
-spells to reliably blast their foes.
+咒法师从魔法飞镖法术开始，可以学习其他非元素法术
+可靠地炸毁敌人的咒语。
 %%%%
-Delver
+探索者
 
-Delvers start their quest five levels below the surface. A set of powerful magic
-items helps them survive the dangerous journey upward.
+探索者从地表以下五层开始探索。一套强大的魔法
+物品帮助他们在危险的向上旅程中生存下来。
 %%%%
-Earth Elementalist
+土元素师
 
-Earth Elementalists know the Sandblast spell, and can later learn more earthen
-spells suitable for subtle stabbing or brute-force blasting.
+土元素师知道喷砂术，以后可以学习更多土元素术
+适合微妙刺伤或强力爆破的法术。
 %%%%
-Enchanter
+魔法师
 
-Enchanters know a variety of Hexes that can incapacitate their foes, and are
-equipped with an enchanted dagger and potions of invisibility.
+附魔师知道各种可以使敌人丧失能力的妖术，并且
+配备了一把附魔匕首和隐形药水。
 %%%%
-Fighter
+战斗机
 
-Fighters are equipped with armour and shield, as well as a weapon of their
-choice and potions of might.
+战士装备有盔甲和盾牌，以及他们的武器
+选择和力量药剂。
 %%%%
-Fire Elementalist
+火元素师
 
-Fire Elementalists have learned the Foxfire spell. Their other starting spells
-are likewise focused on fiery and explosive destruction.
+火元素师学会了狐火法术。他们的其他起始咒语
+同样侧重于燃烧和爆炸性破坏。
 %%%%
-Gladiator
+角斗士
 
-Gladiators are ready for the arena with light armour, a weapon of their choice,
-and a few throwing weapons and nets.
+角斗士们已经准备好带着轻甲、他们选择的武器进入竞技场，
+还有一些投掷武器和网。
 %%%%
-Hedge Wizard
+对冲向导
 
-Hedge Wizards are magic generalists, good at using a wide variety of tools to
-frustrate their foes and gain an edge in the battlefield.
+对冲巫师是魔法多面手，擅长使用各种工具来
+挫败敌人并在战场上获得优势。
 %%%%
-Hunter
+猎人
 
-Hunters carry a shortbow, light armour and a scroll of butterflies.
-# TODO: fix this for coglins
+猎人携带短弓、轻甲和蝴蝶卷轴。
+# TODO: 修复 coglins 的这个问题
 %%%%
-Hexslinger
+海克斯林格
 
-Hexslingers carry a sling, and use hex magic to make their foes more vulnerable
-to attacks from afar.
+妖术投石手携带投石带，使用妖术魔法让敌人变得更加脆弱
+来应对来自远方的攻击。
 %%%%
-Ice Elementalist
+冰元素师
 
-Ice Elementalists begin with the Freeze spell. Their later spells provide strong
-offence and defence, but may restrict their movement.
+冰元素师从冻结法术开始。他们后来的法术提供了强大的
+进攻和防守，但可能限制他们的行动。
 %%%%
-Monk
+僧
 
-Monks start with a simple weapon of their choice, an orb of light, and a potion
-of divine ambrosia, and gain additional piety with the first god they worship.
+僧侣们从他们选择的简单武器、光球和药水开始
+神圣的甘布罗西亚，并对他们崇拜的第一个神获得额外的虔诚。
 %%%%
-Necromancer
+死灵法师
 
-Necromancers start out with the Soul Splinter spell. Eventually, they can turn
-the dead into allies and use the life force of the living to restore themselves.
+死灵法师首先使用灵魂分裂法术。最终，他们可以转身
+死者成为盟友，并利用生者的生命力来恢复自己。
 %%%%
-Reaver
+掠夺者
 
-Reavers start with a weapon of their choice and deadly magic to supplement it
-when in need. They start with the Kiss of Death spell.
+掠夺者一开始会使用他们选择的武器和致命的魔法来补充它
+当需要的时候。他们从死亡之吻咒语开始。
 %%%%
-Summoner
+召唤师
 
-Summoners are able to cast Summon Small Mammal from the start, and begin with
-spells to summon stronger and more exotic allies in their library.
+召唤者可以从一开始就召唤小型哺乳动物，并从
+法术可以在他们的图书馆中召唤更强大、更奇异的盟友。
 %%%%
-Forgewright
+锻造者
 
-Forgewrights are mages who specialise in the creation of turrets and mechanical
-companions to fight alongside.
+锻造者是专门从事炮塔和机械制造的法师
+并肩作战的同伴。
 %%%%
-Shapeshifter
+变形者
 
-Shapeshifters use talismans to shift their form, making them powerful melee
-fighters (especially when unarmed) at the cost of armour.
+变形者使用护身符来改变他们的形态，使他们成为强大的近战能力
+战士（尤其是手无寸铁的时候）以牺牲装甲为代价。
 %%%%
-Alchemist
+炼金术士
 
-Alchemists start with the Poisonous Vapours spell, and their magic is very
-effective against foes susceptible to poison.
+炼金术士从毒气法术开始，他们的魔法非常强大
+对易中毒的敌人有效。
 %%%%
-Wanderer
+流浪者
 
-Wanderers start with random equipment and skills.
+流浪者从随机的装备和技能开始。
 %%%%
-Warper
+整经机
 
-Warpers start with a weapon of their choice, a scroll of blinking, darts of
-disjunction, and some Translocation spells in their library.
+扭曲者从他们选择的武器开始，一个闪烁的卷轴，飞镖
+析取，以及他们图书馆中的一些易位咒语。
 %%%%

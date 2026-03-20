@@ -1,406 +1,406 @@
 %%%%
-CMD_REST
+命令_休息
 
-Rest and heal
+休息并治愈
 %%%%
-CMD_REST verbose
+CMD_REST 详细信息
 
-Rests while your health and magic regenerate. Resting is interrupted as soon
-as a hostile monster comes into view. If health and magic are both already
-full, resting will wait for 100 turns.
+在你的健康和魔法恢复期间休息。休息立刻被打断
+当一个敌对的怪物出现在视野中时。如果健康和魔法都已经
+满了，休息会等100转。
 %%%%
-CMD_EXPLORE
+CMD_探索
 
-Autoexplore the current level
+自动探索当前级别
 %%%%
-CMD_EXPLORE verbose
+CMD_EXPLORE 详细
 
-Automatically explores the current level, collecting items on the way.
-Exploration stops as soon as a hostile monster comes into view, or when you
-encounter new items or features.
-%%%%
-CMD_EXPLORE_NO_REST
-
-Autoexplore the current level without resting first
+自动探索当前关卡，收集途中的物品。
+一旦敌对怪物进入视野，或者当你
+遇到新的项目或功能。
 %%%%
 CMD_EXPLORE_NO_REST
 
-Automatically explores the current level, collecting items on the way.
-Exploration stops as soon as a hostile monster comes into view, or when you
-encounter new items or features. Unlike CMD_EXPLORE, will treat
-explore_auto_rest as if it were false and explore_auto_rest_status as if it were
-empty.
+自动探索当前级别，无需先休息
+%%%%
+CMD_EXPLORE_NO_REST
+
+自动探索当前关卡，收集途中的物品。
+一旦敌对怪物进入视野，或者当你
+遇到新的项目或功能。与 CMD_EXPLORE 不同，将处理
+explore_auto_rest 就希望它是 false 一样，explore_auto_rest_status 就希望它是 false 一样
+空的。
 %%%%
 CMD_INTERLEVEL_TRAVEL
 
-Travel to distant levels
+前往遥远的层面
 %%%%
-CMD_INTERLEVEL_TRAVEL verbose
+CMD_INTERLEVEL_TRAVEL 详细
 
-Automatically travels to a chosen level or branch. Travel is interrupted by
-monsters coming into view.
+自动前往选定的级别或分支。旅行被中断
+怪物映入眼帘。
 %%%%
 CMD_USE_ABILITY
 
-Use divine, innate or evokable abilities
+使用神圣的、天生的或可唤起的能力
 %%%%
 CMD_SEARCH_STASHES
 
-Search for items/features
+搜索项目/功能
 %%%%
-CMD_SEARCH_STASHES verbose
+CMD_SEARCH_STASHES 详细
 
-Searches for items or features seen elsewhere, and allows you to travel to
-their location.
+搜索在其他地方看到的物品或功能，并允许您前往
+他们的位置。
 %%%%
 CMD_REPLAY_MESSAGES
 
-Reread recent messages
+重读最近的消息
 %%%%
 CMD_RESISTS_SCREEN
 
-Display character overview
+显示字符概览
 %%%%
-CMD_RESISTS_SCREEN verbose
+CMD_RESISTS_SCREEN 详细
 
-Displays an overview of your current resistances, abilities, equipment and
-attributes.
+显示您当前的抵抗力、能力、装备和
+属性。
 %%%%
 CMD_DISPLAY_OVERMAP
 
-Display dungeon overview
+显示地下城概览
 %%%%
-CMD_DISPLAY_OVERMAP verbose
+CMD_DISPLAY_OVERMAP 详细
 
-Displays an overview of dungeon branch locations, discovered altars, shops and
-level annotations.
+显示地牢分支位置、已发现的祭坛、商店和
+级别注释。
 %%%%
 CMD_DISPLAY_RELIGION
 
-Display religious status
+显示宗教地位
 %%%%
-CMD_DISPLAY_RELIGION verbose
+CMD_DISPLAY_RELIGION 详细
 
-Displays your god's likes and dislikes, conduct, and your current religious
-standing and divine abilities.
+显示您神的好恶、行为以及您当前的宗教信仰
+地位和神圣能力。
 %%%%
 CMD_DISPLAY_MUTATIONS
 
-Display mutations
+显示突变
 %%%%
 CMD_DISPLAY_SKILLS
 
-Manage skills
+管理技能
 %%%%
 CMD_DISPLAY_CHARACTER_STATUS
 
-Display character status
+显示角色状态
 %%%%
-CMD_DISPLAY_CHARACTER_STATUS verbose
+CMD_DISPLAY_CHARACTER_STATUS 详细
 
-Displays details on your current movement speed, attack speed, stealth, magic
-resistance, and any currently active enchantments or status effects.
+显示你当前的移动速度、攻击速度、潜行、魔法的详细信息
+抗性，以及任何当前活跃的结界或状态效果。
 %%%%
 CMD_DISPLAY_KNOWN_OBJECTS
 
-List discovered item types
+列出已发现的项目类型
 %%%%
 CMD_SAVE_GAME_NOW
 
-Save and exit
+保存并退出
 %%%%
-CMD_SAVE_GAME_NOW verbose
+CMD_SAVE_GAME_NOW 详细信息
 
-Saves the game for later and exits. Once you resume the game, the save file is
-deleted again.
+保存游戏以供稍后使用并退出。恢复游戏后，保存文件为
+又删了。
 %%%%
 CMD_EDIT_PLAYER_TILE
 
-Modify the player tile
+修改玩家图块
 %%%%
-CMD_EDIT_PLAYER_TILE verbose
+CMD_EDIT_PLAYER_TILE 详细
 
-Allows you to modify the equipment and species tile displayed in the player
-doll.
+允许您修改播放器中显示的装备和物种图块
+玩具娃娃。
 %%%%
 CMD_DISPLAY_COMMANDS
 
-Game help
+游戏帮助
 %%%%
-CMD_DISPLAY_COMMANDS verbose
+CMD_DISPLAY_COMMANDS 详细
 
-Displays a list of commands.
+显示命令列表。
 %%%%
 CMD_SHOW_CHARACTER_DUMP
 
-Dump and show character's progress
+转储并显示角色的进度
 %%%%
-CMD_SHOW_CHARACTER_DUMP verbose
+CMD_SHOW_CHARACTER_DUMP 详细
 
-Dumps detailed information about your character into a file ‘playername.txt’ in
-the morgue directory, and shows the file in-game. This includes main stats,
-equipment, spells, skills, notes, etc.
+将有关您角色的详细信息转储到文件“playername.txt”中
+太平间目录，并在游戏中显示该文件。这包括主要统计数据，
+装备、法术、技能、注释等。
 %%%%
 CMD_CHARACTER_DUMP
 
-Dump character's progress
+转储角色的进度
 %%%%
-CMD_CHARACTER_DUMP verbose
+CMD_CHARACTER_DUMP 详细
 
-Dumps detailed information about your character into a file ‘playername.txt’ in
-the morgue directory, to peruse at your leisure. This includes main stats,
-equipment, spells, skills, notes, etc.
+将有关您角色的详细信息转储到文件“playername.txt”中
+太平间目录，供您闲暇时细读。这包括主要统计数据，
+装备、法术、技能、注释等。
 %%%%
-CMD_AUTOFIGHT
+CMD_自动战斗
 
-Hit the closest monster
+击中最近的怪物
 %%%%
-CMD_AUTOFIGHT verbose
+CMD_AUTOFIGHT 详细
 
-Moves towards the closest hostile monster, or attacks an adjacent monster with
-your current weapon.
+向最近的敌对怪物移动，或者用
+你当前的武器。
 %%%%
 CMD_AUTOFIGHT_NOMOVE
 
-Hit an adjacent monster
+击中相邻的怪物
 %%%%
-CMD_AUTOFIGHT_NOMOVE verbose
+CMD_AUTOFIGHT_NOMOVE 详细
 
-Attacks an adjacent monster with your current weapon.
+用你当前的武器攻击相邻的怪物。
 %%%%
-CMD_WAIT
+命令等待
 
-Wait a single turn
+等待一个回合
 %%%%
-CMD_WAIT verbose
+CMD_WAIT 详细信息
 
-Spends a single turn waiting and resting.
+花一个回合等待和休息。
 %%%%
-CMD_SAFE_WAIT
+CMD_SAFE_等待
 
-Wait a single turn if safe
+如果安全的话等待一个转弯
 %%%%
-CMD_SAFE_WAIT verbose
+CMD_SAFE_WAIT 详细
 
-Spends a single turn waiting and resting, but only if there are no hostile
-monsters in view.
+花一个回合等待和休息，但前提是没有敌意
+视野中的怪物。
 %%%%
 CMD_DISPLAY_INVENTORY
 
-Display the contents of your inventory
+显示您的库存内容
 %%%%
-CMD_DISPLAY_INVENTORY verbose
+CMD_DISPLAY_INVENTORY 详细
 
-Displays the contents of your inventory.
+显示您的库存内容。
 %%%%
 CMD_CAST_SPELL
 
-Cast a spell
+施展咒语
 %%%%
-CMD_CAST_SPELL verbose
+CMD_CAST_SPELL 详细信息
 
-Casts a spell.
+施展咒语。
 %%%%
 CMD_MEMORISE_SPELL
 
-Memorise spell
+记住咒语
 %%%%
-CMD_MEMORISE_SPELL verbose
+CMD_MEMORISE_SPELL 详细信息
 
-Memorises a chosen spell from your spell library.
+记住从你的法术库中选择的法术。
 %%%%
 CMD_LOOKUP_HELP
 
-Lookup help
+查找帮助
 %%%%
-CMD_LOOKUP_HELP verbose
+CMD_LOOKUP_HELP 详细
 
-Looks up descriptions of monsters, spells, abilities, items and more.
+查找怪物、法术、能力、物品等的描述。
 %%%%
 CMD_DROP
 
-Drop items
+掉落物品
 %%%%
-CMD_DROP verbose
+CMD_DROP 详细
 
-Drops one or more items that you are currently holding.
+掉落您当前持有的一件或多件物品。
 %%%%
 CMD_DISPLAY_MAP
 
-Enter map mode
+进入地图模式
 %%%%
 CMD_MAP_EXIT_MAP
 
-Exit map mode
+退出地图模式
 %%%%
-CMD_DISPLAY_MAP verbose
+CMD_DISPLAY_MAP 详细
 
-Displays a map of the current level.
+显示当前级别的地图。
 %%%%
 CMD_MAP_GOTO_TARGET
 
-Travel to cursor
+移动到光标处
 %%%%
-CMD_MAP_GOTO_TARGET verbose
+CMD_MAP_GOTO_TARGET 详细
 
-Starts travelling to the cursor's current location.
+开始移动到光标的当前位置。
 %%%%
 CMD_MAP_EXPLORE
 
-Find next autoexplore target
+查找下一个自动探索目标
 %%%%
-CMD_MAP_EXPLORE verbose
+CMD_MAP_EXPLORE 详细
 
-Moves the cursor to the next location that autoexplore will travel to.
+将光标移动到自动探索将到达的下一个位置。
 %%%%
 CMD_MAP_ADD_WAYPOINT
 
-Add waypoint
+添加航点
 %%%%
-CMD_MAP_ADD_WAYPOINT verbose
+CMD_MAP_ADD_WAYPOINT 详细
 
-Sets a waypoint at your current position.
+在您当前的位置设置一个航路点。
 %%%%
 CMD_MAP_EXCLUDE_AREA
 
-Create exclusion
+创建排除
 %%%%
-CMD_MAP_EXCLUDE_AREA verbose
+CMD_MAP_EXCLUDE_AREA 详细
 
-Creates a travel exclusion, changes its radius, or removes it.
+创建行程排除、更改其半径或将其删除。
 %%%%
 CMD_MAP_CLEAR_EXCLUDES
 
-Clear travel exclusions
+明确旅行例外情况
 %%%%
-CMD_MAP_CLEAR_EXCLUDES verbose
+CMD_MAP_CLEAR_EXCLUDES 详细
 
-Erases all travel exclusions on the level.
+删除该关卡上的所有旅行排除项。
 %%%%
 CMD_MAP_NEXT_LEVEL
 
-Down one level
+下降一级
 %%%%
-CMD_MAP_NEXT_LEVEL verbose
+CMD_MAP_NEXT_LEVEL 详细
 
-Displays the next deeper level.
+显示下一个更深的级别。
 %%%%
 CMD_MAP_PREV_LEVEL
 
-Up one level
+上升一级
 %%%%
-CMD_MAP_PREV_LEVEL verbose
+CMD_MAP_PREV_LEVEL 详细
 
-Displays the next higher level.
+显示下一个更高级别。
 %%%%
 CMD_MAP_GOTO_LEVEL
 
-Go to level
+转到级别
 %%%%
-CMD_MAP_GOTO_LEVEL verbose
+CMD_MAP_GOTO_LEVEL 详细
 
-Displays another chosen level by branch and depth.
+按分支和深度显示另一个选定的级别。
 %%%%
-CMD_MAP_FIND_UPSTAIR
+CMD_MAP_FIND_UPTAIR
 
-Find stairs up
+找到向上的楼梯
 %%%%
-CMD_MAP_FIND_UPSTAIR verbose
+CMD_MAP_FIND_UPSTAIR 详细
 
-Cycles through stairs up.
+骑车穿过楼梯上去。
 %%%%
-CMD_MAP_FIND_DOWNSTAIR
+CMD_MAP_FIND_楼下
 
-Find stairs down
+找到向下的楼梯
 %%%%
-CMD_MAP_FIND_DOWNSTAIR verbose
+CMD_MAP_FIND_DOWNSTAIR 详细
 
-Cycles through stairs down.
+骑自行车穿过楼梯向下。
 %%%%
 CMD_MAP_FIND_YOU
 
-Find me
+找到我
 %%%%
-CMD_MAP_FIND_YOU verbose
+CMD_MAP_FIND_YOU 详细
 
-Moves the map cursor back to your current position.
+将地图光标移回到当前位置。
 %%%%
 CMD_MAP_FIND_PORTAL
 
-Find shops and portals
+查找商店和门户网站
 %%%%
-CMD_MAP_FIND_PORTAL verbose
+CMD_MAP_FIND_PORTAL 详细
 
-Cycles through shops and portals on the current level.
+在当前级别的商店和门户中循环。
 %%%%
 CMD_MAP_FIND_TRAP
 
-Find traps
+寻找陷阱
 %%%%
-CMD_MAP_FIND_TRAP verbose
+CMD_MAP_FIND_TRAP 详细
 
-Cycles through traps on the current level.
+循环遍历当前关卡的陷阱。
 %%%%
 CMD_MAP_FIND_ALTAR
 
-Find altars
+寻找祭坛
 %%%%
-CMD_MAP_FIND_ALTAR verbose
+CMD_MAP_FIND_ALTAR 详细
 
-Cycles through altars on the current level.
+在当前级别的祭坛之间循环。
 %%%%
 CMD_MAP_FIND_EXCLUDED
 
-Find travel exclusion
+查找旅行排除
 %%%%
-CMD_MAP_FIND_EXCLUDED verbose
+CMD_MAP_FIND_EXCLUDED 详细
 
-Cycles through travel exclusions on the current level.
+循环浏览当前级别的旅行排除项目。
 %%%%
 CMD_MAP_FIND_WAYPOINT
 
-Find waypoint
+寻找航路点
 %%%%
-CMD_MAP_FIND_WAYPOINT verbose
+CMD_MAP_FIND_WAYPOINT 详细
 
-Cycles through all waypoints on the current level.
+循环浏览当前关卡上的所有航路点。
 %%%%
 CMD_MAP_FIND_STASH
 
-Find stash
+寻找藏品
 %%%%
-CMD_MAP_FIND_STASH verbose
+CMD_MAP_FIND_STASH 详细
 
-Cycles through all stashes on the current level.
+循环浏览当前级别的所有存储。
 %%%%
 CMD_ZOOM_IN
 
-Zoom in
+放大
 %%%%
-CMD_ZOOM_IN verbose
+CMD_ZOOM_IN 详细
 
-Zooms in on dungeon area.
+放大地牢区域。
 %%%%
 CMD_ZOOM_OUT
 
-Zoom out
+缩小
 %%%%
-CMD_ZOOM_OUT verbose
+CMD_ZOOM_OUT 详细
 
-Zooms out on dungeon area.
+缩小地牢区域。
 %%%%
 CMD_TOGGLE_KEYBOARD
 
-Toggle keyboard
+切换键盘
 %%%%
-CMD_TOGGLE_KEYBOARD verbose
+CMD_TOGGLE_KEYBOARD 详细
 
-Toggles the on-screen keyboard visibility.
+切换屏幕键盘的可见性。
 %%%%
 CMD_GAME_MENU
 
-Show game menu
+显示游戏菜单
 %%%%
-CMD_GAME_MENU verbose
+CMD_GAME_MENU 详细
 
-Show the game menu
+显示游戏菜单

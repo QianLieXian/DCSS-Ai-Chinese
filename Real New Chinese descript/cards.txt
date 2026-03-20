@@ -1,174 +1,174 @@
 %%%%
-# Escape
-Velocity card
+＃ 逃脱
+速度卡
 
-The card depicts an empty, well-worn pair of boots. Sand, ashes, and turf
-coat the boots' soles.
+这张卡片描绘了一双空的、破旧的靴子。沙子、灰烬和草皮
+涂上靴子的鞋底。
 
-Drawing this card can grant great speed to allies or terrible slowness to foes.
+抽这张卡可以给盟友带来极快的速度，或者给敌人带来可怕的缓慢。
 %%%%
-the Tomb card
+墓卡
 
-The card depicts a royal crypt, its entrance sealed by a heavy stone slab.
+这张卡片描绘了一个皇家墓穴，其入口被一块厚重的石板封闭。
 
-Drawing this card entombs its user in protective, temporary walls of solid rock.
-At lower power levels or with adjacent creatures, the tomb may be imperfect.
+抽出这张卡牌会将其使用者埋葬在坚固的岩石临时保护墙中。
+在较低的力量水平或与邻近的生物一起时，坟墓可能是不完美的。
 
-The tomb is sustained by the presence of its creator within it, and moving from
-the centre of the tomb will cause its walls to crumble away.
+坟墓是由其创造者在其中的存在来维持的，并且从
+坟墓的中心将导致其墙壁崩塌。
 %%%%
-Exile card
+流放卡
 
-The card depicts ceaseless hands from a yawning portal overcoming a panicked
-figure.
+这张卡片描绘了从一个打哈欠的门户中不断伸出的双手克服了惊慌失措的情况。
+数字。
 
-Drawing this card can banish nearby creatures to the abyss, with more being banished
-at higher power levels. It will never banish the user.
+抽这张卡可以将附近的生物放逐到深渊，更多的生物会被放逐
+在更高的功率水平。它永远不会驱逐用户。
 %%%%
-the Shaft card
+轴卡
 
-The card depicts a traveller plummeting into a chasm that has opened beneath
-them.
+这张卡片描绘了一名旅行者坠入下方裂开的深渊
+他们。
 
-Drawing this card will create a shaft beneath the user, and possibly beneath
-their enemies.
+绘制这张卡将在用户下方创建一个轴，也可能在下方创建一个轴
+他们的敌人。
 %%%%
-the Elixir card
+万能药卡
 
-The card depicts a smug smile formed out of nine chalices.
+这张卡片描绘了由九个圣杯组成的自鸣得意的微笑。
 
-Drawing this card rapidly restores the user's health and magic.
+抽这张卡可以快速恢复使用者的生命值和魔力。
 %%%%
-the Cloud card
+云卡
 
-The card depicts an iron gate enshrouded in mist.
+卡片描绘了一扇笼罩在雾气中的铁门。
 
-Drawing this card enshrouds the user's foes in rings of detrimental clouds. The
-effects of such clouds will vary with card power.
+抽出这张卡会将使用者的敌人笼罩在有害云环中。这
+这些云的效果会随着卡牌强度的不同而变化。
 %%%%
-# Destruction
-Vitriol card
+# 销毁
+硫酸卡
 
-The card depicts an oklob plant, dripping with its distinctive corrosive sap.
+该方案描绘了一种 oklob 植物，滴着独特的精细汁液。
 
-Drawing this card will unleash a corrosive attack spell.
+抽这张卡会释放腐蚀攻击咒语。
 %%%%
-the Storm card
+风暴卡
 
-The card depicts a ship at sea sinking in a thunderstorm.
+这张卡片描绘了一艘在雷暴雨中沉没的海上船只。
 
-Drawing this card unleashes a storm of wind and electrical discharges.
-Increasing card power will result in a stronger wind force and stronger, more
-numerous discharges.
+抽这张卡会释放出一阵风和放电风暴。
+卡牌威力增加，风力就会更强，风力也会更强，更多
+大量放电。
 %%%%
-Pain card
+疼痛卡
 
-The card depicts an iron wheel, menacing with spikes and rusted with blood.
+这张卡片描绘了一个铁轮，上面布满尖刺，并被鲜血锈迹斑斑。
 
-Drawing this card unleashes a necromantic attack spell.
+抽这张卡会释放死灵攻击咒语。
 %%%%
-the Orb card
+宝珠卡
 
-The card depicts a figure surrounded by floating, glowing orbs of energy.
+这张卡片描绘了一个被漂浮、发光的能量球包围的人物。
 
-Drawing this card unleashes one or possibly more destructive orbs of pure magic.
+抽这张卡会释放一个或多个具有破坏性的纯魔法球。
 %%%%
-Degeneration card
+退化卡
 
-The card depicts a dragon whose scales are sloughing off, revealing a sheep
-underneath.
+这张牌描绘了一条龙，它的鳞片正在脱落，露出了一只羊
+下。
 
-Drawing this card will attempt to polymorph and malmutate nearby enemies into
-weaker forms, and will briefly daze those that cannot be polymorphed.
+抽这张卡将尝试将附近的敌人变形并变异为
+较弱的形式，并且会短暂地迷惑那些无法变形的人。
 %%%%
-Wild Magic card
+狂野魔法卡
 
-The card depicts a pointy wizard's hat, scorched and resting on a pile of ashes.
+这张卡片描绘了一顶尖尖的巫师帽子，被烧焦并搁在一堆灰烬上。
 
-Drawing this card causes wild magic (as if from miscasting a spell) to act upon
-its user's enemies. Each creature affected will restore some of the user's
-magic.
-# Summoning
+抽这张卡会导致狂野魔法（就像错误施放咒语一样）起作用
+它的用户的敌人。每个受影响的生物都会恢复使用者的一些生命值
+魔法。
+# 召唤
 %%%%
-the Elements card
+元素卡
 
-The card depicts the figures of great beasts lurking in a sandstorm.
+这张卡片描绘了潜伏在沙尘暴中的巨兽的身影。
 
-Drawing this card will summon three beasts of the four elements.
+抽这张卡会召唤三只四元素兽。
 %%%%
-the Pentagram card
+五角星卡
 
-The card depicts cultists marking out a ritual pentagram on the floor.
+这张卡片描绘了邪教徒在地板上划出一个仪式五角星。
 
-Drawing this card will summon a pair of demons to the user's aid. There is a
-small chance one of the demons will be hostile.
+抽这张卡会召唤一对恶魔来帮助使用者。有一个
+其中一个恶魔有敌意的可能性很小。
 %%%%
-the Dance card
+舞蹈卡
 
-The card depicts an extravagantly-dressed, masked figure dancing alone in a
-vast room.
+这张卡片描绘了一个衣着华丽、戴着面具的人物独自在舞蹈中跳舞。
+宽敞的房间。
 
-Drawing this card will summon a dancing weapon. Its quality, brand, and
-friendliness are all affected by card power.
+抽这张卡会召唤出跳舞的武器。其品质、品牌、
+好感度都是受卡牌强度影响的。
 %%%%
-the Swarm card
+蜂群卡
 
-The card depicts a bear surrounded by a swarm of bees. It hums ominously.
+该卡片描绘了一只被一群蜜蜂包围的熊。它发出不祥的嗡嗡声。
 
-Drawing this card will summon bees.
+抽这张卡会召唤蜜蜂。
 %%%%
-the Rangers card
+流浪者队卡
 
-The card depicts an arrow in a bull's-eye, which has been split by a second
-arrow.
+该卡片描绘了一个靶心中的箭头，该箭头已被一秒分开
+箭。
 
-Drawing this card will summon several archers.
+抽这张卡会召唤数名弓箭手。
 %%%%
-the Illusion card
+幻象卡
 
-The card depicts someone standing in a hall of mirrors, surrounded by their own
-reflections.
+这张卡片描绘了一个人站在镜子大厅里，周围都是自己的镜子
+反思。
 
-Drawing this card will summon an illusion of the user. Its power will depend
-upon one's own.
+抽这张卡会召唤使用者的幻象。它的力量将取决于
+靠自己。
 %%%%
-# Punishment
-Wrath card
+# 惩罚
+愤怒卡牌
 
-The card depicts the hand of the divine, reaching down from the heavens to hurl
-furious lightning.
+这张牌描绘了神的手从天而降投掷
+愤怒的闪电。
 
-Drawing this card will draw a god's wrath against the user.
+抽到这张卡将会引发对使用者的神之愤怒。
 %%%%
-the Wraith card
+幽灵卡
 
-The card depicts absolutely nothing.
+这张卡片完全没有描绘任何内容。
 
-Drawing this card will drain the user.
+抽这张卡会耗尽使用者的精力。
 %%%%
-the Swine card
+猪卡
 
-The card depicts several feral hogs wallowing in a mud pit.
+这张卡片描绘了几只野猪在泥坑里打滚。
 
-Drawing this card will make its user turn pink and root for truffles.
+抽出这张卡后，使用者会变成粉红色并开始寻找松露。
 %%%%
-Torment card
+折磨卡
 
-The card depicts a screaming figure being tortured on the rack.
+这张卡片描绘了一个尖叫的人物在架子上遭受酷刑。
 
-Drawing this card will cause agonising injury to the user.
+抽出这张卡会对使用者造成痛苦的伤害。
 %%%%
-# buggy cards
-a buggy card
+# 越野卡
+一张有缺陷的卡
 
-The card depicts a Crawl player filing a bug report on Mantis.
+这一动作描述了一名 Crawl 玩家正在提交有关 Mantis 的错误报告。
 
-Drawing this card is a bug, if one ever encounters it as such.
+如果有人遇到过这样的情况，抽这张卡就是一个错误。
 %%%%
-a very buggy card
+一张非常有问题的卡
 
-The card depicts several Crawl players angrily filing several bug reports on
-Mantis.
+这幅动作画了几名爬行玩家激动地提交了几份错误报告
+螳螂。
 
-Drawing this card is a bug, if one ever encounters it as such.
+如果有人遇到过这样的情况，抽这张卡就是一个错误。
 %%%%
