@@ -220,7 +220,7 @@ The fountain's blood briefly boils in your presence.
 %%%%
 Jiyva peaceful fountain_blue
 
-You stop to admire the slime slowly growing over the fountain's rim.
+You stop to admire the sparkling slime slowly growing over the fountain's rim.
 %%%%
 Jiyva peaceful fountain_blue
 

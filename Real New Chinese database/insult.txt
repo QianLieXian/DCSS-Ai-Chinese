@@ -295,14 +295,14 @@ generic_insult
 @insult_adjective1@ @insult_adjective2@ @insult_noun@
 %%%%
 ###############################################################
-# adjective1, usually short and/or consisting of one word only
+# adjective2, usually longer and consisting of two words
 ###############################################################
-insult_adjective1
+insult_adjective2
 
 w:5
-@species_insult_adj1@
+@species_insult_adj2@
 
-@insult general adj1@
+@insult general adj2@
 %%%%
 insult general adj1
 
@@ -463,78 +463,76 @@ worthless
 yeasty
 %%%%
 ##########################################################
-# adjective1, Elf special
+# noun, Mummy special
 ##########################################################
-insult elf adj1
+insult mummy noun
 
-weakly
+dustbag
 
-sickly
+deado
 
-frail
+fogey
 
-delicate
+linensack
 
-fragile
+clothbag
 
-frumpy
+tombling
 
-brittle
+mummylet
 
-tender
+shroud
 
-mooning
+paper wrap
 
-painted
+roll of bandages
 
-lily-hearted
+bundle of gauze
 
-dandy
+cotton waste
 
-featherweight
+wrapping tissue
 
-flimsy
+# susceptibility to fire
+pyre
 
-rootless
-
-spindly
-
-puny
-
-shaky
-
-prissy
-
-underdone
+tinder
 %%%%
 ##########################################################
-# adjective1, Felid special
+# noun, Mummy special
 ##########################################################
-insult felid adj1
+insult mummy noun
 
-matted
+dustbag
 
-grungy
+deado
 
-rabid
+fogey
 
-picayune
+linensack
 
-weenchy
+clothbag
 
-crummy
+tombling
 
-daggy
+mummylet
 
-feral
+shroud
 
-stray
+paper wrap
 
-sticky
+roll of bandages
 
-musky
+bundle of gauze
 
-slinking
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
 %%%%
 ###############################################################
 # adjective2, usually longer and consisting of two words
@@ -689,174 +687,220 @@ weevil-witted
 wibble-sucking
 %%%%
 ##########################################################
-# adjective2, Dwarf special
+# noun, Mummy special
 ##########################################################
-insult dwarf adj2
+insult mummy noun
 
-dirt-grubbing
-
-grit-sucking
-
-muck-plodding
-
-stone-broke
-
-pelf-dandling
-
-fault-botching
-
-gravel-grovelling
-
-boodle-bothering
-
-cabbage-coddling
-
-rhino-ravelling
-
-thigh-biting
-
-dirt-delving
-%%%%
-##########################################################
-# adjective2, Felid special
-##########################################################
-insult felid adj2
-
-worm-riddled
-
-mange-covered
-
-gunky-eyed
-
-death-cheating
-
-cutty-eyed
-
-gristle-gnawing
-
-spot-chasing
-
-chapped-arsed
-
-key-stepping
-
-rot-lapping
-%%%%
-##########################################################
-# adjective2, Tengu special
-##########################################################
-insult tengu adj2
-
-hollow-boned
-
-feather-brained
-
-beak-witted
-
-hen-pecked
-
-lightweight
-
-frail-limbed
-
-bird-brained
-
-featherweight
-
-pigeon-toed
-
-crow-beaked
-
-magpie-eyed
-
-mallardish
-%%%%
-##########################################################
-# adjective2, Mummy special
-##########################################################
-insult mummy adj2
-
-# pertaining to dryness and flammability
-desiccated
-
-dried
-
-musty
-
-flammable
-
-inflammable
-
-ignitable
-
-combustible
-
-smouldering
-
-# pertaining to bandages
-shrink-wrapped
-
-crepe-taped
-
-duct-taped
-
-fraying
-
-hand-wound
-
-tightly wound
-
-high-strung
-
-straight-laced
-
-grave-robbed
-
-w:30
-@insult undead adj2@
-%%%%
-##########################################################
-# adjective2, Vampire special
-##########################################################
-insult vampire adj2
-
-bat-flapping
-
-blood-sucking
-
-light-shying
-
-pallid
-
-sallow
-
-cream-faced
-
-whey-faced
-
-anaemic
-
-bloodless
-
-exsanguinous
-
-w:20
-@insult undead adj2@
-%%%%
-##########################################################
-# adjective2, undead special
-##########################################################
-insult undead adj2
-
-deathlike
-
-lifeless
-
-undead
-
-corpse-like
+dustbag
 
 deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
+%%%%
+##########################################################
+# noun, Mummy special
+##########################################################
+insult mummy noun
+
+dustbag
+
+deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
+%%%%
+##########################################################
+# noun, Mummy special
+##########################################################
+insult mummy noun
+
+dustbag
+
+deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
+%%%%
+##########################################################
+# noun, Mummy special
+##########################################################
+insult mummy noun
+
+dustbag
+
+deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
+%%%%
+##########################################################
+# noun, Mummy special
+##########################################################
+insult mummy noun
+
+dustbag
+
+deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
+%%%%
+##########################################################
+# noun, Mummy special
+##########################################################
+insult mummy noun
+
+dustbag
+
+deado
+
+fogey
+
+linensack
+
+clothbag
+
+tombling
+
+mummylet
+
+shroud
+
+paper wrap
+
+roll of bandages
+
+bundle of gauze
+
+cotton waste
+
+wrapping tissue
+
+# susceptibility to fire
+pyre
+
+tinder
 %%%%
 ###############################################
 # noun of the insult
@@ -1077,151 +1121,148 @@ yak-dropping
 zombie-fodder
 %%%%
 ##########################################################
-# noun, small species special
+# noun, Mummy special
 ##########################################################
-small_food
+insult mummy noun
 
-snackling
+dustbag
 
-crunchlet
+deado
 
-half-meal
+fogey
 
-supper-setting
+linensack
 
-snacklet
+clothbag
 
-noshlet
+tombling
 
-morsel
+mummylet
 
-mug-up
+shroud
 
-bite-bait
+paper wrap
 
-crunch-chow
+roll of bandages
 
-snack-pap
+bundle of gauze
 
-grub
+cotton waste
 
-mouthful
+wrapping tissue
 
-half-pint
+# susceptibility to fire
+pyre
 
-weenchy-treat
+tinder
 %%%%
 ##########################################################
-# noun, Felid special
+# noun, Mummy special
 ##########################################################
-insult felid noun
+insult mummy noun
 
-kitten
+dustbag
 
-fleabag
+deado
 
-vermin
+fogey
 
-loo-gargler
+linensack
 
-pate-warmer
+clothbag
 
-pander-nanny
+tombling
 
-hissie
+mummylet
 
-cooking-fat
+shroud
 
-sand-tongue
+paper wrap
 
-scamp
+roll of bandages
 
-fur-fop
+bundle of gauze
 
-toe-scratcher
+cotton waste
 
-filth-coat
+wrapping tissue
 
-gob-dollager
+# susceptibility to fire
+pyre
+
+tinder
 %%%%
 ##########################################################
-# noun, Spriggan special
+# noun, Mummy special
 ##########################################################
-insult spriggan noun
+insult mummy noun
 
-w:100
-@small_food@
+dustbag
 
-rat-rider
+deado
 
-quarter-pint
+fogey
 
-nissette
+linensack
 
-fizzle-flop
+clothbag
 
-spell-botch
+tombling
 
-feeblet
+mummylet
 
-weakling
+shroud
 
-pinchbeck-pixie
+paper wrap
 
-ankle-biter
+roll of bandages
 
-bootstain
+bundle of gauze
 
-nano-nebbish
+cotton waste
 
-sopling
+wrapping tissue
 
-shrunken violet
+# susceptibility to fire
+pyre
 
-sissy-prig
-
-pussyfoot
-
-creepsneak
+tinder
 %%%%
 ##########################################################
-# noun, Minotaur special
+# noun, Mummy special
 ##########################################################
-insult minotaur noun
+insult mummy noun
 
-bovine
+dustbag
 
-brisket
+deado
 
-bull-brain
+fogey
 
-cud-chewer
+linensack
 
-calf-wit
+clothbag
 
-cloven-toed
+tombling
 
-cretin
+mummylet
 
-cow
+shroud
 
-cattle
+paper wrap
 
-horn-beast
+roll of bandages
 
-meatloaf
+bundle of gauze
 
-meatball
+cotton waste
 
-mooer
+wrapping tissue
 
-rump-roast
+# susceptibility to fire
+pyre
 
-ruminant
-
-veal
-
-walking sirloin
+tinder
 %%%%
 ##########################################################
 # noun, Mummy special

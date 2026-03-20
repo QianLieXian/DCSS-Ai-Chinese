@@ -596,220 +596,191 @@ w:1
 Dummies
 %%%%
 ##################
-# level 1
-starting level book
-
-w:2
-@_the_book_magic_@ 101
-
-@_the_book_magic_@ for @_beginners_@
+# level 7-9, books in the form of "XYZ's <bookname>"
+# Prefixed articles will be filtered out.
+_difficult level book owner_
 
 @_the_book_magic_@, Part @level@
 
 @_the_book_magic_@, Volume @level@
 
-A @book_name@ Starting Spells
+A @book_name@ Superlative Spells
 
-A Beginning Course on @_the_book_magic_@
+A Thorough Guide to @_the_book_magic_@
 
-A Prolegomenon to @_the_book_magic_@
+Mastering @_the_book_magic_@
 
-A Tutorial on @_the_book_magic_@
+Mastery of @_the_book_magic_@
 
-An Exordium to @_the_book_magic_@
+The Final @book_noun@ of @_the_book_magic_@
 
-An Initiation into @_the_book_magic_@
+The Final @_book_noun_on_@ on @_the_book_magic_@
 
-An Induction into @_the_book_magic_@
+The @_last_or_lost_@ Secrets of @_the_book_magic_@
 
-An Introduction to @_the_book_magic_@
+The @book_noun@ of Greatest Risks and Utility
 
-w:2
-Anyone Can Learn @_the_book_magic_@
+The Arcane Secrets of @_book_magic_@
 
-Beginning @_the_book_magic_@
+The Highest Levels of @_the_book_magic_@
 
-Commencing @_the_book_magic_@
+The Intricacies of @_the_book_magic_@
 
-Dabbling in @_the_book_magic_@
+The Ultimate Guide to @_the_book_magic_@
 
-Elementary @_book_magic_@
-
-w:2
-Even @_beginners_@ Can Learn @_the_book_magic_@!
-
-First Steps in @_the_book_magic_@
-
-Practicing @_the_book_magic_@
-
-Preliminaries of @_the_book_magic_@
-
-Simple @_book_magic_@
-
-w:2
-So You Want to Learn @_the_book_magic_@
-
-Starting @_the_book_magic_@
-
-The Basics of @_the_book_magic_@
+Total Understanding of @_the_book_magic_@
 %%%%
 ##################
-# level 2-4
-easy level book
-
-@_book_magic_@ and How To Use It
-
-@_the_book_magic_@ and You
-
-@_the_book_magic_@ Continued
-
-@_the_book_magic_@ in Simple Steps
+# level 7-9, books in the form of "XYZ's <bookname>"
+# Prefixed articles will be filtered out.
+_difficult level book owner_
 
 @_the_book_magic_@, Part @level@
 
 @_the_book_magic_@, Volume @level@
 
-A @book_name@ Supplementary Spells
+A @book_name@ Superlative Spells
 
-A Primer on @_the_book_magic_@
+A Thorough Guide to @_the_book_magic_@
 
-An Early Guide to @_the_book_magic_@
+Mastering @_the_book_magic_@
 
-Continuing @_the_book_magic_@
+Mastery of @_the_book_magic_@
 
-Easy @_book_magic_@
+The Final @book_noun@ of @_the_book_magic_@
 
-Everyday @_book_magic_@
+The Final @_book_noun_on_@ on @_the_book_magic_@
 
-More @_book_magic_@
+The @_last_or_lost_@ Secrets of @_the_book_magic_@
 
-More Studies in @_the_book_magic_@
+The @book_noun@ of Greatest Risks and Utility
 
-Performing Successful @_book_magic_@
+The Arcane Secrets of @_book_magic_@
 
-Quotidian @_book_magic_@
+The Highest Levels of @_the_book_magic_@
 
-w:2
-The Antepenultimate Guide to @_the_book_magic_@
+The Intricacies of @_the_book_magic_@
 
-The Foundations of @_the_book_magic_@
+The Ultimate Guide to @_the_book_magic_@
 
-The Fundamentals of @_the_book_magic_@
-
-w:2
-The Joy of @_book_magic_@
-
-The Keys to @_the_book_magic_@
+Total Understanding of @_the_book_magic_@
 %%%%
 ##################
-# level 4-6
-moderate level book
+# level 7-9, books in the form of "XYZ's <bookname>"
+# Prefixed articles will be filtered out.
+_difficult level book owner_
 
 @_the_book_magic_@, Part @level@
 
 @_the_book_magic_@, Volume @level@
 
-A @book_name@ Spells
+A @book_name@ Superlative Spells
 
-Advanced @_book_magic_@
+A Thorough Guide to @_the_book_magic_@
 
-Advanced Steps in @_the_book_magic_@
+Mastering @_the_book_magic_@
 
-Even More @_book_magic_@
+Mastery of @_the_book_magic_@
 
-Experienced @_book_magic_@
+The Final @book_noun@ of @_the_book_magic_@
 
-Further Progress in @_the_book_magic_@
+The Final @_book_noun_on_@ on @_the_book_magic_@
 
-Further Steps in @_the_book_magic_@
+The @_last_or_lost_@ Secrets of @_the_book_magic_@
 
-Improving Your @_book_magic_@
+The @book_noun@ of Greatest Risks and Utility
 
-Practical @_book_magic_@
+The Arcane Secrets of @_book_magic_@
 
-Progressing With @_book_magic_@
+The Highest Levels of @_the_book_magic_@
 
-Sophisticated @_book_magic_@
+The Intricacies of @_the_book_magic_@
 
-The Advanced Guide to @_the_book_magic_@
+The Ultimate Guide to @_the_book_magic_@
 
-The Path to @_the_book_magic_@
-
-w:2
-The Penultimate Guide to @_the_book_magic_@
-
-The Second Course in @_book_magic_@
-
-Useful @_book_magic_@
-
-w:2
-Yet Another @book_noun@ About @_the_book_magic_@
+Total Understanding of @_the_book_magic_@
 %%%%
 ##############################################
-# powerful casters, used for high level books
-_powerful_caster_
+# adjectives for secondary spell school
+Air adj
 
-# Generic powerful-sounding names
-Archmage
+Aerial
 
-Archmaster
+Airborne
 
-Hierophant
+Airy
 
-Luminary
+Atmospheric
 
-Mystagogue
+Blustery
 
-Prophet
+Breezy
 
-Sage
+Brumous
 
-Warlock
+Charged
 
-# Specific references to in-game lore
-w:5
-Deep Elf Lorekeeper
+Cloudy
 
-w:5
-Genius of the Arcane
+Electric
 
-# Their hat may be gone, but they're not forgotten...
-w:5
-High Council
+Feathery
 
-w:5
-Lorekeeper
+Floating
 
-w:5
-Loreminder
+Flying
 
-# Specific references to DCSS memes, out-of-game lore, or misc.
-w:1
-Blind Seer
+Foggy
 
-w:1
-Consilium Hierarch
+Fulgurant
 
-w:1
-Grand Magus
+Fulgurous
 
-w:1
-Greatest Mummy
+Fuming
 
-w:1
-Primeval Lich
+Galvanic
 
-w:1
-Sorcerer Supreme
+Gaseous
 
-w:1
-Ultimate Wizard
+Gusty
 
-w:1
-Weird Sisters
+Hazy
 
-w:1
-Wizard of Zot
+Inclement
+
+Lofty
+
+Meteoric
+
+Misty
+
+Nebulous
+
+Overcast
+
+Overhead
+
+Pneumatic
+
+Shocking
+
+Stormy
+
+Tempestuous
+
+Turbulent
+
+Vapourous
+
+Voltaic
+
+Weathered
+
+Windswept
+
+Windy
+
+Wispy
 %%%%
 _the_powerful_caster_
 
@@ -941,94 +912,86 @@ w:1
 A @book_noun@ from @_the_powerful_caster_@ to @player_name@
 %%%%
 ##############################################
-# synonyms for predominant spell schools
-# variants starting with the definite article will get "the" prepended
-# to the adjective version
-Air
+# adjectives for secondary spell school
+Air adj
 
-Aeromancy
+Aerial
 
-Air
+Airborne
 
-Anemomancy
+Airy
 
-Astrapomancy
+Atmospheric
 
-Austromancy
+Blustery
 
-Breath
+Breezy
 
-Ceraunoscopy
+Brumous
 
-Clouds
+Charged
 
-Conduction
+Cloudy
 
-Electricity
+Electric
 
-Electrocution
+Feathery
 
-Exhalation
+Floating
 
-Feathers
+Flying
 
-Fog
+Foggy
 
-Fumes
+Fulgurant
 
-Gases
+Fulgurous
 
-Gusts
+Fuming
 
-Haze
+Galvanic
 
-Inhalation
+Gaseous
 
-Lightning
+Gusty
 
-Nephomancy
+Hazy
 
-Ouranomancy
+Inclement
 
-Ozone
+Lofty
 
-Thunder
+Meteoric
 
-Turbulence
+Misty
 
-Weather
+Nebulous
 
-Vapour
+Overcast
 
-Voltage
+Overhead
 
-the Atmosphere
+Pneumatic
 
-the Birds
+Shocking
 
-the Brume
+Stormy
 
-the Cumulonimbus
+Tempestuous
 
-the Lungs
+Turbulent
 
-the Nimbus
+Vapourous
 
-the Sixfirhy
+Voltaic
 
-the Sky
+Weathered
 
-the Squall
+Windswept
 
-the Storm
+Windy
 
-the Tempest
-
-the Welkin
-
-the Wind
-
-the Zephyr
+Wispy
 %%%%
 Conjuration
 
