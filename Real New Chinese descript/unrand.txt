@@ -88,13 +88,13 @@ faerie dragon scales
 色彩鲜艳的精灵龙曾经存在过。
 %%%%
 # TAG_MAJOR_VERSION == 34
-魔刃"血祸"
+demon blade "Bloodbane"
 
 一把由无数受折磨的灵魂牺牲在地狱中铸造的利刃。它
 将这些灵魂的愤怒和痛苦强加于其持有者身上。
 %%%%
 # TAG_MAJOR_VERSION == 34
-烈焰死亡弯刀
+scimitar of Flaming Death
 
 一把带有神秘冒烟的刀刃的弯刀。有时它的热量会泄漏出去，
 用魔法火焰覆盖对手。
@@ -120,13 +120,13 @@ demon blade "Leech"
 血腥和血腥。
 %%%%
 # TAG_MAJOR_VERSION == 34
-寒冷死亡匕首
+dagger of Chilly Death
 
 一把由一大块蓝宝石碎片制成的匕首。它用冰覆盖对手，
 稍微减慢了他们的动作。
 %%%%
 # TAG_MAJOR_VERSION == 34
-匕首"莫尔格"
+dagger "Morg"
 
 一把生锈的丑陋匕首。很多年前它是一位强大法师的财产
 叫鲍里斯。他在寻找宝珠时在地牢里迷路了。
@@ -197,7 +197,7 @@ morningstar "Eos"
 宁愿保持隐形。
 %%%%
 # TAG_MAJOR_VERSION == 34
-波托诺之矛
+spear of the Botono
 
 一个黑暗而邪恶的人工制品。它增加了任何人施放的六角形的效力
 不明智地冒险使用它。
@@ -224,12 +224,12 @@ heavy crossbow "Sniper"
 土地真实。
 %%%%
 # TAG_MAJOR_VERSION == 34
-长弓"读书器"
+longbow "Piercer"
 
 特大的金属长弓。
 %%%%
 # TAG_MAJOR_VERSION == 34
-刺客的吹箭筒
+blowgun of the Assassin
 
 这把气枪似乎引导着针寻找最致命的击中点
 目标，发出令人讨厌的一拳。
@@ -265,12 +265,12 @@ whip "Snakebite"
 毒素范围从普通毒液到窒息性箭毒。
 %%%%
 # TAG_MAJOR_VERSION == 34
-精度刀
+knife of Accuracy
 
 它几乎是无误准确的。
 %%%%
 # TAG_MAJOR_VERSION == 34
-列胡迪卜的水晶矛
+Lehudib's crystal spear
 
 据推测，这个遗物导致了著名咒语的发明，或者也许是
 反过来说。
@@ -306,7 +306,7 @@ cloak of the Thief
 对手不太引人注目。
 %%%%
 # TAG_MAJOR_VERSION == 34
-塔盾"靶心"
+tower shield "Bullseye"
 
 以防万一你遇到麻烦被击中。
 %%%%
@@ -327,7 +327,7 @@ robe of Misfortune
 华丽的毛皮和丝绸长袍，幸运的颜色已经褪色。
 %%%%
 # TAG_MAJOR_VERSION == 34
-闪电斗篷
+cloak of Flash
 
 一件无需任何干预即可抽搐和猛拉的斗篷。
 %%%%
@@ -440,7 +440,7 @@ ring of Shadows
 一枚能让佩戴者与阴影融为一体的黑色戒指。
 %%%%
 # TAG_MAJOR_VERSION == 34
-切库戈布护身符
+amulet of Cekugob
 
 一根看起来很普通的绳子上有一块看起来很奇怪的水晶，上面有一个奇怪的东西
 权力的选择。
@@ -559,7 +559,7 @@ macabre finger necklace
 敲响它。
 %%%%
 # TAG_MAJOR_VERSION == 34
-蜘蛛之靴
+boots of the spider
 
 阿拉克尼的追求者发明的一双新颖的靴子。
 %%%%
@@ -570,7 +570,7 @@ dark maul
 是时候抬起它进行另一次挥杆了。
 %%%%
 # TAG_MAJOR_VERSION == 34
-高级议会的帽子
+hat of the High Council
 
 一些古代巫师战争的遗迹。几个世纪后，它仍然噼啪作响
 曾经遭受过的残余咒语和魔法能量的影响
@@ -619,7 +619,7 @@ pair of quick blades "Gyre" and "Gimble"
 另一个，好像他们有自己的想法。
 %%%%
 # TAG_MAJOR_VERSION == 34
-麦克斯韦的以太笼
+Maxwell's etheric cage
 
 一个细网状的笼子，旨在捕捉魔法能量。实验笔记表明
 当笼子开始捕捉魔法时，这项研究就被放弃了
@@ -628,7 +628,7 @@ pair of quick blades "Gyre" and "Gimble"
 增加所受到的任何魔法污染的成本。
 %%%%
 # TAG_MAJOR_VERSION == 34
-永恒折磨之冠
+crown of Eternal Torment
 
 镶有乌黑宝石的金冠。它会永久地影响其佩戴者
 剧烈的疼痛，大大降低了他们的恢复力，但使他们
@@ -653,7 +653,7 @@ frozen axe "Frostbite"
 从一。当它在空中摆动时，它会留下冰晶。
 %%%%
 # TAG_MAJOR_VERSION == 34
-塔洛斯之铠
+armour of Talos
 
 一套巨大而沉重的青铜板甲。只有一个具有相应的
 巨大的身材可以穿。
