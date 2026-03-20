@@ -6,10 +6,10 @@
 
 将以下目录中的全部文件复制到游戏对应目录（覆盖原文件）：
 
-- `New Chinese descript` → `dat/descript/zh`
-- `New Chinese database` → `dat/database/zh`
-- `New Chinese defaults` → `dat/defaults/zh`
+- `Real New Chinese descript` → `dat/descript/zh`
+- `Real New Chinese database` → `dat/database/zh`
 
+> 本仓库已移除旧的 `New Chinese *` 目录，请使用 `Real New Chinese *` 目录中的最新文本。
 > 建议先备份原始 `zh` 目录，便于回滚。
 
 ## 兼容性说明

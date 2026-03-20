@@ -1,9 +1,0 @@
-### 用于菜单和库存着色的标准颜色
-
-$forbidden    := red
-$dangerous    := magenta
-
-### 用于消息突出显示的标准颜色
-$danger   := lightred
-$warning  := yellow
-$boring   := darkgrey
