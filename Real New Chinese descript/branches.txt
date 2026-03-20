@@ -256,9 +256,9 @@ Bailey
 %%%%
 Ice Cave
 
-{{ if you.branch() == "Elf" 或 you.branch() == "Swamp" 或
-you.branch() == "Snake" 或 you.branch() == "Shoals" 或 you.branch() == "Spider"
-然后返回“冰川缝隙”；否则返回“冰洞”；结束}}是一个荒凉的洞穴
+{{ if you.branch() == "Elf" or you.branch() == "Swamp" or
+you.branch() == "Snake" or you.branch() == "Shoals" or you.branch() == "Spider"
+then return "glacial chasm"; else return "ice cave"; end }}是一个荒凉的洞穴
 由坚固的冰制成，充满了野兽嚎叫的回声。错综复杂的
 曾经排列在墙壁上的雕刻和雕像已被扭曲和模糊
 几个世纪的缓慢融化和重新冻结。

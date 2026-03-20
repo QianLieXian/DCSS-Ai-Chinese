@@ -1,6 +1,6 @@
 %%%%
 # ------ Generic minor stat/AC muts -----
-坚韧的皮肤突变
+tough skin mutation
 
 你的表皮已经变硬，提供了少量的保护。每个级别
 该突变提供+1AC。
@@ -162,7 +162,7 @@ protean grace mutation
 您目前获得
 {{
     num = math.min(you.how_mutated(true, false, false, true, false), 7) - 1
-    return "+" .. num .. " 闪避与屠戮 +" .. num .. " 来自该突变。"
+    return "+" .. num .. " EV and Slay +" .. num .. " from this mutation."
 }}
 %%%%
 feed off suffering mutation
@@ -186,7 +186,7 @@ reckless mutation
 武器增加15%。
 %%%%
 # ------ Auxes -----
-角突变
+horns mutation
 
 你的头上有角，让你可以在发射时尝试刺伤敌人
 近战攻击，但阻止你戴头盔。该突变的每个级别
@@ -294,7 +294,7 @@ pseudopods mutation
 这种突变的水平使你的伪足更大更强。
 %%%%
 # ------ Resistance mutations -----
-蒸汽阻力突变
+steam resistance mutation
 
 你免疫蒸汽呼吸和蒸汽云的伤害。
 %%%%
@@ -391,7 +391,7 @@ MP-powered wands mutation
 正常。
 %%%%
 # ------ Goodmut/badmut pairs -----
-再生突变
+regeneration mutation
 
 你痊愈得很快。这种突变的每个级别都会增加你的速度
 治愈。
@@ -444,7 +444,7 @@ subdued magic mutation
 但威力较小。这种突变的每个级别都会进一步增强这两种效应。
 %%%%
 # ------ Badmuts without matching goodmuts -----
-传送炎突变
+teleportitis mutation
 
 你会定期传送到敌对的怪物。你会感觉到自己
 在这种情况发生之前破坏稳定几个回合，并可能抑制它
@@ -532,7 +532,7 @@ meek mutation
 不太准确。这种效应随着这种突变的每个级别而恶化。
 %%%%
 # ------ Demonspawn mutations -----
-恶魔守护者突变
+demonic guardian mutation
 
 当你受到伤害时，有一定几率恶魔守护者会赶来救援
 你。造成的伤害越大，距离死亡越近，伤害就越大
@@ -666,7 +666,7 @@ flame cloud immunity mutation
 你对火焰云免疫。
 %%%%
 # ------ Other species-specific mutations -----
-吐毒突变
+spit poison mutation
 
 你可以用<input>$cmd[CMD_USE_ABILITY]</input>吐毒。第二级
 这种突变将毒物从单个球体强化为一大团毒云。
@@ -828,7 +828,7 @@ treasure sense mutation
 尚未发现的项目的标记。
 %%%%
 # ------ Jiyva muts ------
-胶状体突变
+gelatinous body mutation
 
 你的身体像橡胶一样，而你的敌人就像胶水一样。该突变的每个级别
 授予 +1 AC 和 +1 EV。
@@ -1195,7 +1195,7 @@ hypnotic gaze mutation
 更长。
 %%%%
 # ------ Makhleb destruction flavours ------
-地狱破坏突变
+Gehenna destruction mutation
 
 你的释放毁灭能力由地狱赋予。你可以投掷
 岩浆代替了寒冷，你的火焰可以剥夺它们
@@ -1219,7 +1219,7 @@ Dis destruction mutation
 腐蚀性酸和金属碎片而不是负能量。
 %%%%
 # ------ Makhleb marks ------
-暴君变异印记
+Mark of the Tyrant mutation
 
 你的地狱仆从的持续时间更长，你可以召唤更强大的地狱仆从
 具有非常高的祈求（以额外的虔诚为代价）。当你杀戮时
@@ -1234,14 +1234,14 @@ Mark of Carnage mutation
 
 （你的仆人释放出两种爆炸
 {{
-    if you.get_base_mutation_level("破坏") == 1 then
-        return "酸或金属碎片"
-    elseif you.get_base_mutation_level("塔尔塔罗斯毁灭") == 1 then
-        return "负能量或破坏"
-    elseif you.get_base_mutation_level("地狱毁灭") == 1 then
-        return "火或熔岩"
-    elseif you.get_base_mutation_level("科塞特斯破坏") == 1 then
-        return "冷或冰"
+    if you.get_base_mutation_level("Dis destruction") == 1 then
+        return "acid or metal splinters"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "negative energy or devastation"
+    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "fire or lava"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "cold or ice"
     end
 }}.)
 %%%%
@@ -1263,14 +1263,14 @@ Mark of Annihilation mutation
 
 （你的毁灭之球释放了
 {{
-    if you.get_base_mutation_level("破坏") == 1 then
-        return "酸或金属碎片"
-    elseif you.get_base_mutation_level("塔尔塔罗斯毁灭") == 1 then
-        return "负能量或破坏"
-    elseif you.get_base_mutation_level("地狱毁灭") == 1 then
-        return "火或熔岩"
-    elseif you.get_base_mutation_level("科塞特斯破坏") == 1 then
-        return "冷或冰"
+    if you.get_base_mutation_level("Dis destruction") == 1 then
+        return "acid or metal splinters"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "negative energy or devastation"
+    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "fire or lava"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "cold or ice"
     end
 }}.)
 %%%%
@@ -1319,7 +1319,7 @@ Mark of the Fanatic mutation
 然后为你的自由而战。
 %%%%
 # ------ Ru sacrifices ------
-放弃药水突变
+renounce potions mutation
 
 除非受了重伤，否则你拒绝在战斗中喝药水。当敌人在的时候
 你的视线（以及之后的几个转弯），你将无法
@@ -1409,7 +1409,7 @@ no armour mutation
 # ------ Skill suppression ------
 # 技能进来，技能出去。无法解释！
 # XXX - 删除重复数据可能会很酷
-无法训练躲避突变
+inability to train dodging mutation
 
 你的闪避技能为0，无法训练该技能。
 %%%%
@@ -1462,7 +1462,7 @@ no forgecraft magic mutation
 你的锻造工艺技能为0，无法训练该技能。
 %%%%
 # ------ Banes ------
-昏睡祸根
+lethargy bane
 
 您缓慢地移动 - 移动到新位置比以前多花费 30% 的时间
 正常。这对其他类型的动作没有影响，例如攻击或施法

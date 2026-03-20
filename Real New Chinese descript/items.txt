@@ -81,7 +81,7 @@ azure gem
 秘密被锁在无法穿透的深处。
 %%%%
 # the_bakery
-烤尸体
+baked corpse
 
 一具被烤熟的尸体。温暖、无用、死气沉沉。
 %%%%
@@ -270,9 +270,9 @@ book of the grave
 明显的不安感，仿佛有什么不健康的东西被埋在它之间
 非常页。
 {{
-如果你现在.can_smell()
-        返回“它的羊皮纸涂有淡淡的修饰和腐烂的味道。”
-    结尾
+    if you.can_smell() then
+        return "Its vellum smells faintly of dirt and decay."
+    end
 }}
 %%%%
 book of hexes
@@ -365,9 +365,9 @@ book of spontaneous combustion
 一本用极易燃墨水写成的厚重巨著。即使打开也必须小心
 它，但其中描述的咒语的力量是不可否认的。
 {{
-如果你现在.can_smell()
-return “其干燥的书页上涂着淡淡的硫磺味。”
-    结尾
+    if you.can_smell() then
+        return "Its desiccated pages smell faintly of sulphur."
+    end
 }}
 %%%%
 book of the spheres
@@ -393,9 +393,9 @@ book of the wilderness
 一本从遥远而未开化的土地上获取知识的书，让他们能够
 居民被召唤来为读者服务。
 {{
-如果你现在.can_smell()
-return “闻起来有令人痛苦的霉味。”
-    结尾
+    if you.can_smell() then
+        return "It smells distressingly musty."
+    end
 }}
 %%%%
 book of the earth
@@ -612,19 +612,19 @@ double sword
 dragon-coil talisman
 
 雕刻精美，镶嵌着龙牙和龙鳞。 {{
-local desc =“将佩戴者变得强大的”
+    local desc = "Transforms the wearer into a mighty"
 
-如果你.race():find("Draconian") 现在
-desc = desc .. "龙。佩戴者保留其固有的颜色，" ..
-                       “变得对毒有抵抗力，他们的喷吐武器”..
-                       “电量和充电速度都大大提升。”
-    别的
-desc = desc ..“金龙。穿戴者生成对火有抵抗力，”..
-                       “寒冷、毒气，并获得强大的气息攻击”..
-                       “同时造成所有三种类型的伤害，但是”..
-“只有在获得XP的时候才可以充值。”
-    结尾
-    返回描述
+    if you.race():find("Draconian") then
+        desc = desc .. " dragon. The wearer retains their innate colour, " ..
+                       "becomes resistant to poison, and their breath weapon's " ..
+                       "power and recharge rate are greatly increased."
+    else
+        desc = desc .. " golden dragon. The wearer becomes resistant to fire, " ..
+                       "cold, and poison, and gains a powerful breath attack " ..
+                       "that inflicts all three types of damage at once, but " ..
+                       "only recharges as you gain XP."
+    end
+    return desc
 }}
 %%%%
 earthy gem
@@ -638,8 +638,8 @@ eel talisman
 
 奇怪的海洋化石，饰有鲍鱼和珍珠。
 {{
-本地手 = you.hand() .. "s"
-    返回“导致佩戴者的”..手
+    local hands = you.hand() .. "s"
+    return "Causes the wearer's " .. hands
 }}
 变成一对蠕动的电鳗，有时会放电
 用于攻击敌人时，电弧穿过连接的目标。什么时候
@@ -889,9 +889,9 @@ javelin
 命中，可能命中其路径上的所有目标，直到达到最大值
 范围。
 {{
-如果 you.race() == "Kobold" 或 you.race() == "Spriggan" 现在
-return "不幸的是，它太长了，你用起来很尴尬。"
-    结尾
+    if you.race() == "Kobold" or you.race() == "Spriggan" then
+        return "Unfortunately, it is too long and awkward for you to use."
+    end
 }}
 %%%%
 kite shield
@@ -906,13 +906,13 @@ lajatang
 large rock
 
 一块非常大而且非常重的石头。 {{
-如果 you.race() == "Ogre"
-或者 you.race() == "Troll"
-   然后
-       返回 ””
-   别的
-return "只有大型生物才能把它扔掉。"
-   结尾
+    if you.race() == "Ogre"
+       or you.race() == "Troll"
+   then
+       return ""
+   else
+       return "Only large creatures are capable of throwing it."
+   end
 }}
 %%%%
 leather armour
@@ -1094,7 +1094,7 @@ potion of berserk rage
 短时间内无法再次狂暴。
 %%%%
 # TAG_MAJOR_VERSION == 34
-血药水
+potion of blood
 
 含有生命精华的药剂。
 %%%%
@@ -1226,12 +1226,12 @@ riddle talisman
 
 一个复杂的谜盒，里面装有不可知的奖品。将佩戴者转变为
 喜欢谜语的狮身人面像。在这种形式中，它们是{{
-如果你.race() == "Felid" 现在
-        返回“通常能够穿着斗篷和马甲（尽管你的”..
-               “自己的小尺寸会阻止这种情况）”
-    别的
-        返回“能够穿着斗篷和马甲”
-    结尾
+    if you.race() == "Felid" then
+        return "normally capable of wearing a cloak and barding (though your" ..
+               " own diminutive size would prevent this)"
+    else
+        return "capable of wearing a cloak and barding"
+    end
 }}，他们的近战攻击会产生强大的风来打击他们的敌人
 增加他们旁边的每个开放空间的伤害。他们也是高手
 附魔师，更容易施展十六进制法术并忽略他们的一部分

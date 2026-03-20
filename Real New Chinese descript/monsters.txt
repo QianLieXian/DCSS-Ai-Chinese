@@ -4,7 +4,7 @@ __(_suffix_examine
 它被施了魔法，可以在空中跳舞并利用自己的力量进行攻击。
 %%%%
 # Uniques
-艾格尼丝
+Agnes
 
 由于多年远离森林的旅行，这棵小树枝已经老化和风化
 和她亲戚的家园的沼泽。她对武器的选择和惊人的速度
@@ -129,16 +129,16 @@ Dissolution
 Donald
 
 {{
-    local descript = "像你一样的冒险家，正在努力寻找宝珠。"
+    local descript = "An adventurer just like you, trying to find the Orb."
 
-    if you.race() ~= "人鱼" and you.race() ~= "章鱼" then
-        descript = descript .. "与你不同，d"
+    if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
+        descript = descript .. " Unlike you, and d"
     else
-        descript = descript .. "D"
+        descript = descript .. " D"
     end
 
-    descript = descript .. "尽管他讨厌水，他还是喜欢喝水" ..
-                           "像一只鸡。"
+    descript = descript .. "espite his hatred of it, he takes to water " ..
+                           "like a fowl."
 
     return descript
 }}
@@ -565,7 +565,7 @@ Urug
 剩下的眼睛不太好，她误认为你了。
 {{
     if you.can_smell() then
-        return "她闻起来很难闻。"
+        return "She smells terrible."
     end
 }}
 %%%%
@@ -632,7 +632,7 @@ Serpent of Hell tartarus
 是显而易见的。
 %%%%
 # Non-unique monsters
-酸滴
+acid blob
 
 一团病态的脓肉，滴着致命的酸。
 %%%%
@@ -1116,7 +1116,7 @@ daeva
 光辉者的神祇圣代理人。
 %%%%
 # Only used in lookup mode, not when examining an actual monster.
-跳舞武器
+dancing weapon
 
 一种被附魔的武器，可以在空中舞动并利用自身的力量进行攻击。
 %%%%
@@ -1801,7 +1801,7 @@ howler monkey
 它可以产生的噪音量。
 %%%%
 # Stolen from http://rustyandco.com/frequently-asked-questions/monster-guide/
-人类的
+human
 
 一种傲慢的地表无毛猿。矮人认为他们是
 脆弱，精灵认为它们笨拙，怪物则认为它们美味。
@@ -2486,11 +2486,11 @@ pillar of rime
 
 一个奇怪的阴暗冰塔，它脆弱的卷须像
 伸出的手的手指。 {{
-    if spells.memorised("冰晶长矛") then
-        return "如果每个灵魂都竭尽全力创造出这样的艺术就好了。"
+    if spells.memorised("rimeblight") then
+        return "If only the dying breath of every soul could create such art."
     else
-        return "如果你不知道其可怖之处，它甚至可能很美丽"..
-               "它形成的方式。"
+        return "It might even be beautiful if you didn't know the gruesome " ..
+               "way it formed."
     end
 }}
 %%%%
@@ -3544,7 +3544,7 @@ zykzyl
 形式和它自己的一样可怕。
 %%%%
 # Specials
-测试产卵器
+test spawner
 
 （如果您在 Wizmode 或竞技场之外看到此内容，则这是一个错误。）
 
@@ -3588,17 +3588,17 @@ nasty sensed monster
 friendly sensed monster
 
 一个友善的怪物，其存在已{{
-    if you.god() == "阿申扎里" then
-        return "由阿什扎里的力量揭示"
+    if you.god() == "Ashenzari" then
+        return "revealed by the power of Ashenzari"
     else
-        return "被侦测到"
+        return "detected"
     end
 }}.
 %%%%
 ##############################################################################
 ### Vault 定义的怪物
 ##############################################################################
-云法师
+Cloud Mage
 
 一位奇怪的巫师，他精通云端，灵巧而敏捷。
 不祥的神祇秘手势。
@@ -3614,7 +3614,7 @@ Hellbinder
 咒语。
 %%%%
 # arena sprint final boss
-爆破大师
+Master Blaster
 
 一位强大的老巫妖，因用强大的咒语攻击人类而臭名昭著。
 哪怕是最轻微的挑衅，或者只是一时兴起。
@@ -3764,7 +3764,7 @@ spectator
 大川流的追随者，有幸观看一场生死决斗。
 %%%%
 # Sprint only, too unhinged for regular games...
-oklob植物消灭者
+oklob plant annihilator
 
 一种纯粹的植物，以某种方式获得了知觉并能够使用魔法，某些人
 不可思议的巫术。
@@ -3837,7 +3837,7 @@ spriggan baker
 精通烹饪艺术的小精灵。
 %%%%
 #if TAG_MAJOR_VERSION > 34
-仍然巨石
+still boulder
 
 一块静止的巨大石头。
 #endif
@@ -3855,12 +3855,9 @@ witch
 withered plant
 
 生命已被耗尽，但其物理形态仍然存在的植物
-完好无损。看起来它早在 {{
-if you.branch() == "地穴" or you.branch() == "墓" or you.branch() == "佐特" then
-    return "数个世纪"
-else
-    return "数年"
-end}} 前就已经死去。
+完好无损。看起来它早在 {{ if you.branch() == "Crypt" or
+you.branch() == "Tomb" or you.branch() == "Zot" then return "centuries";
+else return "years"; end }} 前就已经死去。
 %%%%
 worm
 
@@ -3879,7 +3876,7 @@ zot statue
 旨在代表某种生物或人物，或者完全抽象。
 %%%%
 ### Arena sprint boss renames
-恐狼蜘蛛
+dire wolf spider
 
 <狼蛛>
 %%%%
@@ -3908,7 +3905,7 @@ grandmaster elementalist
 <元素大师>
 %%%%
 ### Meatsprint
-一袋肉
+bag of meat
 
 由血肉雕塑家创造的可憎军团之一。它是一个
 对人类形态的可怕模仿，由大量无法识别的物质组成
