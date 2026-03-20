@@ -24,7 +24,7 @@
 ###############################################################################
 ###############################################################################
 %%%%
- 盾锣 
+shield of the gong
 
 w:40
  GONNNNG！ 
@@ -49,7 +49,7 @@ w:40
 ###############################################################################
 
 %%%%
- 冰冻斧“冻伤” 
+frozen axe "frostbite"
 
  你听到 [blizzard|squall|snowstorm] 的 [roaring|howling|raging|gusting] 风。 
 
@@ -71,7 +71,7 @@ w:1
 ###############################################################################
 
 %%%%
- 三叉树“谴责”
+trishula "Condemnation"
 
  @Your_weapon@ 放出 [divine|blessed|sacred|holy] [chiming|tinkling|ringing|pealing|tintinnabulation]。 
 
@@ -102,7 +102,7 @@ w:1
 ###############################################################################
 ###############################################################################
 %%%%
-嘈杂的武器
+noisy weapon
 
 w:30
 @_weapon_chatter_@
@@ -201,7 +201,7 @@ _rare_chatter_
 # 武器噪音。
 ###############################################################################
 %%%%
-Weapon_noises
+weapon_noises
 
 w:80
 @Your_weapon@ [cackles|giggles|gurgles|sighs|snorts|warbles|wails|whimpers]。
@@ -297,7 +297,7 @@ w:20
  # 具有 NOISES 属性的武器的噪音（不适用于歌剑） 
 ###############################################################################
 %%%%
- Weapon_noise 
+weapon_noise
 
  ############ 地下城噪音 ############ 
  一声喊叫。 
@@ -442,7 +442,7 @@ w:20
 
  #########沉默，任何紧张############ 
 %%%%
-歌剑沉默
+singing sword silenced
 
 VISUAL: @The_weapon@挣扎和转身。 
 
@@ -461,7 +461,7 @@ VISUAL: @The_weapon@ 变为 @_crimson_@。
 
  ######### 无张力 ############ 
 %%%%
- 歌唱剑无张力 
+singing sword no_tension
 
 w:400
  @_singing_no_tension_@ 
@@ -485,7 +485,7 @@ w:100
  @_weapon_chatter_@ 
  ######### 低张力 ############ 
 %%%%
- 歌剑低张力 
+singing sword low_tension
 
 w:400
  @_singing_no-low_tension_@ 
@@ -512,7 +512,7 @@ w:160
  @_weapon_noises_low-high_tension_@ 
  ######### 高张力 ############ 
 %%%%
- 歌剑高张力 
+singing sword high_tension
 
 w:300
  @_speaking_low-high_tension_@ 
@@ -536,7 +536,7 @@ w:360
 @_weapon_noises_low-high_tension_@
 ######### SCREAM (高张力 + 双倍伤害) ############
 %%%%
-歌剑 SCREAM
+singing sword SCREAM
 
 @_SCREAM_@
 ###############################################################################
@@ -698,7 +698,7 @@ w:40
 
  ############ 说话，没有紧张 ############ 
 %%%%
- _speaking_no_tension_ 
+_speaking_no_tension_
 
  @_common_speaking_no_tension_@ 
 
@@ -706,7 +706,7 @@ w:1
  @_rare_speaking_no_tension_@ 
 
 %%%%
- _common_speaking_no_tension_ 
+_common_speaking_no_tension_
 
  @The_weapon@喊道：“跟我一起唱吧！” 
 
@@ -874,7 +874,7 @@ w:1
 
  ############ 说话，低张力 ############ 
 %%%%
- _speaking_low_tension_ 
+_speaking_low_tension_
 
  @The_weapon@ 喊道，“生于剑，死于剑！” 
 
@@ -910,7 +910,7 @@ w:1
 
  ############ 说话，低张力或高张力 -- 可能造成伤害 ############ 
 %%%%
- _speaking_low-high_tension_ 
+_speaking_low-high_tension_
 
  @The_weapon@ 喊道，“笔比剑更强大？来吧，笔，我在这里！” 
 
@@ -964,7 +964,7 @@ w:1
 
  ############说起来，高度紧张——伤害！ ############ 
 %%%%
- _speaking_high_tension_ 
+_speaking_high_tension_
 
  @The_weapon@ 喊道，“我在此用鲜血来圣化这些大厅！” 
 
@@ -1038,7 +1038,7 @@ w:1
 w:1
  @The_weapon@ @_screams_@，“鲜血必须喷出，鲜血必须流动！每个敌人都必须涌出鲜血！” 
 %%%%
- _godless_sorter_ 
+_godless_sorter_
 
 w:5
  命运 
@@ -1057,7 +1057,7 @@ w:4
  腐败 
  ############ 尖叫 - 大量伤害！ ######################## 
 %%%%
- _SCREAM_ 
+_SCREAM_
 
  @The_weapon@ 说道：“RWARRR！” 
 
@@ -1242,7 +1242,7 @@ w:1
  ############ 真实歌曲，没有张力 ############ 
 
 %%%%
- _real_song_no_tension_
+_real_song_no_tension_
 
 # Alan Lerner、Frederick Loewe：画你的马车 
  @The_weapon@ 唱道，“我是在一颗屠杀之星下铸造的……” 
@@ -1450,7 +1450,7 @@ w:1
 
  ############ 真实歌曲，低张力或高张力 - 可能会损坏！ ############ 
 %%%%
- _real_song_low-high_tension_ 
+_real_song_low-high_tension_
 
  @The_weapon@ 唱道，“滚动，滚动，滚动那些头，滚动它们。快乐，快乐，快乐......” 
 
@@ -1533,7 +1533,7 @@ w:1
 
  ############真歌，高张力——伤害！ ############ 
 %%%%
- _real_song_high_tension_ 
+_real_song_high_tension_
 
  # 女王 
  @The_weapon@ 唱道：“我们是世界冠军！” 
@@ -1573,7 +1573,7 @@ w:1
 ###############################################################################
 
 %%%%
- _screams_ 
+_screams_
 
  尖叫 
 
@@ -1603,7 +1603,7 @@ w:3
 w:1
  大声喊叫 
 %%%%
- _screams_how_ 
+_screams_how_
 
 w:120
  像 @_beastly_adjective_@ @_beast_@ 
@@ -1615,7 +1615,7 @@ w:120
 w:60
  @_loudly_@ 
 %%%%
- _大声_ 
+_loudly_
 
  大声 
 
@@ -1625,7 +1625,7 @@ w:60
 
  震耳欲聋
 %%%%
- _beastly_adjective_ 
+_beastly_adjective_
 
  饥饿 
 
@@ -1637,7 +1637,7 @@ w:60
 
  愤怒 
 %%%%
- _beast_ 
+_beast_
 
  龙 
 
@@ -1656,7 +1656,7 @@ w:1
 
  食肉动物 
 %%%%
- _strikes_up_what_ 
+_strikes_up_what_
 
 w:5
  缓慢而悲伤的曲调 
@@ -1667,7 +1667,7 @@ w:5
 
  葬礼进行曲 
 %%%%
- _kind_of_scales_ 
+_kind_of_scales_
 
  五声音阶
 
@@ -1675,7 +1675,7 @@ w:5
 
  全音阶 
 %%%%
- _rhyme_word_ 
+_rhyme_word_
 
  血之泉 
 
@@ -1683,7 +1683,7 @@ w:5
 
  战场 
 %%%%
- _song_theme_ 
+_song_theme_
 
  战斗与名声 
 
@@ -1691,7 +1691,7 @@ w:5
 
  死亡的荣耀
 %%%%
- _musical_topic_ 
+_musical_topic_
 
  声学 
 
@@ -1714,7 +1714,7 @@ w:5
 w:1
  风神模式 
 %%%%
- ####“...看起来 @_exasperated_@。” 
+#### "...looks @_exasperated_@."
  _exasperated_ 
 
  激怒 
@@ -1735,7 +1735,7 @@ w:1
 
  顽固
 %%%%
- ####“...变成 @_crimson_@。” 
+#### "...turns @_crimson_@."
  _crimson_ 
 
  深红色 
@@ -1751,7 +1751,7 @@ w:1
 w:1
  violet 
 %%%%
- _MISCREANTS_ 
+_MISCREANTS_
 
  MISCREANTS 
 
@@ -1763,7 +1763,7 @@ w:3
 w:1
  FILTH
 %%%%
-_宠物_ 
+_PETS_
 
  豚鼠 
 
@@ -1776,7 +1776,7 @@ _宠物_
 w:1
  抹香鲸 
 %%%%
- _尸体_ 
+_corpses_
 
  尸体 
 
@@ -1786,7 +1786,7 @@ w:1
 w:1
  精致尸体
 %%%%
- _body_part_ 
+_body_part_
 
  皮肤 
 
@@ -1797,7 +1797,7 @@ w:1
 
  肉 
 %%%%
- _glorious_ 
+_glorious_
 
  光荣的 
 
@@ -1822,7 +1822,7 @@ w:1
 ###############################################################################
 ###############################################################################
 %%%%
- majin-bo 问候 
+majin-bo greeting
 
  嗯，你好。 
 
@@ -1835,7 +1835,7 @@ w:1
 w:1
  你挠我的背，我也挠你的……我真是个挠背鬼。 
 %%%%
- majin-bo cast 
+majin-bo cast
 
  更像是这样。 
 
@@ -1855,7 +1855,7 @@ w:1
 
  有没有人告诉过你你的灵魂味道有多好？ 
 %%%%
- 魔金博铸弱
+majin-bo cast weak
 
 你开始让我厌烦了。
 
@@ -1874,7 +1874,7 @@ w:1
 ###############################################################################
 ###############################################################################
 %%%%
-zonguldrok 问候
+zonguldrok greeting
 
 另一个黑暗之道的追求者？我们要让他们都屈服！
 
@@ -1882,7 +1882,7 @@ zonguldrok 问候
 
 终于，有人比……这些人更有用了。
 %%%%
-zonguldrok 重奏
+zonguldrok reprise
 
 我知道你无法长时间抵抗黑暗召唤。
 
@@ -1894,7 +1894,7 @@ zonguldrok 重奏
 
 最后...
 %%%%
-zonguldrok 告别
+zonguldrok farewell
 
 你会再回来的，记住我的话....
 
@@ -1904,7 +1904,7 @@ zonguldrok 告别
 
 我和你还没完呢！
 %%%%
-zonguldrok 帽子好
+zonguldrok hat good
 
 最后；与我的地位相称的王冠。
 
@@ -1914,7 +1914,7 @@ zonguldrok 帽子好
 
 我们的敌人现在一定会跪倒在我的陛下面前。
 %%%%
-zonguldrok 帽子还好
+zonguldrok hat okay
 
 合适的起首。
 
@@ -1922,7 +1922,7 @@ zonguldrok 帽子还好
 
 这顶帽子的魔力将充分补充我自己的魔力。
 %%%%
-zonguldrok 帽子不好
+zonguldrok hat bad
 
 你怎么敢把这么破的帽子戴在我头上！
 
@@ -1932,7 +1932,7 @@ zonguldrok 帽子不好
 
 真是可悲啊，沦落到穿着……这个。
 %%%%
-Dyrovepreva 的 zonguldrok 帽子王冠
+zonguldrok hat crown of Dyrovepreva
 
 我比那个愚蠢的泰坦王子看得更清楚！
 
@@ -1940,7 +1940,7 @@ Dyrovepreva 的 zonguldrok 帽子王冠
 
 让我们去战斗吧，我的儿子！
 %%%%
-zonguldrok hat 熊灵帽子
+zonguldrok hat hat of the Bear Spirit
 
 # Dylan Thomas 
  我的儿子，我们的敌人不会温和地进入那个良夜！ 
@@ -1950,7 +1950,7 @@ zonguldrok hat 熊灵帽子
 
  我们的综合实力超出了敌人的承受能力！ 
 %%%%
- 刺客 
+zonguldrok hat hood of the Assassin
 
  的 zonguldrok 帽子兜帽 # 托尔金，都灵图伦巴尔的格劳龙 
  成为黑暗中的刺刀者，对敌人来说是奸诈的！ 
@@ -1960,7 +1960,7 @@ zonguldrok hat 熊灵帽子
 
  啊，更有效率的杀戮的快感！ 
 %%%%
- zonguldrok 帽子面具 龙 
+zonguldrok hat mask of the Dragon
 
  龙崇拜者的面具？我要让巨龙崇拜我！ 
 
@@ -1968,7 +1968,7 @@ zonguldrok hat 熊灵帽子
 
  意志坚强，凡是反对我们的人，都将被处死！ 
 %%%%
- zonguldrok hat 炼金术士的帽子 
+zonguldrok hat hat of the Alchemist
 
  啊，炼金术。这么多新的、令人兴奋的方式造成伤害...... 
 
@@ -1976,7 +1976,7 @@ zonguldrok hat 熊灵帽子
 
  即使你找到了长生不老的灵丹妙药，也请记住：我是先长生不死的！ 
 %%%%
- zonguldrok hat 思考的帽子 
+zonguldrok hat hat of Pondering
 
  # Pinky 和 ​​Brain 
  Scion，你在思考我在思考什么吗？ 
@@ -1985,7 +1985,7 @@ zonguldrok hat 熊灵帽子
 
  我必须考虑下一步该做什么...... 
 %%%%
- zonguldrok 帽子虚荣之冠 
+zonguldrok hat crown of vainglory
 
  一切都将在我面前被放下！ 
 
@@ -2000,7 +2000,7 @@ zonguldrok hat 熊灵帽子
 ###############################################################################
 ###############################################################################
 %%%%
- 真菌思想 
+fungus thoughts
 
  您突然感到想要形成孢子的冲动。 
 
@@ -2037,7 +2037,7 @@ zonguldrok hat 熊灵帽子
 ###############################################################################
 ###############################################################################
 %%%%
-鳗鱼手动作
+eel hand actions
 
 鳗鱼用鼻子蹭你的 @head@。
 
@@ -2053,7 +2053,7 @@ zonguldrok hat 熊灵帽子
 
 你的鳗鱼警惕地扫描附近是否有威胁。
 %%%%
-鳗鱼单手动作
+eel hand solo actions
 
 w:20
 你的鳗鱼搜索 [frantically|wistfully] 寻找它的伙伴。

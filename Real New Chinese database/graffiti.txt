@@ -13,7 +13,7 @@
 #
 ##########################################################
 %%%%
- _graffiti_author_any_ 
+_graffiti_author_any_
 
 w:50
  @ancestor name@ 
@@ -29,7 +29,7 @@ w:2
 w:1
  @_rare_graffiti_author_any_@ 
 %%%%
- # 与 @_graffiti_author_any_@ 相同，但没有兽人名字或稀有名字
+# Same as @_graffiti_author_any_@, but without orc names or rare names
  #（或罕见的兽人名字）。 
  _graffiti_author_any_changeable_ 
 
@@ -42,7 +42,7 @@ w:2
 w:2
  @RANDGEN@ 
 %%%%
- # 与 @_graffiti_author_any_@ 相同，但没有兽人名字，随机 
+# Same as @_graffiti_author_any_@, but without orc names, randomly
  # 生成的名字，或者稀有名字（或者稀有兽人名字）。 
  _graffiti_author_any_changeable_non-randgen_ 
 
@@ -52,7 +52,7 @@ w:50
 w:2
  @_graffiti_author_bland_@ 
 %%%%
- # 与 @_graffiti_author_any_@ 相同，但没有兽人名称。 
+# Same as @_graffiti_author_any_@, but without orc names.
  _graffiti_author_any_non-orc_ 
 
 w:50
@@ -67,7 +67,7 @@ w:2
 w:1
  @_rare_graffiti_author_any_non-orc_@ 
 %%%%
- _graffiti_author_bland_ 
+_graffiti_author_bland_
 
  @bland name@ 
 
@@ -80,7 +80,7 @@ w:2
 w:2
  @bland name@ (是的，就是那个) 
 %%%%
- # 除了使徒特定的名字，这不包括稀有兽人 
+# Aside from apostle-specific names, this doesn't include rare orc
  # 名字（这是别名），所以稀有兽人名字不会出现
  # 明显比其他罕见名称更常见。假设兽人较少 
  # 倾向于隐藏在别名后面。 
@@ -88,7 +88,7 @@ w:2
 
  @any orc name@ 兽人 
 %%%%
- _rare_graffiti_author_any_
+_rare_graffiti_author_any_
 
 @_rare_graffiti_author_ordinary_@ 
 
@@ -101,7 +101,7 @@ w:2
 w:1
  @_rare_graffiti_author_god_@ 
 %%%%
- # 与 @_rare_graffiti_author_any_@ 相同，但没有兽人名称。 
+# Same as @_rare_graffiti_author_any_@, but without orc names.
  _rare_graffiti_author_any_non-orc_ 
 
  @_rare_graffiti_author_ordinary_@ 
@@ -112,7 +112,7 @@ w:2
 w:1
  @_rare_graffiti_author_god_@ 
 %%%%
- _rare_graffiti_author_god_ 
+_rare_graffiti_author_god_
 
  # 对于“Woog the god”崇拜另一个神的谣言的有趣选项，或者
  # 秘密地是无神论者，或者秘密地是吴健（
@@ -120,13 +120,13 @@ w:1
  # 神罕见有关）。 
  乌格神 
 %%%%
- # 任何名称都可以在这里使用，只要它还没有出现在 monname.txt 中的兽人名称 
+# Any name will work here, as long as it's not already in the orc names
  # 中。 
  _rare_graffiti_author_orc_ 
 
  兽人斯巴达克斯 
 %%%%
- _rare_graffiti_author_ordinary_ 
+_rare_graffiti_author_ordinary_
 
  # 不仅仅是在文档中！ 
  狗头人杜温特 
@@ -139,7 +139,7 @@ w:1
 
  小恶魔 Frobof 
 %%%%
- _rare_graffiti_author_title_ 
+_rare_graffiti_author_title_
 
  # Kilroy 在这里！ 
  Kilroy 
@@ -156,13 +156,13 @@ w:1
 
  梦想飞行女士 
 %%%%
- _pattern_type_ 
+_pattern_type_
 
  @any_colour_pattern@ 
 
  @any_glowing_colour_pattern@
 %%%%
-# 任何单词都可以在这里使用，只要它尚未出现在 colorname.txt 中的 @glowing_adj@ 
+# Any word will work here, as long as it's not already in @glowing_adj@
  中即可。 
  _writing_adj_ 
 
@@ -196,7 +196,7 @@ w:1
 
  扭动 
 %%%%
- # 除了“涂鸦”之外的任何词都可以在这里使用。 
+# Any word other than "graffiti" will work here.
  _writing_noun_ 
 
  二进制代码 
@@ -229,7 +229,7 @@ w:1
 
  书写 
 %%%%
- _writing_style_ 
+_writing_style_
 
  @any_colour@ 
 
@@ -237,33 +237,33 @@ w:1
 
  @any_glowing_colour@ 
 %%%%
-_写作_类型_
+_writing_type_
 
 @_writing_style_@ @_writing_noun_@ 
 %%%%
- _graffiti_type_ 
+_graffiti_type_
 
  @_writing_style_@ 涂鸦 
 %%%%
- _graffiti_type_with_signature_maybe_ 
+_graffiti_type_with_signature_maybe_
 
  @_graffiti_type_@ 
 
  @_graffiti_type_@ 由 @_graffiti_author_any_@ 
 %%%%
- 签名_graffiti_type_with_signature_maybe_non-orc_ 
+_graffiti_type_with_signature_maybe_non-orc_
 
  @_graffiti_type_@ 
 
  @_graffiti_type_@ 由 @_graffiti_author_any_non-orc_@ 签名 
 %%%%
- _graffiti_type_with_signature_maybe_orc_ 
+_graffiti_type_with_signature_maybe_orc_
 
  @_graffiti_type_@ 
 
  @_graffiti_type_@ 由 @_graffiti_author_orc_@ 签名@_graffiti_author_orc_@ 
 %%%%
- _graffiti_advertisement_ 
+_graffiti_advertisement_
 
  为会议做广告 @_graffiti_mass_meeting_ordinary_@ 
 
@@ -285,7 +285,7 @@ w:1
 w:1
  为用于制作它的油漆做广告 
 %%%%
- # 有时两个名字有可能相同，但也许 
+# There's sometimes a chance of the two names being the same, but maybe
  # 作者疯了，或者也许作者以与以前相同的方式拼写他们的名字 
  # 但发音不同。 
 #
@@ -307,7 +307,7 @@ w:2
 w:1
  @_graffiti_author_any_changeable_non-randgen_@ 已更改名称，因为受 Xom 的影响，现在由 @RANDGEN@ 
 %%%%
- # 这可以产生一个与自己进行比较的作者，一个 
+# This can produce an author who's compared to themselves, an author who
  # 秘密地拥有奶酪或装满煎饼的马车的力量的作者，一个崇拜（或是）Zin 的兽人 
  # ，或者一个崇拜（或是） Beogh 的非兽人，但是 
  # 你不应该相信你读到的一切。 
@@ -349,14 +349,14 @@ w:1
 w:1
  @_graffiti_author_any_@ 偷偷崇拜 @_graffiti_hailed_god_@ 
 %%%%
- _graffiti_class_any_ 
+_graffiti_class_any_
 
  @_graffiti_class_remedial_@ 
 
 w:2
  @_graffiti_class_master_@ 
 %%%%
- _graffiti_class_master_ 
+_graffiti_class_master_
 
  蚁族教授的挖掘大师班 
 
@@ -370,7 +370,7 @@ w:2
 w:1
  匿名涂鸦作者教授的 [art|calligraphy] 大师班 
 %%%%
- _graffiti_class_remedial_ 
+_graffiti_class_remedial_
 
  @random_skill@ 的辅导课程@_graffiti_professor_@ 
 
@@ -396,7 +396,7 @@ w:2
 w:2
  由 @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@ 教授的补习 @random_skill_magic@ 课程 
 %%%%
- _graffiti_duplicate_ 
+_graffiti_duplicate_
 
  副本
 
@@ -408,7 +408,7 @@ w:2
 
 变形者
 %%%%
-_涂鸦_战斗_
+_graffiti_fight_
 
 @_graffiti_author_any_@ 和 @_graffiti_author_any_@ 之间的争论
 
@@ -420,7 +420,7 @@ w:2
 w:2
 ["artists"|artists|Dithmenos worshippers] 和 [death knights|death mages|Yredelemnul worshippers|necromancers] 之间关于某物是影子还是影鬼的争斗
 %%%%
-_涂鸦_欢呼上帝_
+_graffiti_hailed_god_
 
 克奥姆
 
@@ -438,7 +438,7 @@ w:1
 w:1
 装满煎饼的马车
 %%%%
-_涂鸦发生的原因_
+_graffiti_happened_reason_
 
 一次意外
 
@@ -494,7 +494,7 @@ _涂鸦发生的原因_
 
  不可想象的 
 %%%%
- _graffiti_image_ PHX0ZZ 的 
+_graffiti_image_
 
  从隧道中伸出头 
 
@@ -515,7 +515,7 @@ _涂鸦发生的原因_
 
  看起来你什么都不认识 
 %%%%
- _graffiti_life_or_death_ 
+_graffiti_life_or_death_
 
  应该死 
 
@@ -529,7 +529,7 @@ _涂鸦发生的原因_
 
  生活 
 %%%%
- _graffiti_loves_or_hates_ 
+_graffiti_loves_or_hates_
 
  诅咒 
 
@@ -543,7 +543,7 @@ _涂鸦发生的原因_
 
  赞扬 
 %%%%
- _graffiti_mass_meeting_ordinary_运动俱乐部的 
+_graffiti_mass_meeting_ordinary_
 
  玩 [cards|darts|hammer throw|javelin throw|Whack-A-Rock-Fish] 技师俱乐部 [cards|darts|hammer throw|javelin throw|Whack-A-Rock-Fish] PHX1ZZ 的 
 
@@ -656,14 +656,14 @@ _graffiti_mass_meeting_religious_
 
  一群兽人宣传 Beogh 的话 
 %%%%
- _graffiti_obscenities_ 
+_graffiti_obscenities_
 
  各种淫秽内容 
 
 w:1
  一些你从未见过的非常富有想象力的淫秽内容 
 %%%%
- # 使用所有涂鸦教授的可更改名称（任何、魔法和 
+# Use changeable names for all graffiti professors (any, magic, and
  # 平凡），因此我们可以与他们分开处理兽人（作为涂鸦作者，其名称为 
  # 以“兽人”结尾）和稀有名称（可能 
  # 也有后缀的别名或头衔，也可能是兽人），只需 
@@ -680,13 +680,13 @@ w:2
 w:1
  @_rare_graffiti_author_any_@ （据说） 
 %%%%
- _graffiti_professor_evocates_type_ 
+_graffiti_professor_evocations_type_
 
  工匠 
 
  修补匠
 %%%%
- _graffiti_professor_inspirations_type_ 
+_graffiti_professor_invocations_type_
 
  牧师 
 
@@ -696,7 +696,7 @@ w:1
 
  神学家 
 %%%%
- _graffiti_professor_magic_type_ 
+_graffiti_professor_magic_type_
 
  法师
 
@@ -706,7 +706,7 @@ w:1
 
  巫师 
 %%%%
- _graffiti_professor_mundane_type_ 
+_graffiti_professor_mundane_type_
 
  骑士 
 
@@ -716,19 +716,19 @@ w:1
 
  战士 
 %%%%
- _graffiti_professor_necromancy_type_ 
+_graffiti_professor_necromancy_type_
 
  死亡法师 
 
  死灵法师 
 %%%%
- _graffiti_professor_shapeshifting_type_ 
+_graffiti_professor_shapeshifting_type_
 
  变形师 
 
  护身符 
 %%%%
- _graffiti_relative_or_quality_ 
+_graffiti_relative_or_quality_
 
  所有同伙 
 
@@ -774,7 +774,7 @@ w:1
 
  实力 
 %%%%
- _graffiti_religion_better_or_worse_ 
+_graffiti_religion_better_or_worse_
 
  较少的信徒 
 
@@ -788,7 +788,7 @@ w:1
 w:1
  更差的无神论者 
 %%%%
- _graffiti_religion_non-orc_ 
+_graffiti_religion_non-orc_
 
  赞扬 Zin 和 Zin 的法律 
 
@@ -799,7 +799,7 @@ w:1
  #悖论！ 
  赞扬 Zin，但警告在表面上涂鸦通常是非法的 
 %%%%
- _graffiti_religion_not_non-orc_or_orc_ 
+_graffiti_religion_not_non-orc_or_orc_
 
  [glorifying|blaspheming] 众神 
 
@@ -863,7 +863,7 @@ w:1
 w:1
 不仅欢呼而且颂扬 @_graffiti_hailed_god_@
 %%%%
-_涂鸦_宗教_兽人_
+_graffiti_religion_orc_
 
 为 Beogh 和适当的兽人传教
 
@@ -875,7 +875,7 @@ _涂鸦_宗教_兽人_
 
 谈论贝奥如何与他们相处，而不是与其他异端兽人相处
 %%%%
-_涂鸦_谣言_
+_graffiti_rumour_
 
 推测佐特之球的力量
 
@@ -894,7 +894,7 @@ _涂鸦_谣言_
 # make_name() 中对 ploggifying 的引用。
 暗指“Plog”阴谋以及为什么它到处隐藏这个词
 %%%%
-_涂鸦_短_说_
+_graffiti_short_saying_
 
 @_graffiti_author_any_@ 在这里
 
@@ -922,7 +922,7 @@ _涂鸦_短_说_
 w:2
 @_graffiti_changed_names_@
 %%%%
-_涂鸦_物种_
+_graffiti_species_
 
 哀叹科格林工程对于非科格林人来说是多么奇怪
 
@@ -952,7 +952,7 @@ _涂鸦_物种_
 
 声称侏儒确实存在并且非常擅长隐藏
 %%%%
-_涂鸦_独特_评论_
+_graffiti_unique_comment_
 
 说卡桑德拉不应该再这么消极
 
@@ -976,7 +976,7 @@ _涂鸦_独特_评论_
 
 推测耶利米主人的真实本质
 %%%%
-# 这不在 @_graffiti_religion_[whatever]_@ 中，因为它是
+# This is not in @_graffiti_religion_[whatever]_@ because it's
 # 结构太不同了。假设一个人无需
 # 必然崇拜神。
 _涂鸦_不可读_
@@ -991,7 +991,7 @@ w:1
 w:1
 @_writing_type_@ 的涂鸦，除了 @_graffiti_hailed_god_@ 的位和 @_graffiti_author_any_@ 的签名之外，无法读取
 %%%%
-_涂鸦_复仇_
+_graffiti_vengeance_
 
 @_graffiti_author_any_@ 为 @_graffiti_author_any_@ 报仇
 

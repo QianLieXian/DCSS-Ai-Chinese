@@ -48,11 +48,11 @@
 
  巴吉之书 
 %%%%
- 书外观 
+book appearance
 
  @_book_adjective_@ 
 %%%%
- book_noun 
+book_noun
 
  年鉴 
 
@@ -108,7 +108,7 @@
 
  卷 
 %%%%
- _book_noun_on_ 
+_book_noun_on_
 
  注释 
 
@@ -168,7 +168,7 @@ Verses
 
 著作
 %%%%
-# C++：纪律书籍，包括 Kiku 的礼物
+# C++: discipline books, including Kiku's gifts
 book_name
 
 w:9
@@ -227,7 +227,7 @@ w:6
 
 @_armour_animal_@
 %%%%
-# C++: Xom (废话！)
+# C++: Xom (duh!)
 Xom_book_title
 
 w:30
@@ -257,7 +257,7 @@ w:3
 w:3
  @_discomfort_weapon_@ 
 %%%%
- _book_adjective_ 
+_book_adjective_
 
  古代 
 
@@ -415,7 +415,7 @@ w:3
 
  泛黄 
 %%%%
- _the_book_magic_ 
+_the_book_magic_
 
  @_occult_adjective_@ 艺术
 
@@ -450,7 +450,7 @@ w:3
 w:300
  @_book_magic_@ 
 %%%%
- _book_magic_ 
+_book_magic_
 
  @_occult_adjective_@ 洞察 
 
@@ -509,7 +509,7 @@ w:2
 
  巫术
 %%%%
-_ocult_adjective_ 
+_occult_adjective_
 
  深奥 
 
@@ -566,7 +566,7 @@ _ocult_adjective_
 
  面纱 
 %%%%
- _初学者_ 
+_beginners_
 
  初学者 
 
@@ -811,7 +811,7 @@ w:1
 w:1
  佐特巫师
 %%%%
- _the_powerful_caster_ 
+_the_powerful_caster_
 
 w:100
  the @_powerful_caster_@ 
@@ -856,13 +856,13 @@ w:1
 w:1
  所罗门 
 %%%%
- _last_or_lost_ 
+_last_or_lost_
 
  最后
 
  丢失 
 %%%%
- _testament_noun_ 
+_testament_noun_
 
  存档
 
@@ -919,7 +919,7 @@ _困难级别书主_
 
 @_the_book_magic_@ 的全面理解
 %%%%
-# 7-9 级，未以其名称命名的书籍所有者/作者
+# level 7-9, books without being named after their owner/author
 难度级别书
 
 w:50
@@ -1030,7 +1030,7 @@ Aeromancy
 
  Zephyr 
 %%%%
- 咒语
+Conjuration
 
 奥术战斗 
 
@@ -1126,7 +1126,7 @@ w:2
 
  齐射 
 %%%%
- 地球 
+Earth
 
  数学 
 
@@ -1233,7 +1233,7 @@ w:2
 
  捕猎石 
 %%%%
- 火 
+Fire
 
  促进剂 
 
@@ -1329,7 +1329,7 @@ w:2
 
  火山
 %%%%
- 六角形 
+Hexes
 
  安布萨斯 
 
@@ -1418,7 +1418,7 @@ w:2
 
  神灵 
 %%%%
- 冰 
+Ice
 
  阿尔戈尔 
 
@@ -1480,7 +1480,7 @@ w:2
 
  冬天
 %%%%
-死灵术 
+Necromancy
 
  尸体 
 
@@ -1595,7 +1595,7 @@ w:2
 w:200
  @_Evil_adjective_@ @_Evil_noun_@ 
 %%%%
- # 死灵书籍 
+# for necromantic books
  _Evil_adjective_ 
 
  可恶的 
@@ -1645,7 +1645,7 @@ w:2
 
  邪恶 
 %%%%
- # 也适用于死灵书籍 
+# also for necromantic books
  _邪恶_名词_ 
 
  行为 
@@ -1674,7 +1674,7 @@ w:2
 
  言语 
 %%%%
- 炼金术 
+Alchemy
 
 反照率
 
@@ -1858,7 +1858,7 @@ w:2
  Yliaster 
 
 %%%%
- 召唤 
+Summoning
 
 伴奏 
 
@@ -1952,7 +1952,7 @@ w:2
 
  联盟 
 %%%%
- 易位 
+Translocation
 
  角度 
 
@@ -2048,7 +2048,7 @@ w:2
 
  徒步者 
 %%%%
- 锻造工艺
+Forgecraft
 
  技巧 
 
@@ -2308,7 +2308,7 @@ w:2
 
  纤细 
 %%%%
- 召唤调整 
+Conjuration adj
 
  光化 
 
@@ -2398,7 +2398,7 @@ w:2
 
  狂野 
 %%%%
- 土色 
+Earth adj
 
  灰质 
 
@@ -2477,7 +2477,7 @@ w:2
 
  火山 
 %%%%
- 火灾调整
+Fire adj
 
  炽热 
 
@@ -2573,7 +2573,7 @@ w:2
 w:2
  干得好 
 %%%%
- 六角形 adj 
+Hexes adj
 
  诱人 
 
@@ -2683,7 +2683,7 @@ w:2
 
  奇怪的 
 %%%%
- 冰 adj 
+Ice adj
 
  Algid 
 
@@ -2769,7 +2769,7 @@ w:2
 
  寒冷 
 %%%%
- 死灵 adj 
+Necromancy adj
 
  血腥 
 
@@ -2882,7 +2882,7 @@ w:2
 
  邪恶 
 %%%%
- 炼金术 adj 
+Alchemy adj
 
  炼金术 
 
@@ -2994,7 +2994,7 @@ Spagyric
 
  黄色 
 %%%%
- 召唤 adj 
+Summoning adj
 
  聚集 
 
@@ -3074,7 +3074,7 @@ Spagyric
 
  联合 
 %%%%
- 易位 adj 
+Translocation adj
 
  # 参考已删除的阿卡什记录法术书，
  # 其中包含强大的易位法术。 
@@ -3150,7 +3150,7 @@ Spagyric
 
  扭曲 
 %%%%
- 锻造 
+forgecraft adj
 
  合金 
 
@@ -3292,7 +3292,7 @@ Spagyric
 
  锻造 
 %%%%
- # 书籍的潜在前所有者 
+# potential previous owners of books
  # __NONE 被解析为空字符串 
  # 首先，组合。 
  #（这些必须按字母顺序排列；“地球召唤拥有者”不起作用！） 
@@ -3302,13 +3302,13 @@ Spagyric
 
  @Conjuration Earth owner@ 
 %%%%
- 召唤地球拥有者 
+Conjuration Earth owner
 
  Lehudib 
 
 __NONE
 %%%%
- 高级召唤火焰拥有者
+highlevel Conjuration Fire owner
 
  阿斯莫蒂乌斯 
 
@@ -3316,13 +3316,13 @@ __NONE
 
 __NONE
 %%%%
- 高级召唤死灵拥有者 
+highlevel Conjuration Necromancy owner
 
  埃列什基伽勒 
 
 __NONE
 %%%%
- 高级召唤召唤拥有者 
+highlevel Conjuration Summoning owner
 
  阿斯莫蒂乌斯 
 
@@ -3330,43 +3330,43 @@ __NONE
 
 __NONE
 %%%%
- 炼金土拥有者 
+Alchemy Earth owner
 
 Roxanne
 
 __NONE
 %%%%
- 高级地球拥有者召唤拥有者 
+highlevel Earth Summoning owner
 
  迪斯帕特 
 
 __NONE
 %%%%
- 高级火系召唤拥有者 
+highlevel Fire Summoning owner
 
  阿斯蒙蒂斯 
 
 __NONE
 %%%%
- 火冰拥有者 
+Fire Ice owner
 
  Vv 
 
 __NONE
 %%%%
- 高级炼金死灵拥有者 
+highlevel Alchemy Necromancy owner
 
  Gloorx Vloq 
 
 __NONE
 %%%%
- 炼金死灵拥有者 
+Alchemy Necromancy owner
 
  Cigotuvi 
 
 __NONE
 %%%%
- # 单拼学校。 
+# Single spell schools.
  高级召唤拥有者 
 
  阿斯摩蒂乌斯 
@@ -3385,7 +3385,7 @@ Vehumet
 w:20
  @Conjuration owner@ 
 %%%%
- 召唤物所有者 
+Conjuration owner
 
  Lehudib 
 
@@ -3393,14 +3393,14 @@ w:20
 
 __NONE
 %%%%
- 高级地球所有者 
+highlevel Earth owner
 
  Dispater 
 
 w:50
  @Earth owner@ 
 %%%%
- 地球所有者 
+Earth owner
 
  乔格伦
 
@@ -3414,7 +3414,7 @@ Roxanne
 
 __NONE
 %%%%
- 高级 火主 
+highlevel Fire owner
 
  阿斯摩蒂斯 
 
@@ -3422,13 +3422,13 @@ __NONE
 
 __NONE
 %%%%
- 冰主 
+Ice owner
 
  奥佐库布 
 
 __NONE
 %%%%
- 空气主 
+Air owner
 
  云法师 
 
@@ -3438,7 +3438,7 @@ __NONE
 
 __NONE
 %%%%
- 高级死灵法师 
+highlevel Necromancy owner
 
  Ereshkigal 
 
@@ -3450,7 +3450,7 @@ w:5
 w:40
  @Necromancy owner@ 
 %%%%
- 死灵法师 
+Necromancy owner
 
  Borgnjor 
 
@@ -3462,14 +3462,14 @@ w:40
 
 __NONE
 %%%%
- 高级炼金所有者 
+highlevel Alchemy owner
 
  Gloorx Vloq 
 
 w:30
  @Alchemy owner@ 
 %%%%
- 炼金所有者 
+Alchemy owner
 
  阿利斯泰尔 
 
@@ -3481,7 +3481,7 @@ w:30
 
 __NONE
 %%%%
- 高级召唤所有者
+highlevel Summoning owner
 
  Asmodeus 
 
@@ -3491,20 +3491,20 @@ Mnoleg
 
  @Summoning owner@ 
 %%%%
- 召唤拥有者 
+Summoning owner
 
 Mara
 
 __NONE
 %%%%
- 高级易位拥有者 
+highlevel Translocation owner
 
  Lom Lobon 
 
 w:20
  @Translocation owner@ 
 %%%%
- 易位拥有者 
+Translocation owner
 
  盖尔 
 
@@ -3512,7 +3512,7 @@ w:20
 
 __NONE
 %%%%
- 六边形拥有者
+Hexes owner
 
  Yara 
 

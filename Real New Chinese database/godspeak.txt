@@ -6,7 +6,7 @@
 # docs/develop/目录中的monster_speech.txt。
 ############################################################
 %%%%
-# 找不到关键字时的回退
+# fall-back in case a keyword can't be found
 Xom大致效果
 
 Xom 偷笑。
@@ -39,7 +39,7 @@ Xom对你微笑。
 
 “接住！”
 %%%%
-# 赠送您一颗球体
+# gifting you an orb
 Xom 球体礼物
 
 “这是您想要的球体吗？”
@@ -60,7 +60,7 @@ Xom单召唤
 
 Xom打开一扇门。
 %%%%
-Xom 多次召唤
+Xom multiple summons
 
 “为凡人服务，我的孩子们！”
 
@@ -68,7 +68,7 @@ Xom 为您提供一些临时援助。
 
 Xom瞬间打开一扇门。
 %%%%
-Xom 动画怪物武器
+Xom animate monster weapon
 
 “是时候玩点乐趣了！”
 
@@ -78,7 +78,7 @@ Xom给你一个小恩惠。
 
 Xom对你微笑。
 %%%%
-Xom花环
+Xom flora ring
 
 Xom展示了一把园艺天赋。
 
@@ -94,7 +94,7 @@ Xom 在这道地牢的蛋糕中添加了新鲜蔬菜。
 w:5
 Xom在地上种了一些魔豆。
 %%%%
-#所有风景变化效果需要参考feature-data.hVaultnames
+# all scenery changing effects need to refer to the feature-data.h vaultnames
 Xom风景通用
 
 Xom短暂接触你的周围环境。
@@ -103,15 +103,15 @@ Xom 抱怨画面。
 
 Xom 改变你周围的地牢。
 %%%%
-Xom风景 open_door
+Xom scenery open_door
 
 @Xom scenery generic@
 %%%%
-Xom风景 close_door
+Xom scenery closed_door
 
 @Xom scenery generic@
 %%%%
-Xom风景坛_xom
+Xom scenery altar_xom
 
 Xom 为您的环境添加一些个人风格。
 
@@ -121,23 +121,23 @@ Xom 为您的环境添加一些个人风格。
 
 @Xom scenery generic@
 %%%%
-Xom风景cache_of_fruit
+Xom scenery cache_of_fruit
 
 Xom不小心忘记了一些零食。
 
 Xom准备了一系列可见的最好的水果品种，然后将它们丢弃。
 %%%%
-Xom风景cache_of_meat
+Xom scenery cache_of_meat
 
 Xom [offers|fetches]你有一些零食。
 
 Xom 准备好了一顿由你在地牢中的杀戮膳食准备的晚餐。
 %%%%
-Xom风景cache_of_baked_goods
+Xom scenery cache_of_baked_goods
 
 Xom提供一些新鲜出炉的小吃。
 %%%%
-Xom风景enter_abyss
+Xom scenery enter_abyss
 
 Xom 给耳目带来了一种新的节奏变化。
 
@@ -145,11 +145,11 @@ Xom在现实中撕开了几个小洞。
 
 Xom将空间弯曲成结。
 %%%%
-Xom风景 trap_teleport
+Xom scenery trap_teleport
 
 @Xom scenery enter_abyss@
 %%%%
-Xom 厦门的门环
+Xom kind door ring
 
  你周围的一小段距离似乎呈现出一种奇怪的安全坚固性。 
 
@@ -157,7 +157,7 @@ Xom 创造了一个安全的冒险家外壳。
 
  “你想要一些属于自己的空间吗，凡人？” 
 %%%%
-Xom 意味着门环
+Xom mean door ring
 
 Xom 举起并拉入临时搭建的 [warmonger|duelist] 的竞技场。
 
@@ -166,7 +166,7 @@ Xom将你作为展品锁起来进行研究。
 w:5
 Xom 建造了另一个 @player_genus@ 宠物动物园。
 %%%%
-Xom 城市之旅
+Xom bazaar trip
 
 Xom带您进入深不可测的肥胖王国！
 
@@ -196,7 +196,7 @@ Xom的力量几乎有那么一刻触动了你。
 
 你几乎听到 Xom 疯狂的笑声。
 %%%%
-# 保持该值大于一且较小。
+# Keep this greater than one, and small.
 _xom_编号_
 
 两个
@@ -209,13 +209,13 @@ _xom_编号_
 
 六个
 %%%%
-Xom功能熔岩
+Xom feature lava
 
 @The_feature@ 喷出火花！
 
 @The_feature@ 短暂凝固。
 %%%%
-Xom 特征 浅水
+Xom feature shallow water
 
 @The_feature@ 出现短暂气泡。
 
@@ -231,25 +231,25 @@ Xom 特征 浅水
 
 @The_feature@ 暂时停止。
 %%%%
-Xom 拥有深水
+Xom feature deep water
 
 @Xom feature shallow water@
 
 在旁边，您会发现 @the_feature@ 中潜伏着一些东西。
 %%%%
-Xom 特征血液
+Xom feature blood
 
 @Xom feature shallow water@
 
 @The_feature@ 短暂凝固。
 %%%%
-Xom 特征 眼睛
+Xom feature eyes
 
 @The_feature@ 好奇地看着你。
 
 @The_feature@ 瞬间就能看穿您。
 %%%%
-Xom 具有干燥的
+Xom feature dry
 
 水从@the_feature@短暂喷出。
 
@@ -259,7 +259,7 @@ Xom 具有干燥的
 
 @the_feature@ 中冒出那么多。
 %%%%
-Xom 具有雕像般的
+Xom feature statuelike
 
 @The_feature@转向给你怒视。
 
@@ -269,7 +269,7 @@ Xom 具有雕像般的
 
 @The_feature@原地旋转。
 %%%%
-Xom功能树
+Xom feature tree
 
 @The_feature@ 向您弯曲。
 
@@ -277,7 +277,7 @@ Xom功能树
 
 @The_feature@原地晃动。
 %%%%
-Xom采用半透明墙
+Xom feature translucent wall
 
 昏暗的形状在@the_feature@中游动。
 
@@ -289,13 +289,13 @@ Xom采用半透明墙
 
 @The_feature@。
 %%%%
-Xom 具有金属墙
+Xom feature metal wall
 
 电力卷须在@the_feature@上爬行。
 
 @The_feature@ 短暂出现失去镜子。
 %%%%
-Xom 特色石拱门
+Xom feature stone arch
 
 @The_feature@简要展示了另一侧阳光明媚的草地。
 
@@ -311,31 +311,31 @@ Xom 特色石拱门
 
 @The_feature@ 简要显示了另一侧覆盖有 @any_graffiti@ 的半透明墙。
 %%%%
-Xom 脚下将军
+Xom underfoot general
 
 @The_feature@ 在您脚下短暂移动。
 
 一个难以察觉的灵魂掠过你身边的@the_feature@。
 %%%%
-Xom脚下的水
+Xom underfoot water
 
 @The_feature@ 短暂地远离您。
 
 一种难以察觉的精神在你身边的@the_feature@中产生涟漪。
 %%%%
-Xom脚下的空降兵将军
+Xom underfoot airborne general
 
 @The_feature@好像要从你脚下掉下来了！
 
 @The_feature@ 似乎正向你冲来！
 %%%%
-Xom 脚下空气中的水
+Xom underfoot airborne water
 
 @Xom underfoot airborne general@
 
 一种难以察觉的精神传入你脚下的@the_feature@。
 %%%%
-Xom 库存单数
+Xom inventory singular
 
 @Your_item@ 短时发光。
 
@@ -345,7 +345,7 @@ Xom 库存单数
 
 @Your_item@ @any_colour@ 短暂触发。
 %%%%
-Xom库存复数
+Xom inventory plural
 
 @your_item@ 短暂发光之一。
 
@@ -363,13 +363,13 @@ Xom库存复数
 
 @Your_item@ 短暂触发 @any_colour@。
 %%%%
-Xom 楼层库存单一
+Xom floor inventory singular
 
 @Xom inventory singular@
 
 @Your_item@ 从你的背包中掉出来，然后立即跳回来！
 %%%%
-Xom楼层库存复数
+Xom floor inventory plural
 
 @Xom inventory plural@
 
@@ -377,17 +377,17 @@ Xom楼层库存复数
 
 @Your_item@ 从你的背包中掉出来，然后立即跳回来！
 %%%%
-Xom 绷带
+Xom bandages
 
  您会短暂地被绷带缠住。 
 %%%%
-Xom 地板绷带
+Xom floor bandages
 
 @Xom bandages@
 
  您被绷带绊倒。 
 %%%%
-Xom 一只眼睛
+Xom one eye
 
  单片眼镜短暂出现在您的眼睛上方。 
 
@@ -395,7 +395,7 @@ Xom 一只眼睛
 
 一股@any_colour@光从你的眼睛里短暂射出！
 %%%%
-Xom眼睛
+Xom eyes
 
  单片眼镜短暂出现在您的一只眼睛上方。 
 
@@ -403,7 +403,7 @@ Xom眼睛
 
 @any_colour@ 光芒从你的眼睛中短暂射出！
 %%%%
-Xom耳朵
+Xom ears
 
 你的耳朵疯狂地扇动。
 
@@ -411,7 +411,7 @@ Xom耳朵
 
 [Smoke|Steam] 从你的耳朵里短暂地发行来！
 %%%%
-Xom嘴
+Xom mouth
 
 您的嘴短暂地完全收缩。
 
@@ -421,7 +421,7 @@ Xom嘴
 
 [Smoke|Steam] 一会儿从你嘴里倒出来！
 %%%%
-Xom 头发
+Xom hair
 
 您的眉毛短暂地感觉非常浓密。
 
@@ -429,7 +429,7 @@ Xom 头发
 
 您短暂地长出大胡子和胡须。
 %%%%
-Xom 即兴舞蹈
+Xom impromptu dance
 
 您表现即兴舞蹈@dance_name@。
 
@@ -439,7 +439,7 @@ Xom 即兴舞蹈
 
 您强迫性地踩踏 @feet@ @_xom_number_@ 次。
 %%%%
-舞蹈名称
+dance_name
 
 芭蕾舞
 
@@ -459,7 +459,7 @@ Xom 即兴舞蹈
 
 华尔兹
 %%%%
-杂技动作名称
+acrobatic_move_name
 
 @hand@静止
 
@@ -469,7 +469,7 @@ Xom 即兴舞蹈
 
 空翻
 %%%%
-克索姆尾巴
+Xom tail
 
 您的尾巴短暂地缩回到身体中。
 
@@ -477,25 +477,25 @@ Xom 即兴舞蹈
 
 你短暂地长出了另一条尾巴。
 %%%%
-Xom 随机居住地点奇异
+Xom random body part singular
 
 你的 @random_body_part_internal_singular@ 短暂地离开了你的身体，然后聚合回来！
 
 你的@random_body_part_external_singular@短暂地从你的身体上跳下来，然后重新绑在你身上！
 %%%%
-Xom 随机身体部分复数
+Xom random body part plural
 
 你的 @random_body_part_internal_plural@ 短暂地离开了你的身体，然后又聚合回来！
 
 你的@random_body_part_external_plural@短暂地从你的身体上跳下来，然后重新绑在你身上！
 %%%%
-Xom 徒手单手
+Xom unarmed one hand
 
 纤细的手杖会短暂出现在您的 @hand@ 中。
 
  你强迫性地对着空气打拳。 
 %%%%
-Xom 徒手两只手
+Xom unarmed two hands
 
 @Xom unarmed one hand@
 
@@ -503,7 +503,7 @@ Xom 徒手两只手
 
 您强迫性地鼓掌 @hands@ @_xom_number_@ 次。
 %%%%
-Xom斗篷槽
+Xom cloak slot
 
 @Your_item@在无感的风中翻滚。
 
@@ -511,25 +511,25 @@ Xom斗篷槽
 
 @Your_item@！
 %%%%
-Xom 头盔插槽
+Xom helmet slot
 
 @Your_item@ 跳到空中，短暂旋转，然后降落在您的 @head@ 上！
 %%%%
-Xom 副手老虎机
+Xom offhand slot
 
 @Your_item@旋转！
 
 @Your_item@ 短暂触发 @any_glowing_colour@！
 %%%%
-Xom 手套夹
+Xom gloves slot
 
 @Your_item@ 短暂增长 @_xom_number_@ 额外手指！
 %%%%
-Xom 靴子槽
+Xom boots slot
 
 @Your_item@ 增长到巨大尺寸，然后缩小！
 %%%%
-Xom 护身符插槽
+Xom amulet slot
 
 @Your_item@脉动！
 
@@ -537,13 +537,13 @@ Xom 护身符插槽
 
 @Your_item@ 短暂飞翔并暂停在您的 @head@ 上空！
 %%%%
-Xom小玩意插槽
+Xom gizmo slot
 
 @Your_item@ 坐！
 
 @Your_item@ 泄漏@rainbow_colour@ 烟草！
 %%%%
-Xom环槽
+Xom ring slot
 
 @Your_item@抽奖！
 
@@ -551,27 +551,27 @@ Xom环槽
 
 @Your_item@短暂变亮，然后再次变暗！
 %%%%
-Xom 龙铠
+Xom dragon armour
 
 @your_item@上的鳞片短暂摆动。
 %%%%
-Xom兽皮
+Xom animal skin
 
 @your_item@上的皮毛以惊人的速度变长，然后又缩回正常状态。
 %%%%
-Xom皮甲
+Xom leather armour
 
 @Your_item@会短暂长出毛皮，然后恢复正常。
 %%%%
-Xom 长袍
+Xom robe
 
 你短暂地陷入了@your_item@的困境。
 %%%%
-Xom金属装甲
+Xom metal armour
 
 @Your_item@ 短暂出现生锈。
 %%%%
-Xom重新排列棋子
+Xom rearrange the pieces
 
 Xom 决定重新排列棋子。
 
@@ -581,7 +581,7 @@ Xom 决定重新排列棋子。
 
  “这就是我喜欢的样子！” 
 %%%%
-Xom 传送之旅
+Xom teleportation journey
 
  “呼！” 
 
@@ -591,7 +591,7 @@ Xom 传送之旅
 
 Xom 扭曲您周围的空间。
 %%%%
-Xom 困惑
+Xom confusion
 
  “呵呵呵……” 
 
@@ -599,13 +599,13 @@ Xom的力量瞬间触动了你的心灵。
 
 Xom 偷笑。
 %%%%
-Xom 醉酒闹
+Xom drinkless confusion
 
  “绊倒吧，我的宠物！” 
 
 Xom的力量瞬间触动你的身体和心灵。
 %%%%
- # 排水，仅限玩家的折磨，或末日。 
+# Draining, player-only torment, or Doom.
 Xom 受苦
 
  “你让我不高兴了，凡人。” 
@@ -620,7 +620,7 @@ Xom的力量瞬间触动了你。
 
 Xom 的恶意注意力暂时转向了你。
 %%%%
-Xom 苦难所有者
+Xom torment all
 
 Xom 厌倦者！
 
@@ -633,7 +633,7 @@ Xom 的恶意注意力暂时转向了你的方向。
 w:5
 Xom 的手打破了场上所有人的灵魂。
 %%%%
- # 召唤敌对怪物 
+# summon hostile monster
 Xom 对敌怪物
 
  “是时候玩点乐趣了！” 
@@ -644,7 +644,7 @@ Xom 对敌怪物
 
 听到你 Xom 疯狂的笑声。
 %%%%
-# 一个友好玩家幻象 + 两个敌对玩家幻象
+# one friendly player illusion + two hostile player illusions
 Xom 发送克隆体
 
 Xom 感觉应该有更多的人与地下城分享。
@@ -653,7 +653,7 @@ Xom轻轻地砸碎[@random_body_part_external_singular@|@random_body_part_extern
 
 “乘以前进！”
 %%%%
-# 锻炼你的mp，产生magicspawn
+# drain your mp, produce magicspawn
 Xom 人才流失
 
 w:20
@@ -671,7 +671,7 @@ Xom让你头疼不已。
 
 “你不需要这个，是吗？”
 %%%%
-# 仅在召唤成功生成时才打印
+# prints only if summons successfully spawn
 Xom 锻炼大脑
 
 w:20
@@ -685,7 +685,7 @@ w:20
 
 你的魔法通过你的 [@random_body_part_any_singular@|@random_body_part_any_plural@] 撕裂！
 %%%%
-Xom放逐
+Xom banishment
 
 “你在你的小世界里变得太舒服了，凡人！”
 
@@ -693,7 +693,7 @@ Xom让你跌入深渊！
 
 当 Xom 疯狂的笑声响起时，世界似乎在旋转。
 %%%%
-Xom恢复自己的放逐
+Xom revert own banishment
 
 w:30
 “开玩笑！”
@@ -704,7 +704,7 @@ w:30
 
 Xom 将把您带回地牢中类似的安静环境。
 %%%%
-Xom 恢复其他放逐
+Xom revert other banishment
 
 “回到这里！”
 
@@ -712,7 +712,7 @@ Xom 恢复其他放逐
 
 Xom 将把您带回地牢中类似的安静环境。
 %%%%
-# Xom 将附近敌人对怪物的武器升级为混沌品牌
+# Xom upgrades a nearby hostile monster's weapon to a chaos brand
 Xom 混沌升级
 
 Xom的力量打击附近的武器。
@@ -721,7 +721,7 @@ Xom的力量打击附近的武器。
 
 Xom咯咯地笑。
 %%%%
-Xom 噪音
+Xom noise
 
 Xom 发现噪音！您听到 @weapon_noise@
 
@@ -731,7 +731,7 @@ w:1
 w:1
 Xom敲鼓。
 %%%%
-Xom假粉碎
+Xom fake shatter
 
 w:30
 “咔——崩溃！”
@@ -743,7 +743,7 @@ Xom抵达地球。
 w:1
 Xom向地牢墙壁揭示了巨大的毁灭真相！
 %%%%
-Xom 眨眼怪物
+Xom blink monsters
 
 “现在那边！”
 
@@ -751,7 +751,7 @@ Xom 眨眼怪物
 
 Xom 决定稍微改变一下。
 %%%%
-Xom快进
+Xom fast forward
 
 Xom加快战斗速度。
 
@@ -759,7 +759,7 @@ Xom 要求更快的节奏。
 
 “快点！”
 %%%%
-Xom 慢动作
+Xom slow motion
 
 Xom 感觉在场上没有人看得足够轻松。
 
@@ -767,7 +767,7 @@ Xom 将时间打结。
 
 “别这么急！”
 %%%%
-Xom 暂停
+Xom pause
 
 Xom停止一切，享受这一刻。
 
@@ -776,13 +776,13 @@ Xom 准时了一会儿。
 w:1
 Xom 为观众准备地板独奏！
 %%%%
-Xom 纪念回忆
+Xom grant word of recall
 
 Xom 觉得这个微薄的聚会需要更多的客人。
 
 Xom 发出高度关注的邀请。
 %%%%
-Xom 赢得无声报警词
+Xom grant voiceless word of recall
 
 Xom要求戏剧性对话！
 
@@ -801,11 +801,11 @@ Xom给你一个小恩惠。
 
 Xom对你微笑。
 %%%%
-Xom 劈裂
+Xom cleaving
 
 @Xom potion effect@
 %%%%
-# 随机占卜（魔法映射、探测物品、探测生物）
+# random divination (magic mapping, detect items, detect creatures)
 Xom占卜
 
 “看看我看到了什么，我的孩子！”
@@ -814,7 +814,7 @@ Xom 提供您的洞察力。
 
 Xom 傻笑。
 %%%%
-# 施放随机法术
+# cast a random spell
 Xom 法术效果
 
 Xom的力量流经你！
@@ -823,14 +823,14 @@ Xom暂时玩弄现实。
 
 Xom哈哈大笑。
 %%%%
-# 五彩烟迹
+# multicoloured smoke trail
 Xom 云迹
 
 “去重新装修吧，我的孩子！”
 
 “这个地方需要多一点气氛。”
 %%%%
-# 加强友军，削弱敌方
+# strengthens friendlies, weakens hostiles
 Xom 良好的怪物变形
 
 “这可能会更好！”
@@ -841,19 +841,19 @@ Xom 的力量影响你的周围。
 
 你听到Xom慈祥的笑声。
 %%%%
-# 削弱友军，加强敌方
+# weakens friendlies, strengthens hostiles
 Xom 坏怪物变形
 
 @Xom good monster polymorph@
 %%%%
-Xom 浪潮
+Xom wave of despair
 
 Xom瞬间讲述了一个恐怖故事。
 
 w:2
 Xom 高兴地回忆起多个地下城文明的崩溃。
 %%%%
-Xom 身体状况良好
+Xom good mutations
 
 “你需要一些细微的调整，凡人！”
 
@@ -865,7 +865,7 @@ Xom的力量瞬间触动了你。
 
 通过一束 [@rainbow_colour@|@misc_colour@] 光，Xom 可以重建您。
 %%%%
-Xom 突然突变
+Xom random mutations
 
 “你需要一些小的改进，凡人！”
 
@@ -877,7 +877,7 @@ Xom的力量暂时与你擦肩而过。
 
 随着 [@rainbow_colour@|@misc_colour@] 的光芒的闪烁，Xom 重建了你。
 %%%%
-Xom神雷
+Xom divine lightning
 
 该区域充满神雷！
 
@@ -885,7 +885,7 @@ Xom投掷闪电！
 
 “准备，瞄准，开火！”
 %%%%
-Xom 蛇形棍
+Xom snakes to sticks
 
 Xom 改变你周围的人。
 
@@ -897,7 +897,7 @@ Xom 影响您的周围环境。
 
 @Xom good monster polymorph@
 %%%%
-Xom 点亮蜘蛛网
+Xom lights up webs
 
 Xom [gleefully|mirthfully] 破坏当地蜘蛛艺术品。
 
@@ -906,7 +906,7 @@ Xom [brushes upon|sweeps through] 您周围环境的光。
 w:1
 @Xom fake destruction@
 %%%%
-Xom 毁灭
+Xom destruction
 
 “燃烧，宝贝，燃烧！”
 
@@ -921,7 +921,7 @@ Xom 猛烈地打刷新。
 
 @Xom fake destruction@
 %%%%
-Xom 假破坏
+Xom fake destruction
 
 “感受我的力量！”
 
@@ -930,7 +930,7 @@ Xom展现了破坏力。
 w:1
 “让它在地狱之火中结束吧！”
 %%%%
-Xom原力长矛
+Xom force lance fleet
 
 Xom空降一个原力营！
 
@@ -944,15 +944,15 @@ Xom发射了整个消防车的弹幕！
 w:1
 Xom演出戏剧性的管风琴和弦！
 %%%%
-Xom 意外杀人
+Xom accidental homicide
 
 “哎呀，我不是故意的！”
 %%%%
-Xom 怪异死亡
+Xom weird death
 
 “这是怎么发生的？奇怪。”
 %%%%
-Xom复活
+Xom resurrection
 
 “让我修复你的身体。”
 
@@ -973,7 +973,7 @@ Xom 在一切发生 @mono_colour@ 之前救了你。
 w:1
 “再来一个 [life|try|go]。”
 %%%%
-Xom 击退楼梯
+Xom repel stairs
 
 Xom改变风景。
 
@@ -987,15 +987,15 @@ Xom拉动附近的@staircase@。
 
 Xom 改变你周围的地牢。
 %%%%
-Xom 好的附魔怪物
+Xom good enchant monster
 
 @Xom good monster polymorph@
 %%%%
-Xom 坏的附魔怪物
+Xom bad enchant monster
 
 @Xom good enchant monster@
 %%%%
-Xom 好的超附魔怪物
+Xom good hyper enchant monster
 
 “见证[hero|champion]真正的崛起！”
 
@@ -1005,7 +1005,7 @@ Xom的力量会非常短暂地影响你的周围环境。
 
 听到你Xom慈祥的咯咯笑声。
 %%%%
-Xom 集体乐趣
+Xom mass charm
 
 Xom 准备好混沌讨伐！
 
@@ -1019,13 +1019,13 @@ Xom 使用 @_trout_species_@ 鳟鱼贿赂附近的敌人。
 w:5
 Xom 的手触动了现场人们的心。
 %%%%
-Xom 隐形玩家
+Xom stealth player
 
 Xom 明显让你安静了。
 
 Xom 低声说道： 嘘！
 %%%%
-徐姆云
+Xom cloud
 
  “这里的天气有点太无聊了。” 
 
@@ -1033,7 +1033,7 @@ Xom 要求 Qazlal 给事情增加一点趣味。
 
 “预报：以多云为主。” 
 %%%%
-索姆救生将军
+Xom life saving general
 
  “什么？等等，不！” 
 
@@ -1047,7 +1047,7 @@ Xom 要求 Qazlal 给事情增加一点趣味。
 
 Xom · 觉得很巴基斯坦
 %%%%
-Xom救生演员
+Xom life saving actor
 
 w:20
 @Xom life saving general@
@@ -1060,7 +1060,7 @@ w:20
 
 “放开我的@_xom_plaything_@！”
 %%%%
-Xom 无聊死
+Xom boring death
 
 Xom哈欠连天！
 
@@ -1081,7 +1081,7 @@ Xom哈欠连天！
 w:1
 “除非有人失去一只眼睛，否则这就不好玩了。”
 %%%%
-#Xom笑
+# Xom laughing
 # （目前仅用于赛后回应“你死了...”）
 克姆笑
 
@@ -1111,7 +1111,7 @@ Xom哈哈大笑！
 
 Xom咯咯笑！
 %%%%
-_xom_玩物_
+_xom_plaything_
 
 # 虔诚度分别 > 180 和 > 80
 {{
@@ -1127,7 +1127,7 @@ elseif you.piety_rank() > 2 那么
 #杂神消息。
 ######################################
 %%%%
-背诵_闭包
+recite_closure
 
 “阿门！”
 
@@ -1149,7 +1149,7 @@ w:5
 w:3
  “在火中！在痛苦中！” 
 %%%%
- 伊格尼斯元素之怒 
+Ignis elemental wrath
 
  “攻击，我最后的坚定仆人！” 
 
@@ -1169,7 +1169,7 @@ w:5
 w:5
  “我的手，我的牙齿，我燃烧的泪水：它们永远不会背叛我！” 
 %%%%
-Makhleb刽子手DIY不休
+Makhleb executioner chatter
 
 w:40
  “杀。杀。杀！” 
@@ -1190,15 +1190,15 @@ w:5
 
 阿什扎里说：分享我的愿景。承受我的诅咒吧。
 %%%%
- 贝奥苦修 
+Beogh penance
 
  贝奥说： 不要背叛你的兽人同胞！ 
 %%%%
-贝奥欢迎
+Beogh welcome
 
 Beogh 说：向世界展示成为兽人意味着什么！
 %%%%
- 贝奥使徒挑战 
+Beogh apostle challenge
 
  请注意，挑战者正在战斗中寻找你。证明你对我的忠诚！将我所有的孩子团结在一面旗帜下！ 
 
@@ -1207,131 +1207,131 @@ Beogh 说：向世界展示成为兽人意味着什么！
  # 莎士比亚/托尔金 
  把你的勇气鼓到坚持的地方，并面对挑战。为了生存而战！大战中，一切都将是兽人！ 
 %%%%
- 切布里亚多斯苦修 
+Cheibriados penance
 
  切布里亚多斯说： 别这么急！ 
 %%%%
-切布里亚多斯欢迎
+Cheibriados welcome
 
 Cheibriados说：放轻松。
 %%%%
- 切布里亚多斯之死 
+Cheibriados death
 
  切布里亚多斯欣赏死亡的静止。 
 %%%%
-迪斯米诺斯欢迎
+Dithmenos welcome
 
 迪斯米诺斯说： 在黑暗的地方行走。
 %%%%
-苦修
+Elyvilon penance
 
 Elyvilon 说：在你的服务中更加勤奋。
 %%%%
-Elyvilon欢迎
+Elyvilon welcome
 
 Elyvilon 说：前进，帮助弱者！
 %%%%
-Fedhas 忏悔
+Fedhas penance
 
 Fedhas 抗议您对自然的侵犯。
 %%%%
-Fedhas 欢迎
+Fedhas welcome
 
 Fedhas说：传播生与死。
 %%%%
-Fedhas 去世
+Fedhas death
 
 Fedhas 感谢您对生态系统的贡献。
 %%%%
-戈扎格欢迎
+Gozag welcome
 
 戈扎格说：贪婪是好的。
 %%%%
-欢迎
+Hepliaklqana welcome
 
 Hepliaklqana 说：你的过去变成了你的现在！
 %%%%
-喜婆罗迦那死亡
+Hepliaklqana death
 
 Hepliaklqana 将把你带到你的祖先那里。
 %%%%
-伊格尼斯欢迎
+Ignis welcome
 
 伊格尼斯的火焰温柔地温暖着你。
 %%%%
-伊格尼斯死亡
+Ignis death
 
 伊格尼斯出去，和你一起死亡。
 %%%%
-吉瓦欢迎
+Jiyva welcome
 
 史莱姆为史莱姆之神！
 
 w:1
 新肉万岁！
 %%%%
-Jiyva 死亡
+Jiyva death corpse
 
 Jiyva 送果冻来消化你的遗骸。
 %%%%
-Jiyva 死尸不死
+Jiyva death corpse undead
 
 @Jiyva death corpse@
 %%%%
-Jiyva 死尸无生命
+Jiyva death corpse nonliving
 
 Jiyva 发送果冻来消化你的装备。
 %%%%
-欢迎
+Kikubaaqudgha welcome
 
 Kikubaaqudgha说：传播无尽的毁灭和绝望！
 %%%%
-基库巴阿库德加之死
+Kikubaaqudgha death
 
 Kikubaaqudgha 刺耳的声音：你让我失望了！欢迎...死亡！
 %%%%
-Kikubaaqudgha 死尸灵
+Kikubaaqudgha death corpse undead
 
 Kikubaaqudgha 粗声粗气：你让我失望了！欢迎...遗忘！
 %%%%
-Kikubaaqudgha 死亡尸体 无生命
+Kikubaaqudgha death corpse nonliving
 
 @Kikubaaqudgha death corpse undead@
 %%%%
-Kikubaaqudgha 死亡不死族
+Kikubaaqudgha death undead
 
 @Kikubaaqudgha death corpse undead@
 %%%%
-死亡非生命
+Kikubaaqudgha death nonliving
 
 @Kikubaaqudgha death corpse undead@
 %%%%
- 卢戈努欢迎 
+Lugonu welcome
 
  卢戈努 说： 传播屠杀和腐败！ 
 %%%%
-卢戈努新游戏
+Lugonu newgame
 
  卢戈努 说： 离开深渊，传播腐败，我的仆人！ 
 <lightgrey>（使用<w>a</w>能力菜单退出深渊）</lightgrey>
 %%%%
-马克勒布欢迎
+Makhleb welcome
 
 马克勒布的血液和灵魂！
 %%%%
-Nemelex Xobeh 欢迎
+Nemelex Xobeh welcome
 
 尼梅莱克斯·索贝说道：一切都在拍卖！
 %%%%
- 大川丸 苦修 
+Okawaru penance
 
  大川丸 说： 在战斗中重获荣誉！ 
 %%%%
- 大川丸 欢迎 
+Okawaru welcome
 
  大川丸 说： 在战斗中给我带来荣耀！ 
 %%%%
-#当TAG_MAJOR_VERSION > 34时删除Pakellas演讲
+# Remove Pakellas speech when TAG_MAJOR_VERSION > 34
 帕凯拉斯忏悔
 
 帕克拉斯说：这是一种局部无效的方法。
@@ -1342,7 +1342,7 @@ Nemelex Xobeh 欢迎
 
  帕克拉斯说： 不要阻碍进步！ 
 %%%%
-帕克拉斯欢迎
+Pakellas welcome
 
 帕克拉斯说：是时候继续实验了。
 
@@ -1363,7 +1363,7 @@ w:5
 w:1
  帕克拉斯说： 他们说我疯了……好吧，我们会让他们看看！ 
 %%%%
- 帕克拉斯之死 
+Pakellas death
 
  帕克拉斯说： 回到绘图板！ 
 
@@ -1375,71 +1375,71 @@ w:1
 
  帕克拉斯说： 是时候开始下一个实验了... 
 %%%%
- 卡兹拉尔苦修 
+Qazlal penance
 
  卡兹拉尔雷鸣： 不要干扰自然秩序！ 
 %%%%
-卡兹拉尔欢迎
+Qazlal welcome
 
 卡兹拉尔说： 让自然的力量摧毁这一切吧！ 
 %%%%
-茹欢
+Ru welcome
 
 Ru说：砍掉你的假身！
 %%%%
-茹死亡
+Ru death
 
 Ru尊敬您的最终牺牲。
 %%%%
- 西夫·穆纳 苦行 
+Sif Muna penance
 
  西夫·穆纳 说： 寻找更多的知识和智慧。 
 %%%%
-Sif Muna 欢迎
+Sif Muna welcome
 
 Sif Muna 低语：我知道很多秘密...
 %%%%
- 光辉者苦修 
+the Shining One penance
 
  光辉者说：成为一名烈士可能会洗清你的罪孽！ 
 %%%%
- 光辉者欢迎 
+the Shining One welcome
 
  光辉者说： 带领光明力量走向胜利！ 
 %%%%
- 穴居人苦修 
+Trog penance
 
  穴居人愤怒：杀死他们！ 
 %%%%
- 穴居人欢迎 
+Trog welcome
 
  穴居人说： 把他们都杀掉！ 
 %%%%
- 乌斯卡亚欢迎 
+Uskayaw welcome
 
  乌斯卡亚说： 臣服于节奏！ 
 %%%%
- 乌斯卡亚死亡尸体 
+Uskayaw death corpse
 
  你的身体与节奏完美契合。 
 %%%%
- 乌斯卡亚死亡尸体不死族 
+Uskayaw death corpse undead
 
 @Uskayaw death corpse@
 %%%%
- 乌斯卡亚死亡尸体无生命 
+Uskayaw death corpse nonliving
 
 @Uskayaw death corpse@
 %%%%
-欢迎
+Vehumet welcome
 
 Vehumet 说： 制造在地狱之火中结束！
 %%%%
- 吴健欢迎
+Wu Jian welcome
 
  理事会说：走智慧与战斗之路！ 
 %%%%
-Xom 无聊
+Xom bored
 
 Xom打哈欠。
 
@@ -1447,11 +1447,11 @@ Xom打哈欠。
 
 @Xom welcome@
 %%%%
-Xom新游戏
+Xom newgame
 
 Xom 说：一个新玩具！
 %%%%
-Xom欢迎
+Xom welcome
 
 Xom 偷笑。
 
@@ -1460,7 +1460,7 @@ Xom 偷笑。
 w:3
 @_xom_welcome_rare_@
 %%%%
-_xom_欢迎_稀有_
+_xom_welcome_rare_
 
 Xom 说：我看着你，我的 @_xom_child_@ 孩子。
 
@@ -1486,7 +1486,7 @@ _xom_child_
 
  调皮
 %%%%
-_鳟鱼_种类_
+_trout_species_
 
  彩虹 
 
@@ -1501,7 +1501,7 @@ _鳟鱼_种类_
 w:3
 @_trout_species_rare_@
 %%%%
-_鳟鱼_稀有_
+_trout_species_rare_
 
  复杂
 
@@ -1532,41 +1532,41 @@ _鳟鱼_稀有_
 w:2
  千斤顶 
 %%%%
-苦修
+Yredelemnul penance
 
 伊雷德莱姆努说：在死亡中人人平等！神圣的殉难毫无意义！
 %%%%
- 伊雷德莱姆努尔 欢迎 
+Yredelemnul welcome
 
  伊雷德莱姆努尔 说： 携带黑色火炬！唤醒闲散的死者！ 
 %%%%
-Yredelemnul 死亡
+Yredelemnul death corpse
 
  你的身体作为无意识的僵尸从死里复活。
 %%%%
-Yredelemnul 死亡埋不死族
+Yredelemnul death corpse undead
 
 你加入了不死族收割军团。
 %%%%
-Yredelemnul 死亡非生命
+Yredelemnul death corpse nonliving
 
 你的身体消失在一团暗影火中。
 %%%%
-伊雷德莱姆努 死亡亡灵
+Yredelemnul death undead
 
 @Yredelemnul death corpse undead@
 %%%%
-Zin 苦修
+Zin penance
 
 Zin严厉谴责你不遵守法律。
 
 Zin 紧张地解释 @_important_subject_@ 的重要性
 %%%%
-欣欣
+Zin welcome
 
 辛说：传播光明，我的孩子。
 %%%%
-佐特死亡
+Zot death
 
 # 嗯，Zot 是神吗..？
 Zot找到你了！

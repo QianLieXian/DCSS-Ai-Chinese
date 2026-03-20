@@ -30,7 +30,7 @@ w:5
 w:5
  乌鸦 
 %%%%
- _jewellery_special_name_ 
+_jewellery_special_name_
 
  态度 
 
@@ -59,7 +59,7 @@ w:5
  # FIXME：仅应出现在护身符上 
  Yendor 
 %%%%
- _suspicion_no_conflict_name_ 
+_suspicion_no_conflict_name_
 
  怀疑 
 
@@ -81,7 +81,7 @@ w:5
 
  惶恐 
 %%%%
- _suspicion_name_ 
+_suspicion_name_
 
  @_suspicion_no_conflict_name_@ 
 
@@ -141,7 +141,7 @@ w:5
 w:70
  @_anger_quality_@ 
 %%%%
- _xom_spect_ 
+_xom_esteem_
 
  # 选择 20% 的时间 
 w:40
@@ -187,7 +187,7 @@ w:40
 
  异想天开 
 %%%%
- _time_name_ 
+_time_name_
 
  秋天 
 
@@ -253,7 +253,7 @@ w:5
 
  至日 
 %%%%
- _sky_colour_name_ 
+_sky_colour_name_
 
  黑色 
 
@@ -269,7 +269,7 @@ w:5
 
  红色 
 %%%%
- _sky_or_light_ 
+_sky_or_light_
  黑暗 
 
  暗光 
@@ -298,7 +298,7 @@ w:5
 
  @_sky_colour_name_@ 天空 
 %%%%
- _virtue_or_vice_ 
+_virtue_or_vice_
 
 w:5
  @_virtue_name_@ 
@@ -307,7 +307,7 @@ w:5
 
  @_vice_name_@ 
 %%%%
- _virtue_name_ 
+_virtue_name_
  仁慈 
 
  慈善 
@@ -349,7 +349,7 @@ w:5
  智慧 
 
 %%%%
- _vice_name_ 
+_vice_name_
 
  # 一些致命的罪恶 
  暴食 
@@ -406,7 +406,7 @@ w:5
  原罪 
 
 %%%%
- _destiny_name_ 
+_destiny_name_
 
  因果关系 
 
@@ -423,7 +423,7 @@ w:5
  Wyrd 
 
 %%%%
- _number_or_qualifier_ 
+_number_or_qualifier_
 
  # 确切数字 
  三个 
@@ -580,7 +580,7 @@ w:5
  众所周知的 
 
 %%%%
- _thing_names_ 
+_thing_names_
  盟友 
 
  工匠 
@@ -787,7 +787,7 @@ w:5
 
  通灵塔 
 %%%%
- _verbing_ 
+_verbing_
 
 w:5
  衰老 
@@ -978,7 +978,7 @@ w:5
 w:5
  刺穿 
 %%%%
- _形容词_ 
+_adjective_
  蓝色 
 
  绿色 
@@ -1210,7 +1210,7 @@ w:5
 
  热心 
 %%%%
- _fruit_name_ 
+_fruit_name_
 
  橙色 
 

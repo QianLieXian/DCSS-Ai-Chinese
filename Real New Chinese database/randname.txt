@@ -178,12 +178,12 @@ w:1
 #2. 装甲
 ######################################################
 %%%%
-护符
+talisman
 
 # 待办事项？
 @armour@
 %%%%
-盔甲
+armour
 
 # 盔甲特定关键字（参见 rand_arm.txt）
 @_armour_name_shielding_@ 的
@@ -510,11 +510,11 @@ w:2
 
  @Okawaru armour@ 
 %%%%
- 大川铠甲 
+Okawaru body armour
 
  @Okawaru armour@ 
 %%%%
- Okawaru 盔甲 
+Okawaru armour
 
  # 再次使用正常机会，但有少数例外 
 w:400
@@ -588,11 +588,11 @@ w:400
 
 @Xom armour@
 %%%%
-Xom 防弹衣
+Xom body armour
 
 @Xom armour@
 %%%%
-Xom 装甲
+Xom armour
 
 # 增加的机会（显然！）
 w:5
@@ -785,7 +785,7 @@ w:5
 w:1
  “摇扇” 
 %%%%
- _ashenzari_object_ 
+_ashenzari_object_
 
  逆境 
 
@@ -834,7 +834,7 @@ w:100
 w:100
  @_suspicion_no_conflict_name_@ 
 %%%%
- _ashenzari_adjective_ 
+_ashenzari_adjective_
 
 w:50
  @_ashenzari_bound_adjective_@ 
@@ -844,7 +844,7 @@ w:50
 
  @_ashenzari_celestial_adjective_@ 
 %%%%
- _ashenzari_bound_adjective_ 
+_ashenzari_bound_adjective_
 
  束缚
 
@@ -870,7 +870,7 @@ w:50
 
  束缚 
 %%%%
- _ashenzari_celestial_adjective_ 
+_ashenzari_celestial_adjective_
 
  星体 
 
@@ -888,7 +888,7 @@ w:50
 
  崇高 
 %%%%
- _ashenzari_knowledge_adjective_ 
+_ashenzari_knowledge_adjective_
 
  全视 
 
@@ -932,7 +932,7 @@ w:50
 
  有远见的 
 %%%%
- _ashenzari_epithet_ 
+_ashenzari_epithet_
 
 w:100
  @_ashenzari_adjective_@ 神 
@@ -963,7 +963,7 @@ w:50
 
  不动一 
 %%%%
- _ashenzari_heavens_ 
+_ashenzari_heavens_
 
  宇宙 
 
@@ -1041,7 +1041,7 @@ w:5
 w:2
  黑色
 %%%%
- 武器外观 
+weapon appearance
 
  虹彩 
 
@@ -1069,7 +1069,7 @@ w:3
 w:180
  @general appearance@ 
 %%%%
- 长袍外观 
+robe appearance
 
  华丽华丽 
 
@@ -1133,7 +1133,7 @@ w:180
 
  暗影 
 %%%%
- 防弹衣外观 
+body armour appearance
 
 w:3
  臭味 
@@ -1149,7 +1149,7 @@ w:2
 w:200
  @armour appearance@ 
 %%%%
- 铠甲外观 
+armour appearance
 
  隐隐哼唱 
 
@@ -1168,7 +1168,7 @@ w:200
 w:160
  @general appearance@ 
 %%%%
- _gemstone_ 
+_gemstone_
 
  钻石 
 
@@ -1279,7 +1279,7 @@ _珠宝外观_
 w:2
  蛇纹石
 %%%%
-_戒指材质_ 
+_ring material_
 
  木质 
 
@@ -1328,7 +1328,7 @@ _戒指材质_
 w:2
  游丝
 %%%%
-_护身符材质_ 
+_amulet material_
 
  象牙 
 
@@ -1376,11 +1376,11 @@ _护身符材质_
 
  紫水晶 
 %%%%
- 戒指外观 
+ring appearance
 
  @_jewellery appearance_@ @_ring material_@ 
 %%%%
- 护身符外观 
+amulet appearance
 
  @_jewellery appearance_@ @_amulet material_@
 %%%%

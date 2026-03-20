@@ -1,12 +1,12 @@
 %%%%
-教程介绍
+tutorial intro
 
 您可以随时重读所有消息
 <输入>$cmd[CMD_REPLAY_MESSAGES]</输入>。另外，按<输入>空格</输入>
 <localtiles> 或 <input>鼠标左键单击</input></localtiles> 清除
 <cyan>--more--</cyan> 提示。
 %%%%
-教程死亡
+tutorial death
 
 你死了...
 
@@ -25,11 +25,11 @@
 您可以通过使用<input>鼠标</input>单击某处来移动<localtiles>，
 或使用<input>箭头键</input> </localtiles>。
 %%%%
-教程1继续
+tutorial1 go_on
 
 你做得很好！现在，探索一下，直到到达下一个蓝色方块。
 %%%%
-教程1 对角线
+tutorial1 diagonal
 
 :nowrap
 使用<input>数字键盘</input>沿对角线移动（尝试打开/关闭Numlock）<localtiles>、</localtiles> <console>或</console><input>vi键</input><console>。</console><localtiles>或<input>鼠标</input>。</localtiles>
@@ -40,19 +40,19 @@
                /|\                     /|\
               <w>1 2 3</w> <w> $cmd[CMD_MOVE_DOWN_LEFT] $cmd[CMD_MOVE_DOWN] $cmd[CMD_MOVE_DOWN_RIGHT]</w>
 %%%%
-教程1 移动
+tutorial1 shiftmove
 
 "跑"走廊穿越的快捷方法是按<input>Shift</input>
 与<input>数字键盘</input>（尝试Numlock开/关）或<input>vi一起
 键</输入>。
 %%%%
-楼下教程1
+tutorial1 downstairs
 
 站在向下的楼梯上时，可以进入下一层
 与 <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> 或与
 <input>左键单击</input>你的角色</localtiles>。
 %%%%
-教程1 关卡地图
+tutorial1 levelmap
 
 这是什么？要了解您所在的位置，<tiles>请查看
 <w>小地图</w>位于屏幕右侧。</tiles><localtiles>您可以拥有
@@ -64,14 +64,14 @@
 按<input>.</input>或<input>Enter</input>。按<输入>退出</输入>
 返回正常游戏模式。</nomouse>
 %%%%
-教程1 自动探索
+tutorial1 autoexplore
 
 一段时间后，手动探索可能会变得乏味，所以你可能想让它
 自动发生。按 <input>$cmd[CMD_EXPLORE]</input> 尝试一下
 <localtiles>，或单击命令中的第一个按钮"自动探索"
 小地图下方的栏。</localtiles>。
 %%%%
-教程1 排除
+tutorial1 exclusion
 
 一些危险的地方标有<w>排除</w>。自动旅行
 <localtiles>（包括<input>mouseclick</input>！）</localtiles>不会导致
@@ -80,7 +80,7 @@
 但是，自动探索将使您安全地绕过排除项：因此，您可以安全地
 按<input>$cmd[CMD_EXPLORE]</input>继续。
 %%%%
-教程1 autoexplore_announce
+tutorial1 autoexplore_announce
 
 当您第一次看到物品或地下城功能时，自动探索将停止，例如这些
 楼梯。要直接前往楼梯，您可以
@@ -89,7 +89,7 @@
 <input><<</input> 将曼谷移动到最近的楼上，然后
 <input>输入</input>即可转到那里。
 %%%%
-教程1 教程_结束
+tutorial1 tutorial_end
 
 恭喜！您已经完成了第一课！
 
@@ -98,32 +98,32 @@
 <输入>左键单击</输入>您的角色</localtiles>。确认
 生成的提示标有大写的<input>Y</input>。
 %%%%
-教程1新关卡
+tutorial1 newlevel
 
 一个新的水平！首先，前往右侧的门。
 
 另外，请记住：您可以使用以下命令重读旧消息
 <输入>$cmd[CMD_REPLAY_MESSAGES]</输入>。
 %%%%
-教程1门
+tutorial1 door
 
 你可以通过走进一扇关闭的门来打开它。
 %%%%
-教程1 关闭门
+tutorial1 close_door
 
 要关闭打开的门，请按 <input>$cmd[CMD_CLOSE_DOOR]</input>。
 %%%%
-教程1 水
+tutorial1 water
 
 请注意如何可以穿过浅水但不能穿过深水。
 %%%%
-楼上的教程1
+tutorial1 upstairs
 
 站在向上的楼梯上时，可以进入上一层
 与 <input>$cmd[CMD_GO_UPSTAIRS]</input><localtiles> 或通过
 <输入>左键单击</输入>您的角色</localtiles>。
 %%%%
-教程1退出
+tutorial1 exit
 
 :nowrap
 <white>教程1总结：运动</white>
@@ -159,36 +159,36 @@
 本课将教您有关怪物和战斗的知识。首先，我们需要一个
 武器！去把躺在那儿的那个抓起来。
 %%%%
-教程2 拾取武器
+tutorial2 pickup_weapon
 
 通过在库存面板中单击该武器<localtiles>来拾取它，然后
 然后再次点击它来使用它。或者，选择它</localtiles>
 与 <input>$cmd[CMD_PICKUP]</input> 或 <input>g</input> 然后使用
 <输入>$cmd[CMD_EQUIP]</输入>。
 %%%%
-教程2 近战
+tutorial2 melee
 
 要徒手或挥舞武器攻击怪物，只需走进
 它。
 %%%%
-教程2 休息
+tutorial2 resting
 
 非常好！你可以通过<input>$cmd[CMD_REST]</input>休息来治愈
 <localtiles>，或点击下面命令的"休息"按钮
 小地图</localtiles>但是。这可以让你休息直到你的生命值满了，
 会被重要事件打断。
 %%%%
-教程2 等等
+tutorial2 wait
 
 你也可以退后一步，而不是冲进房间并被怪物包围
 并等待（使用 <input>$cmd[CMD_WAIT]</input><localtiles> 或通过
 <input>点击</input>你的角色</localtiles>）让他们来找你。
 %%%%
-教程2 休息提醒
+tutorial2 resting_reminder
 
 请记住，您可以使用 <input>$cmd[CMD_REST]</input> 休息。
 %%%%
-教程2比较怪物描述
+tutorial2 compare_monster_desc
 
 # 为了清楚起见，在 localtiles 中跳过键盘命令。
 检查这些怪物（<localtiles>通过<input>鼠标悬停</input></localtiles>
@@ -200,24 +200,24 @@
 他们的检查模式</nomuse>）
 找出这些笼子中哪一个更安全地通过战斗。
 %%%%
-楼下教程2
+tutorial2 downstairs
 
 干得好！休息至完全健康后，继续进入下一个级别
 <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> 或通过<input>单击</input>
 关于你的角色</localtiles>。
 %%%%
-教程2新关卡
+tutorial2 newlevel
 
 请记住：您可以使用以下命令重读旧消息
 <输入>$cmd[CMD_REPLAY_MESSAGES]</输入>。
 %%%%
-教程2 回旋镖
+tutorial2 boomerangs
 
 现在，进行远程战斗！拿起这些回旋镖
 <input>$cmd[CMD_PICKUP]</input> 或 <input>g</input><localtiles>，或通过
 <input>mouseclick</input>,</localtiles> 并继续。
 %%%%
-教程2 投掷
+tutorial2 throwing
 
 你可以使用 <input>$cmd[CMD_FIRE]</input> 向怪物发射回旋镖
 <localtiles> 或通过<input>点击</input>清单中的它们
@@ -225,12 +225,12 @@
 <input>$cmd[CMD_TARGET_SELECT]</input> 或 <input>Enter</input>。可以跳过
 然后使用 <input>shift-tab</input> 或 <input>p</input> 向最近的怪物开火。
 %%%%
-教程2 使用弓
+tutorial2 wield_bow
 
 拿起这把短弓并使用 <input>$cmd[CMD_EQUIP]</input>
 <localtiles> 或通过 <input>mouseclick</input></localtiles>。
 %%%%
-教程2 射击
+tutorial2 firing
 
 # FIXME：冗长，因为有选择目标的提示。
 从你挥舞的短弓发射箭与投掷回旋镖有点不同。
@@ -241,21 +241,21 @@
 再次使用 <input>$cmd[CMD_TARGET_SELECT]</input> 确认您的选择或
 <输入>输入</输入>。
 %%%%
-教程2 旅行提醒
+tutorial2 travel_reminder
 
 请记住，您可以使用 <input>$cmd[CMD_EXPLORE]</input> 自动探索。
 %%%%
-教程2探索
+tutorial2 explore
 
 找到出口！请记住，您可以使用自动探索
 <输入>$cmd[CMD_EXPLORE]</输入>。
 %%%%
-教程2 教程_结束
+tutorial2 tutorial_end
 
 恭喜！你已经从第一批怪物中幸存下来了！要退出
 教程，只需走下这些楼梯即可。
 %%%%
-教程2退出
+tutorial2 exit
 
 :nowrap
 <white>教程2总结：战斗</white>
@@ -288,39 +288,39 @@
 
 在本课程中，您将了解物品以及如何使用它们。
 %%%%
-教程3 盔甲
+tutorial3 armour
 
 使用 <input>$cmd[CMD_PICKUP]</input> 拾取这些靴子并穿上它们
 <input>$cmd[CMD_EQUIP]</input>.<localtiles>或者简单地<input>mouseclick</input>
 在库存面板中找到它们。</localtiles>
 %%%%
-教程3 自动拾取
+tutorial3 autopickup
 
 某些类型的项目<tiles>，用绿框标记，</tiles>被拾取
 当您踩在它们上时自动。
 %%%%
-教程3 卷轴
+tutorial3 scroll
 
 当你发现许多物品时，它们是无法识别的。一种了解他们的方法
 要做的就是使用它们。尝试使用 <input>$cmd[CMD_READ]</input> 阅读此卷轴
 <localtiles> 或在清单中使用 <input>mouseclick</input>
 面板</localtiles>。
 %%%%
-教程3scroll_noautopickup
+tutorial3 scroll_noautopickup
 
 如果周围有怪物，自动拾取功能将不起作用。您可以选择
 现在使用 <input>$cmd[CMD_PICKUP]</input><localtiles> 或
 <input>点击</input>你的角色，</localtiles>或者你可以与
 附近的敌人，然后将其捡起。
 %%%%
-教程3 自我武器
+tutorial3 ego_weapon
 
 描述为<lightblue>符文</lightblue>的物品或
 <lightblue>发光</lightblue>总是会被附魔，或者有特殊的
 属性，或两者兼而有之。一旦你踩到这样一个物品的顶部，它的属性就会
 向你揭晓。
 %%%%
-教程3 库存
+tutorial3 inventory
 
 # TODO：应该在库存中提供教程消息以找到武器。
 # 也许还应该有一个单独的课程来突出显示命令
@@ -331,19 +331,19 @@
 面板。 </localtiles>请注意，所有项目命令也可以在项目中使用
 描述屏幕。
 %%%%
-教程3 战斗
+tutorial3 battle
 
 一旦你成功毒死了一个怪物，有时最好
 撤退，让毒药发挥作用。如果的话也不要忘记撤退来治愈
 必要的。
 %%%%
-楼下教程3
+tutorial3 downstairs
 
 打得好！如果有必要，休息一下 <input>$cmd[CMD_REST]</input>，然后
 使用 <input>$cmd[CMD_GO_DOWNSTAIRS]</input><localtiles> 继续或
 <input>点击</input>你的角色</localtiles>。
 %%%%
-教程3命令_帮助
+tutorial3 command_help
 
 如果太多命令太混乱，您也可以在
 命令帮助<输入>$cmd[CMD_DISPLAY_COMMANDS]</输入>。 <localtiles>一些
@@ -351,7 +351,7 @@
 屏幕的。 </localtiles>重读旧消息
 <input>$cmd[CMD_REPLAY_MESSAGES]</input> 照常可用。
 %%%%
-教程3 陷阱
+tutorial3 trap
 
 陷阱可能会产生各种令人不快的效果，例如警告怪物或
 将你传送到危险之中。有些陷阱是永久性的并且永远存在
@@ -359,14 +359,14 @@
 瓷砖，触发后不存在。如果没有办法的话，你会
 必须触发陷阱并应对后果。
 %%%%
-教程3药水
+tutorial3 potion
 
 药水可能提供重要的治疗或有用的魔咒，但有些药水的效果较少
 理想的效果。你可以喝下这药水
 <input>$cmd[CMD_QUAFF]</input><localtiles> 或与
 <input>mouseclick</input></localtiles> 来了解它的作用。
 %%%%
-教程3 artefact_armour
+tutorial3 artefact_armour
 
 # TODO：用真正的randart替换unrandart。需要一些防护措施
 # 会使教程脱轨的事情（脆弱、污染......）
@@ -378,40 +378,40 @@
 <input>$cmd[CMD_EQUIP]</input><localtiles> 或 <input>mouseclick</input>
 在库存面板</localtiles>中。
 %%%%
-教程3 魔杖火
+tutorial3 wand_fire
 
 # TODO：魔杖瞄准屏幕也许需要一些上下文帮助。
 您可以使用 <input>$cmd[CMD_EVOKE]</input><localtiles> 或使用
 库存面板中的<input>鼠标点击</input></localtiles>。
 %%%%
-教程3 魔杖挖掘
+tutorial3 wand_digging
 
 挖掘魔杖可以摧毁岩壁。使用
 <input>$cmd[CMD_LOOK_AROUND]][$cmd[CMD_TARGET_DESCRIBE]</input> <localtiles>或
 <input>鼠标悬停</input>/<input>右键</input> </localtiles>查看墙壁
 类型。
 %%%%
-教程3 护身符
+tutorial3 amulet
 
 使用 <input>$cmd[CMD_EQUIP]</input><localtiles> 佩戴珠宝
 或使用库存面板中的<input>mouseclick</input></localtiles>。
 %%%%
-教程3掉落
+tutorial3 drop
 
 如果你的角色有崇拜的神，这个护身符将会非常强大，
 但此时此地，这是没有用的。您可能想将其删除
 <input>$cmd[CMD_DROP]</input><localtiles> 或通过
 <input>按住Shift键并左键单击</input>在库存面板中</localtiles>。
 %%%%
-教程3 黄金
+tutorial3 gold
 
 金币可以在商店消费。它不占用库存空间并且不能被丢弃。
 %%%%
-教程3店
+tutorial3 shop
 
 商店提供各种各样的商品，但他们不从任何人那里购买商品。
 %%%%
-教程3 进入_商店
+tutorial3 enter_shop
 
 # TODO: 除了如何进入购物中心之外，其他的都应该在
 # 购物屏幕。
@@ -420,13 +420,13 @@
 使用热键选择它们，点击<input>Enter</input>并确认
 <输入>是</输入>是的。您可以使用<input>!</input>切换到描述模式。
 %%%%
-教程 3 自动探索提醒
+tutorial3 autoexplore_reminder
 
 请记住，您可以使用以下命令自动探索关卡
 <input>$cmd[CMD_EXPLORE]</input><localtiles> 或通过<input>单击</input>
 <w>命令面板</w></localtiles>中的自动探索命令按钮。
 %%%%
-教程3 去购物
+tutorial3 go_shopping
 
 # TODO: 应该只指示在这里开始搜索，其余的放在一起
 # 进入搜索屏幕的说明。另外，最好强调一下
@@ -438,18 +438,18 @@
 您还可以<输入>单击</输入>命令面板中的搜索按钮，或者
 使用小地图返回商店。</localtiles>
 %%%%
-教程3可选_战斗
+tutorial3 optional_battle
 
 警告，这样会导致<lightred>一场艰难的战斗</lightred>。你可以
 选择在战斗中使用你迄今为止所学到的知识，或者尝试联系对方
 退出岛上。不管怎样，如果有的话，去购物可能是个好主意
 你还没有。
 %%%%
-教程3 教程_结束
+tutorial3 tutorial_end
 
 干得好！要退出教程，只需走下这些楼梯即可。
 %%%%
-教程3退出
+tutorial3 exit
 
 # 一个屏幕概括所有命令。
 :nowrap
@@ -480,7 +480,7 @@
 
 在本课中，您将学习如何记忆和施展咒语。
 %%%%
-教程4 法术书
+tutorial4 spellbook
 
 你可以从你的法术库中记住一个法术
 <input>$cmd[CMD_MEMORISE_SPELL]</input><localtiles> 或通过
@@ -489,7 +489,7 @@
 你。随着您获得经验，这种情况将会改变。要找到新咒语，请查找并选择
 查找咒语书，咒语将添加到您的图书馆中。
 %%%%
-教程4 施法
+tutorial4 spellcasting
 
 ## 方块记忆：点击清单中的咒语书可能会
 ## 更容易掌握；可以让记忆选项卡被发现
@@ -501,7 +501,7 @@
 按 <input>$cmd[CMD_CAST_SPELL]</input>，然后按 <input>?</input> 获取
 你的咒语列表。
 %%%%
-教程4 咒语颤抖
+tutorial4 spellquivering
 法术，如弹药，显示在箭袋槽中，因此您可以使用
 <input>$cmd[CMD_QUIVER_ITEM]</input> 在箭袋中准备一个咒语。使用
 <input>$cmd[CMD_FIRE]</input> 或 <input>shift-tab</input> 触发当前
@@ -511,13 +511,13 @@
 <input>$cmd[CMD_REST]</input><localtiles> 或通过<input>单击</input>
 命令面板中的计时器图标</localtiles>。
 %%%%
-教程4ring_power
+tutorial4 ring_power
 
 使用 <input>$cmd[CMD_EQUIP]</input><localtiles> 戴上此戒指或
 通过在库存面板中<input>单击</input>它</localtiles>，然后
 充分发挥您新的潜力。
 %%%%
-教程4不死族
+tutorial4 undead
 
 # TODO：这又是模式提示的东西。不过不知道有没有坏处
 # 并且鼠标界面提示不错。
@@ -525,14 +525,14 @@
 <localtiles> 你也可以尝试重新施展你上次使用的法术
 在怪物上按 <input>Ctrl+leftclick</input>。</localtiles>
 %%%%
-教程4拼写_成功
+tutorial4 spell_success
 
 要检查您的拼写熟练程度，请按 <input>$cmd[CMD_DISPLAY_SPELLS]</input>
 <localtiles> 或 <input>mouseover</input> 位于您记忆的位置上
 法术</localtiles>。比较对抗的战斗失败率
 这个戒指。
 %%%%
-教程4 mephitic_cloud
+tutorial4 mephitic_cloud
 
 毒气云是一个3级法术，所以你还无法记住它。升级
 很快，这里就有了更多的训练假人——这次没有石头可以扔。
@@ -540,20 +540,20 @@
 在经验级别 3 时，您将能够增加您的一项统计数据 - 选择
 <input>I</input> 智力将进一步帮助您实施。
 %%%%
-教程4 meph_提醒
+tutorial4 meph_reminder
 
 不要忘记记住你新可用的咒语，按下
 <input>$cmd[CMD_MEMORISE_SPELL]</input><localtiles> 或通过
 <input>点击</input>记忆选项卡并选择咒语
 瓷砖</localtiles>！
 %%%%
-教程4 瞄准_云
+tutorial4 aiming_clouds
 
 施放毒气云时，会覆盖一个区域，产生有毒烟雾，并且你将能够
 当您瞄准它时，查看它影响的区域。尝试在同一地点捕获多个敌人
 单一云以便更有效地发挥你的魔法。
 %%%%
-教程4忘记拼写
+tutorial4 forget_spell
 
 获得经验水平并提高你的施法技能可以为你提供法术
 消耗在法术上的槽位上。你也可以<w>忘记一个记住的咒语</w>来
@@ -563,20 +563,20 @@
 忘记。您可以稍后从法术库中重新学习被遗忘的法术，如
 只要你有可用的法术位。
 %%%%
-教程4 记忆2
+tutorial4 memorise2
 
 在忘记一个旧咒语以腾出空间后，记住这个新咒语
 与 <input>$cmd[CMD_MEMORISE_SPELL]</input><localtiles> 或通过
 <input>点击</input>记忆选项卡并选择咒语
 瓦片</localtiles>。然后尝试你的新咒语并召唤一些恶魔内阁！
 %%%%
-教程4 displace_allies
+tutorial4 displace_allies
 
 您是否注意到您可以通过进入盟友来与他们交换位置？
 除其他外，取代友善的生物可能是逃跑的好方法
 一场战斗。
 %%%%
-教程4 order_allies
+tutorial4 order_allies
 
 尝试让你的盟友去杀戮！如果有必要，您可以订购它们
 与 <input>$cmd[CMD_SHOUT]</input>。在打开这扇门之前，您可能需要
@@ -584,7 +584,7 @@
 和你在一起。你的召唤只会持续很短的时间，所以不要
 等待太久，或者在开始战斗之前召唤一些新的。
 %%%%
-教程4 重甲
+tutorial4 heavy_armour
 
 # TODO：将人工工作站单独的项目。
 重甲确实会妨碍施法。尝试戴上邮件和盾牌
@@ -595,7 +595,7 @@
 使用 <input>$cmd[CMD_UNEQUIP]</input><localtiles> 再次关闭装甲，或者，
 再次通过 <input>mouseclick</input></localtiles>。
 %%%%
-教程4 休息提醒
+tutorial4 resting_reminder
 
 在进入新区域之前，请确保您的生命值和法力值已满。
 如有需要，请使用 <input>$cmd[CMD_REST]</input><localtiles> 或通过
@@ -606,12 +606,12 @@
 小鬼对毒有抵抗力，所以你可以施放毒云并肩作战
 他们不会伤害你的盟友。
 %%%%
-教程4 教程_结束
+tutorial4 tutorial_end
 
 恭喜你，你现在是一名真正的巫师了！要退出教程，只需向下
 这些楼梯。
 %%%%
-教程4退出
+tutorial4 exit
 
 # 一个屏幕概括所有命令。
 :nowrap
@@ -636,7 +636,7 @@
 
 在本课中，您将学习有关神的知识以及如何使用他们的力量。
 %%%%
-教程 5 地牢_概述
+tutorial5 dungeon_overview
 
 前面是愤怒的特洛格的祭坛！特洛格只是众神之一。在一个
 真实游戏，可以查看 <input>$cmd[CMD_DISPLAY_OVERMAP]</input><localtiles>
@@ -644,7 +644,7 @@
 面板</localtiles> 查看所有祭坛和其他有趣功能的列表
 到目前为止发现。
 %%%%
-教程5 祭坛
+tutorial5 altar
 
 您可以使用 <input>$cmd[CMD_GO_DOWNSTAIRS]</input> 在祭坛上祈祷
 <localtiles>（或通过<input>左键单击</input>您的角色）</localtiles>
@@ -655,7 +655,7 @@
 
 使用 <input>J</input> 或 <input>Enter</input> 确认您的选择。
 %%%%
-教程5 宗教
+tutorial5 religion
 
 查看您当前的宗教地位
 <input>$cmd[CMD_DISPLAY_RELIGION]</input><localtiles> （或通过 <w>宗教
@@ -664,37 +664,37 @@
 <input>右键单击</input></localtiles>将显示更详细的信息
 你的神的描述。
 %%%%
-教程 5 虔诚杀戮
+tutorial5 piety_on_kill
 
 有些神真的很喜欢你以他们的名义杀死怪物。让屠宰
 开始！
 %%%%
-教程5 狂暴
+tutorial5 berserk
 
 对付特别难对付的敌人，你可能需要使用穴居人的狂暴力量
 <input>$cmd[CMD_USE_ABILITY]</input><localtiles> 或通过 <w> 命令
 面板</w></localtiles>。
 %%%%
-教程5 疲惫
+tutorial5 exhaustion
 
 狂暴的愤怒确实让人筋疲力尽。结束后无法再次狂暴
 持续很短一段时间并且速度减慢。最好是休息一下
 <input>$cmd[CMD_REST]</input><localtiles> （或通过
 <w>命令面板</w>）</localtiles>，直到您再次感受到健康状况。
 %%%%
-教程5 狂暴2
+tutorial5 berserk2
 
 狂暴对于对抗多个敌人也非常有用——只要你不这样做
 中间耗尽了精力。
 %%%%
-教程5 教程_结束
+tutorial5 tutorial_end
 
 恭喜！您已经完成了最后一堂教程，现在可以开始学习了
 真正的游戏。祝你好运！
 
 要退出教程，只需走下这些楼梯即可。
 %%%%
-教程5退出
+tutorial5 exit
 
 # 一个屏幕概括所有命令。
 :nowrap

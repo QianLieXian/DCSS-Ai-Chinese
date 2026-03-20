@@ -1,93 +1,93 @@
 %%%%
-辛姓氏 
+Zin lastname
 
  立法者辛恩 
 %%%%
- 伊雷德莱姆努尔姓氏 
+Yredelemnul lastname
 
  堕落者伊雷德莱姆努尔 
 %%%%
- 大卡瓦鲁姓氏 
+Okawaru lastname
 
  战帅奥卡瓦鲁 
 %%%%
- 马克莱布姓氏 
+Makhleb lastname
 
  毁灭者马克莱布
 %%%%
-西夫·穆纳 (Sif Muna)
+Sif Muna lastname
 
 提醒者西夫·穆纳
 %%%%
-穴居人姓氏
+Trog lastname
 
 穴居人愤怒
 %%%%
-Elyvilon 姓氏
+Elyvilon lastname
 
 艾利维隆治疗者
 %%%%
-卢戈努氏
+Lugonu lastname
 
 未成形者卢戈努
 %%%%
-贝奥氏
+Beogh lastname
 
 Beogh 牧羊人
 %%%%
-费达斯
+Fedhas lastname
 
 费哈斯·马达什
 %%%%
-切布里亚多斯
+Cheibriados lastname
 
 沉思者 Cheibriados
 %%%%
-阿什扎里氏
+Ashenzari lastname
 
 被束缚的阿什扎里
 %%%%
-迪特美诺斯氏
+Dithmenos lastname
 
 Dithmenos 裹尸布
 %%%%
-Nemelex Xobeh 姓氏
+Nemelex Xobeh lastname
 
 Nemelex Xobeh 骗子
 %%%%
-戈扎格氏
+Gozag lastname
 
 Gozag Ym Sagoz 贪婪者
 %%%%
-卡兹拉尔氏
+Qazlal lastname
 
  卡兹拉尔风暴使者 
 %%%%
- 茹姓 
+Ru lastname
 
  觉醒者茹 
 %%%%
- 帕凯拉斯姓 
+Pakellas lastname
 
  发明家帕凯拉斯 
 %%%%
- 乌斯卡亚夫姓 
+Uskayaw lastname
 
  狂欢者乌斯卡亚 
 %%%%
- 赫普利亚卡纳姓
+Hepliaklqana lastname
 
  被遗忘者赫普利亚卡纳
 %%%%
-伊格尼斯姓氏 
+Ignis lastname
 
  垂死之火伊格尼斯 
 %%%%
- 吴健姓氏 
+Wu Jian lastname
 
  吴健议会 
 %%%%
-Xom 姓氏
+Xom lastname
 
 w:280
 混沌的Xom

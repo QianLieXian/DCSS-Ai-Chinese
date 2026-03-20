@@ -8,7 +8,7 @@
  # `<spell-school> misscast <player|monster|unseen>` 
 ######################################################
 %%%%
- 咒语错误施法玩家 
+conjuration miscast player
 
  火花从你的 @hands@ 中飞出
 
@@ -22,7 +22,7 @@
 
  你被魔法能量击中 
 %%%%
- 咒语失误怪物 
+conjuration miscast monster
 
  火花从 @the_monster_possessive@ 飞出@hands@ 
 
@@ -36,13 +36,13 @@
 
  @The_monster@ 被魔法能量轰击 
 %%%%
- 召唤失误看不见的 
+conjuration miscast unseen
 
  凭空发生剧烈爆炸 
 
  魔法能量突然爆发 
 %%%%
- 咒语错误玩家 
+hexes miscast player
 
  眼前五彩灯光舞动 
 
@@ -60,7 +60,7 @@
 
  魔法从你的身体中涌出 
 %%%%
- 六角形错误的怪物 
+hexes miscast monster
 
  多彩的灯光在 @the_monster@ 周围跳舞 
 
@@ -76,7 +76,7 @@
 
  魔法从 @the_monster@ 
 %%%%
- 六角体中涌出看不见的误播
+hexes miscast unseen
 
 空中舞动五彩光芒 
 
@@ -84,7 +84,7 @@
 
  魔法凭空涌出 
 %%%%
- 召唤失法玩家 
+summoning miscast player
 
  一双眼睛在你眼前闪烁 
 
@@ -96,15 +96,15 @@
 
  绝望的双手向你伸出爪子 
 %%%%
- 召唤误施怪物 
+summoning miscast monster
 
  绝望的双手向 @the_monster@ 伸出爪子 
 %%%%
- 召唤看不见的误施 
+summoning miscast unseen
 
  绝望的双手随机伸出 
 %%%%
- 死灵法术误施玩家 
+necromancy miscast player
 
  你听到奇怪而遥远的声音
 
@@ -128,7 +128,7 @@
 
  你无助地抽搐，疼痛撕裂你的身体 
 %%%%
- 死灵术失误怪物 
+necromancy miscast monster
 
  @The_monster@ 剧烈抽搐 
 
@@ -156,13 +156,13 @@
 
  @The_monster@ 似乎受到了片刻的惊吓 
 %%%%
- 死灵术失误未见
+necromancy miscast unseen
 
 空气瞬间呈现黑色 
 
  阴影在稀薄的空气中闪烁 
 %%%%
- 易位错位玩家 
+translocation miscast player
 
  你瞥见了自己的后脑勺 
 
@@ -182,7 +182,7 @@
 
  空间 [bends|warps] [crazily |] 在你周围 
 %%%%
- 易位错误施法怪物 
+translocation miscast monster
 
  @The_monster@ 猛烈地抽搐了一下 
 
@@ -198,7 +198,7 @@
 
  空间 [bends|warps] [crazily |]around @the_monster@ 
 %%%%
- 看不见的易位错投 
+translocation miscast unseen
 
  某物周围的空间不可思议地扭曲 
 
@@ -206,7 +206,7 @@
 
  空间结构中暂时打开的裂痕 
 %%%%
- 火错投玩家 
+fire miscast player
 
  [Cinders|Ashes] 从您的 @hands@ 飞来
 
@@ -226,7 +226,7 @@
 
  突然猛烈的火焰爆炸 
 %%%%
- 火误投怪物 
+fire miscast monster
 
  [Cinders|Ashes] 从 @the_monster_possessive@ 飞出 @hands@ 
 
@@ -242,7 +242,7 @@
 
  @The_monster@ 陷入剧烈爆炸 
 %%%%
- 看不见的火灾误投 
+fire miscast unseen
 
  火焰不知从何而来 
 
@@ -252,7 +252,7 @@
 
  大火焰燃烧稀薄空气中一时炎热 
 %%%%
- 冰错玩家 
+ice miscast player
 
  你冷得瑟瑟发抖 
 
@@ -272,7 +272,7 @@
 
  你被冰霜爆炸包围 
 %%%%
- 冰错铸怪物 
+ice miscast monster
 
  @The_monster@ 寒冷地颤抖 
 
@@ -288,7 +288,7 @@
 
  @The_monster@ 被包裹在 [ice|frost] 中
 %%%%
- 看不见的冰错 
+ice miscast unseen
 
  空气中飘散的一缕凝结 
 
@@ -296,7 +296,7 @@
 
  [ice|frost] 中包裹着看不见的身影 
 %%%%
- 空气错投播放器 
+air miscast player
 
  电火花在你身边舞动 
 
@@ -314,7 +314,7 @@
 
  你陷入放电爆炸 
 %%%%
- 空气误投怪物 
+air miscast monster
 
  @The_monster@在空中晃动了一会儿
 
@@ -334,7 +334,7 @@
 
  @The_monster@ 被扭曲的空气击中 
 %%%%
- 看不见的空气错乱 
+air miscast unseen
 
  风不知从何而来 
 
@@ -346,7 +346,7 @@
 
  空气在一个点周围疯狂扭曲 
 %%%%
- 地球误播玩家 
+earth miscast player
 
  [Sand|Gravel] 从你的 @hands@ 中倾泻而出 
 
@@ -362,7 +362,7 @@
 
  你被飞来的弹片爆炸所困 
 %%%%
- 地球误投怪物 
+earth miscast monster
 
  [Sand|Gravel] 从 @the_monster_possessive@ @hands@ 倾泻而出 
 
@@ -374,7 +374,7 @@
 
  @The_monster@ 被飞弹片爆炸所困 
 %%%%
- 看不见的大地错失 
+earth miscast unseen
 
  飞石凭空出现 
 
@@ -384,7 +384,7 @@
 
  飞弹片从稀薄空气中爆炸 
 %%%%
- 炼金术误铸玩家 
+alchemy miscast player
 
  你被有毒烟雾吞没 
 
@@ -406,7 +406,7 @@ w:2
 w:2
  你被 @any_glowing_colour@ 粉尘云包围 
 %%%%
- 炼金术误铸怪物 
+alchemy miscast monster
 
  @The_monster@ 被有毒烟雾吞没 
 
@@ -427,7 +427,7 @@ w:5
 w:5
  @The_monster@ 被 @any_glowing_colour@ 灰尘云包围
 %%%%
- 看不见的炼金术误铸 
+alchemy miscast unseen
 
  空气中有一瞬间的绿色调 
 
@@ -435,7 +435,7 @@ w:5
 
  看不见的人物被盐覆盖 
 %%%%
- 锻造工艺误铸玩家 
+forgecraft miscast player
 
  你失去了结构的完整性 
 
@@ -449,7 +449,7 @@ w:5
 
  你陷入金属碎片爆炸中 
 %%%%
- 锻造失误怪物 
+forgecraft miscast monster
 
  @The_monster@ 失去结构完整性 
 
@@ -459,7 +459,7 @@ w:5
 
  @The_monster@ 陷入金属碎片爆炸中 
 %%%%
- 看不见的锻造失误 
+forgecraft miscast unseen
 
  金属零碎从上面落下 
 
