@@ -1,2439 +1,2439 @@
 %%%%
-Abjuration spell
+防护咒语
 
-Reduces the remaining duration of any nearby hostile summoned creatures.
+减少任何附近敌对召唤生物的剩余持续时间。
 %%%%
-Acid Ball spell
+酸球法术
 
-Hurls an explosive ball of corrosive acid.
+投掷腐蚀性酸的爆炸球。
 %%%%
-Agonising Touch spell
+痛苦之触法术
 
-Cuts the health of an adjacent creature in half. This damage is never
-directly lethal.
+将邻近生物的生命值减半。这种伤害从来都不是
+直接致命。
 %%%%
-Agony spell
+痛苦咒语
 
-Cuts the health of a target creature in half. This damage is never directly
-lethal.
+将目标生物的生命值减半。这种伤害从来都不是直接的
+致命的。
 %%%%
-Airstrike spell
+空袭法术
 
-Causes the air around a creature to twist itself into a whirling vortex of
-meteorological fury. It does more damage to targets surrounded by empty space.
+使生物周围的空气扭曲成一个旋转的漩涡
+气象愤怒。它对被空旷空间包围的目标造成更多伤害。
 %%%%
-Alistair's Intoxication spell
+阿利斯泰尔的中毒咒语
 
-Converts a small portion of the brain matter of those around you into alcohol,
-attempting to confuse all intelligent creatures within view (although
-poison-resistant creatures may resist the effects). The caster will experience
-vertigo briefly if they successfully make contact with other minds. It is
-frequently used as an icebreaker at wizard parties.
+将你周围人的一小部分大脑物质转化为酒精，
+试图迷惑视野内的所有智慧生物（尽管
+抗毒生物可能会抵抗这种影响）。施法者将会经历
+如果他们成功地与其他思想取得联系，他们会短暂地感到眩晕。它是
+经常在巫师聚会上用作破冰场。
 %%%%
-Alistair's Walking Alembic spell
+阿利斯泰尔的步行蒸馏器咒语
 
-Constructs a mobile and combat-capable alchemical manufactory. It uses the
-friction of melee combat to brew a variety of useful potions, venting clouds of
-their toxic byproducts at whatever it punches. When it has built up enough heat
-to complete its synthesis, it will automatically dispense the finished potions
-to nearby allies before falling apart.
+建造一座可移动且具有战斗能力的炼金工厂。它使用
+近战摩擦中酿造出各种有用的药水，排出云雾
+无论它击中什么，都会产生有毒的副产品。当它积累了足够的热量时
+完成合成后，它会自动分配完成的药水
+在分崩离析之前向附近的盟友提供帮助。
 %%%%
-Anguish spell
+痛苦咒语
 
-Afflicts nearby foes with supernatural anguish, causing all damage they deal to
-rebound on them for the duration of the effect. Strong-willed foes can resist the
-necromantic visions of pain and suffering, and mindless creatures are unaffected.
+用超自然的痛苦折磨附近的敌人，造成他们造成的所有伤害
+在效果持续时间内对它们进行反弹。意志坚强的敌人可以抵抗
+痛苦和苦难的死灵幻象以及无意识的生物不受影响。
 %%%%
-Animate Dead spell
+激活死亡咒语
 
-For some time after casting this, living creatures killed by the caster will rise
-as zombies. The chance of reanimating a monster and the duration of the effect
-increase with spell power. Re-casting this spell will return zombies to dust, as
-will leaving the floor.
+施放此技能后的一段时间内，被施法者杀死的生物将会复活
+作为僵尸。复活怪物的几率和效果的持续时间
+随着法术强度的增加而增加。重施此法术将使僵尸化为尘土，因为
+将离开地板。
 %%%%
-Antimagic Gaze spell
+反魔法凝视法术
 
-Causes the target's magic to leak into the air, as though they were hit by an
-antimagic weapon, and heals the caster for the amount of magic drained,
-with no direct line of fire required.
+使目标的魔法泄漏到空气中，就好像他们被某种力量击中一样
+反魔法武器，并治疗施法者所消耗的魔法量，
+无需直接火线。
 %%%%
-Apportation spell
+分配咒语
 
-Pulls the top item or group of similar items from a distant pile to the floor
-near the caster. With low power, items might not be moved all the way to the
-caster's position.
+将顶部的物品或一组相似的物品从远处的一堆物品拉到地板上
+靠近施法者。在低功率的情况下，物品可能无法一直移动到
+施法者的位置。
 
-Extremely powerful magical items, such as the Orb of Zot, may actively resist
-the pull of this spell.
+极其强大的魔法物品，例如佐特之球，可能会主动抵抗
+这个咒语的牵引力。
 %%%%
-Arcjolt spell
+电弧震动咒语
 
-Sends a wave of electricity through everything adjacent or near-adjacent to
-the caster. The electricity continues to arc through everything in a connected
-chain, though the caster themself is unaffected. The damage dealt bypasses half
-of defenders' armour.
+向邻近或接近邻近的所有物体发送电波
+施法者。电力继续电弧穿过互联的一切
+链，但施法者本身不受影响。造成的伤害超过一半
+防御者的盔甲。
 %%%%
-Avatar Song spell
+阿凡达歌曲咒语
 
-Sings a powerfully haunting song. Adventurers who fail to resist will become
-unable to move away from the singer (and will sometimes be drawn closer
-involuntarily), while other creatures will become dazed outright.
+唱着一首震撼人心的歌曲。无法抵抗的冒险家将会成为
+无法远离歌手（有时会被拉近）
+不由自主地），而其他生物会彻底变得茫然。
 
-In addition, it may call forth drowned souls from any nearby bodies of deep
-water.
+此外，它还可能从附近任何深渊尸体中召唤淹死的灵魂。
+水。
 
-Leaving the caster's line of sight will end the movement-controlling effect.
+离开施法者的视线将会结束移动控制效果。
 %%%%
-Awaken Armour spell
+觉醒护甲法术
 
-Draws upon the memory of your worn armour to manifest an echo of it that fights
-alongside you. This echo moves slowly, but the power of its blows increases
-dramatically with the weight of the armour used to form it. It possesses all
-the defensive properties of the armour itself.
+利用你磨损的盔甲的记忆来体现它的战斗回声
+与你并肩。回声移动缓慢，但打击威力却增强
+与用于形成它的装甲的重量显着不同。它拥有一切
+盔甲本身的防御属性。
 
-Spellpower increases its durability.
+法术能量增加其耐用性。
 %%%%
-Awaken Flesh spell
+觉醒肉体咒语
 
-Channels a surge of chaotic energy through each pile of flesh in the caster's
-sight, animating them into empowered large abominations and dealing chaos damage
-to any foes unfortunate enough to be standing next to them.
+通过施法者体内的每一堆血肉引导一股混沌能量
+视线，将它们赋予强大的力量并造成混乱伤害
+对于任何不幸站在他们旁边的敌人。
 %%%%
-Awaken Forest spell
+唤醒森林法术
 
-Gives some limited motility to nearby trees, allowing them to sway their
-branches and shift their roots. Such enchanted trees will lash at any adjacent
-enemy.
+为附近的树木提供一些有限的活动能力，让它们能够摇摆自己的身体
+枝并移其根。这种被施了魔法的树会攻击任何邻近的
+敌人。
 %%%%
-Awaken Vines spell
+唤醒藤蔓法术
 
-Causes vines to grow from the ground. The vines will reach out and grab
-interlopers, dragging them towards any nearby trees.
+使藤蔓从地里长出来。藤蔓会伸出来抓住
+闯入者，将他们拖向附近的树木。
 %%%%
-Banishment spell
+放逐咒语
 
-Banishes a creature into the Abyss.
+将生物放逐至深渊。
 %%%%
-Battlecry spell
+战吼法术
 
-Inspires nearby allies of the caster to fight more aggressively, increasing
-the strength of their blows.
+激励施法者附近的盟友更加积极地战斗，增加
+他们的打击力量。
 %%%%
-Beckoning Gale spell
+召唤狂风法术
 
-Twists the air around a creature to both deal damage and attempt to pull them
-closer to the caster.
+扭曲生物周围的空气以造成伤害并尝试拉动它们
+离施法者更近。
 %%%%
-Berserker Rage spell
+狂战士之怒法术
 
-<Berserk ability>
+<狂暴能力>
 %%%%
-Berserk Other spell
+狂暴 其他法术
 
-Causes a nearby ally to fly into a berserk rage. Going berserk temporarily
-increases health, speed, and damage dealt in melee.
+导致附近的一名盟友陷入狂暴状态。暂时发狂
+增加近战中的生命值、速度和伤害。
 %%%%
-Bestow Arms spell
+赐予武器咒语
 
-Temporarily grants numerous nearby allies a magical weapon from within the
-armoury, so long as the souls holding it together remain intact.
+暂时为附近的众多盟友提供一件魔法武器
+军械库，只要将它聚集在一起的灵魂完好无损。
 %%%%
-Bind Souls spell
+束缚灵魂咒语
 
-Bestows an enchantment on other nearby living creatures that causes them to
-rise as simulacra after being slain.
+给附近的其他生物赋予结界，使他们
+被杀后以拟像的形式复活。
 %%%%
-Blink Allies Away spell
+眨眼盟友离开咒语
 
-Blinks allies in sight of the caster away from a nearby enemy.
+使施法者视线范围内的盟友闪烁，远离附近的敌人。
 %%%%
-Blink Allies Encircling spell
+闪烁盟友包围法术
 
-Translocates a number of allies in the caster's sight to surround a targeted
-enemy.
+在施法者的视野中移动一些盟友以包围目标
+敌人。
 %%%%
-Blink Away spell
+眨眼离开咒语
 
-Translocates the caster to a location further away from a targeted enemy.
+将施法者转移到距离目标敌人更远的位置。
 %%%%
-Blink Close spell
+眨眼关闭咒语
 
-Translocates the caster a short distance towards a targeted enemy.
+将施法者向目标敌人移动一小段距离。
 %%%%
-Blink Other Close spell
+眨眼其他关闭法术
 
-Translocates a targeted enemy a short distance towards the caster. It cannot be
-resisted by willpower.
+将目标敌人移向施法者一小段距离。不可能是
+被意志所抵抗。
 %%%%
-Blink Other spell
+闪烁其他咒语
 
-Randomly translocates a targeted enemy a short distance. It cannot be resisted
-by willpower.
+将目标敌人随机移动一小段距离。无法抗拒
+通过意志。
 %%%%
-Blink Range spell
+眨眼范围法术
 
-Translocates the caster to a location further away from a targeted enemy, but
-still within sight of the target.
+将施法者转移到距离目标敌人更远的位置，但是
+仍在目标的视线范围内。
 %%%%
-Blink spell
+眨眼咒语
 
-Randomly translocates the caster a short distance. After translocating in this
-way, the spell cannot be cast again for a short period of time depending on
-spell power.
+随机将施法者移位一小段距离。搬迁到这里后
+这样，该法术在短时间内无法再次施展，具体取决于
+咒语力量。
 %%%%
-Blinkbolt spell
+闪光法术
 
-Transforms the caster into a lightning bolt, and translocates the caster to
-the bolt's destination.
+将施法者转变为闪电，并将施法者转移到
+螺栓的目的地。
 %%%%
-Bolt of Cold spell
+寒冷咒语之箭
 
-Fires a penetrating bolt of frost.
+发射一道具有穿透力的冰霜箭。
 %%%%
-Bolt of Devastation spell
+毁灭之箭法术
 
-Fires a bolt of grief and heartache that cuts its victims' willpower in half.
+发射一道悲伤和心痛的箭，将受害者的意志削减一半。
 %%%%
-Bolt of Draining spell
+排水法术之箭
 
-Fires a penetrating bolt of negative energy which drains any living creature
-it strikes.
+发射具有穿透力的负能量箭，吸干所有生物
+它罢工了。
 %%%%
-Bolt of Fire spell
+火焰之箭法术
 
-Fires a penetrating bolt of flames.
+发射具有穿透力的火焰。
 %%%%
-Bolt of Flesh spell
+血肉之箭法术
 
-Fires a barrage of conjured flesh, which will briefly remain as a pile on the
-ground at the end of its path.
+发射一连串召唤出来的血肉，这些血肉会短暂地在地面上堆积成一堆
+地面在其路径的尽头。
 %%%%
-Bolt of Light spell
+光之箭法术
 
-Fires a ray of searing light, which may blind any living, demonic, or holy
-creature it strikes.
+发射一束灼热的光芒，可以使任何生物、恶魔或圣人失明
+它击中的生物。
 %%%%
-Bolt of Magma spell
+岩浆之箭法术
 
-Fires a penetrating bolt of molten rock. Half of its damage bypasses fire
-resistance.
+发射一道具有穿透力的熔岩箭。一半的伤害会绕过火
+阻力。
 %%%%
-Bombard spell
+轰炸法术
 
-Blasts an iron ball toward a target. The force of the blast often sends the
-caster staggering backwards.
+将铁球射向目标。爆炸的力量常常会导致
+施法者摇摇晃晃地向后退去。
 %%%%
-Borgnjor's Revivification spell
+博格尼奥尔的复活咒语
 
-Instantly heals any and all wounds suffered by the caster, but also permanently
-damages their health, to a degree dependent on (and inversely related to) power.
+立即治愈施法者所受的所有伤口，而且永久治愈
+损害他们的健康，在一定程度上取决于（并与权力成反比）。
 
-It is powerful enough to cancel the effects of Death's Door, although doing so
-will briefly paralyse the caster. It has no effect on the undead.
+它的威力足以抵消死亡之门的影响，尽管这样做
+会使施法者短暂瘫痪。对不死者没有任何效果。
 %%%%
-Borgnjor's Vile Clutch spell
+博格尼奥尔的邪恶离合器咒语
 
-Calls forth hands from corpses interred beneath the dungeon floor long ago.
-Enemies caught in the area will be held in place and constricted until they
-break free.
+从很久以前埋在地牢地板下的尸体中召唤出双手。
+在该区域捕获的敌人将被固定在原地并受到限制，直到他们
+挣脱束缚。
 %%%%
-Brain Bite spell
+噬脑法术
 
-Drains a small amount of a visible enemy's mind and a proportion of their magic,
-with no direct line of fire required. If the enemy has near-emptied magic
-reserves, they will take doubled damage.
+吸取少量可见敌人的精神和一部分魔法，
+无需直接火线。如果敌人的魔法接近清空
+储备，他们将受到双倍伤害。
 %%%%
-Brom's Barrelling Boulder spell
+布罗姆的滚石咒语
 
-Unleashes a massive rolling boulder in a given compass direction. This boulder
-damages any creature it hits, rolling over those who perish beneath it and
-pushing any others helplessly backwards (along with anyone else unfortunate
-enough to be standing behind them).
+在给定的罗盘方向释放一块巨大的滚动巨石。这块巨石
+对它击中的任何生物造成伤害，将那些在其下方灭亡的生物翻滚，
+将任何其他人无助地向后推（以及其他不幸的人）
+足以站在他们身后）。
 
-Its size and reckless locomotion make it difficult to use in confined areas; if
-launched down narrow passages, it will rapidly abrade against the walls and fall
-apart. It will also crumble if it leaves the caster's sight or strikes a wall
-or otherwise unmoveable creature.
+它的尺寸和鲁莽的运动使其难以在狭窄的区域使用；如果
+沿着狭窄的通道发射，它会迅速磨损墙壁并掉落
+分开。如果它离开施法者的视线或撞到墙壁，它也会崩溃
+或其他不可移动的生物。
 %%%%
-Brothers in Arms spell
+兄弟连的咒语
 
-<Brothers in Arms ability>
+<战火兄弟能力>
 %%%%
-Call Canine Familiar spell
+召唤犬熟悉的咒语
 
-Summons an inugami to the caster's aid. These mystical canines form a bond with
-their summoner, strengthening them in direct proportion with the caster's
-spellpower.
+召唤犬神来帮助施法者。这些神秘的犬齿与
+他们的召唤者，与施法者的力量成正比地增强他们
+法术强度。
 
-Recasting this spell while your familiar is nearby will imbue it with additional
-magic, mending some of its wounds, cleansing it of poison, and causing its next
-attack to strike more quickly and cleave adjacent foes.
+当你的魔宠在附近时重施此法术将会为其注入额外的力量
+魔法，治愈它的一些伤口，清除它的毒素，并引发它的下一个伤口
+攻击可以更快地攻击并劈开相邻的敌人。
 %%%%
-Call Down Damnation spell
+召唤诅咒咒语
 
-Blasts a targeted enemy with damnation, with no direct line of fire required.
-These unholy forces harm the victim and anyone adjacent, and are not affected
-by any means of protection, such as armour or resistances. However, certain
-creatures, usually those able to invoke damnation themselves, are entirely
-unscathed by damnation.
+无需直接火线，即可用诅咒轰炸目标敌人。
+这些邪恶力量会伤害受害者和附近的任何人，但不受影响
+通过任何保护手段，例如盔甲或抵抗力。然而，某些
+生物，通常是那些能够自己引发诅咒的生物，完全是
+没有受到诅咒的伤害。
 %%%%
-Call Down Lightning spell
+召唤闪电咒语
 
-Blasts a targeted enemy with lightning, with no direct line of fire required.
-The targeting magics need distance to function, so enemies that are adjacent
-or nearly adjacent cannot be struck by this.
+用闪电轰击目标敌人，无需直接火线。
+瞄准魔法需要距离才能发挥作用，因此相邻的敌人
+或几乎相邻的地方不能被此击中。
 %%%%
-Call Imp spell
+呼叫小鬼咒语
 
-Calls forth a minor demon from the pits of Hell, equipped with a spear with
-which to jab at the caster's enemies. The quality of the imp's weaponry rises
-with spell power.
+从地狱深渊中召唤出一个小恶魔，装备着长矛
+用来刺向施法者的敌人。小鬼的武器质量提高
+具有法术强度。
 %%%%
-Call Lost Souls spell
+召唤失落的灵魂咒语
 
-Summons some necromantic spectres. These lost souls can enter the bodies of more
-powerful undead to bring them back from brink of demise, or turn dying living
-creatures into ghostly versions of themselves.
+召唤一些死灵幽灵。这些迷失的灵魂可以进入更多人的身体
+强大的不死生物可以将他们从死亡边缘拉回来，或者使垂死的人复活
+生物变成自己的幽灵版本。
 %%%%
-Call of Chaos spell
+混沌召唤法术
 
-Calls upon the powers of chaos to empower nearby allies, granting them haste,
-might, doubled vigour, or improved resistances. The chaotic magic may
-occasionally backfire and cause allies to instead lose their willpower or be
-berserked, polymorphed, or filled with inner flame.
+召唤混乱的力量来增强附近盟友的力量，让他们加速，
+可能，加倍活力，或提高抵抗力。混乱的魔法可能
+偶尔会适得其反，导致盟友失去意志或被
+狂暴、变形或充满内在火焰。
 %%%%
-Call Tide spell
+召唤潮汐法术
 
-Allows the caster to affect the tidal phase of all water within a large
-distance. Soon after calling it, the waters on the whole level will reach high
-tide. Waters near the caster will reach even higher levels than they would
-normally.
+允许施法者影响大范围内所有水体的潮汐相位
+距离。呼唤后不久，整个水面的水位就会达到很高
+潮。施法者附近的水位将会达到比原来更高的水平
+通常。
 %%%%
-Cantrip spell
+戏法咒语
 
-Casts one of a number of minor spells, aimed at trying to bolster the caster's
-morale. They have no noticeable effect.
+施放一些小法术之一，旨在增强施法者的力量
+士气。它们没有明显的效果。
 %%%%
-Cause Fear spell
+造成恐惧咒语
 
-Causes fear in those near to the caster, causing those affected to be unable to
-approach the caster, and to sometimes fail to attack them in melee. Leaving the
-caster's line of sight will end the effect.
+使施法者附近的人感到恐惧，导致受影响的人无法行动
+接近施法者，有时无法在近战中攻击他们。离开
+施法者的视线将结束该效果。
 %%%%
-Caustic Breath spell
+腐蚀性呼吸法术
 
-<Caustic Breath ability>
+<腐蚀性呼吸能力>
 %%%%
-Chain of Chaos spell
+混沌之链法术
 
-Creates an arc of pure chaos, striking nearby creatures with unpredictable
-effects. The arc can touch upon the caster without harming them.
+创造出一条纯粹混乱的弧线，以不可预测的方式攻击附近的生物
+影响。电弧可以触及施法者而不伤害他们。
 %%%%
-Chain Lightning spell
+连锁闪电法术
 
-Releases a massive electrical discharge that arcs to the creature nearest the
-caster and then outward from it. The further it travels, the less damage it
-does. Secondary arcs have limited range and do little damage to the caster.
-The spell bypasses half of defenders' armour and resistance to electricity.
+释放大量放电，向距离最近的生物发出电弧
+脚轮，然后从其向外。移动的距离越远，伤害就越小
+确实如此。次级电弧的范围有限，对施法者造成的伤害很小。
+该法术绕过防御者一半的护甲和抗电能力。
 %%%%
-Charm spell
+魅力咒语
 
-Causes an otherwise hostile creature to fight on the caster's side for a while.
-Adventurers, set on their quest for the ORB, instead suffer momentary confusion.
+使原本敌对的生物站在施法者一边战斗一段时间。
+冒险家们开始寻找ORB，却遭遇了短暂的困惑。
 %%%%
-Chaos Breath spell
+混沌呼吸法术
 
-Exhales a large cloud of fumes filled with the very essence of chaos.
+呼出一大团充满混沌本质的烟雾。
 %%%%
-Cigotuvi's Putrefaction spell
+西戈图维的腐烂咒语
 
-Magically accelerates the decay of damaged living tissue, causing great clouds
-of miasma to billow forth from a targeted victim's wounds over several turns
-which may slow and heavily poison any living creature who stands in them. Air
-currents will prevent this pestilence from forming wherever the caster is
-standing, but they are not otherwise protected from its effects.
+神奇地加速受损活体组织的腐烂，产生巨大的云彩
+瘴气会在几个回合内从目标受害者的伤口中涌出
+这可能会减慢并严重毒害站在其中的任何生物。空气
+无论施法者在哪里，水流都会阻止这种瘟疫的形成
+站，但他们没有以其他方式受到保护免受其影响。
 
-This spell may only be cast on a living creature who is at least heavily
-wounded, and channelling such necrotic energies will leave the caster's own
-health temporarily drained (though spellpower will reduce the intensity of this
-side-effect).
+这个法术只能施展在至少重度重伤的活物上
+受伤，并且引导这种坏死能量会留下施法者自己的能量
+生命值暂时耗尽（尽管法术强度会降低这种强度）
+副作用）。
 %%%%
-Cleansing Flame spell
+净化火焰法术
 
-Invokes a huge blast of divine fury centered on the user, severely damaging
-undead and demons and dealing damage to all other hostile creatures.
+引发以使用者为中心的巨大神圣之怒爆炸，造成严重伤害
+不死族和恶魔，并对所有其他敌对生物造成伤害。
 %%%%
-Cold Breath spell
+冰冷呼吸咒语
 
-Exhales a focused blast of icy-cold air.
+呼出一股集中的冰冷空气。
 %%%%
-Concentrate Venom spell
+浓缩毒液法术
 
-Intensifies the natural venom of the target monster. Poisonous bites and spit
-become intense enough to slow and asphyxiate.
+强化目标怪物的天然毒液。有毒的叮咬和吐口水
+变得强烈到足以减缓和窒息。
 %%%%
-Combustion Breath spell
+燃烧呼吸法术
 
-<Combustion Breath ability>
+<燃烧呼吸能力>
 %%%%
-Confuse spell
+迷惑咒语
 
-Induces a state of bewilderment and confusion in a creature's mind.
+使生物的头脑陷入迷惑和困惑的状态。
 %%%%
-Confusing Touch spell
+混乱的接触咒语
 
-Enchants the caster's dominant hand with magical energy. This energy is
-released when the caster touches a monster, and may induce a state of confusion
-in the monster. The caster's attacks do no damage while attempting to touch a
-monster in this way.
+用魔法能量附魔施法者的惯用手。这个能量是
+当施法者接触怪物时释放，并可能导致混乱状态
+在怪物中。施法者的攻击在尝试接触目标时不会造成任何伤害
+怪物就这样。
 %%%%
-Confusion Gaze spell
+混乱凝视法术
 
-Induces a state of bewilderment and confusion in a creature's mind, with no
-direct line of fire required.
+在生物的头脑中引起一种迷惑和困惑的状态，没有任何
+需要直接火线。
 %%%%
-Conjure Ball Lightning spell
+召唤球状闪电法术
 
-Creates a pack of ball lightnings, which seek out the nearest enemy before
-exploding in a huge blast of electricity. The damage dealt bypasses half of
-defenders' armour. Casters are advised to use caution; the lightning is not
-mindful of what it may hit.
+创建一组球状闪电，它们会先寻找最近的敌人
+在巨大的电流爆炸中爆炸。造成的伤害超过一半
+防御者的盔甲。建议脚轮谨慎使用；闪电不是
+注意它可能会击中的东西。
 
-The magic which keeps ball lightnings cohesive has limited range, so they may
-dissipate harmlessly if allowed to drift too far away from their caster before
-exploding.
+保持球状闪电凝聚力的魔法范围有限，因此它们可能
+如果之前允许其漂离施法者太远，则会无害地消散
+爆炸。
 %%%%
-Conjure Living Spells spell
+召唤生命咒语咒语
 
-Creates several living, autonomous spells, which cast themselves at the first foe
-to enter their range. Once cast, they dissipate.
+创造数个活生生的自主法术，这些法术会自动攻击第一个敌人
+进入他们的范围。一旦施展，它们就会消散。
 %%%%
-Construct Spike Launcher spell
+构造尖刺发射器法术
 
-Constructs a simple mechanical trap within an adjacent wall which repeatedly
-skewers random adjacent enemies. Protected by the wall itself, it is
-invulnerable to most forms of damage, but will fall apart if the caster leaves
-its vicinity.
+在相邻的墙壁内建造一个简单的机械陷阱，反复进行
+串随机相邻的敌人。受到墙壁本身的保护，
+不受大多数形式的伤害，但如果施法者离开，就会崩溃
+它的附近。
 %%%%
-Corona spell
+电晕咒语
 
-Causes a halo of glowing light to surround and effectively outline a creature.
-This glow offsets the dark, musty atmosphere of the dungeon, and makes the
-affected creature appreciably easier to hit.
+产生一圈发光的光环包围并有效地勾画出生物的轮廓。
+这种光芒抵消了地牢里黑暗、发霉的气氛，使
+受影响的生物明显更容易被击中。
 %%%%
-Corrosive Bolt spell
+腐蚀螺栓法术
 
-Fires a penetrating bolt of highly-corrosive acid.
+发射高腐蚀性酸的穿透箭。
 %%%%
-Corrupt spell
+腐化咒语
 
-Unleashes Abyssal energies in the immediate vicinity. This changes the
-appearance of the affected area and temporarily summons creatures from the
-Abyss. This cannot be used in the Abyss itself.
+在附近释放深渊能量。这改变了
+受影响区域的出现并暂时召唤来自受影响区域的生物
+深渊。这不能在深渊本身使用。
 %%%%
-Corrupting Pulse spell
+腐化脉冲法术
 
-Instills a corruption within all visible targets, temporarily mutating their
-bodies in an adverse fashion. It cannot affect artificial beings, and the
-undead will decompose if affected.
+在所有可见目标中灌输腐败，暂时改变他们的
+身体以不利的方式。它不能影响人造生物，并且
+如果受到影响，不死生物将会分解。
 %%%%
-Creeping Frost spell
+冰霜蠕动法术
 
-Calls forth freezing cold from the walls. Any enemies of the caster standing
-next to the walls will be frozen and will find their movements slowed. Cold
-resistance will reduce damage, but not prevent the freezing effect.
+从墙壁上召唤出冰冷的气息。施法者的任何敌人都站立着
+靠近墙壁的人会被冻结并且会发现他们的动作变慢了。寒冷
+抵抗会减少伤害，但不会阻止冰冻效果。
 %%%%
-Creeping Shadow spell
+潜行暗影法术
 
-Calls forth shadows from the corners of nearby walls to strike at all of the
-caster's enemies standing adjacent to them.
+从附近墙角召唤阴影攻击所有物体
+施法者的敌人站在他们旁边。
 %%%%
-Crystallising Shot spell
+结晶射击法术
 
-Hurls a large and heavy shard of crystal. It may render a creature's body
-structure as brittle and fragile as shattered and unrefined crystal, increasing
-the damage they take from all sources.
+投掷一块又大又重的水晶碎片。它可能会渲染生物的身体
+结构像破碎和未提炼的晶体一样脆和易碎，增加
+他们从所有来源受到的伤害。
 %%%%
-Curse of Agony spell
+痛苦诅咒咒语
 
-Curses a foe, halving their remaining health after each of the next two times
-that the caster strikes them in melee.
+诅咒敌人，在接下来的两次之后将他们的剩余生命值减半
+施法者在近战中攻击他们。
 %%%%
-Death Channel spell
+死亡通道法术
 
-Binds the souls of slain living, demonic and holy creatures, forcing their
-spectres to remain and fight for the caster for as long as the channel lasts.
+束缚被杀的活物、恶魔和神圣生物的灵魂，迫使他们
+只要通道存在，幽灵就会留下来并为施法者而战。
 %%%%
-Death Rattle spell
+死亡嘎嘎声咒语
 
-Exhales the essence of the dying, creating clouds of noxious miasma.
+呼出垂死者的精髓，制造出有毒的瘴气云。
 %%%%
-Death's Door spell
+死亡之门咒语
 
-Renders the caster nigh invulnerable to harm for a brief period, but brings
-them dangerously close to death in the process. So close, in fact, that the
-body believes itself to be dead — healing effects will do nothing.
+使施法者在短时间内几乎不受伤害，但会带来
+他们在此过程中危险地接近死亡。事实上，如此接近，以至于
+身体相信自己已经死了——治愈效果将无济于事。
 
-The caster will receive one warning shortly before the spell expires. After
-expiry, the spell cannot immediately be recast, but with high power the caster
-will be left further from death when the effect ends. It has no effect on those
-who are already undead.
+施法者会在法术到期前不久收到一次警告。之后
+到期后，该法术不能立即重施，但施法者具有高威力
+当效果结束时，距离死亡会更远。对那些没有影响
+那些已经不死的人。
 %%%%
-Debugging Ray spell
+调试射线法术
 
-Fires a ray which does massive damage (1500 hp) and always hits.
+这样的发射光线，造成巨大伤害（1500马力）并且命中最高。
 %%%%
-Deflect Missiles spell
+偏转导弹法术
 
-Envelops the caster in a repulsion field, greatly increasing their evasion
-against all types of projectile - even while otherwise incapacitated.
+将施法者包围在斥力场中，大大增加他们的躲避能力
+对抗所有类型的射弹 - 即使在其他方面丧失能力。
 %%%%
-Detonation Catalyst spell
+爆炸催化剂法术
 
-Affixes a volatile catalyst to the caster's fists or melee weapon, causing each
-of their strikes to release a fiery explosion at its primary target. The caster
-and their allies are protected from the explosion's effects. The activity of the
-catalyst may be prolonged indefinitely as long as the caster continues to
-attack, but it rapidly loses potency when they take other actions. The base
-damage of the caster's weapon and the caster's spellpower each increase the
-explosion's damage.
+将挥发性催化剂附加到施法者的拳头或近战武器上，使每个
+他们的攻击会在主要目标上释放出炽热的爆炸。脚轮
+他们的盟友受到保护，免受爆炸的影响。的活动
+只要施法者继续，催化剂就可以无限期地延长
+攻击，但当他们采取其他行动时，它会迅速失去效力。基地
+施法者武器的伤害和施法者的法术强度各增加
+爆炸的伤害。
 %%%%
-Diamond Sawblades spell
+金刚石锯片咒语
 
-Forges up to four razor-sharp sawblades at fixed positions around the caster
-which shred any enemies adjacent to them over several turns.
+在脚轮周围的固定位置锻造多达四个锋利的锯片
+在几个回合中粉碎与他们相邻的任何敌人。
 %%%%
-Dig spell
+挖掘咒语
 
-Digs a tunnel through unworked rock.
+在未加工的岩石中挖一条隧道。
 %%%%
-Dimension Anchor spell
+次元锚咒语
 
-Blocks any translocations attempted by the affected target, be they voluntary
-or not. This includes even some cross-plane effects, although notably not
-Banishment.
+阻止受影响目标的任何易位尝试，无论他们是自愿的
+或不。这甚至包括一些跨平面效应，尽管值得注意的是
+放逐。
 %%%%
-Dimensional Bullseye spell
+次元靶心法术
 
-Weaves a link between the caster's weaponry and a chosen target. Whenever the
-caster fires or throws something at a *different* enemy, a matching projectile
-will be teleported at the target. Spellpower increases their accuracy.
+在施法者的武器和选定目标之间建立联系。每当
+施法者向*不同的*敌人发射或投掷一些东西，一个匹配的射弹
+将被传送到目标。法术能量提高了他们的准确性。
 %%%%
-Diminish Spells spell
+减少法术咒语
 
-Irresistibly weakens the power of an enemy's spells for a period of time.
+在一段时间内不可抗拒地削弱敌人的法术威力。
 %%%%
-Discord spell
+不和谐咒语
 
-Drives nearby creatures into an wild frenzy, causing them to mercilessly
-attack anything and everything nearby with great strength and speed.
+让附近的生物陷入疯狂，导致他们无情地
+以强大的力量和速度攻击附近的任何事物。
 %%%%
-Disjunction spell
+析取咒语
 
-Destabilises the space in a sphere around the caster for a while, causing
-anyone nearby to blink away from the caster. The chance of blinking depends on
-the distance from the caster, being nearly certain when directly adjacent.
+使施法者周围的球体空间暂时不稳定，造成
+附近的任何人都可以眨眼远离施法者。眨眼的机会取决于
+与施法者的距离，当直接相邻时几乎是确定的。
 %%%%
-Dispel Undead spell
+驱散亡灵法术
 
-Harms an adjacent undead creature greatly by interfering with the forces
-binding it together.
+通过干扰力量对邻近的不死生物造成极大伤害
+将其绑定在一起。
 %%%%
-Dispel Undead Range spell
+驱散亡灵范围法术
 
-Harms an undead creature greatly by interfering with the forces binding it
-together.
+通过干扰束缚不死生物的力量来极大地伤害它
+在一起。
 %%%%
-Dispersal spell
+驱散咒语
 
-Teleports away any creatures within a short distance of the caster. Any
-creature with the Will to resist will still be irresistibly blinked a shorter
-distance, and any monster it affects at all has a separate Will-based chance
-of being confused by the warping of space.
+传送远离施法者短距离内的任何生物。任意
+具有抵抗意志的生物仍会不可抗拒地眨眼更短
+距离，并且任何受其影响的怪物都有单独的基于意志的机会
+因空间扭曲而感到困惑。
 %%%%
-Divine Armament spell
+神兵符咒
 
-Manifests the caster's faith as a spiritual weapon, which will fight and slay
-the caster's enemies under its own power.
+体现施法者的信仰作为精神武器，它将战斗和杀戮
+施法者的敌人受其自身力量的影响。
 
-As it is a direct reflection of the caster's unique zeal, the weapon they
-receive from their god will be the same each time.
+由于它直接反映了施法者独特的热情，因此他们所使用的武器
+每次从他们的神那里得到的都是一样的。
 %%%%
-Dominate Undead spell
+支配亡灵法术
 
-Attempts to forcibly change the allegiance of all nearby undead which are not
-already loyal to the caster.
+试图强行改变附近所有不死生物的效忠对象
+已经对施法者忠诚了。
 
-Adventurers, being famously headstrong, cannot be fully controlled by this
-spell. They will instead lash out randomly for the duration of its effect,
-attacking nearby friend and foe alike before regaining their wits.
+冒险家是出了名的任性，无法完全被这个控制
+咒语。相反，他们会在其效果持续时间内随机猛烈攻击，
+在恢复理智之前攻击附近的朋友和敌人。
 
-This spell can be broken prematurely by the death of its caster.
+该法术可以因施法者的死亡而提前解除。
 %%%%
-Doomsaying spell
+末日咒语
 
-Foretells a terrible future, inflicting Doom equal to half of what it would take
-for you to reach 100%. Upon the caster's death, a sliver of this fate will come
-to pass in the form of an ambush; several well-hidden enemies from the floor
-will seek out your position unerringly and all stairs will temporarily be
-sealed.
+预言一个可怕的未来，造成相当于所需要的一半的毁灭
+让你达到100%。施法者死后，这种命运的一小部分就会降临
+以伏击的方式通过；地板上有几个隐藏得很好的敌人
+会准确地找到你的位置，所有楼梯都会暂时关闭
+密封的。
 
-Can only be cast a single time, but even slaying the messenger in their sleep
-will not avoid what fate has in store for you.
+只能施放一次，但即使在睡梦中杀死信使
+不会逃避命运为你准备的一切。
 %%%%
-Doom Bolt spell
+末日之箭法术
 
-Fires a bolt of accursed malice which inflicts Doom.
+发射一束被诅咒的恶意箭，造成毁灭。
 %%%%
-Oblivion Howl spell
+遗忘嚎叫法术
 
-Unleashes a piercing howl that catches and echoes in victims' minds. While
-those echoes linger, nightmarish creatures will hear and track them to their
-source. It can only be used once by a given creature.
+释放出刺耳的嚎叫声，在受害者的脑海中回响。同时
+这些回声挥之不去，噩梦般的生物会听到并追踪它们到它们的地方
+来源。它只能被给定的生物使用一次。
 %%%%
-Dragon's Call spell
+龙之召唤咒语
 
-Issues a powerful call to a draconic realm, beckoning forth dragon after dragon
-to engage the summoner's enemies. The spell is taxing to maintain, and each new
-dragon which answers the call will further drain the summoner's magical
-reserves. After the call ends, it cannot be issued again for a short time. The
-duration of the call and the species of dragons called depend on spell power.
+向龙界发出强大的召唤，召唤一条又一条的龙
+与召唤者的敌人交战。维持这个咒语非常费力，而且每一个新咒语
+响应召唤的龙会进一步消耗召唤者的魔法
+储备。通话结束后，短时间内无法再次发出。的
+召唤的持续时间和召唤的龙的种类取决于法术强度。
 %%%%
-Drain Life spell
+吸取生命咒语
 
-Drains the life force of any nearby enemies, healing the user depending on
-the damage dealt.
+吸取附近敌人的生命力，根据情况治疗使用者
+造成的伤害。
 %%%%
-Drain Magic spell
+汲取魔法咒语
 
-Causes the target's magic to leak into the air, as though they were hit by an
-antimagic weapon.
+使目标的魔法泄漏到空气中，就好像他们被某种力量击中一样
+反魔法武器。
 %%%%
-Draining Gaze spell
+汲取凝视法术
 
-Fills a living creature with negative energy, draining them for a fraction of
-their maximum health. This spell requires line of sight but not line of fire.
+使生物体内充满负能量，并消耗其一小部分
+他们的最大健康状况。该法术需要视线，但不需要火线。
 %%%%
-Dream Dust spell
+梦尘咒语
 
-Overwhelms the target with soporific dream dust, putting them to sleep with an
-enchanting visual display. Additional dream sheep will increase the strength
-and duration of this effect.
+用催眠的梦尘压倒目标，让他们以一种催眠的方式入睡
+迷人的视觉展示。额外的梦羊会增加力量
+以及该效果的持续时间。
 %%%%
-Druid's Call spell
+德鲁伊的召唤法术
 
-Recalls woodland creatures from elsewhere on the same level.
+召回来自同一级别其他地方的林地生物。
 %%%%
-Electrical Bolt spell
+电螺栓咒语
 
-Throws a bolt of electricity at the target, with high accuracy.
+向目标投掷一道闪电，准确度极高。
 %%%%
-Enfeeble spell
+虚弱咒语
 
-Overwhelms an enemy with malignant energies, irresistibly weakening their melee
-attacks and reducing the power of their spells. It will additionally daze and
-blind any foe that fails to resist the full force of the curse - even those
-without visual senses!
+用邪恶的能量压倒敌人，不可抗拒地削弱他们的近战能力
+攻击并降低其法术的威力。它还会让人发晕并
+致盲任何无法抵抗诅咒全部力量的敌人 - 即使是那些
+没有视觉感官！
 %%%%
-Ensnare spell
+诱捕法术
 
-Shoots a stream of webbing at a creature, ensnaring the target in a sticky web.
+向生物射出一股网流，将目标困在粘性网中。
 %%%%
-Ensorcelled Hibernation spell
+迷惑冬眠法术
 
-Lowers its target's metabolic rate, inducing hibernation. After awakening, the
-target will be unable to be put to sleep again for some time.
+降低目标的新陈代谢率，诱导冬眠。觉醒后，
+目标在一段时间内将无法再次进入睡眠状态。
 %%%%
-Entropic Weave spell
+熵编织法术
 
-Corrodes the target, with no direct line of fire required.
+无需直接火线即可腐蚀目标。
 %%%%
-Eringya's Noxious Bog spell
+艾林雅的有毒沼泽咒语
 
-Causes the caster to release a torrent of sludge that transforms nearby areas
-into a toxic bog. The sludge damages and poisons all monsters, even those
-resistant to poison. The bog cannot form on areas adjacent to multiple solid
-features, nor on areas that lack solid floor, like deep water or lava. The
-transformation is temporary and cannot be sustained out of the caster's sight.
-Spellpower will increase how long the bog lingers.
+使施法者释放出大量污泥，改变附近区域
+进入有毒沼泽。污泥会伤害并毒害所有怪物，甚至包括那些
+对毒有抵抗力。沼泽不能在与多个固体相邻的区域形成
+特征，也不在缺乏坚固地面的区域，如深水或熔岩。的
+转变是暂时的，无法在施法者的视线之外持续。
+法术强度会增加沼泽停留的时间。
 %%%%
-Eringya's Surprising Crocodile spell
+额林雅的鳄鱼惊咒
 
-Summons a toothy crocodile to assault an adjacent enemy. The crocodile will
-appear beneath the caster in a surge of murky water and perform an empowered
-attack against the chosen target, dragging both it and the caster backward
-before allowing the latter to dismount safely behind it. It cannot be recast
-while the crocodile is still active.
+召唤一条露齿鳄鱼攻击邻近的敌人。鳄鱼会
+出现在施法者下方，出现在一股浑浊的水中，并执行一种授权
+对所选目标进行攻击，将其和施法者向后拖拽
+然后让后者在其后面安全下车。无法重铸
+而鳄鱼仍然活跃。
 %%%%
-Eruption spell
+爆发咒语
 
-Splits the earth to draw up a localised, short-lived volcano under the target.
+分裂大地，在目标下方形成一座局部的、短命的火山。
 %%%%
-Fastroot spell
+快根咒语
 
-Fires a magical seed, entangling victims in quick-growing tree roots. Those
-entangled will be painfully constricted until they escape or the roots wither
-away. The roots will only sprout from solid ground.
+发射魔法种子，将受害者缠绕在快速生长的树根中。那些
+纠缠会被痛苦地束缚，直到它们逃脱或根部枯萎
+离开。根只会从坚实的土地上发芽。
 %%%%
-Flay spell
+剥皮咒语
 
-Opens painful illusionary wounds on the target's body, which disappear after
-a short time or on the death of the caster. This cannot kill directly, and is
-ineffective against unnatural targets.
+在目标身上打开痛苦的幻象伤口，伤口会在目标消失后消失
+短时间内或施法者死亡时。这不能直接杀死，而是
+对非自然目标无效。
 %%%%
-Fire Breath spell
+火息术
 
-Breathes a blast of fire at a targeted creature.
+向目标生物喷出一阵火焰。
 %%%%
-Fire Storm spell
+火焰风暴法术
 
-Calls forth a mighty storm of roaring flame directly onto the target, dealing
-damage in a large area and leaving behind short-lived fire vortices. Half of
-its damage bypasses fire resistance.
+召唤出一股强大的火焰风暴，直接攻击目标，造成
+大面积损坏并留下短暂的火焰漩涡。一半
+它的伤害绕过了耐火性。
 %%%%
-Fireball spell
+火球术
 
-Hurls an explosive ball of fire.
+投掷爆炸性火球。
 %%%%
-Flame Wave spell
+火焰波动法术
 
-Blasts the caster's surroundings with a wave of fire. If the caster maintains
-focus and supplies the spell with magical power (by waiting in place and not
-taking any other actions), more and larger flame waves will radiate outward.
+用火焰波炸毁施法者周围的环境。如果施法者保持
+集中注意力并为咒语提供魔法力量（通过原地等待而不是
+采取任何其他行动），更多更大的火焰波将会向外辐射。
 %%%%
-Flaming Cloud spell
+火云法术
 
-Conjures up a large cloud of roaring flames.
+召唤出一大团咆哮的火焰。
 %%%%
-Flash Freeze spell
+闪冻术
 
-Freezes the air around a target, causing significant harm and slowing the
-target's movement for a short time. Half of its damage bypasses cold resistance.
+冻结目标周围的空气，造成严重伤害并减慢速度
+目标的短时间移动。其一半伤害会绕过寒冷抗性。
 %%%%
-Flashing Balestra spell
+闪烁的巴莱斯特拉咒语
 
-A single soul from within the armoury leaps out, striking with their weapon and
-then duelling independently for a short time before returning to the maelstrom
-once more.
+一个灵魂从军械库中跳出来，用他们的武器攻击并攻击
+然后进行短暂的独立决斗，然后返回漩涡
+再一次。
 %%%%
-Fleetfoot spell
+疾步咒语
 
-Calls forth winds to increase the caster's movement speed for a short duration.
+召唤风来在短时间内提高施法者的移动速度。
 %%%%
-Force Lance spell
+力矛咒语
 
-Fires a shaft of concussive force. If the impact deals damage, it may knock the
-target back. If this knockback causes the target to hit a wall or another
-creature, both will take additional damage.
+发射一束震荡力。如果撞击造成损坏，可能会击倒
+目标回来。如果击退导致目标撞到墙壁或其他物体
+生物，两者都会受到额外伤害。
 %%%%
-Forceful Invitation spell
+强力邀请咒语
 
-Summons some creatures from one of the Snake Pit, the Spider Nest, the Swamp,
-the Shoals, the Elven Halls, the Vaults, or the Crypt; the specific branch
-varies with the caster.
+从蛇坑、蜘蛛巢、沼泽之一召唤一些生物，
+浅滩、精灵大厅、地窖或地穴；具体分支
+因施法者而异。
 %%%%
-Forge Blazeheart Golem spell
+锻造火心傀儡咒语
 
-Constructs a shell of slag iron around a volatile elemental spark. It is capable
-of raining down powerful blows on its creator's adversaries - so powerful that
-the golem itself is often damaged by their impact.
+在挥发性元素火花周围建造一个渣铁外壳。它有能力
+对它的创造者的对手进行猛烈的打击——如此强大以至于
+魔像本身经常会因它们的撞击而受损。
 
-Only tenuously independent of its creator's magic, the flames within it will
-rapidly go dormant if the two ever leave each other's side. If its shell is
-destroyed while the golem is still active, its exposed core will violently
-detonate a moment later.
+只有微弱地独立于其创造者的魔法，它内部的火焰才会
+如果两者离开对方身边，就会迅速进入休眠状态。如果它的外壳是
+当傀儡仍然活跃时被摧毁，其暴露的核心会剧烈
+片刻后引爆。
 
-It gains greater explosive damage at higher power.
+它以更高的功率获得更大的爆炸伤害。
 %%%%
-Forge Lightning Spire spell
+锻造闪电尖塔法术
 
-Constructs an immobile lightning spire at a nearby location. This spire
-irregularly discharges bolts of electricity at the caster's foes, prioritizing
-whichever of them is most distant from it.
+在附近位置建造一个固定的闪电尖塔。这个尖塔
+不规则地向施法者的敌人发射闪电，优先
+其中距离最远的一个。
 %%%%
-Forge Monarch Bomb spell
+锻造君主炸弹法术
 
-Constructs a flying incendiary factory, packed to the brim with cluster
-bomblets which it can deploy both in melee and launch at range. While the
-monarch's bomblets have no attack of their own, they will pursue the caster's
-enemies until given the signal to explode.
+建造一座飞行燃烧工厂，堆满了燃烧弹
+它既可以在近战中部署，也可以在远距离发射。虽然
+君主的子炸弹本身没有攻击力，它们会追击施法者的
+敌人直到收到爆炸信号为止。
 
-Recasting this spell while anything it has created is still active will
-detonate the monarch bomb and all bomblets, dealing a combination of fire and
-physical damage to everything adjacent to them besides the caster themselves.
+当该法术所创造的任何东西仍处于活动状态时重施该法术将会
+引爆君主炸弹和所有小炸弹，造成火焰和火焰的组合
+除了施法者本身之外，对与他们相邻的所有物体造成物理伤害。
 %%%%
-Forge Phalanx Beetle spell
+锻造方阵甲虫法术
 
-Constructs a small mechanical guardian which bolsters its creator's armour
-class for as long as it remains adjacent to them.
+建造一个小型机械守护者来增强其创造者的盔甲
+只要类仍然与它们相邻。
 
-While also capable of biting foes, the phalanx beetle will never voluntarily
-leave its creator's side, and if forcibly separated, will prioritise returning
-to them over any other concern.
+虽然也能够咬敌人，但方阵甲虫永远不会自愿
+离开创造者身边，如果强行分离，会优先返回
+优先考虑他们的任何其他问题。
 
-Spellpower increases the magnitude of the AC increase, as well as the beetle's
-own durability.
+魔法强度会增加AC的建筑物，以及甲虫的
+自己的耐用性。
 %%%%
-Fortress Blast spell
+要塞爆炸法术
 
-Draws upon the caster's own physical integrity to create a kinetic shockwave
-that damages foes in a large area. The caster is locked in place for several
-turns as the shockwave starts to form, and the spell will be cancelled if they
-are displaced during that time, but they may otherwise perform other actions
-freely.
+利用施法者自身的身体完整性来产生动力冲击波
+对大范围的敌人造成伤害。脚轮被锁定到位数次
+当冲击波开始形成时，法术就会被取消，如果它们
+在此期间流离失所，但他们可能会采取其他行动
+自由地。
 
-Spellpower causes the spell to complete more quickly, but the damage depends
-entirely upon the caster's AC.
+法术能量使法术完成得更快，但伤害取决于
+完全取决于施法者的AC。
 %%%%
-Foxfire spell
+狐火法术
 
-Conjures two balls of burning swamp gas adjacent to the caster. The balls will
-rapidly seek the nearest monster and burn them. They will dissipate harmlessly
-if unable to reach a target or if the caster swaps places with them.
+在施法者附近召唤两颗燃烧的沼泽气体球。球将
+迅速寻找最近的怪物并烧毁它们。它们会无害地消散
+如果无法到达目标或者施法者与他们交换位置。
 %%%%
-Freeze spell
+冻结咒语
 
-Freezes an adjacent creature, dealing damage that bypasses any armour the
-target may have. This may temporarily slow cold-blooded creatures.
+冻结邻近的生物，造成绕过任何护甲的伤害
+目标可能有。这可能会暂时减慢冷血生物的速度。
 %%%%
-Freezing Cloud spell
+冰冻云咒
 
-Conjures up a large cloud of lethally cold vapour.
+召唤出一大团致命的冰冷蒸气。
 %%%%
-Freezing Gust spell
+冰冻阵风法术
 
-Fires a penetrating bolt of frigid air that leaves clouds of lethally cold
-vapour in its wake.
+发射一股具有穿透力的寒冷空气，留下致命的寒冷云层
+其尾迹中的蒸汽。
 %%%%
-Frozen Ramparts spell
+冰冻城墙法术
 
-Encases surrounding walls with ice for a short time. Foes that wander near the
-icy walls will be damaged, and this may temporarily slow cold-blooded creatures.
-Each victim is only ever affected by one icy wall at a time.
+用冰短时间内包围周围的墙壁。徘徊在附近的敌人
+冰冷的墙壁会被损坏，这可能会暂时减慢冷血生物的速度。
+每个受害者一次只会受到一堵冰墙的影响。
 
-The ice will crack and fall away if the caster moves to a new position.
+如果施法者移动到新位置，冰就会破裂并脱落。
 %%%%
-Fugue of the Fallen spell
+堕落者赋格咒语
 
-Calls out to the lingering remnants of the long dead. While active, each
-non-summoned enemy the caster or their allies slays attracts more vengeful
-souls into the caster's weapon, temporarily enhancing their melee and ranged
-effectiveness. When this bonus reaches its maximum, every hit will unleash a
-glimmer of the dead's suffering, causing pain damage to each other foe adjacent
-to your target.
+召唤死去已久的残骸。在活跃期间，每个
+施法者或其盟友杀死的非召唤敌人会吸引更多复仇者
+将灵魂注入施法者的武器中，暂时增强他们的近战和远程能力
+有效性。当这个奖励达到最大时，每次击中都会释放出
+死者痛苦的曙光，对相邻的敌人造成痛苦伤害
+到你的目标。
 
-Recasting this spell will release your grip on the souls you've attracted,
-resetting any bonus you've accumulated, and the cacophonous wailing of the dead
-may attract unwanted attention even while you maintain it.
+重铸这个咒语将释放你对你所吸引的灵魂的控制，
+重置你积累的所有奖金，以及死者刺耳的哀号
+即使您维护它，也可能会引起不必要的注意。
 %%%%
-Fulminant Prism spell
+暴发棱镜法术
 
-Conjures a shining prism of an unstable soft gold alloy. This is useless as
-legal tender, however, as it will unfortunately violently explode with arcane
-force after a short duration. If destroyed prematurely, its blast will be much
-weaker.
+召唤出不稳定的软金合金制成的闪亮棱镜。这是无用的
+然而，法定货币，因为不幸的是，它会随着神秘的力量而猛烈爆炸
+短时间后用力。如果过早破坏，其爆炸力会很大
+较弱。
 %%%%
-Fulsome Fusillade spell
+丰富的齐射咒语
 
-A magnum opus of reckless chemistry, this spell conjures up a surfeit of
-volatile reagents to rain down upon your enemies. For the next several turns, up
-to 3 random enemies in sight will be struck by an exploding beaker that inflicts
-either fire, cold, electric, or poison damage. If any of these explosions
-overlap each other, the resulting reaction will inflict even greater
-irresistible damage and sometimes apply a random deleterious status on whoever
-is caught in the blast.
+这是一部鲁莽化学的巨著，这个咒语会让人联想到过量的化学物质。
+挥发性试剂如雨点般落在你的敌人身上。接下来的几个回合，向上
+视野中的 3 个随机敌人将被爆炸的烧杯击中，造成
+火灾、寒冷、电击或毒害。如果发生这些爆炸
+相互重叠，产生的反应会造成更大的影响
+不可抗拒的伤害，有时会对任何人施加随机的有害状态
+被卷入爆炸之中。
 
-This spell costs a small amount of the caster's magical energy each turn to
-maintain, and while it will never aim an explosion where it could hurt the
-caster, the caster's allies (and anything else in the general vicinity) are not
-so fortunate.
+该法术每回合消耗施法者少量的魔法能量
+维持，虽然它永远不会瞄准可能伤害到的地方进行爆炸
+施法者、施法者的盟友（以及附近的任何其他物体）都不是
+太幸运了。
 %%%%
-Funeral Dirge spell
+葬礼挽歌咒语
 
-A ritual chant that briefly rouses several nearby undead allies to move more
-swiftly and strike with greater might.
+一种仪式性的吟唱，短暂地唤醒附近的几个不死盟友移动更多
+迅速并以更大的力量进行打击。
 %%%%
-Galvanic Breath spell
+电呼吸法术
 
-<Galvanic Breath ability>
+<电呼吸能力>
 %%%%
-Gell's Gavotte spell
+盖尔的加沃特咒语
 
-Briefly reorients local gravity to be in a cardinal direction of the caster's
-choosing, causing all creatures in sight to tumble a short distance in that
-direction.
+短暂地将局部重力重新定向到施法者的基本方向
+选择，导致视野中的所有生物在其中翻滚一小段距离
+方向。
 
-The caster is not immune to the gravitational effects of this spell, but will
-be cushioned so they take no collision damage. Other creatures are not so
-fortunate, and the abrupt impact will batter anything which was not already
-standing beside its new 'floor'.
+施法者不能免疫该法术的重力效果，但会
+进行缓冲，以免受到碰撞损坏。其他生物则不然
+幸运的是，突然的撞击会击中任何尚未击中的物体
+站在新"地板"旁边。
 
-It takes a short time for gravity to stabilise enough to recast this spell,
-though more powerful mages are able to do so more frequently.
+重力需要很短的时间才能稳定到足以重施此法术，
+尽管更强大的法师能够更频繁地这样做。
 %%%%
-Ghostly Fireball spell
+幽灵火球术
 
-Hurls an exploding ball of negative energy which drains any living creature
-it engulfs.
+投掷一个爆炸性的负能量球，吸干所有生物
+它吞噬了。
 %%%%
-Ghostly Sacrifice spell
+幽灵牺牲法术
 
-Uses an ally's motivating essence to create a blast of negative energy,
-draining any living creature it engulfs. The being used to fuel the spell, no
-matter whether living or construct, is consumed and unmade in the process.
+使用盟友的激励精华产生一股负能量，
+吸干它吞没的所有生物。被用来为咒语提供燃料，不
+无论是居住的还是建造的，都会在这个过程中被消耗和毁坏。
 %%%%
-Glacial Breath spell
+冰河吐息法术
 
-<Glacial Breath ability>
+<冰川吐息能力>
 %%%%
-Glaciate spell
+冰川咒语
 
-Conjures forth a mighty blast of ice. Creatures within its cone-shaped area of
-effect take damage, with higher damage being dealt to those close to the
-caster. Those hit by the blast are encased in ice, slowing their movement, and
-those killed by the blast may be frozen into solid blocks of ice. Half of its
-damage bypasses cold resistance.
+召唤出强大的冰之冲击波。其圆锥形区域内的生物
+效果受到伤害，靠近效果的人会受到更高的伤害
+脚轮。那些被爆炸击中的人会被冰包裹，减慢他们的移动速度，并且
+那些被爆炸杀死的人可能会被冻成坚固的冰块。其一半
+伤害绕过了寒冷抵抗力。
 %%%%
-Gloom spell
+阴暗咒语
 
-Emits a wave of pernicious gloom which attempts to smother the light around
-nearby creatures. Any living, demonic or holy creature caught in the effect may
-briefly lose their eyesight and be left stumbling blindly.
+散发出一股有害的阴暗波，试图抑制周围的光线
+附近的生物。任何受到该效果影响的活体、恶魔或神圣生物都可能
+短暂失明并盲目地跌跌撞撞。
 
-Willpower is useless against this spell, but stronger creatures may still shrug
-off its effects.
+意志对这个法术毫无用处，但更强大的生物可能仍然会耸耸肩
+关闭其影响。
 %%%%
-Grasping Roots spell
+抓根咒语
 
-Calls giant grasping roots from deep underground that hold and constrict their
-victim. The roots will retreat if the victim breaks free or if the caller moves
-out of view.
+召唤来自地下深处的巨型抓根，抓住并限制它们
+受害者。如果受害者挣脱或呼叫者移动，树根就会撤退
+看不见。
 %%%%
-Grave Claw spell
+坟墓之爪法术
 
-Calls forth the spite of the recently dead to skewer a targeted enemy with
-shards of bone. This spell never misses, and will pin its target in place for
-several turns, but casting it rapidly consumes the remnants of death that linger
-upon the caster.
+唤起刚刚死去的人的怨恨来刺穿目标敌人
+骨头碎片。该法术绝不会失手，并且会将其目标固定在原地
+几个回合，但施放它会迅速消耗掉残留的死亡残余
+在脚轮上。
 
-You can stockpile enough malice to cast this spell at most three times, and this
-can only be replenished by causing the death of a sufficient number of living
-beings.
+你可以储存足够的恶意来施展这个法术最多三次，并且这个
+只能通过造成足够数量的活体死亡来补充
+众生。
 %%%%
-Infernal Servant spell
+地狱仆从咒语
 
-Summons a major demon.
+召唤大恶魔。
 %%%%
-Greater Ensnare spell
+强效诱捕法术
 
-Shoots a stream of webbing at a creature, ensnaring them in a sticky web and
-scattering additional webs nearby that dissolve after a short length of time.
+向生物射出一股网流，将其困在粘性网中并
+在附近散布额外的网，这些网会在短时间内溶解。
 %%%%
-Hailstorm spell
+冰雹法术
 
-Conjures a cannonade of hail, battering nearby creatures that fail to dodge.
-The eye of the storm is wide enough that monsters adjacent to the caster are
-unaffected. Due to the strong impact and cutting edges, half of its damage
-bypasses cold resistance.
+召唤冰雹大炮，攻击附近无法躲避的生物。
+风暴之眼足够宽，可以让施法者附近的怪物
+不受影响。由于强烈的冲击和切削刃，其损坏一半
+绕过寒冷阻力。
 %%%%
-Haste Other spell
+急速 其他法术
 
-Speeds the actions of a nearby ally.
+加快附近盟友的行动速度。
 %%%%
-Harpoon Shot spell
+鱼叉射击法术
 
-Fires a long and flexible barbed mass. The ensnared victim will either be
-pulled adjacent to the caster or collide with anything blocking the way.
+发射长而灵活的带刺物体。被困住的受害者要么是
+被拉到施法者附近或与任何挡路的东西碰撞。
 %%%%
-Haste spell
+急速法术
 
-Speeds the actions of the caster.
+加快施法者的行动速度。
 %%%%
-Haunt spell
+鬼魂咒语
 
-Calls wraiths and ghosts to haunt the caster's target. They will only attack
-the creature they are haunting, and will dissipate quickly once their target
-dies. The number of spectres summoned increases with spell power.
+召唤幽灵和幽灵来困扰施法者的目标。他们只会攻击
+他们所困扰的生物，一旦他们的目标就会迅速消散
+死了。召唤的幽灵数量随着法术强度的增加而增加。
 %%%%
-Hellfire Court spell
+地狱火法庭咒语
 
-Summons demons of flame and damnation.
+召唤火焰和诅咒的恶魔。
 %%%%
-Hellfire Mortar spell
+地狱火迫击炮法术
 
-Splits apart the ground in front of the caster and sculpts a terrifying weapon
-out of molten rock. This mortar will move slowly along the lava-filled chasm,
-autonomously launching gouts of magma at the caster's enemies as it does so.
+撕裂施法者面前的地面，塑造出可怕的武器
+从熔岩中出来。这迫击炮将沿着充满熔岩的裂缝缓慢移动，
+这样做时会自动向施法者的敌人发射岩浆。
 
-When it reaches the end of its path, or is obstructed in its movement by another
-creature, it will sink back into the lava, and the chasm will seal itself shut
-shortly thereafter.
+当它到达路径的尽头，或者其运动被另一个阻碍时
+生物，它会沉回熔岩中，裂缝会自行封闭
+此后不久。
 %%%%
-Heal Other spell
+治愈其他法术
 
-Heals a nearby ally.
+治愈附近的一名盟友。
 %%%%
-Hunting Call spell
+狩猎召唤法术
 
-Inspires nearby allies to quicken their movement.
+激励附近的盟友加快行动。
 %%%%
-Hurl Damnation spell
+投掷诅咒咒语
 
-<Hurl Damnation ability>
+<投掷诅咒能力>
 %%%%
-Hurl Sludge spell
+投掷污泥法术
 
-Conjures a focused blast of highly toxic sludge, poisoning the victim and
-drenching their surroundings. The sludge damages and poisons all monsters,
-even those resistant to poison.
+召唤出剧毒污泥的集中爆炸，使受害者中毒并
+淋湿他们的周围环境。污泥会伤害并毒害所有怪物，
+即使是那些对毒有抵抗力的人。
 %%%%
-Hoarfrost Bullet spell
+白霜子弹咒语
 
-Fires a shard of ice that coats whatever it hits with a layer of brittle frost
-which slows their movement.
+发射一块冰碎片，在所击中的物体上覆盖一层脆霜
+这减慢了他们的行动。
 
-Each shot fired will deplete the cannon's remaining durability, but if it
-survives to fire 5 times, the final shot will fragment to hit all enemies around
-the primary target for additional damage.
+每次发射都会耗尽大炮的剩余耐久度，但如果
+存活下来射击5次，最后一枪会碎裂击中周围所有敌人
+额外伤害的主要目标。
 %%%%
-Hoarfrost Cannonade spell
+霜冻炮弹法术
 
-Sculpts a pair of icy cannons that assail the caster's enemies from long range.
-The frigid shards they fire rapidly coat their targets with a layer of brittle
-frost which slows their movement.
+雕刻出一对冰冷大炮，从远距离攻击施法者的敌人。
+他们发射的冰冷碎片会迅速给目标覆盖一层脆性物质
+霜冻减慢了它们的移动速度。
 
-The cannons are short-lived and consume a part of themselves with every shard
-they fire, but if they survive to fire their final salvo without interference,
-it will be extra-powerful.
+大炮的寿命很短，每一个碎片都会消耗掉自己的一部分
+他们开火，但如果他们能够在不受干扰的情况下进行最后的齐射，
+它将变得异常强大。
 %%%%
-Holy Breath spell
+神圣呼吸咒语
 
-Exhales a large cloud of blessed flame, shining with the glory of the good
-gods. These flames are especially dangerous to undead and demonic creatures,
-and have no effect on holy creatures.
+呼出一大团受祝福的火焰，闪烁着善良的荣耀
+众神。这些火焰对于不死生物和恶魔生物来说尤其危险，
+并且对神圣生物没有影响。
 %%%%
-Holy Flames spell
+圣火咒语
 
-Traps an enemy in a ring of blessed flame. These flames are especially
-dangerous to undead and demonic creatures, and have no effect on holy
-creatures.
+将敌人困在祝福火焰环中。这些火焰特别
+对不死生物和恶魔生物有危险，对神圣生物没有影响
+生物。
 %%%%
-Hurl Torchlight spell
+投掷火炬之光咒语
 
-Hurls a gout of umbral torchlight which deals irresistible damage to living,
-demonic, and holy beings. The torchlight will also briefly empower any friendly
-undead caught in its blast and is harmless to those who worship Yredelemnul.
+投掷一团暗影火炬，对生命造成不可抗拒的伤害，
+恶魔和圣人。火炬之光还将短暂地赋予任何友好的力量
+不死生物被其爆炸所困，对崇拜伊雷德勒姆努的人无害。
 %%%%
-Iceblast spell
+冰爆法术
 
-Fires a large mass of ice, which explodes on impact. Half of its damage
-bypasses cold resistance.
+发射大量冰块，撞击时会爆炸。伤害减半
+绕过寒冷阻力。
 %%%%
-Ignite Poison spell
+点燃毒咒
 
-Converts all nearby poison into liquid flame, burning poisoned creatures from
-within. It also turns clouds of poison and mephitic gases into flame. The
-caster is not affected directly.
+将附近所有毒物转化为液态火焰，燃烧有毒生物
+之内。它还会将毒气和恶毒气体云变成火焰。的
+施法者不会直接受到影响。
 %%%%
-Ignition spell
+点燃咒语
 
-All foes in the caster's surroundings are engulfed in balls of fire. The caster
-and their allies are protected from the fire and will never be harmed by this
-spell.
+施法者周围的所有敌人都被火球吞没。脚轮
+他们的盟友受到保护，免受火焰伤害，永远不会受到伤害
+咒语。
 %%%%
-Ill Omen spell
+不祥之兆咒语
 
-Bends the weave of fate against a target, inflicting significant Doom. Cannot
-be used if there are any obstructions between the caster and their target.
+将命运之网扭曲到目标身上，造成严重的厄运。不能
+当施法者和目标之间有任何障碍物时使用。
 %%%%
-Infestation spell
+侵扰法术
 
-Calls forth a plague of scarabs, infesting affected creatures for a duration
-depending on power and causing death scarabs to grow and burst from them upon
-death.
+召唤圣甲虫瘟疫，在一段时间内感染受影响的生物
+依靠力量并导致死亡圣甲虫生长并从其上爆裂
+死亡。
 %%%%
-Injury Bond spell
+伤害债券咒语
 
-Binds the caster to nearby allies, reducing all damage they take by half in
-exchange for suffering half of the prevented damage themselves.
+将施法者与附近的盟友束缚在一起，使他们在一段时间内受到的所有伤害减少一半
+以自己遭受一半避免的损害作为交换。
 %%%%
-Injury Mirror spell
+伤害镜法术
 
-Reflects damage taken for a short duration, hurting attackers whenever the
-caster takes any damage. After the duration wears off, the caster cannot cast
-this spell again for a short while.
+反映短时间内受到的伤害，每当攻击者受到伤害时
+施法者受到任何伤害。持续时间结束后，施法者无法施法
+这个咒语又持续了一小会儿。
 %%%%
-Ink Cloud spell
+墨云咒
 
-Releases a thick cloud of ink to obscure vision.
+释放出浓浓的墨云来模糊视线。
 %%%%
-Inner Flame spell
+内焰咒语
 
-Fills an enemy with an intense fire. This fire is released any time the target
-is hit, and explosively released upon death. The size of the explosion caused
-is dependent on the size of the target.
+让敌人充满猛烈的火焰。每当目标被释放时就会释放这种火焰
+被击中，并在死亡时爆炸释放。引起爆炸的规模
+取决于目标的大小。
 %%%%
-Invisibility spell
+隐形咒语
 
-Turns the caster invisible.
+使施法者隐形。
 %%%%
-Invisibility Other spell
+隐身 其他法术
 
-Turns a nearby ally invisible.
+使附近的盟友隐形。
 %%%%
-Iron Shot spell
+铁弹法术
 
-Hurls a large and heavy metal shot.
+投出又大又重的金属子弹。
 %%%%
-Irradiate spell
+辐射法术
 
-Transmutes an ultra-thin layer of the caster's skin (or equivalent) directly
-into pure magical energy, blasting adjacent creatures. It may heavily deform
-its victims, weakening them and reducing their armour. The caster is not left
-entirely unaffected; some of the magic lingers, enough to leave them
-dangerously contaminated after a few castings.
+直接转化施法者皮肤（或同等物）的超薄层
+化为纯粹的魔法能量，炸毁邻近的生物。可能会严重变形
+它的受害者，削弱他们并削弱他们的盔甲。施法者没有离开
+完全不受影响；有些魔力挥之不去，足以让他们离开
+几次铸造后就受到危险的污染。
 %%%%
-Iskenderun's Battlesphere spell
+伊斯肯德伦的战场法术
 
-Conjures a small globe of destructive energy. Each time its creator casts a
-offensive spell, the battlesphere will also fire an unerring volley of energy at
-the most injured nearby foe it can reach.
+召唤出一个充满破坏性能量的小球体。每次它的创造者施放一个
+攻击性法术时，战场也会向目标发射无误的能量齐射
+它可以到达的附近受伤最严重的敌人。
 
-The battlesphere's creator can freely fire through its position without harming
-it.
+战场的创造者可以自由地射击其位置而不会造成伤害
+它。
 %%%%
-Iskenderun's Mystic Blast spell
+伊斯肯德伦的神秘冲击法术
 
-Detonates a crackling sphere of destructive energy. The explosion will hit all
-nearby monsters with physical force, knocking them back if damage is done.
-Spellpower increases damage and knockback distance.
+引爆一团充满破坏性能量的爆裂球体。爆炸将袭击所有人
+用物理力量攻击附近的怪物，如果造成伤害则将其击退。
+法术强度会增加伤害和击退距离。
 %%%%
-Jinxbite spell
+金克斯咬咒语
 
-Calls the attention of trickster spirits. While it holds, the spirits will
-follow up on the caster's attacks. If the spell overcomes victims' willpower,
-they will suffer minor damage and be drained by the sprites' playful malice.
+引起骗子灵魂的注意。只要它存在，灵魂就会
+追踪施法者的攻击。如果咒语战胜了受害者的意志
+他们会受到轻微的伤害，并会被精灵顽皮的恶意所耗尽。
 
-Fae assistance is fickle, however; they cannot be beckoned unless a susceptible
-victim is visible, and will depart rapidly once no more remain. Calling on the
-fae also reduces the caster's own willpower for a time.
+然而，FAE的援助团是变化无常的。除非是易行的人，否则他们无法被召唤
+受害者是可见的，一旦不再存在，受害者就会迅速离开。呼吁
+fae将暂时降低施法者自身的意志。
 %%%%
-Kinetic Grapnel spell
+动能抓钩法术
 
-Weaves a thin kinetic filament around the caster's melee weapon and launches the
-other end of it at a nearby enemy. If this grapnel successfully hits and does
-damage, it will become lodged in them, allowing the next melee attack the caster
-performs against them to strike with perfect accuracy and a small slaying bonus.
+在施法者的近战武器周围编织细细的动能丝并发射
+它的另一端指向附近的敌人。如果这个抓钩成功击中并且
+伤害，它会卡在其中，允许施法者进行下一次近战攻击
+与他们对抗，以完美的精确度和少量的击杀奖励进行攻击。
 %%%%
-Volatile Blastmotes spell
+不稳定的爆弹咒语
 
-Brings forth a cloud of volatile blastmotes around the caster. These explode
-on contact with open flame or with creatures - including any caster foolish
-enough to linger in them! The explosion is concussive, knocking adjacent
-creatures away. Damage done rises with the spell's power.
+在施法者周围产生一团不稳定的爆炸物。这些爆炸
+接触明火或生物 - 包括任何施法者 愚蠢
+足以让他们流连忘返！爆炸具有震荡性，撞击邻近区域
+生物远离。造成的伤害随着法术强度的增加而增加。
 %%%%
-Landbreaker spell
+破土咒语
 
-Violently fractures the landscape, causing rubble to fall upon several nearby
-enemies and also the ground behind them - obstructing their path to flee the
-caster.
+剧烈地破坏了景观，导致瓦砾掉落到附近的几个地方
+敌人以及他们身后的地面 - 阻碍他们逃离的道路
+脚轮。
 %%%%
-Launch Bomblet spell
+发射炸弹咒语
 
-Fires a bomblet on a ballistic trajectory that ignores line of fire, dealing
-minor damage to a single target within range and deploying the bomblet near it.
+以无视火线的弹道轨迹发射一枚小炸弹，造成
+对射程内的单个目标造成轻微伤害，并在其附近部署小炸弹。
 
-Cannot target enemies adjacent to the caster or those with no nearby room for
-the bomblet to land.
+无法瞄准施法者附近的敌人或附近没有空间的敌人
+小炸弹着陆。
 %%%%
-Launch Clockwork Bee spell
+启动发条蜜蜂咒语
 
-Constructs a mechanical bee and winds its clockwork mechanisms over several
-turns before unleashing it against a targeted foe. The bee is swift and
-powerful, but its clockwork quickly winds down as it attacks, eventually leaving
-it helpless and unable to move.
+构造一只机械蜜蜂，并将其发条机构缠绕在多个上
+在对目标敌人释放它之前先转身。蜜蜂的速度很快，而且
+强大，但它的发条装置在攻击时很快就会停止运转，最终离开
+它无助，无法动弹。
 
-The caster may repair and rewind a dormant bee by attempting to move into it, at
-the cost of 1 MP.
+施法者可以通过尝试进入休眠蜜蜂来修复和倒回休眠蜜蜂，具体时间为
+1 MP 的成本。
 
-Spellpower increases the number of attacks the bee may perform before going
-dormant.
+法术强度会增加蜜蜂在出发前可能进行的攻击次数
+休眠。
 %%%%
-Launch Sporangium spell
+启动孢子囊法术
 
-Launches a caustic sporangium which will pursue any intriguing sources of
-nutrients - such as yourself - and engulf them in a massive acidic explosion.
-Nascent plasmodia, capable of firing acid of their own, may take root on any
-walls this explosion touches - though none within 2 tiles of any other.
+发射一个腐蚀性孢子囊，它将追寻任何有趣的来源
+营养物质——比如你自己——并被巨大的酸性爆炸吞没。
+新生的疟原虫能够自行发射酸，可以在任何物质上扎根。
+这次爆炸触及的墙壁——尽管没有任何其他墙壁位于 2 格之内。
 %%%%
-Leda's Liquefaction spell
+勒达的液化咒语
 
-Liquefies the ground around the caster, making it difficult to move through.
-Any movement through liquefied ground will be slowed, and creatures stuck in
-the liquefied ground will be unable to fly. Attempts to attack the caster
-in melee may fail.
+液化施法者周围的地面，使其难以移动。
+任何穿过液化地面的移动都会减慢，并且生物会被困在其中
+液化的地面将无法飞行。尝试攻击施法者
+在近战中可能会失败。
 
-The effect starts out with a radius depending on power, which will then shrink,
-eventually covering only the caster, before it times out. Maintaining the
-connection to the ground slows the caster's movement, even if they are flying.
+效果开始时半径取决于功率，然后会缩小，
+最终在超时之前仅覆盖施法者。维持
+与地面的连接会减慢施法者的移动速度，即使他们正在飞行。
 %%%%
-Lee's Rapid Deconstruction spell
+李的快速解构咒语
 
-Fragments a wall or a suitably brittle visible monster into an explosion of
-deadly shrapnel. It can be used on monsters made of ice, bone, or any wall-like
-substance, as well as those turned to stone by petrification. Its damage is
-strongly reduced by armour.
+将墙壁或适当易碎的可见怪物打碎成爆炸
+致命的弹片。它可以用于由冰、骨头或任何类似墙壁制成的怪物
+物质，以及那些因石化而变成石头的物质。其伤害为
+被装甲强烈削弱。
 
-Targets made from rock, stone, ice or bone will cause a small explosion. Metal
-targets will cause a small but more damaging explosion, and targets made from
-crystal will cause a large and more damaging explosion.
+由岩石、石头、冰或骨头制成的目标会引起小爆炸。金属
+目标会引起小规模但更具破坏性的爆炸，并且由以下材料制成的目标
+水晶会引起大规模且更具破坏性的爆炸。
 %%%%
-Legendary Destruction spell
+传奇毁灭法术
 
-Conjures two explosive magical effects in instant succession. The effects can
-be any mix of Fireball, Iceblast, and Ghostly Fireball.
+瞬间连续召唤出两种爆炸性魔法效果。效果可以
+可以是火球术、冰爆术和幽灵火球术的任意组合。
 %%%%
-Lehudib's Crystal Spear spell
+雷胡迪布的水晶矛咒语
 
-Hurls a lethally sharp shard of crystal.
+投掷出致命的锋利水晶碎片。
 %%%%
-Lesser Beckoning spell
+次级召唤咒语
 
-Beckons the target forward, attempting to place them adjacent to the caster.
+向前召唤目标，尝试将其放置在施法者附近。
 %%%%
-Lightning Bolt spell
+闪电法术
 
-Fires a mighty bolt of lightning. Its damage bypasses half of defenders'
-armour, and it can be bounced off walls to hit targets twice.
+发射一道强大的闪电。它的伤害绕过了一半的防御者
+装甲，它可以从墙壁上弹开，击中目标两次。
 %%%%
-Magic Dart spell
+魔法飞镖咒语
 
-Fires a small bolt of magical energy which never misses.
+发射一小束魔法能量，绝不会失手。
 %%%%
-Magma Barrage spell
+岩浆弹幕法术
 
-Fires penetrating bolts of molten rock at up to two different enemy targets.
-Half of its damage bypasses fire resistance.
+向最多两个不同的敌方目标发射穿透性熔岩箭。
+其一半伤害会绕过火抗性。
 %%%%
-Magnavolt spell
+磁伏法术
 
-Envelops a target in a thin layer of magnetically charged metal fragments, then
-unleashes a powerful surge of electricity that arcs unerringly towards every
-visible target coated in these fragments - firing an additional beam at each
-target thus marked.
+将目标包裹在一层薄薄的带磁金属碎片中，然后
+释放出强大的电涌，准确无误地向每一个目标发出电弧
+可见目标涂有这些碎片 - 向每个碎片发射额外的光束
+如此标记的目标。
 
-Magnetised creatures are additionally unable to evade attacks and will be
-revealed if invisible. If they die while still coated, they will leave behind a
-short-lived cloud of electrified metal that will continue to serve as a
-lightning rod for this spell.
+磁化生物也无法躲避攻击，并且会被
+如果看不见就显露出来。如果它们在仍然被覆盖的情况下死亡，它们会留下
+短暂的带电金属云将继续充当
+此法术的避雷针。
 %%%%
-Major Destruction spell
+主要毁灭法术
 
-Shoots a random harmful beam or explosion at the targeted creature.
+向目标生物发射随机有害光束或爆炸。
 %%%%
-Major Healing spell
+主要治疗法术
 
-Heals a large amount of damage to the caster's body.
+治愈施法者身体的大量伤害。
 %%%%
-Malign Gateway spell
+恶意网关咒语
 
-Tears a gash in reality, creating a self-sustained but temporary portal to an
-unknown, tainted otherworld. It requires open space to succeed. After a short
-time, a powerful clawed tentacle will reach through the portal, remaining bound
-to the caster's will for a duration depending on power. With the portal's
-expiry, the tentacle will be severed and turn on the caster. The duration of
-the portal increases with spell power.
+在现实中撕开一道口子，创造一个自我维持但临时的门户
+未知的、被污染的异世界。它需要开放的空间才能成功。短暂之后
+随着时间的推移，一根强大的利爪触手将穿过传送门，并保持束缚状态
+依照施法者的意愿，持续时间取决于力量。随着门户网站的
+到期后，触手将被切断并转向施法者。持续时间
+传送门随着法术强度的增加而增加。
 %%%%
-Malign Offering spell
+恶意祭品咒语
 
-Drains life from an enemy, healing nearby allies in the process.
+吸取敌人的生命，并在此过程中治愈附近的盟友。
 %%%%
-Malmutate spell
+畸形咒语
 
-Bestows a mutation on a target. The mutation is almost always harmful. It
-cannot affect artificial beings, and the undead will decompose if affected.
+赋予目标突变。这种突变几乎总是有害的。它
+无法影响人造生物，不死者受到影响就会分解。
 %%%%
-Manifold Assault spell
+多重攻击法术
 
-Warps space into paradoxical configurations to strike many visible foes with
-one melee attack. Power increases the number of foes attacked with one cast,
-though unarmed attacks strike only half as many targets at once, as additional
-care must be taken when warping one's own limbs.
+将空间扭曲成自相矛盾的结构，以打击许多可见的敌人
+一次近战攻击。力量增加一次施法攻击的敌人数量，
+尽管徒手攻击一次只能打击一半的目标，但额外的
+扭曲自己的四肢时必须小心。
 
-The time taken for the attack is exactly the same as a normal melee attack.
-Attacks performed this way never miss, but the exact spot struck cannot be
-controlled precisely, making them unable to do extra damage against unsuspecting
-foes.
+攻击所需的时间与普通近战攻击完全相同。
+以这种方式进行的攻击绝不会失手，但无法得知确切的攻击地点。
+精确控制，使他们无法对毫无戒心的人造成额外伤害
+敌人。
 %%%%
-Mara Summon spell
+玛拉召唤咒语
 
-Weaves illusions of the caster. Such illusions have the same physical prowess
-as the original, and can cast the same spells.
+编织施法者的幻象。这样的幻象有着同样的物理威力
+和原来的一样，并且可以施展相同的法术。
 %%%%
-March of Sorrows spell
+悲伤进行曲咒语
 
-Conjures a stream of stolen suffering, leaving clouds of excruciating misery in
-its wake and around its targets. These clouds of negative energy will rapidly
-drain the living of small fractions of their maximum health.
+召唤出一连串偷来的痛苦，留下令人难以忍受的痛苦云彩
+它的尾迹和目标周围。这些负能量云会迅速
+耗尽他们最大健康的一小部分。
 %%%%
-Marshlight spell
+沼泽之光咒语
 
-Conjures two balls of burning swamp gas adjacent to the caster. The balls will
-rapidly seek the nearest monster and burn them. Wizards attempted to copy this
-with the spell 'Foxfire', but their version is much less powerful.
+在施法者附近召唤两颗燃烧的沼泽气体球。球将
+迅速寻找最近的怪物并烧毁它们。巫师试图复制这个
+使用咒语"狐火"，但他们的版本威力要弱得多。
 %%%%
-Martyr's Knell spell
+烈士丧钟咒语
 
-Beckons forth the soul of a long-dead martyr to shield your allies for a time.
-This soul suffers a portion of the damage your allies would otherwise receive.
+召唤死去已久的烈士的灵魂来暂时保护你的盟友。
+这个灵魂会承受你的盟友所受到的部分伤害。
 
-If it is slain (again!), it will transform into a flayed ghost, inflicting
-illusory wounds on foes. Such wounds are fleeting, and will disappear when the
-ghost departs - unless you kill its victims first.
+如果它被杀死（再次！），它会变成一个被剥皮的幽灵，造成
+敌人身上的虚幻伤口。这种伤口是短暂的，当伤口愈合时就会消失。
+幽灵离开——除非你先杀死它的受害者。
 %%%%
-Mass Confusion spell
+群体混乱法术
 
-Causes confusion in all who gaze upon the caster.
+使所有注视施法者的人感到困惑。
 %%%%
-Mass Regeneration spell
+大规模再生法术
 
-Causes all allied monsters nearby to rapidly regenerate over a short period of
-time. This regeneration is proportional to each of those creature's maximum
-health.
+使附近所有友方怪物在短时间内快速再生
+时间。这种再生与每个生物的最大值成正比
+健康。
 %%%%
-Maxwell's Capacitive Coupling spell
+麦克斯韦电容耦合咒语
 
-Gradually builds up electric charge in the caster, so long as they maintain
-focus (by waiting in place and not taking any other actions). When a threshold
-is reached, the charge couples with the nearest foe, vaporising them instantly.
-Higher spell power will allow the caster to accumulate charge more rapidly. The
-spell requires a visible target to begin accumulating charge, though a different
-foe may be targeted when the charge is released.
+只要它们保持，就会逐渐在脚轮中积聚电荷
+集中注意力（原地等待而不采取任何其他行动）。当达到阈值时
+一旦到达，冲锋就会与最近的敌人结合在一起，立即将他们蒸发。
+较高的法术强度将使施法者能够更快地积累能量。的
+法术需要一个可见的目标来开始积累电荷，尽管不同
+当冲锋释放时，敌人可能会成为目标。
 %%%%
-Maxwell's Portable Piledriver spell
+麦克斯韦的便携式打桩机咒语
 
-Compresses an envelope of space around the caster and an adjacent enemy (or a
-contiguous line of enemies), then allows it to decompress abruptly, propelling
-everyone forward until the unfortunate being at the far end collides with
-something solid, inflicting damage on them proportional to the distance
-travelled.
+压缩施法者和相邻敌人（或
+连续的敌人线），然后让它突然减压，推进
+每个人都向前走，直到远端的不幸者与
+固体的东西，对它们造成与距离成正比的伤害
+旅行过。
 %%%%
-Mephitic Cloud spell
+毒云法术
 
-Conjures a fragile flask that explodes into short-lived clouds of noxious fumes.
-These clouds may cause confusion in any creature not resistant to poison.
-Tougher, more experienced creatures are less likely to be affected.
+召唤出一个易碎的烧瓶，它会爆炸成短暂的有毒烟雾云。
+这些云可能会导致任何无法抵抗毒药的生物感到困惑。
+更坚强、更有经验的生物受到影响的可能性更小。
 %%%%
-Mesmerise spell
+催眠术
 
-Attempts to entrance all enemies in sight. Adventurers who fail to resist will
-become unable to move away from the caster, while other creatures will become
-dazed outright.
+试图吸引视线内的所有敌人。无法抵抗的冒险家将会
+变得无法离开施法者，而其他生物也会变得
+彻底茫然了。
 
-Leaving the caster's line of sight will end the movement-controlling effect.
+离开施法者的视线将会结束移动控制效果。
 %%%%
-Metabolic Englaciation spell
+代谢酶解咒语
 
-Lowers the metabolic rate of every creature in the caster's vicinity, slowing
-all those who are not resistant to cold. Cold-blooded creatures will be
-affected much more strongly, and tougher creatures will be slowed for a
-shorter time.
+降低施法者附近所有生物的新陈代谢率，减慢
+凡不耐寒者。冷血生物将会
+影响更强烈，更强硬的生物会减速一段时间
+时间较短。
 %%%%
-Metal Splinters spell
+金属碎片法术
 
-Fires a burst of metal splinters. Its damage is strongly reduced by armour.
+发射一阵金属碎片。它的伤害被装甲大大降低。
 %%%%
-Miasma Breath spell
+瘴气吐息法术
 
-Creates a large cloud of foul pestilence, poisoning and sometimes slowing any
-living creatures it touches.
+制造大量邪恶的瘟疫、中毒，有时甚至会减慢任何速度
+它接触到的生物。
 %%%%
-Might Other spell
+可能还有其他咒语
 
-Significantly increases a nearby ally's damage dealt in melee.
+显着增加附近盟友在近战中造成的伤害。
 %%%%
-Might spell
+可能拼写
 
-Significantly increases the caster's damage in melee.
+显着提高施法者的近战伤害。
 %%%%
-Mindburst spell
+心灵爆发咒语
 
-Launches a psychic attack. If it overcomes the victim's willpower, it
-'blows their mind' in a violently literal fashion, dealing damage that
-bypasses their armour entirely. It is useless against mindless creatures.
+发动精神攻击。如果它克服了受害者的意志，
+以一种猛烈的字面意义上的方式"让他们大吃一惊"，造成的伤害
+完全绕过他们的盔甲。对于没有头脑的生物来说它毫无用处。
 %%%%
-Minor Healing spell
+小型治疗法术
 
-Heals a small amount of damage to the caster's body.
+治愈施法者身体的少量伤害。
 %%%%
-Monstrous Menagerie spell
+怪物动物园法术
 
-Summons a powerful exotic creature to the caster's aid: either a manticore, a
-lindwurm, or a sphinx marauder.
+召唤一种强大的奇异生物来帮助施法者：要么是蝎狮，要么是
+Lindwurm，或狮身人面像掠夺者。
 %%%%
-Mercury Arrow spell
+水银箭咒语
 
-Conjures an arrow of elemental mercury which deals direct poison damage to
-whatever it hits and may also weaken their melee attacks for a short while.
+召唤一支元素汞箭，对敌人造成直接毒害
+无论它击中什么，也可能会在短时间内削弱他们的近战攻击。
 
-The physical force of the arrow inflicts a small amount of damage even to those
-immune to poison, and the weakening effect can splash to adjacent targets and
-ignores poison resistance altogether.
+箭的物理力量即使对那些人也会造成少量伤害
+免疫毒药，并且削弱效果可以溅射到邻近目标并
+完全忽略毒抗性。
 %%%%
-Mourning Wail spell
+哀嚎咒语
 
-Exhales a stream of forgotten grief, leaving clouds of excruciating misery in
-its wake but skipping past creatures that would be vulnerable to it. These
-clouds of negative energy will rapidly drain the living of small fractions of
-their maximum health.
+呼出一股被遗忘的悲伤，留下令人难以忍受的痛苦云彩
+它的尾迹但跳过了容易受到它攻击的生物。这些
+负能量云将迅速耗尽一小部分人的生命
+他们的最大健康状况。
 %%%%
-Mud Breath spell
+泥呼吸法术
 
-<Mud Breath ability>
+<泥呼吸能力>
 %%%%
-Mutagenic Gaze spell
+诱变凝视法术
 
-Causes mutagenic energy to accumulate in a target, eventually reaching levels
-high enough to cause harmful mutations or explosions of unstable magical energy.
+导致诱变能量在目标中积累，最终达到一定水平
+高到足以引起有害的突变或不稳定魔法能量的爆炸。
 
-This spell requires line of sight but not line of fire.
+该法术需要视线，但不需要火线。
 %%%%
-Nazja's All-Purpose Tempering spell
+纳兹贾的万能淬火咒语
 
-Manifests a magical hammer that repairs and temporarily augments the offensive
-capabilities of any nearby construct - be it golem or phalanx beetle or even
-dancing weapon. This process results in a flurry of sparks, slag, and concussive
-shockwaves that do considerable damage to any enemies adjacent to the targeted
-construct, but it cannot be recast upon the same object until the enhancement
-wears off.
+展现一把神奇之锤，可以修复并暂时增强攻击力
+任何附近构造体的能力 - 无论是傀儡还是方阵甲虫，甚至
+跳舞武器。这个过程会产生一阵火花、炉渣和震荡
+冲击波会对目标附近的任何敌人造成相当大的伤害
+构造，但在增强之前不能在同一个对象上重铸
+逐渐消失。
 %%%%
-Nazja's Percussive Tempering spell
+纳兹贾的冲击淬火咒语
 
-Manifests a magical hammer that repairs and temporarily augments the offensive
-capabilities of any construct that was created by the caster's own Forgecraft
-spells. This process results in a flurry of sparks, slag, and concussive
-shockwaves that do considerable damage to any enemies adjacent to the targeted
-construct, but it cannot be recast upon the same object until the enhancement
-wears off.
+展现一把神奇之锤，可以修复并暂时增强攻击力
+由施法者自己的锻造工艺创建的任何构造体的能力
+咒语。这个过程会产生一阵火花、炉渣和震荡
+冲击波会对目标附近的任何敌人造成相当大的伤害
+构造，但在增强之前不能在同一个对象上重铸
+逐渐消失。
 %%%%
-Noxious Breath spell
+剧毒呼吸咒语
 
-<Noxious Breath ability>
+<毒息吐息能力>
 %%%%
-Noxious Cloud spell
+毒云法术
 
-Creates a large cloud of noxious fumes, which may cause confusion.
+产生大量有毒烟雾，可能会造成混乱。
 %%%%
-Nullifying Breath spell
+无效呼吸法术
 
-<Nullifying Breath ability>
+<无效呼吸能力>
 %%%%
-Olgreb's Toxic Radiance spell
+奥尔格勒布的毒光法术
 
-Causes the caster to radiate toxic energy, continuously inflicting poison on
-everything in line of sight for as long as the spell lasts.
+使施法者散发出有毒能量，持续造成中毒
+只要法术持续，一切都在视线范围内。
 %%%%
-Orb of Destruction spell
+毁灭之珠法术
 
-Conjures an orb made of pure destructive magic. Compared to most other
-projectiles, these orbs travel at a relatively slow pace. The orbs home onto
-their targets, yet because of their huge inertia, especially agile opponents
-may be able to outmanoeuvre them. The orbs need some time to stabilise, and a
-nascent orb will deal reduced damage.
+召唤出一个由纯粹破坏性魔法制成的球体。与大多数其他
+射弹，这些球体以相对较慢的速度行进。球体回到家
+他们的目标，却因为巨大的惯性，尤其是敏捷的对手
+也许能够战胜他们。球体需要一些时间来稳定，并且
+新生的球体造成的伤害会减少。
 
-Residents of the dungeon are able to maintain the orb until it impacts a
-target, but when cast by you the orb will dissipate upon leaving your line of
-sight.
+地牢的居民能够维护球体，直到它影响到
+目标，但是当你施放时，球体会在离开你的路线时消散
+视线。
 %%%%
-Orb of Electricity spell
+电之珠法术
 
-Hurls a crackling orb of electrical energy, creating a huge explosion on
-impact. Its damage bypasses half of defenders' armour.
+投掷出一个噼啪作响的电能球，在身上造成巨大爆炸
+影响。它的伤害会绕过防御者一半的护甲。
 %%%%
-Ostracise spell
+排斥咒语
 
-Isolates a target from the divine - temporarily reducing their piety in the eyes
-of whichever god they worship and denying them access to any divine abilities
-that piety would allow. Being repeatedly affected by this spell will reduce the
-one's effective piety further and further, but can never directly lead to
-excommunication.
+将目标与神圣隔离——暂时降低他们眼中的虔诚
+无论他们崇拜哪个神，并拒绝他们获得任何神圣能力
+虔诚会允许。反复受到该法术的影响会降低
+一个人的有效虔诚越来越深入，但永远不能直接导致
+逐出教会。
 
-This effect will slowly wear off as the afflicted being gains experience,
-eventually restoring access to the full piety they once possessed.
+随着受影响者获得经验，这种效果会慢慢消失，
+最终恢复了他们曾经拥有的全部虔诚。
 %%%%
-Ozocubu's Armour spell
+奥佐库布的护甲法术
 
-Envelops the caster's body in a protective layer of thick ice, granting a
-substantial bonus to armour as long as they remain in their current location.
-The ice will crack and fall away if the caster moves to a new position. The
-spell decreases in effectiveness in heavier armour, granting a lower bonus the
-higher the encumbrance rating of the caster's armour.
+将施法者的身体包裹在厚厚的冰层保护层中，赋予施法者
+只要它们留在当前位置，装甲就会得到巨大的奖励。
+如果施法者移动到新位置，冰就会破裂并脱落。的
+法术在较重的盔甲上的效果会降低，给予较低的加值
+施法者盔甲的阻碍等级更高。
 %%%%
-Ozocubu's Refrigeration spell
+奥佐库布的冷冻咒语
 
-Turns the air bitterly cold, freezing all other creatures in line of sight.
-This is less effective against creatures packed tightly together - those
-adjacent to their allies will be partly insulated from the cold, taking less
-damage.
+空气变得寒冷刺骨，冻结了视线范围内的所有其他生物。
+这对紧密聚集在一起的生物不太有效 - 那些
+与他们的盟友相邻的国家将部分免受寒冷，从而减少
+损坏。
 %%%%
-Pain spell
+痛苦咒语
 
-Inflicts an extremely painful injury upon one living creature.
+对一个生物造成极其痛苦的伤害。
 %%%%
-Paralyse spell
+麻痹法术
 
-Prevents a creature from taking any action for a short time.
+短时间内阻止生物采取任何行动。
 %%%%
-Paralysis Gaze spell
+麻痹凝视法术
 
-Irresistibly prevents a creature from taking any action for a short time,
-requiring multiple charges but not line of fire.
+不可抗拒地阻止生物在短时间内采取任何行动，
+需要多次冲锋，但不需要火线。
 %%%%
-Passage of Golubria spell
+戈卢布里亚法术的通过
 
-Opens two gateways (one always near the caster), which allow instantaneous
-transport to random other open gateways to any creature entering them. There is
-no limit to the number of gateways that can be open at one time. However,
-gateways close a short time after being opened, or immediately once entered.
+打开两个网关（一个始终靠近施法者），允许瞬时
+传送到随机的其他开放网关，以到达任何进入其中的生物。有
+一次可以打开的网关数量没有限制。然而，
+网关在打开后短时间内关闭，或在进入后立即关闭。
 %%%%
-Passwall spell
+通道墙咒语
 
-Allows the caster to travel a short distance through an adjacent rock wall and
-emerge again on the other side. This spell takes an unusally long time to cast,
-during which the caster will be unable to act, but also gain increased armour
-from their attunement to the rock.
+允许施法者穿过邻近的岩壁行进一小段距离并
+再次出现在另一边。这个咒语需要非常长的时间才能施展，
+在此期间施法者将无法行动，但也会获得增加的护甲值
+来自他们对岩石的协调。
 %%%%
-Permafrost Eruption spell
+永久冻土喷发法术
 
-Calls on the ancient cold lurking within the earth to emerge - violently. The
-force of its emergence blasts rock from the ceiling, smashing into the target
-with unavoidable force. The cold itself is brief but unbearably bitter,
-bypassing armour entirely as it freezes the target and their neighbours.
+召唤潜伏在大地内的远古寒冷猛烈地出现。的
+其出现的力量将天花板上的岩石炸开，砸向目标
+以不可避免的力量。寒冷本身虽然短暂，但却令人难以忍受，
+当它冻结目标及其邻居时完全绕过装甲。
 
-It will always attempt to blast the largest concentration of foes in sight, and
-never explodes next to the caster.
+它总是会尝试炸毁视野中最集中的敌人，并且
+永远不会在施法者旁边爆炸。
 %%%%
-Petrify spell
+石化法术
 
-Petrifies a targeted creature and up to two other foes in a chain. Those which
-do not muster the Will to resist are briefly slowed, and then turned to stone.
-Until they return to flesh, they are unable to act, but also take half damage.
-The spell's power is lessened against secondary targets.
+石化目标生物和链中最多两个其他敌人。那些
+没有鼓起意志来抵抗的人会被短暂减速，然后变成石头。
+在他们恢复肉身之前，他们无法行动，但也会受到一半的伤害。
+该法术的威力对于次要目标会减弱。
 %%%%
-Petrifying Cloud spell
+石化云咒
 
-Exhales calcifying dust, which petrifies anyone affected for longer than a
-brief moment.
+呼出钙化粉尘，使受影响的人石化超过一小时
+短暂的一刻。
 %%%%
-Phantom Blitz spell
+幻影闪电战法术
 
-Weaves and fires a phantom copy of the caster with great force. Such phantoms
-have the same martial and mystic prowess as the caster, and an impromptu night
-parade of illusions may overwhelm the caster's victims.
+以强大的力量编织并发射施法者的幻影复制品。这样的幻影
+拥有与施法者同等的武功和神秘实力，以及即兴的夜晚
+幻象游行可能会让施法者的受害者不知所措。
 %%%%
-Phantom Mirror spell
+幻影镜法术
 
-Creates a phantom copy of a creature. The copy will be somewhat fragile, but
-otherwise almost indistinguishable from the original.
+创建一个生物的幻影副本。副本会有些脆弱，但是
+否则与原版几乎没有区别。
 %%%%
-Planar Overlay spell
+平面叠加法术
 
-Overlays part of an adjacent reality onto this one, causing random local
-monsters to appear elsewhere on the floor. The first time this is used, multiple
-monsters will arrive at once; afterward, they will appear at a slow, steady
-rate.
+将相邻现实的一部分叠加到此现实上，从而导致随机局部
+怪物出现在地板上的其他地方。第一次使用，多次
+怪物会立刻到来；之后，它们将以缓慢、稳定的速度出现
+率。
 
-After a considerable amount of time has passed, these monsters may even appear
-near the player.
+经过相当长的时间后，这些怪物甚至可能会出现
+靠近玩家。
 %%%%
-Plane Rend spell
+平面撕裂法术
 
-Summons some of the greater threats from one of the Pits of Slime, the Elven
-Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the
-specific branch varies with each cast of the spell.
+从史莱姆坑之一——精灵召唤一些更大的威胁
+大厅、地窖、地穴、远古之墓或佐特王国；的
+具体分支因法术的每次施法而异。
 %%%%
-Plasma Beam spell
+等离子束法术
 
-Fires a penetrating beam of plasma at one of the caster's most distant foes.
-The ionised beam bypasses half of defenders' armour, and a second beam of fire
-follows in its wake.
+向施法者最远的敌人之一发射一束穿透性的等离子束。
+电离束绕过防御者一半的装甲，第二道火束
+紧随其后。
 %%%%
-Platinum Paragon spell
+白金至尊法术
 
-Constructs a gleaming metal champion whose prowess rivals that of the greatest
-living warriors. It is resistant to all forms of magic and wields a perfect
-replica of any artefact melee weapon the caster chooses.
+建造一个闪闪发光的金属冠军，其实力可与最伟大的人相媲美
+活着的战士。它能够抵抗所有形式的魔法并拥有完美的能力
+施法者选择的任何神器近战武器的复制品。
 
-It creates a damaging shockwave around itself when first deployed and slowly
-gains charge as it attacks enemies. When it has gained sufficient charge, the
-spell may be recast to overload the paragon, unleashing a flurry of attacks
-in a wide area which inflict increased damage, but destroying the paragon in the
-process.
+首次部署并缓慢时，它会在自身周围产生破坏性冲击波
+当它攻击敌人时获得能量。当它获得足够的电荷时，
+可以重铸法术以使典范超载，并发动一连串攻击
+在大范围内造成更大的伤害，但会摧毁范围内的典范
+过程。
 
-Due to the magical link it maintains with its creator, it will perform an
-extra attack whenever they do, and will sometimes even parry attacks directed at
-them, if they are close enough together.
+由于它与其创造者保持着神奇的联系，它将执行
+每当他们这样做时就会额外攻击，有时甚至会招架针对
+他们，如果他们靠得足够近的话。
 %%%%
-Poison Arrow spell
+毒箭法术
 
-Fires a magical arrow coated with the most vile and noxious toxin. Even those
-resistant to poison will be poisoned by it, and a small portion of its direct
-damage bypasses poison resistance.
+发射一支涂有最邪恶、最剧毒的毒素的魔法箭。甚至那些
+抗毒者会被其毒害，其直接的一小部分
+伤害绕过毒抗性。
 %%%%
-Poisonous Cloud spell
+毒云咒
 
-Conjures forth a great cloud of lethal gases.
+召唤出大量致命气体。
 %%%%
-Poisonous Vapours spell
+有毒蒸气咒语
 
-Transmutes a small amount of the air around a target into toxic vapours,
-poisoning anyone unfortunate enough to breathe them in. The quantity of air
-affected is small and it will not persist beyond the turn in which it is cast.
+将目标周围的少量空气转化为有毒蒸气，
+任何不幸吸入它们的人都会中毒。空气量
+影响很小，并且不会在施放回合后持续存在。
 
-It cannot affect those with any resistance to poison.
+它不会影响那些对毒有任何抵抗力的人。
 %%%%
-Polar Vortex spell
+极地漩涡法术
 
-Turns the air around the caster into a freezing vortex, doing tremendous damage
-to everyone caught in it that can only be half-mitigated by resistance to
-cold. Those affected will also be swept up into the air and tossed around.
-Only the eye of the storm is a safe place, and it follows the caster. The
-vortex is unable to follow the caster through long-distance translocations.
-The spell's effectiveness is greatly diminished in closed areas. After the
-vortex fades, it cannot be called forth again for a short time.
+将施法者周围的空气变成冰冷的漩涡，造成巨大的伤害
+对于陷入其中的每个人来说，只能通过抵抗来减轻一半的影响
+冷。受影响的人也会被卷到空中并被抛来抛去。
+只有风暴眼才是安全的地方，它跟随施法者。这
+漩涡无法跟随施法者进行长距离易位。
+该法术的效果在封闭区域会大大减弱。之后
+漩涡消散，短时间内无法再次唤起。
 %%%%
-Polymorph spell
+变形术
 
-Randomly alters the form of a creature. It is especially effective against
-shape-changing creatures.
+随机改变生物的形态。它对对抗特别有效
+变形的生物。
 %%%%
-Porkalator spell
+猪肉咒语
 
-Transforms the target into a pig. The target moves swiftly but cannot cast
-spells. The caster's demise will cause the transformation to end.
+将目标变成猪。目标快速移动但无法施法
+咒语。施法者的死亡将导致转变结束。
 %%%%
-Portal Projectile spell
+传送门投射物法术
 
-Teleports a fired or thrown missile at a targeted enemy.
+将发射或投掷的导弹传送到目标敌人。
 %%%%
-Prayer of Brilliance spell
+光辉祈祷咒语
 
-Empowers the magic of nearby wizard allies of the caster, allowing them to
-cast their magic more powerfully and more often.
+增强施法者附近巫师盟友的魔法，使他们能够
+更强大、更频繁地施展魔法。
 %%%%
-Primal Wave spell
+原始波动法术
 
-Conjures a torrent of water that may knock back the target, and creates a
-pool of shallow water for a short duration.
+召唤一股水流，将目标击退，并产生
+短暂的浅水池。
 %%%%
-Pyre Arrow spell
+火葬箭法术
 
-Launches a glob of liquid fire that clings to a targeted creature, dealing
-armour-ignoring fire damage over multiple turns. The victim can put the fire out
-much more quickly by moving.
+发射一团液体火焰，附着在目标生物身上，造成
+多回合内无视护甲的火焰伤害。受害者可以将火扑灭
+通过移动更快。
 
-If the target is insubstantial, the liquid fire will fail to stick.
+如果目标不实体，液体火就无法粘住。
 %%%%
-Pyroclastic Surge spell
+火山碎屑涌动法术
 
-Draws searing flames from lava. Any enemies of the caster standing
-next to or above lava will be burned.
+从熔岩中吸取灼热的火焰。施法者的任何敌人都站立着
+熔岩旁边或上方将会被燃烧。
 %%%%
-Pyrrhic Recollection spell
+惨痛的回忆咒语
 
-Ignites a memory from the nimbus which surrounds Nobody, temporarily granting
-them the knowledge of a powerful spell and healing their injuries.
+点燃围绕无人的光环的记忆，暂时授予
+他们获得了强大咒语的知识并治愈了他们的伤势。
 
-This power is fleeting and will be extinguished after taking any significant
-amount of damage, but so long as any other memories remain, they cannot be
-put to rest for good.
+这种力量转瞬即逝，在采取任何重大措施后就会消失。
+一定程度的伤害，但只要还有任何其他记忆，它们就不能被
+永远安息吧。
 %%%%
-Quicksilver Bolt spell
+水银箭法术
 
-Fires a bolt of dispelling energy at a targeted creature, possibly removing
-some of its enchantments.
+向目标生物发射一道驱散能量，可能会移除
+它的一些魅力。
 %%%%
-Ravenous Swarm spell
+贪婪蜂群法术
 
-Unleashes a torrent of vampire bats, filling the air around a target.
+释放大量吸血蝙蝠，充满目标周围的空气。
 
-These vampires will gnaw on anything which isn't undead with a voracious hunger,
-and their bites will eventually even lull their victims to sleep, leaving them
-easy prey.
+这些吸血鬼会以贪婪的饥饿啃咬任何不死的东西，
+它们的叮咬最终甚至会让受害者入睡，让他们
+容易成为猎物。
 %%%%
-Rebounding Blaze spell
+反弹火焰法术
 
-Fires a penetrating bolt of energetic flames that can bounce off walls to hit
-targets twice.
+发射一束具有穿透力的高能量火焰，可以从墙壁上反弹并击中
+目标两次。
 %%%%
-Rebounding Chill spell
+反弹寒意咒语
 
-Fires a penetrating bolt of energetic cold that can bounce off walls to hit
-targets twice.
+发射一道具有穿透力的高能寒冷箭，可以从墙壁上反弹并击中
+目标两次。
 %%%%
-Regenerate Other spell
+恢复其他法术
 
-Causes another creature to rapidly regenerate over a short period of time.
-This regeneration is proportional to that creature's maximum health.
+使另一种生物在短时间内快速再生。
+这种再生与该生物的最大生命值成正比。
 %%%%
-Rending Blade spell
+撕裂之刃法术
 
-Condenses the caster's magical energy into the form of a violently crackling
-blade. Each time the caster successfully hits with a melee attack while the
-spell is active, this blade will rend a path back and forth through nearby foes,
-dealing irresistible damage.
+将施法者的魔法能量凝结成剧烈的噼啪声
+刀片。每次施法者成功进行近战攻击时，
+法术处于活动状态，这把剑会在附近的敌人之间撕开一条来回的路径，
+造成不可抗拒的伤害。
 
-Casting this spell temporarily drains *all* of the caster's remaining magical
-power to constitute the blade, but this energy will be returned to them as soon
-as the blade ceases to exist. Each point of magical power sequestered this way
-slightly increases the damage the blade inflicts.
+施展此法术会暂时耗尽施法者*所有*剩余的魔法
+构成刀刃的力量，不过这股能量很快就会返还给他们
+当刀片不复存在时。每一点魔力都这样被隔绝
+稍微增加刀片造成的伤害。
 %%%%
-Resonance Strike spell
+共鸣打击法术
 
-Calls a surge of power from the earth, striking an enemy within the caster's
-sight. The spell cascades through nearby constructs, growing in strength with
-each one standing near the target.
+从大地召唤一股力量，攻击施法者范围内的敌人
+视线。该法术会级联通过附近的构造物，并随着强度的增加而增强
+每个人都站在目标附近。
 %%%%
-Rimeblight spell
+霜冻法术
 
-Afflicts a creature (and up to two others near it) with a magical plague that
-slowly freezes them from the inside out. Victims take AC-ignoring cold damage
-each turn, and as the disease progresses, shards of crystalline ice will start
-erupting violently from their body, damaging nearby enemies. When they finally
-succumb, the plague may spread to those around them.
+用魔法瘟疫折磨一个生物（以及它附近最多两个生物）
+慢慢地从内到外将它们放置起来。受害者受到空调-忽略寒冷的伤害
+每转一圈，随着疾病的进展，结晶冰的碎片就会开始出现
+从他们的身体中猛烈爆发，对附近的敌人造成伤害。当他们终于
+如果屈服的话，瘟疫可能会传播给周围的人。
 
-In living, holy, or demonic creatures, the disease is especially virulent,
-feeding off the necromantic energies released by its host's suffering. As they
-approach the point of death, it will accelerate rapidly, devouring the last
-vestiges of their body and leaving nothing behind but a twisted pillar of
-stygian ice.
+对于活着的、神圣的或恶魔的生物来说，这种疾病尤其致命，
+以宿主痛苦所释放的死灵能量为食。正如他们
+接近死亡点时，它会急剧加速，吞噬掉最后的生命
+他们身体的遗迹，只留下一根扭曲的柱子
+冥河冰。
 %%%%
-Roll spell
+滚动咒语
 
-Roll into a ball, granting the boulder beetle tremendous speed as well as
-double melee damage. The roll may only be performed when at distance from a
-foe, and the beetle will always unroll after an attempted roll attack.
+滚成一个球，赋予巨石甲虫巨大的速度以及
+双倍近战伤害。仅当距离目标较远时才可以进行翻滚
+敌人，甲虫在尝试翻滚攻击后总是会展开。
 %%%%
-Sandblast spell
+喷砂法术
 
-Blasts a target with high-velocity rock shards. Gathering the rock from ambient
-grit is slow, making this spell take one-and-a-half times as long to cast as
-most. Its damage is strongly reduced by armour.
+用高速岩石碎片爆炸目标。从环境中收集岩石
+砂砾的速度很慢，使得该法术的施展时间是其施展时间的一倍半
+大多数。它的伤害被装甲大大降低。
 %%%%
-Sap Magic spell
+闷棍魔法咒语
 
-Taints a targeted creature's ability to cast spells. Casting a spell while
-afflicted with this condition causes the target to lose access to their magic,
-briefly preventing them from casting any further spells.
+污染目标生物的施法能力。施展咒语的同时
+患有这种情况会导致目标失去魔法，
+短暂地阻止他们施展任何进一步的法术。
 %%%%
-Scorch spell
+焦灼咒语
 
-Scorches a random foe. Those injured by this have their resistance to fire
-burned away for a short time.
+烧焦随机的敌人。受此伤害的人具有对火的抵抗力
+短时间内被烧毁。
 %%%%
-Sculpt Simulacrum spell
+雕刻拟像咒语
 
-Forms icy simulacra of an adjacent living, demonic, or holy creature. These
-fragile doppelgangers will take shape over a short period of time, eventually
-gaining the ability to move and attack the caster's enemies.
+形成邻近活体、恶魔或神圣生物的冰冷拟像。这些
+脆弱的分身最终会在短时间内形成
+获得移动和攻击施法者敌人的能力。
 
-The good gods frown on this spell, as it works blood and ichor into unnatural
-facsimiles.
+善良的诸神对这个咒语皱眉，因为它将血液和脓液转化为不自然的东西
+传真。
 
-You can maintain up to 5 simulacra simultaneously.
+您最多可以同时维护 5 个拟像。
 %%%%
-Seal Doors spell
+封印门咒语
 
-Imparts seals on nearby doors and stairs, preventing those not allied with
-the caster from traversing them.
+在附近的门和楼梯上封印，防止那些不与之结盟的人
+施法者不能穿越它们。
 %%%%
-Searing Ray spell
+灼热射线法术
 
-Fires a continuous piercing ray of arcane energy from the caster's hands. So
-long as the caster maintains focus upon the spell and supplies it with magical
-power (by waiting in place and not taking any other actions), the ray will
-follow the caster's target if it should move.
+从施法者手中发射出连续的穿透性奥术能量射线。所以
+只要施法者保持对法术的专注并为其提供魔法
+能量（通过原地等待而不采取任何其他行动），射线将
+如果施法者的目标移动，则跟随它。
 %%%%
-Searing Breath spell
+灼热呼吸法术
 
-Breathes a blast of fire at a targeted creature, leaving a cloud of flames at
-the endpoint.
+向目标生物喷出一阵火焰，并在目标生物身上留下一团火焰
+终点。
 %%%%
-Seismic Stomp spell
+地震践踏法术
 
-Stomps heavily upon the ground, sending out violent shockwaves that fracture the
-ground beneath multiple nearby enemies. Flying creatures take greatly reduced
-damage from this attack, but those on the ground may sometimes to lose their
-footing altogether, delaying their next action as they struggle to regain
-balance on the uneven terrain.
+重重地踩在地面上，发出剧烈的冲击波，使地面断裂
+位于附近多个敌人下方的地面。飞行生物的消耗大大减少
+这次攻击造成的损害，但地面上的人有时可能会失去
+完全站稳脚跟，在他们努力重新站起来时推迟了他们的下一步行动
+在不平坦的地形上保持平衡。
 %%%%
-Sentinel's Mark spell
+哨兵标记咒语
 
-Bestows a strong beacon upon a targeted creature. It announces the presence
-and location of the marked creature to everyone on the same level.
+向目标生物授予强大的信标。它宣布存在
+以及标记生物的位置给同一级别的每个人。
 %%%%
-Seracfall spell
+塞拉克瀑布法术
 
-Violently collapses a nearby simulacrum into a large mass of ice, which
-explodes on impact. The ice affects even cold-resistant creatures somewhat, due
-to the strong impact and cutting edges.
+将附近的拟像猛烈地塌陷成一大块冰，
+撞击时爆炸。冰甚至对耐寒生物也会产生一定程度的影响，因为
+到强烈的冲击力和切削刃。
 %%%%
-Shadowball spell
+暗影球法术
 
-Hurls a ball of flickering shadows, which explodes in a small area.
+投掷一团闪烁的阴影，在一小片区域内爆炸。
 %%%%
-Shadow Beam spell
+暗影光束法术
 
-Fires a penetrating beam of shadow.
+发射一道具有穿透力的阴影光束。
 %%%%
-Shadow Bind spell
+暗影束缚法术
 
-Pins several random nearby enemies to their own shadows, briefly preventing them
-from moving. At higher spellpower, it affects more enemies at once.
+将附近的几个随机敌人固定在他们自己的影子上，短暂阻止他们
+从移动。法术强度越高，它会同时影响更多的敌人。
 %%%%
-Shadow Creatures spell
+暗影生物法术
 
-Creates replicas of creatures native to the caster's current location, weaving
-them from shadows and threads of Abyssal matter.
+创建施法者当前位置本地生物的复制品，编织
+它们来自深渊物质的阴影和丝线。
 %%%%
-Shadow Draining spell
+暗影汲取法术
 
-Forcefully steals a sliver from the shadows of all nearby enemies, causing
-damage which bypasses the victim's armour entirely.
+从附近所有敌人的阴影中强行偷取一条碎片，造成
+伤害完全绕过受害者的护甲。
 %%%%
-Shadow Prism spell
+暗影棱镜法术
 
-Conjures a shadowy prism which will unleash a violent blast of shadows after a
-short duration. If destroyed prematurely, this blast will be much weaker.
+召唤出一个暗影棱镜，在经过一段时间后会释放出猛烈的暗影冲击波
+持续时间短。如果破坏得过早，这股冲击波就会弱很多。
 %%%%
-Shadow Puppet spell
+皮影傀儡术
 
-Summons a servant of living shadow to harass and constrict the caster's enemies.
-The strength of its attacks is directly increased by spellpower.
+召唤活影仆从来骚扰和束缚施法者的敌人。
+其攻击强度直接因法术强度而增加。
 %%%%
-Shadow Shard spell
+暗影碎片法术
 
-Fires a shard of hardened shadow at a single enemy.
+向单个敌人发射一块坚硬的阴影碎片。
 %%%%
-Shadow Shot spell
+暗影射击法术
 
-Fires a small bullet of hardened shadow at a single enemy.
+向单个敌人发射一颗由硬化阴影组成的小子弹。
 %%%%
-Shadow Tempest spell
+暗影风暴法术
 
-Calls down shadowy lightning upon up to half of all visible enemies, dealing
-irresistible damage to them.
+对最多一半的可见敌人召唤暗影闪电，造成伤害
+对他们造成不可抗拒的伤害。
 %%%%
-Shadow Torpor spell
+暗影麻木法术
 
-Saps the energy from a line of enemies, slowing them for a short while.
-Spellpower increases the duration of this effect, but stronger creatures may
-shake off their lethargy more quickly.
+吸取一排敌人的能量，使他们暂时减速。
+法术强度会增加该效果的持续时间，但更强的生物可能会
+更快地摆脱昏睡。
 %%%%
-Shadow Turret spell
+暗影炮塔法术
 
-Forms a stationary turret of solidified shadow that repeatedly fires upon the
-caster's enemies.
+形成一个由凝固阴影组成的固定炮塔，反复向目标射击
+施法者的敌人。
 %%%%
-Shatter spell
+粉碎咒语
 
-Causes an enormous burst of concussive force around the caster, dealing severe
-damage to all nearby creatures. It is especially effective against those made
-from ice, bone, or any wall-like substance (such as rock, metal or crystal), as
-well as those turned to stone by petrification. It is less effective against
-flying, gelatinous and insubstantial creatures. It may also destroy nearby
-walls.
+在施法者周围造成巨大的冲击力，造成严重伤害
+对附近所有生物造成伤害。它对那些制造的特别有效
+来自冰、骨头或任何类似墙壁的物质（例如岩石、金属或水晶），例如
+以及那些因石化而变成石头的人。对它的效果较差
+飞行的、胶状的、无形的生物。它也可能破坏附近
+墙壁。
 %%%%
-Sheza's Dance spell
+谢莎的舞蹈咒语
 
-Summons weapons from far and wide - a dagger newly forged, a sword long-rusted
-in a moldering tomb, an axe still steaming with the blood of its victim -
-animating them and sending them out to attack.
+从四面八方召唤武器——一把新锻造的匕首，一把生锈已久的剑
+在一座腐烂的坟墓里，一把斧头仍然冒着受害者的鲜血——
+激活它们并派它们出去攻击。
 %%%%
-Shock spell
+冲击咒语
 
-Throws a bouncing bolt of electricity. It bypasses half of defenders' armour.
+抛出一道弹跳的闪电。它绕过了防御者一半的装甲。
 %%%%
-Shred spell
+撕碎咒语
 
-Spins in place, dealing grievous damage to adjacent enemies with its serrated
-body.
+原地旋转，用锯齿对邻近的敌人造成严重伤害
+身体。
 %%%%
-Sigil of Binding spell
+束缚法术印记
 
-Creates two sigils nearby. Anyone who passes over them will be bound, able to
-act and dodge normally but unable to move away. When the effect wears off,
-their movement speed will rebound, giving them temporary swiftness. Swiftness
-from any source grants immunity to binding.
+在附近创建两个印记。任何越过它们的人都将受到约束，能够
+正常行动和闪避，但无法移动。当效果消失后，
+他们的移动速度会反弹，让他们暂时变得敏捷。敏捷性
+来自任何来源都赋予绑定豁免权。
 
-Only one set of sigils can be maintained at a time, and they will expire
-prematurely if they leave your sight.
+一次只能保留一组印记，并且它们将会过期
+如果他们离开你的视线就过早了。
 %%%%
-Sign of Ruin spell
+毁灭符咒的标志
 
-Inflicts the sign of ruin upon a group of enemies, condemning their bodies to
-inexorable decay and collapse. Whenever anything bearing this sign receives
-damage from a melee attack, they will suffer heavy draining and may additionally
-become either slow, weak, or blind.
+对一群敌人造成毁灭的迹象，谴责他们的身体
+不可避免的腐烂和崩溃。每当带有此标志的任何物品收到
+近战攻击造成的伤害，他们会遭受严重的消耗，并且可能另外
+变得缓慢、虚弱或盲目。
 %%%%
-Silence spell
+沉默咒语
 
-Eliminates all sound near the caster. This makes reading scrolls, casting
-spells, invoking divine abilities, or shouting impossible in the caster's
-vicinity.
+消除施法者附近的所有声音。这使得阅读卷轴、铸造
+法术、召唤神圣能力或在施法者的眼中大喊不可能
+附近。
 
-Certain monsters have innate magical or special abilities which will still be
-usable while silenced.
+某些怪物具有与生俱来的魔法或特殊能力，这些能力仍然会存在
+静音时可用。
 
-The effect starts out with a radius depending on power, which will then shrink,
-eventually covering only the caster, before it times out.
+效果开始时半径取决于功率，然后会缩小，
+最终在超时之前仅覆盖施法者。
 %%%%
-Siphon Essence spell
+虹吸精华法术
 
-Torments nearby living foes, cutting their health in half. This damage is never
-directly lethal. The pain inflicted then heals the user.
+折磨附近活着的敌人，使他们的生命值减半。这种伤害从来都不是
+直接致命。然后所造成的疼痛可以治愈使用者。
 %%%%
-Siren Song spell
+海妖之歌咒语
 
-Sings a haunting song that mesmerises nearby listeners. Adventurers who fail to
-resist will become unable to move away from the singer, while other creatures
-will become dazed outright.
+唱着一首令人难忘的歌曲，让附近的听众着迷。失败的冒险家
+抵抗将无法离开歌手，而其他生物
+会变得彻底茫然。
 
-Leaving the caster's line of sight will end the movement-controlling effect.
+离开施法者的视线将会结束移动控制效果。
 %%%%
-Sleep spell
+睡眠咒语
 
-Puts a targeted creature to sleep. Taking damage will typically wake the
-target, and loud sounds can potentially do so as well.
+让目标生物进入睡眠状态。受到伤害通常会唤醒
+目标，大声的声音也有可能做到这一点。
 %%%%
-Sleetstrike spell
+雨夹雪法术
 
-Causes the air around a creature to twist itself into a whirling vortex of
-frigid meteorological fury, encasing the victim in ice and slowing their
-movement briefly. It does more damage to targets surrounded by empty space and
-half of its damage bypasses cold resistance.
+使生物周围的空气扭曲成一个旋转的漩涡
+寒冷的气象狂怒，将受害者包裹在冰中并减慢他们的速度
+短暂的运动。它对被空旷空间包围的目标造成更多伤害
+它的一半伤害会绕过寒冷抵抗。
 %%%%
-Slow spell
+缓慢咒语
 
-Slows the actions of a creature.
+减缓生物的行动。
 %%%%
-Slug Dart spell
+蛞蝓飞镖咒语
 
-Fires a sharp dart of hardened chitin.
+发射坚硬的甲壳质锋利飞镖。
 %%%%
-Smiting spell
+重击咒语
 
-Smites any targeted enemy within sight, with no direct line of fire required.
+无需直射火线，即可攻击视线范围内的任何目标敌人。
 %%%%
-Sojourning Bolt spell
+旅居博尔特咒语
 
-Breathes a penetrating and unstable bijection burst. If it hits, it may teleport
-victims after a short delay. For particularly interesting morsels of adventurers
-such as yourself, this teleport will translocate those victims towards the
-caster's allies and bring the caster along for the ride, if possible.
+呼吸出具有穿透力且不稳定的双射爆发。如果击中，它可能会传送
+短暂延迟后的受害者。对于冒险家来说特别有趣的事情
+比如你自己，这种传送会将那些受害者转移到
+施法者的盟友，如果可能的话，带施法者一起去。
 %%%%
-Soul Splinter spell
+灵魂分裂法术
 
-Attempts to force a tiny fragment of a living, holy, or demonic being's soul to
-take leave of their body and manifest as a soul wisp. This wisp is nominally
-under the necromancer's control, but will focus its attacks foremost on the
-creature it was created from, instinctually trying to return to its proper home
-once more. The victim will be weakened until the wisp reverts to where it
-belongs.
+试图强迫一个活着的、神圣的或恶魔的灵魂的一小块碎片
+离开他们的身体并显现为灵魂之缕。这缕名义上是
+在死灵法师的控制下，但会首先将攻击集中在
+它被创造出来的生物，本能地试图回到它正确的家
+再一次。受害者会被削弱，直到小精灵回到原来的位置。
+属于.
 
-Wisps created from more powerful souls have more damaging attacks, but are
-always fragile.
+由更强大的灵魂创造的小精灵具有更多的破坏性攻击，但
+总是脆弱的。
 %%%%
-Spawn Tentacles spell
+生成触手法术
 
-Extends large tentacles to attack nearby enemies.
+伸出巨大的触手攻击附近的敌人。
 %%%%
-Spectral Cloud spell
+光谱云咒语
 
-Creates a cloud of spectral mist, dealing minor damage to all creatures other
-than the undead. Dangerous but short-lived spectral undead creatures will
-coalesce from the mist over time.
+产生一团幽灵雾气，对除此之外的所有生物造成轻微伤害
+比不死者。危险但寿命短暂的幽灵不死生物会
+随着时间的推移，雾气逐渐凝聚。
 %%%%
-Spellspark Servitor spell
+Spellspark 仆役魔法
 
-Constructs a metallic servant with a spark of the caster's own arcane knowledge
-at its core. This spark allows the servitor to unleash some of the destructive
-spells known to its creator, though the strongest and most volatile
-of magics cannot be imbued in this fashion. The strength of the servitor
-increases with spell power.
+用施法者自己的奥术知识的火花建造一个金属仆人
+其核心。这种火花可以让机仆释放出一些破坏性的力量
+其创造者已知的法术，尽管是最强大和最不稳定的
+魔法的力量不能以这种方式被灌输。仆人的实力
+随着法术强度的增加而增加。
 
-(While you know this spell, you may choose which of your eligible spells it will
-cast with the Imbue Servitor ability.)
+（当你知道这个咒语时，你可以选择它会在你的符合资格的咒语中选择
+使用灌输仆从能力施放。）
 %%%%
-Sphinx Sisters spell
+狮身人面像姐妹咒语
 
-Summons a pair of riddling sphinxes - one guardian and one marauder - to
-debilitate the caster's enemies with hexes and batter them with violent winds.
+召唤一对谜语狮身人面像 - 一个守护者和一个掠夺者 -
+用咒语削弱施法者的敌人并用狂风攻击他们。
 
-Spell power increases the sphinxes' durability and the power of their spells.
+法术强度会增加狮身人面像的耐久度和法术威力。
 %%%%
-Spit Acid spell
+吐酸咒语
 
-Spits acid at a targeted creature.
+向目标生物吐出酸液。
 %%%%
-Spit Lava spell
+吐熔岩法术
 
-Spits lava at a targeted creature. Half of its damage bypasses fire resistance.
+向目标生物吐出熔岩。其一半伤害会绕过火抗性。
 %%%%
-Spit Poison spell
+吐毒咒语
 
-<Spit Poison ability>
+<吐毒能力>
 %%%%
-Splinterfrost Shell spell
+冰霜碎片咒语
 
-Constructs a frangible shell of reinforced ice in a half-circle around the
-caster, pushing creatures out of the way to make space for it, if possible.
+在周围建造一个半圆形的易碎强化冰壳
+施法者，如果可能的话，将生物推开，为其腾出空间。
 
-This barricade is durable, and whenever a segment of it is destroyed, will
-fracture into a salvo of icy projectiles launched at whatever destroyed it.
+这个路障很耐用，每当它的一部分被摧毁时，就会
+碎裂成一连串冰冷的射弹，向摧毁它的物体发射。
 
-If the caster strays too far away from their barrier, it will melt rapidly.
+如果施法者距离屏障太远，屏障就会迅速融化。
 %%%%
-Splinterspray spell
+碎片喷射法术
 
-Fires a burst of wooden splinters. Its damage is strongly reduced by armour.
+发射一阵木碎片。它的伤害被装甲大大降低。
 %%%%
-Sporulate spell
+孢子形成咒语
 
-Releases a fast, gas-filled floating spore. After seeking out its foe, the
-spore will explode, damaging anything caught in the blast and further confusing
-living creatures.
+快速释放充满气体的漂浮孢子。找到敌人后，
+孢子会爆炸，损坏爆炸中的任何东西并进一步造成混乱
+生物。
 %%%%
-Starburst spell
+星爆咒语
 
-Releases penetrating bolts of fire from the caster in every direction.
+从施法者向各个方向释放穿透性的火焰箭。
 %%%%
-Static Discharge spell
+静电释放咒语
 
-Releases electrical charges against those next to the caster. These may arc to
-other adjacent creatures, or back to the caster, before eventually grounding
-out. It deals reduced damage when arcing to the caster, and the damage dealt
-bypasses half of defenders' armour.
+对施法者旁边的人释放电荷。这些可能是
+其他邻近的生物，或回到施法者身边，然后最终接地
+出来。当向施法者发射电弧时，它造成的伤害减少，并且造成的伤害减少
+绕过防御者一半的装甲。
 %%%%
-Steam Ball spell
+蒸汽球咒语
 
-Throws a ball of hot steam towards a targeted creature.
+向目标生物投掷一团热蒸汽。
 %%%%
-Steam Breath spell
+蒸汽呼吸法术
 
-<Steam breath ability>
+<蒸汽呼吸能力>
 %%%%
-Sticks to Snakes spell
+坚持蛇咒语
 
-Casts forth sticks and transforms them into snakes. Stronger casters will always
-create stronger snakes.
+抛出棍棒并将其变成蛇。更强的脚轮将永远
+创造更强大的蛇。
 %%%%
-Sticky Flame spell
+粘性火焰咒语
 
-Unleashes a short-ranged spray of incendiary goo that clings to an adjacent
-creature and deals armour-ignoring fire damage over several turns. If the victim
-is allowed to move, it will put out the fire prematurely.
+释放出短程燃烧性粘液喷雾，附着在邻近的物体上
+生物并在数回合内造成无视护甲的火焰伤害。如果受害人
+如果允许移动，就会过早地将火扑灭。
 
-If the target is insubstantial, the liquid fire will fail to stick.
+如果目标不实体，液体火就无法粘住。
 %%%%
-Still Winds spell
+静风咒语
 
-Brings the air into unnatural stillness across a huge area, preventing anything
-short of a polar vortex from breaking the calm. The effect takes concentration
-to maintain, and only lasts a short time; if the caster is killed, clouds will
-begin to form again as normal.
+让大片区域的空气陷入不自然的静止状态，阻止任何事情发生
+差点就被极地漩涡打破了平静。效果需要集中注意力
+维持，且只持续很短的时间；如果施法者被杀，云就会
+开始再次正常形成。
 %%%%
-Sting spell
+刺伤咒语
 
-Conjures a jagged shard of crystallised toxins. The stinger's impact will always
-poison a susceptible target. Even resistant targets have a chance to be poisoned
-and immune monsters will still be damaged by the physical impact of the stinger.
+召唤出锯齿状的结晶毒素碎片。毒刺的影响将永远存在
+毒害易受影响的目标。即使有抵抗力的目标也有机会中毒
+而免疫怪物仍然会受到毒刺物理冲击的伤害。
 %%%%
-Stoke Flames spell
+斯托克火焰法术
 
-Adds malice to hellish fires, binding it with flame into a creeping inferno.
+为地狱之火增添恶意，用火焰将其束缚成蠕动的地狱。
 %%%%
-Stone Arrow spell
+石箭法术
 
-Fires a sharp spine of rock.
+发射锋利的岩石脊柱。
 %%%%
-Strip Willpower spell
+剥离意志咒语
 
-Greatly reduces the target's willpower, making them more vulnerable to a
-variety of magical effects.
+大大降低目标的意志，使他们更容易受到攻击
+多种神奇效果。
 %%%%
-Stunning Burst spell
+惊人的爆发咒语
 
-Fires a weak electrical burst which, on impact, causes very brief paralysis.
-Willpower is of no use against this effect, but resistance to electricity can
-sometimes prevent it.
+发射微弱的电脉冲，撞击后会造成非常短暂的麻痹。
+意志对于对抗这种效果没有任何用处，但对电的抵抗力可以
+有时会阻止它。
 %%%%
-Sublimation of Blood spell
+血之升华法术
 
-Converts some of the caster's blood into magical energy. The process is painful
-but never directly lethal. The efficiency of the conversion increases with the
-spell's power.
+将施法者的部分血液转化为魔法能量。过程很痛苦
+但从未直接致命。转换效率随着
+咒语的力量。
 %%%%
-Summon Air Elementals spell
+召唤空气元素法术
 
-Summons one or more air elementals.
+召唤一个或多个空气元素。
 %%%%
-Summon Cactus Giant spell
+召唤仙人掌巨人咒语
 
-Summons a warrior from a particularly prickly tribe. Foes that strike these
-giants in melee are in for a painful surprise! When cast at a higher power,
-older, more robust warriors will answer the call.
+召唤来自一个特别多刺的部落的战士。攻击这些的敌人
+混战中的巨人将遭遇痛苦的意外！当以更高的功率施放时，
+年长、更强壮的战士将响应号召。
 %%%%
-Summon Demon spell
+召唤恶魔咒语
 
-Opens a gate to the realm of Pandemonium and draws forth one of its inhabitants
-to serve the caster for a time.
+打开通往混乱王国的大门并引出一名居民
+为施法者服务一段时间。
 %%%%
-Summon Dragon spell
+召唤龙咒
 
-Summons and binds a powerful dragon to perform the caster's bidding. At high
-power it may summon particularly deadly varieties of dragon, or multiple lesser
-dragons at once.
+召唤并束缚一条强大的龙来执行施法者的命令。高时
+它的力量可能会召唤特别致命的龙品种，或者多种较小的龙
+龙立刻。
 %%%%
-Summon Drakes spell
+召唤龙兽法术
 
-Summons multiple drakes and lindwurms.
+召唤多只龙和龙龙。
 %%%%
-Summon Earth Elementals spell
+召唤土元素法术
 
-Summons one or more earth elementals.
+召唤一个或多个土元素。
 %%%%
-Summon Emperor Scorpions spell
+召唤帝蝎法术
 
-Summons multiple noble and monstrous emperor scorpions.
+召唤多只尊贵妖孽的帝蝎。
 %%%%
-Summon Executioners spell
+召唤刽子手咒语
 
-Summons multiple Executioners to tear apart foes of the caster.
+召唤多个刽子手来撕碎施法者的敌人。
 %%%%
-Summon Eyeballs spell
+召唤眼球咒语
 
-Summons multiple floating eyeballs that may be able to vitrify, polymorph,
-confuse, mutate or disintegrate.
+召唤多个漂浮的眼球，它们可能会玻璃化、变形、
+混乱、变异或瓦解。
 %%%%
-Summon Fire Elementals spell
+召唤火元素法术
 
-Summons one or more fire elementals.
+召唤一个或多个火元素。
 %%%%
-Summon Forest spell
+召唤森林法术
 
-Forcefully intersects a forested plane with this world. It requires open space
-to succeed. While the spell holds, a spirit of the forest will be called forth,
-and the trees of the forest will be awakened to deal damage to nearby enemies.
-Spell power increases the duration, size, and thickness of the intersected
-plane; as well as the strength of the spirit.
+将森林位面与这个世界强行相交。它需要开放空间
+成功。当咒语有效时，森林之灵将会被召唤，
+森林中的树木会被唤醒，对附近的敌人造成伤害。
+法术强度会增加相交的持续时间、大小和厚度
+飞机；还有精神力的强弱。
 %%%%
-Summon Greater Demon spell
+召唤大恶魔法术
 
-Calls forth one of the greater demons of Pandemonium to serve the caster.
+召唤混乱之地的一只更强大的恶魔来为施法者服务。
 %%%%
-Summon Sin Beast spell
+召唤罪恶兽法术
 
-Summons a deadly sin beast.
+召唤致命罪恶的野兽。
 %%%%
-Summon Hell Sentinel spell
+召唤地狱哨兵法术
 
-Summons a Hell Sentinel, a nightmarish edifice of animated hate.
+召唤地狱哨兵，一座充满仇恨的噩梦般的大厦。
 %%%%
-Summon Holies spell
+召唤神圣咒语
 
-Calls forth divine warriors to aid the caster.
+召唤神圣战士来帮助施法者。
 %%%%
-Summon Horrible Things spell
+召唤可怕事物咒语
 
-Opens a gate to the Abyss and calls through two or more hideous abominations
-from that dreadful place. While powerful, brushing one's mind against the fabric
-of the Abyss in this manner invites Doom upon the caster and may eventually cost
-them greatly.
+打开通往深渊的大门并召唤两个或更多可怕的怪物
+来自那个可怕的地方。力量强大的同时，将思绪拂过织物
+深渊的这种方式会邀请末日降临到施法者身上，并可能最终花费
+他们大大。
 %%%%
-Summon Hydra spell
+召唤九头蛇咒语
 
-Summons a many-headed hydra to fight alongside the caster for a short time.
-Spell power determines the number of heads.
+召唤多头九头蛇与施法者并肩作战一段时间。
+法术强度决定头的数量。
 %%%%
-Summon Ice Beast spell
+召唤冰兽法术
 
-Calls forth a beast of ice to serve the caster. The strength of the beast
-depends on spell power.
+召唤冰之巨兽为施法者服务。野兽的力量
+取决于法术强度。
 %%%%
-Summon Illusion spell
+召唤幻象法术
 
-Summons a temporary mirror image of an enemy. Such a copy has the same physical
-prowess as the original, and can cast the same spells.
+召唤敌人的临时镜像。这样的副本具有相同的物理
+与原版一样的威力，并且可以施展相同的法术。
 %%%%
-Summon Mana Viper spell
+召唤法力毒蛇法术
 
-Summons a violet-scaled serpent whose bite can swiftly drain the magical
-reserves of nearly any foe. At higher power, the antimagic properties of the
-viper's bite grow even stronger.
+召唤一条紫鳞蛇，其咬伤可迅速耗尽魔法
+几乎所有敌人的储备。在较高功率下，其反魔法特性
+毒蛇的咬力变得更强。
 %%%%
-Summon Minor Demon spell
+召唤小恶魔法术
 
-Summons between one and three minor (rank 5) demons.
+召唤一到三个小恶魔（等级 5）。
 %%%%
-Summon Mortal Champion spell
+召唤凡人冠军法术
 
-Calls forth one of the mightiest and fastest mortal champions of the Shining
-One. In this Dungeon, spriggan defenders and deep elf blademasters will answer
-the call.
+召唤出闪灵中最强大、速度最快的凡人冠军之一
+一。在这个地下城中，小精灵防御者和深精灵剑圣将给出答案
+的电话。
 %%%%
-Summon Mushrooms spell
+召唤蘑菇咒语
 
-Summons wandering mushrooms and deathcaps next to a targeted creature.
+在目标生物旁边召唤游走的蘑菇和死亡帽。
 %%%%
-Summon Scarabs spell
+召唤圣甲虫法术
 
-Calls forth a swarm of death scarabs.
+召唤出一大群死亡圣甲虫。
 %%%%
-Summon Scorpions spell
+召唤蝎子法术
 
-Calls forth a swarm of venomous scorpions.
+召唤出一群有毒的蝎子。
 %%%%
-Summon Seismosaurus Egg spell
+召唤震龙蛋法术
 
-Summons the egg of a brutish lizard, just on the verge of hatching. So long as
-there are foes nearby and the caster remains adjacent to the egg, it will hatch
-several turns after being summoned to wreak havoc upon its summoner's foes.
+召唤一只即将孵化的野蛮蜥蜴蛋。只要
+附近有敌人并且施法者仍然靠近鸡蛋，它会孵化
+被召唤后的几个回合对召唤者的敌人造成严重破坏。
 
-Even as a juvenile, a seismosaurus is a force to be reckoned with. It is nearly
-as hardy as a mountain, and its footfalls are capable of creating violent
-seismic shockwaves. Each shockwave deals considerable damage to non-flying
-enemies, and may sometimes even cause them to lose their footing altogether.
+即使是幼年的地震龙也是一股不可忽视的力量。差不多是
+坚韧如山，其脚步能产生暴力
+地震冲击波。每个冲击波都会对非飞行物体造成相当大的伤害
+敌人，有时甚至可能使他们完全失去立足点。
 
-Spell power increases the egg's durability and the strength of the seismosaur
-within, but not the time it takes to hatch.
+法术强度会增加蛋的耐用性和震龙的力量
+内，但不是孵化所需的时间。
 %%%%
-Summon Small Mammal spell
+召唤小型哺乳动物法术
 
-Summons a rat, bat, or quokka to the caster's aid. Spell power increases the
-chance of summoning a quokka.
+召唤老鼠、蝙蝠或短尾矮袋鼠来帮助施法者。法术强度增加
+有机会召唤短尾矮袋鼠。
 %%%%
-Summon Spiders spell
+召唤蜘蛛咒语
 
-Summons one or more spiders.
+召唤一只或多只蜘蛛。
 %%%%
-Summon Tzitzimitl spell
+召唤齐齐米特尔咒语
 
-Summons a tzitzimitl, a demon of disease and despair.
+召唤疾病与绝望的恶魔tzitzimitl。
 %%%%
-Summon Ufetubus spell
+召唤 Ufetubus 魔法
 
-Summons multiple ufetubi; small, annoying demons.
+召唤多个ufetubi；小而烦人的恶魔。
 %%%%
-Summon Undead spell
+召唤亡灵法术
 
-Summons multiple undead monsters, creating various ghosts, vampires, wraiths
-and other lesser undead.
+召唤多种不死怪物，创造各种鬼魂、吸血鬼、幽灵
+和其他较小的不死生物。
 %%%%
-Summon Vermin spell
+召唤害虫法术
 
-Summons multiple rats, spiders, worms, and frogs.
+召唤多种老鼠、蜘蛛、蠕虫和青蛙。
 %%%%
-Summon Water Elementals spell
+召唤水元素法术
 
-Summons one or more water elementals.
+召唤一个或多个水元素。
 %%%%
-Swiftness spell
+迅捷咒语
 
-Calls forth winds to greatly increase the caster's movement speed. After the
-effect ends, the caster's movements will be sluggish for a time.
+召唤风，大幅提升施法者的移动速度。之后
+效果结束后，施法者的动作会暂时迟缓。
 %%%%
-Symbol of Torment spell
+折磨法术的象征
 
-Calls on the powers of darkness to cause agonising injury to any living or
-holy thing in the caster's vicinity, cutting their health in half (partially
-resisted by negative energy resistance). This damage is never directly lethal.
+召唤黑暗的力量对任何活着的人造成痛苦的伤害
+施法者附近的圣物，使他们的生命值减半（部分
+受到负能量阻力的抵抗）。这种伤害永远不会直接致命。
 %%%%
-Teleport Other spell
+传送其他法术
 
-Attempts to teleport a targeted creature out of the caster's sight, after a
-short delay.
+尝试将目标生物传送到施法者的视线之外
+短暂的延迟。
 %%%%
-Throw Ally spell
+投掷盟友咒语
 
-Throws a nearby ally at the monster's foe, doing minimal damage and landing the
-thrown monster nearby.
+将附近的盟友扔向怪物的敌人，造成最小的伤害并使怪物着陆
+扔在附近的怪物。
 %%%%
-Throw Barbs spell
+投掷倒刺咒语
 
-Fires a volley of barbs at the target, skewering them and making movement
-painful.
+向目标发射一连串倒刺，将其刺穿并移动
+痛苦的。
 %%%%
-Throw Bolas spell
+投掷波拉斯咒语
 
-Hurls a colossal bolas at the target, wrapping around even the largest of foes
-and binding them in place.
+向目标投掷巨大的流星，甚至将最大的敌人包裹起来
+并将它们固定到位。
 %%%%
-Throw Flame spell
+投掷火焰法术
 
-Throws a small puff of flame.
+喷出一小股火焰。
 %%%%
-Throw Frost spell
+投掷冰霜法术
 
-Throws a small puff of frost.
+喷出一小团霜。
 %%%%
-Throw Icicle spell
+投掷冰柱咒语
 
-Fires a shard of ice. Due to its strong impact and cutting edges, half of its
-damage bypasses cold resistance.
+发射一块冰碎片。由于其强大的冲击力和切削刃，其一半
+伤害绕过了寒冷抵抗力。
 %%%%
-Throw Klown Pie spell
+扔小丑派咒语
 
-Throws a harmful yet strangely delicious pie that can inflict its victim with a
-number of irresistible and debilitating temporary effects. These include
-inducing vertigo, silence, fire vulnerability, fragility, blindness, or an
-aversion to drinking potions.
+扔出一个有害但异常美味的馅饼，可以对其受害者造成伤害
+一些不可抗拒的、使人衰弱的暂时影响。这些包括
+引起眩晕、沉默、易受火灾、脆弱、失明或
+厌恶喝药水。
 %%%%
-Thunderbolt spell
+雷霆咒语
 
-Creates an arc of electricity.
+产生电弧。
 %%%%
-Trog's Hand spell
+穴居人之手咒语
 
-<Trog's Hand ability>
+<穴居人之手能力>
 %%%%
-Kiss of Death spell
+死亡之吻咒语
 
-Conjures forth a fragment of the caster's essence and twists it into a fragment
-of death, painfully draining the victim. The caster, too, will find their health
-reduced, until they gain enough experience to recover.
+召唤出施法者本质的碎片并将其扭曲成碎片
+死亡，痛苦地耗尽受害者的生命。施法者也会找到他们的健康状况
+减少，直到他们获得足够的经验来恢复。
 %%%%
-Tukima's Dance spell
+图基玛的舞蹈咒语
 
-Animates the weapon of a targeted foe, ripping it from their hands and causing
-it to attack them relentlessly. Once the target dies, the weapon will fall to
-the ground shortly thereafter.
+激活目标敌人的武器，将其从他们手中夺走并造成
+它会无情地攻击他们。一旦目标死亡，武器就会掉落
+此后不久地面。
 
-Certain powerful named artefacts cannot be animated, and any properties that
-require skill in evocations will not be active.
+某些强大的命名文物无法进行动画处理，并且任何属性
+需要召唤技能的技能不会被激活。
 %%%%
-Upheaval spell
+剧变咒语
 
-Calls on the forces of nature to blast a small area with magma, ice, wind,
-or rubble.
+呼吁自然力量用岩浆、冰、风来炸毁一小片区域，
+或瓦砾。
 %%%%
-Vampiric Draining spell
+吸血鬼排水法术
 
-Steals the life of an adjacent living creature and grants it to the caster.
+窃取邻近生物的生命并将其赋予施法者。
 %%%%
-Vanquished Vanguard spell
+被击败的先锋法术
 
-Calls out to the lingering souls of orcs who died in earlier ages, and, for a
-brief moment, gives them purpose in battle once again.
+召唤早年死去的兽人挥之不去的灵魂，并且，
+短暂的瞬间，让他们再次有了战斗的目的。
 
-More anchored to their past lives than most spectrals, they wield polearms with
-living skill, and will encircle their quarry with cold efficiency.
+他们比大多数幽灵更依赖于他们的前世，他们挥舞着长柄武器
+生活技巧，将以冷酷的效率包围他们的猎物。
 %%%%
-Venom Bolt spell
+毒液箭法术
 
-Fires a penetrating bolt of poison.
+发射具有穿透力的毒箭。
 %%%%
-Vex spell
+恼怒咒语
 
-Attempts to cloud the target's mind with thoughtless frustration, forcing them
-to spend several turns doing nothing but attacking nearby spaces (whether those
-spaces are empty or even contain their allies).
+试图用轻率的挫败感迷惑目标的思想，迫使他们
+花费几个回合除了攻击附近的空间（无论是那些
+空间是空的，甚至包含它们的盟友）。
 %%%%
-Virulence spell
+毒力咒语
 
-Makes a targeted creature more vulnerable to poison.
+使目标生物更容易受到毒害。
 %%%%
-Momentum Strike spell
+动量打击法术
 
-Blasts a target with energy borrowed from the caster's own future movement. For
-a short time afterward, the caster will be left immotile - unable to walk, fly
-around, slither, etc. Only motile creatures can cast this spell.
+使用从施法者自己的未来运动中借用的能量爆炸目标。对于
+不久之后，施法者将无法动弹——无法行走、飞行
+绕行、滑行等。只有能动的生物才能施展此法术。
 %%%%
-Vhi's Electric Charge spell
+Vhi的陷阱咒语
 
-Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy
-melee attack on arrival. Additional electric damage will be dealt based on the
-length of the charge, the power of the spell, and the physical damage of the
-attack. The caster is wrapped in an envelope of twisted space, allowing them
-to safely pass through creatures, traps, and harmful terrain, and to displace
-creatures at their destination. The time taken by the spell is the greater of
-the time normally needed to cast a spell or that needed to launch one melee
-attack.
+让施法者冲向附近选定的敌人，发射高精度导弹
+抵达后进行近战攻击。额外的电击伤害将根据
+冲锋的长度、法术的威力以及物理伤害
+攻击。施法者被包裹在扭曲空间的信封中，允许他们
+安全地穿过生物、陷阱和有害地形，并移动
+到达目的地的生物。该法术所花费的时间是以下两者中的较大者
+通常施展法术或发起一场近战所需的时间
+攻击。
 %%%%
-Vhi's Electrolunge spell
+Vhi 的 Electrolunge 咒语
 
-Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy
-melee attack on arrival, with additional electrical damage based on spellpower.
-The caster is wrapped in an envelope of twisted space, allowing them to safely
-pass through creatures, traps, and harmful terrain, and to displace creatures at
-their destination.
+让施法者冲向附近选定的敌人，发射高精度导弹
+到达时进行近战攻击，并根据法术强度产生额外的电击伤害。
+施法者被包裹在扭曲空间的外壳中，使他们能够安全地
+穿过生物、陷阱和有害地形，并在以下位置移动生物
+他们的目的地。
 %%%%
-Vitrify spell
+玻璃化法术
 
-Renders a creature's body structure as brittle and fragile as glass, increasing
-the damage they take from all sources.
+使生物的身体结构像玻璃一样脆弱，增加
+他们从所有来源受到的伤害。
 %%%%
-Vitrifying Gaze spell
+玻璃化凝视法术
 
-Irresistibly renders a creature's body structure as brittle and fragile as
-glass, increasing the damage they take from all sources. It requires line of
-sight but not line of fire.
+不可抗拒地使生物的身体结构变得脆弱易碎
+玻璃，增加了它们受到各种来源的损害。它需要线
+视线但不是火线。
 %%%%
-Volley of Thorns spell
+荆棘齐射法术
 
-Launches a small hail of sharp thorns.
+发射一小股锋利的荆棘冰雹。
 %%%%
-Wall of Brambles spell
+荆棘之墙法术
 
-Causes brambles to rapidly grow nearby. They have almost no structural
-strength, but the wicked thorns they bear make their removal difficult. Such
-brambles are sparse enough that almost any missile can pass through unhindered.
+导致附近的荆棘迅速生长。他们几乎没有任何结构
+力量很大，但它们身上长着邪恶的荆棘，因此很难将其移除。这样的
+荆棘丛非常稀疏，几乎任何导弹都可以畅通无阻地通过。
 %%%%
-Warning Cry spell
+警告哭泣咒语
 
-Generates a loud noise, alerting nearby enemies.
+发出巨大的噪音，警告附近的敌人。
 %%%%
-Warp Body spell
+扭曲身体法术
 
-Twists a creature's body with mutagenic corruption, doing a small amount of
-damage and inflicting a transient mutation. If the target is already suffering
-from multiple transient mutations, it will inflict Vitrify instead.
+通过诱变腐败扭曲生物的身体，进行少量的操作
+损害并造成短暂突变。如果目标已经遭受痛苦
+由于多次短暂突变，它会造成玻璃化。
 %%%%
-Warp Space spell
+扭曲空间法术
 
-Creates a brief but violent rift in space, damaging everything caught in its
-wake and sometimes blinking them a short distance away.
+在空间中产生短暂但猛烈的裂痕，损坏其内的一切
+醒来，有时在不远的地方眨眼睛。
 %%%%
-Waterstrike spell
+水击法术
 
-Causes the water around or under the target to violently swirl, dealing damage.
-It can affect targets standing in or flying above water.
+使目标周围或下方的水剧烈旋转，造成伤害。
+它可以影响站在水中或在水面上飞行的目标。
 %%%%
-Weakening Gaze spell
+削弱凝视法术
 
-Irresistibly weakens a creature's melee attacks for a period of time,
-requiring line of sight but not line of fire.
+在一段时间内不可抗拒地削弱生物的近战攻击，
+需要视线但不需要火线。
 %%%%
-Wind Blast spell
+风之疾风咒
 
-Causes a strong gust of wind, pushing away creatures and clouds in a cone. If
-this causes a creature to collide with something, it will take damage.
+引发一阵强风，将生物和云朵推开成圆锥形。如果
+这会导致生物与某物碰撞，它会受到伤害。
 %%%%
-Woodweal spell
+木纹法术
 
-Draws on the vitality of leaf and bark to heal a large amount of damage.
-Cannot be cast without a tree adjacent.
+利用树叶和树皮的生命力来治愈大量伤害。
+如果没有相邻的树则无法施放。
 %%%%
-Word of Recall spell
+召回咒语
 
-Recalls intelligent allies from elsewhere on the same level to the caster,
-after a short delay.
+从其他地方召回与施法者处于同一级别的智能盟友，
+短暂的延迟后。
 %%%%
-Yara's Violent Unravelling spell
+雅拉的暴力解开咒语
 
-If cast upon a creature already blessed (or cursed) with magical enchantments,
-those enchantments will be torn apart, transforming into a spray of
-destructive mutagenic radiation. The victim and anyone adjacent will be
-blasted and heavily deformed, weakening them and reducing their armour.
-Summoned creatures are particularly vulnerable, as the enchantments binding
-them to this plane will unravel and cause them to be dismissed immediately.
+如果施放于已被魔法结界祝福（或诅咒）的生物上，
+那些结界将会被撕裂，化为一朵浪花。
+破坏性诱变辐射。受害者和任何邻近的人都将被
+被炸毁并严重变形，削弱了他们的力量并减少了他们的装甲。
+召唤生物特别容易受到攻击，因为结界会束缚
+他们到这个位面将会瓦解并导致他们立即被解雇。

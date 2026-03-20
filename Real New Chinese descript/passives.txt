@@ -1,84 +1,84 @@
 %%%%
-no teleportation passive
+无被动传送
 
-You cannot teleport or blink.
+你无法传送或眨眼。
 %%%%
-no spellcasting passive
+没有施法被动
 
-You cannot cast spells.
+你不能施展法术。
 %%%%
-random rage passive
+随机愤怒被动
 
-You have a chance of going berserk when you make a melee attack.
+当你进行近战攻击时，你有机会变得狂暴。
 %%%%
-corrode self passive
+腐蚀自我被动
 
-You have a chance of being corroded when you take damage.
+当你受到伤害时，你有可能被腐蚀。
 %%%%
-slow self passive
+缓慢的自我被动
 
-You have a chance of being slowed when you take damage.
+当你受到伤害时，你有可能被减速。
 %%%%
-harm passive
+伤害被动
 
-Any damage you deal or take is increased.
+你造成或受到的任何伤害都会增加。
 %%%%
-mayhem passive
+混乱被动
 
-You have a chance of causing visible monsters to go into a frenzy when you kill
-a foe.
+当你杀死敌人时，你有几率使可见的怪物陷入疯狂
+一个敌人。
 %%%%
-repel missiles passive
+被动击退导弹
 
-You repel missiles, improving your chance to evade them.
+你击退导弹，提高躲避它们的机会。
 %%%%
-reflection passive
+反射被动
 
-You reflect any successfully blocked ranged attacks back towards the attacker.
+您将任何成功阻止的远程攻击反射回攻击者。
 %%%%
-acrobat passive
+杂技演员被动
 
-Your evasion is increased while moving and waiting.
+移动和等待时你的回避率会增加。
 %%%%
-clarity passive
+清晰度被动
 
-You are protected from involuntary confusion, rage, fear and mesmerisation.
+您将免受无意识的混乱、愤怒、恐惧和催眠的影响。
 %%%%
-resist mutation passive
+抵抗突变被动
 
-You are partially protected from mutation.
+你受到部分保护，免受突变。
 %%%%
-guardian spirit passive
+守护灵被动
 
-Any damage you take is divided between your reserves of health and magic.
+你受到的任何伤害都会分配给你的生命值和魔法储备。
 %%%%
-rampage passive
+狂暴被动
 
-You take an additional free step when moving towards enemies.
+当你向敌人移动时，你可以多迈出一步。
 %%%%
-roll passive
+被动滚动
 
-<rollpage mutation>
+<滚动页突变>
 %%%%
-faith passive
+信仰被动
 
-You gain divine favour quickly, and greater notice is taken of any religious
-transgressions you make.
+你很快就会获得神圣的青睐，任何宗教都会受到更多的关注
+你所犯下的罪行。
 %%%%
-wizardry passive
+魔法被动
 
-Your spell success rate is improved.
+你的咒语成功率会提高。
 %%%%
-archmagi passive
+大法师被动
 
-Your spell power is increased.
+你的法术强度增加。
 %%%%
-channel magic passive
+通道魔法被动
 
-You have a chance of regaining the magic spent when successfully casting a
-spell, and always regain the magic spent when you miscast a spell.
+成功施展时你有机会恢复所消耗的魔法
+咒语，并且总是能恢复当你施错咒语时所消耗的魔法。
 %%%%
-infuse magic passive
+注入魔法被动
 
-You spend magic each time you make a melee attack, empowering your blows.
+每次进行近战攻击时，你都会消耗魔法，增强你的攻击力。
 %%%%

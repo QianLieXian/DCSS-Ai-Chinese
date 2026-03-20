@@ -1,4032 +1,4035 @@
 %%%%
 __(_suffix_examine
 
-It has been enchanted to dance through the air and attack under its own power.
+它被施了魔法，可以在空中跳舞并利用自己的力量进行攻击。
 %%%%
-# Uniques
-Agnes
+# 独特之处
+艾格尼丝
 
-This spriggan is aged and weathered from years of travel away from the forests
-and swamps that are home to her kin. Her choice of weapon and astonishing speed
-both speak to the training she underwent. Underestimate her at your peril!
+由于多年远离森林的旅行，这棵小树枝已经老化和风化
+和她亲戚的家园的沼泽。她对武器的选择和惊人的速度
+两者都谈到了她所接受的培训。低估她，后果自负！
 %%%%
-Aizul
+艾祖尔
 
-Once the primary guardian serpent of a legendary treasure hoard, she was
-disgraced after thieves looted it while she slept. She seeks to make up for her
-failure by protecting the only treasure the villains overlooked, a single
-precious talisman.
+她曾经是一个传奇宝库的主要守护蛇，
+窃贼趁她睡觉时将其抢劫一空，让她蒙羞。她想弥补她
+保护恶棍们忽视的唯一宝藏失败了，一个
+珍贵的护身符。
 %%%%
-Amaemon
+天卫门
 
-Amaemon always knew he was different, but it was still a horrific surprise when
-his demonic heritage manifested. As his body twisted, Amaemon was forced to flee
-far from the surface. The passage of time has only left him more obsessed with
-what he has lost - consumed by poison both physical and spiritual.
+阿梅蒙一直都知道自己与众不同，但当
+他的恶魔血统显露出来了。随着身体的扭曲，阿玛蒙被迫逃离
+远离表面。时间的流逝只会让他更加痴迷
+他失去了什么——身体和精神祇都被毒害所吞噬。
 %%%%
-Antaeus
+安泰
 
-Once a hero among the titans, Antaeus grew jealous of the titan queen. In
-single combat he challenged and slew her, and for this crime he was exiled and
-descended into the Hells. Finding the inhabitants of that place no match for his
-might, Antaeus tore from its substance a fourth Hell, Cocytus, a realm born of
-frozen spite.
+安泰曾经是泰坦中的英雄，但他对泰坦女王产生了嫉妒。在
+他在一次战斗中挑战并杀死了她，并因此而被流放并
+堕地狱。发现那个地方的居民无法与他匹敌
+可能，安泰从它的实质中撕裂了第四个地狱，科塞特斯，一个诞生于
+冻结的怨恨。
 %%%%
-Arachne
+阿拉克尼
 
-Once a talented human weaver, Arachne was transformed into a monstrous
-half-spider by a jealous rival's curse. Driven out of her village, she found
-sanctuary for a time among the jorogumo before a bitter feud forced her to
-flee once more.
+阿拉克尼曾经是一位才华横溢的人类织布工，后来变成了一个怪物
+被嫉妒的对手的诅咒变成了半蜘蛛。被赶出村庄后，她发现
+在一场激烈的争斗迫使她离开之前，她曾一度在乔罗古莫人中避难。
+再次逃离。
 
-Now she wanders other corners of the dungeon with a small retinue of loyal
-students in tow, seeking a new domain in which they can spin their peerless
-tapestries in peace.
+现在，她带着一小群忠诚的随从在地牢的其他角落徘徊。
+学生们紧随其后，寻找一个新的领域，在其中他们可以创造出无与伦比的
+和平的挂毯。
 %%%%
-Asmodeus
+阿斯摩蒂斯
 
-Greatest and most cunning of the Lords of Hell, Asmodeus was born when the twin
-fires of greed and treachery first sparked to life within a mortal's heart.
-His hideous body is perpetually wreathed in flame.
+阿斯莫蒂斯是地狱领主中最伟大、最狡猾的，他的双胞胎兄弟出生时
+贪婪和背叛的火焰首先在凡人的心中点燃。
+他丑陋的身体永远被火焰包围。
 %%%%
-Asterion
+星辰
 
-Once a king infamous for waging bloodthirsty campaigns, Asterion was exiled to
-the depths of the dungeon for his crimes. Here he lurks in his tattered finery,
-dreaming of a new kingdom. In his lust for power, the minotaur king turned to
-the worship of Makhleb, and Makhleb has rewarded him with horrifying
-destructive might.
+阿斯特里昂曾经是一位因发动嗜血战争而臭名昭著的国王，后来被流放到
+因他的罪行而被关进地牢深处。他穿着破烂的服饰潜伏在这里，
+梦想着一个新的王国。在对权力的渴望中，牛头人国王转向了
+对马赫勒布的崇拜，而马赫勒布回报了他令人恐惧的
+破坏力。
 %%%%
-Azrael
+阿兹瑞尔
 
-A powerful, belligerent efreet. (Is there any other kind?)
+强大而好战的火巨灵。 （还有其他种类吗？）
 %%%%
-Bai Suzhen
+白素贞
 
-A weary draconian with foreign and watery scales. She has come to the Dungeon
-in hopes of resurrecting her mortal husband; a noble cause, for a being once
-known for quarrelling with saints and flooding unfortunate temples. If pressed
-to her limits, she will reveal her true form, the mere sight of which struck
-her husband dead. Adventurers may wish they were so lucky!
+一个疲惫的龙人，有着异国的水样鳞片。她来到了地牢
+希望复活她凡人的丈夫；一次崇高的事业
+以与圣人争吵和淹没不幸的寺庙而闻名。如果按下
+到了她的极限，她将显露出她的真实面貌，仅仅看到这一面就令人震惊
+她的丈夫死了。冒险家们可能希望自己有这么幸运！
 %%%%
-Blorkula the orcula
+奥库拉布洛库拉
 
-Once a gangly and bedraggled vampire with a strange obsession with colour,
-Blorkula was offered succour by a missionary of Beogh and became a portly and
-vigorous orc with a strange obsession with colour instead.
+曾经是一个身材瘦长、衣衫褴褛的吸血鬼，对色彩有着一种奇怪的痴迷，
+布洛库拉得到贝奥传教士的帮助，成为一名肥胖而肥胖的人。
+精力旺盛的兽人对色彩反而有着一种奇怪的迷恋。
 
-He wields magic tinged with every hue of the rainbow, and has mastered the art
-of dividing his own form among its many colours to avoid killing blows - though
-even he must rest a while before doing so a second time.
+他掌握着彩虹般色彩的魔法，并掌握了这门艺术
+将自己的形态划分为多种颜色以避免致命一击 - 不过
+甚至第二次之前，他也必须休息一段时间。
 %%%%
-Boris
+鲍里斯
 
-An ancient and powerful lich. Like all true liches, Boris is immortal, and will
-regenerate his desiccated skeletal remains even if completely disintegrated.
-The same cannot be said for his many victims over his many centuries, from
-which he collects and channels their dying woes and regrets.
+一位古老而强大的巫妖。像所有真正的巫妖一样，鲍里斯是不朽的，并且会
+即使完全解体，也能让他干枯的骨骼残骸再生。
+对于他的许多世纪以来的许多受害者来说，情况并非如此，
+他收集并传达他们临终时的痛苦和遗憾。
 %%%%
-Cassandra
+卡桑德拉
 
-As a young woman, Cassandra bound herself in service to Ashenzari and was
-blessed and cursed in equal measure - granted the ability to foresee disasters,
-but only those she was powerless to prevent.
+作为一名年轻女子，卡桑德拉将自己束缚在为阿申扎里服务，并被
+受到同等程度的祝福和诅咒——被赋予预见灾难的能力，
+但仅限于那些她无力阻止的事情。
 
-Eventually driven from her homeland as a harbinger of the very plagues she'd
-spent a lifetime warning against, she has come to the dungeon in her final days
-in hope of averting one last catastrophe.
+最终被驱逐出她的祖国，作为她所遭受的瘟疫的预兆
+一生警告，她最后的日子来到了地牢
+希望避免最后一场灾难。
 %%%%
-Cerebov
+切列博夫
 
-A violent and wrathful demon, Cerebov appears as a giant humanoid covered in
-shining golden armour and wielding a huge twisted sword.
+塞雷波夫是一个暴力而愤怒的恶魔，他看起来像一个巨大的人形生物，全身覆盖着
+闪闪发光的金色铠甲，挥舞着一把巨大的扭曲剑。
 %%%%
-Chuck
+查克
 
-Chuck the stone giant loves rocks, the bigger the better! Over the years, he
-has managed to amass quite the collection, including some rare, enchanted ones.
+石巨人查克喜欢石头，越大越好！这些年来，他
+已经成功收集了相当多的藏品，其中包括一些稀有的、迷人的藏品。
 %%%%
-Crazy Yiuf
+疯狂的尤夫
 
-A withered old gnoll with a long silver beard, wielding a quarterstaff and
-wearing a cloak. He looks like a figure from mythology! Wait, is his beard held
-on to his ears with hooks?
+一个枯萎的老豺狼人，长着长长的银胡子，挥舞着一根木棍和
+穿着斗篷。他看起来就像是神祇话中的人物！等等，他的胡子留着了吗？
+用钩子挂在他的耳朵上？
 %%%%
-Dispater
+迪斯帕特
 
-Greatest and most ruthless of the Lords of Hell, Dispater was born when first an
-iron sword drank mortal blood. They despise mortal vanities, the pursuit of
-‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.
+迪斯帕特是最伟大、最残酷的地狱领主，他诞生于第一个地狱之主的时候。
+铁剑喝凡人的血。他们鄙视凡人的虚荣心，追求
+"理性"和"美"——他们唯一享受的艺术就是战争的艺术。
 %%%%
-Dissolution
+解散
 
-The Pits of Slime used to be a thriving civilisation, and Dissolution was the
-prophet of their god. When the city was overtaken by its current residents,
-only Dissolution survived, for they alone turned faithfully to the Slime God.
-Dissolution became a tremendous mass of acidic ooze, yet retained their
-intelligence. They are filled with hatred for anything that can hold a form.
+史莱姆坑曾经是一个繁荣的文明，而溶解则是
+他们神祇的先知。当这座城市被现有居民占领时，
+只有溶解者幸存下来，因为只有他们忠实地皈依了史莱姆之神祇。
+溶解物变成大量酸性软泥，但仍保留其性质
+情报。他们对任何有形体的事物都充满仇恨。
 %%%%
-Donald
+唐纳德
 
 {{
-    local descript = "An adventurer just like you, trying to find the Orb."
+    local descript = "像你一样的冒险家，正在努力寻找宝珠。"
 
-    if you.race() ~= "Merfolk" and you.race() ~= "Octopode" then
-        descript = descript .. " Unlike you, and d"
+    if you.race() ~= "人鱼" and you.race() ~= "章鱼" then
+        descript = descript .. "与你不同，d"
     else
-        descript = descript .. " D"
+        descript = descript .. "D"
     end
 
-    descript = descript .. "espite his hatred of it, he takes to water " ..
-                           "like a fowl."
+    descript = descript .. "尽管他讨厌水，他还是喜欢喝水" ..
+                           "像一只鸡。"
 
     return descript
 }}
 %%%%
-Dowan
+道万
 
-A beautiful but vain deep elf with an aptitude for magic and little else. His
-skills are the perfect complement of his twin sister Duvessa's fighting prowess.
-In search of more powerful spells, he journeys to the surface with his sister.
+一个美丽但虚荣的深精灵，只有魔法天赋，除此之外一无是处。他的
+技能与他的双胞胎妹妹杜维莎的战斗能力完美互补。
+为了寻找更强大的咒语，他与妹妹一起前往地表。
 %%%%
-Duvessa
+杜韦萨
 
-A plain-looking deep elven fighter who is technically brilliant in many forms of
-combat, but over-confident because of it. She is complemented by the magical
-skills of her twin brother, Dowan. She journeys to the surface to challenge
-its greatest champions.
+一位相貌平平的深精灵战士，在多种方面都拥有出色的技术
+战斗，但因此过于自信。她与神祇奇的
+她的作品兄弟Dowan的技能。她面临着挑战
+它最伟大的冠军。
 %%%%
-Edmund
+埃德蒙
 
-A jealous sibling of Sigmund (indeed, the youngest of nine brothers). He has
-none of Sigmund's skills in magic, but makes up for it with his skills in
-fighting and a canny head for money. He is eager to prove his superiority by
-killing hapless adventurers with his expensive flail and quick wit.
+西格蒙德（实际上是九个兄弟中最小的一个）的嫉妒兄弟。他有
+西格蒙德没有魔法方面的技能，但用他的魔法技能弥补了这一点
+战斗和精明的金钱头脑。他急于证明自己的优越性
+用他昂贵的连枷和机智杀死不幸的冒险家。
 %%%%
-Enchantress
+女巫
 
-First and most fearful of her kind, the Enchantress rules over the spriggans of
-the dungeon. She wears an opalescent outfit made of dragon skin that shimmers
-with many colours.
+女巫是她同类中第一个也是最令人恐惧的，她统治着小枝
+地牢。她穿着由龙皮制成的乳白色服装，闪闪发光
+有多种颜色。
 %%%%
-Ereshkigal
+埃列什基加尔
 
-Greatest and most inexorable of the Lords of Hell, Ereshkigal was born when
-first a mortal breathed her last. Noiselessly she laughs at lives cut short and
-loved ones separated by untimely death, enwreathed in the silence of the grave.
+埃里什基伽勒是最伟大、最无情的地狱领主，出生于
+首先是一个凡人咽下了她的最后一口气。她无声地嘲笑生命的短暂和
+亲人因过早死亡而分离，沉浸在坟墓的寂静中。
 %%%%
-Erica
+艾丽卡
 
-A wild-tempered adventuress. She's quite prideful for an octopode, and brandishes
-their venomous capacity and camouflage talents with cruel force.
+脾气暴躁的冒险家。她对章鱼感到非常自豪，并挥舞着
+他们的恶毒能力和用残酷力量伪装的才能。
 %%%%
-Erolcha
+埃罗尔恰
 
-An especially cunning ogre-mage.
+一个特别狡猾的食人魔法师。
 %%%%
-Eustachio
+欧斯塔基奥
 
-An apprentice summoner with a flowing moustache. He has funny ideas about
-honour.
+留着飘逸小胡子的见习召唤师。他有一些有趣的想法
+荣誉。
 %%%%
-Fannar
+范纳尔
 
-A cold-hearted elven sorcerer, draped in robes of high office. They whisper
-grimly to themself as they stalk the dungeon, trailing ice crystals through the
-air behind them.
+一位冷酷无情的精灵法师，身披高位长袍。他们窃窃私语
+当他们在地牢里走来走去时，他们对自己冷酷无情，拖着冰晶穿过地牢。
+他们身后的空气。
 %%%%
-Frances
+弗朗西斯
 
-A stout warrior who once bested a powerful lord of Pandemonium in combat,
-gaining control over the demon's realm and thanes. The battle left her with a
-deep facial scar, one that she carries as a badge of honour rather than a
-symbol of shame.
+一位曾经在战斗中击败强大的魔界领主的强壮战士，
+获得对恶魔领地和领主的控制权。这场战斗给她留下了
+脸上很深的伤疤，她把它当作一种荣誉徽章，而不是一种象征。
+耻辱的象征。
 %%%%
-Frederick
+弗雷德里克
 
-A svelte fighter-mage with a gold-rimmed monocle, a keen sense of tradition,
-and the blood of the gods running through his veins. He's here looking for a
-worthy opponent, but he's yet to find one.
+一位身材苗条、戴着金边单片眼镜、有着敏锐传统意识的战士法师，
+他的血管里流淌着诸神祇的血液。他来这里是为了寻找一个
+值得尊敬的对手，但他还没有找到一个。
 %%%%
-Gastronok
+美食家
 
-A voracious and surprisingly intelligent slug, devoted to eating everything and
-everyone he comes across, with a pointed hat perched rakishly atop his head. He
-acquired the hat the same way he acquired his intelligence and his knowledge of
-spells: by consuming their former owner, a powerful wizard.
+一种贪婪且聪明得惊人的鼻涕虫，致力于吃掉一切
+他遇到的每个人，头上都潇洒地戴着一顶尖顶帽子。他
+获得帽子的方式与他获得智力和知识的方式相同
+法术：通过吞噬它们的前主人，一个强大的巫师。
 %%%%
-Geryon
+革律翁
 
-A huge, three-headed, winged arch-demon, guardian of the four Hells. Legends
-say that his silver horn can summon terrible beasts to aid him in battle.
+一个巨大的、三头、有翼的大恶魔，四个地狱的守护者。传奇
+据说他的银角可以召唤可怕的野兽来帮助他战斗。
 %%%%
 Gloorx Vloq
 
-A shadowy figure clothed in profound darkness.
+一个浑身漆黑的影子。
 %%%%
-Grinder
+研磨机
 
-An inefficient shadow imp previously employed as a torturer in one of the lower
-circles of Hell. She has a tendency to complain and make inane statements.
+一个效率低下的暗影小鬼，之前曾在较低层的监狱中担任酷刑者。
+地狱的圈子。她有抱怨和发表愚蠢言论的倾向。
 %%%%
-Grum
+格鲁姆
 
-A tough-looking gnoll, wearing the pelt of one of his former war dogs.
+一个外表坚韧的豺狼人，穿着他以前的战犬之一的毛皮。
 %%%%
-Grunn
+格伦
 
-A brutally twisted undead gnoll in the eternal service of Ereshkigal, lord of
-Tartarus. Legend has it that he sold his soul to return his most beloved hunting
-dog to life. Whether that hound is a member of his current pack, none can say.
+一个残酷扭曲的不死豺狼人，永远为埃里什基伽勒（Ereshkigal）服务，他是
+塔尔塔罗斯。传说他出卖了自己的灵魂，换来了他最喜爱的狩猎
+狗的生命。没人知道那只猎犬是否是他当前狼群中的一员。
 %%%%
-Harold
+哈罗德
 
-A middle-aged bounty hunter, anxious to retire after one final job. He hopes to
-settle down somewhere and live a quiet life with his family, using the money
-from his final bounty: you.
+一名中年赏金猎人，在完成最后一份工作后急于退休。他希望能够
+用这笔钱在某个地方安顿下来，和家人过上平静的生活
+来自他最后的赏金：你。
 %%%%
-Ignacio
+伊格纳西奥
 
-While a mortal cannot turn into a demon aside from divine intervention, this is
-what happened to Ignacio after Makhleb saw his love for his job and smiled upon
-him. He is now slated to continue the joy of his life for all eternity.
+虽然凡人在没有神祇圣干预的情况下无法变成恶魔，但这是
+在马克勒布看到伊格纳西奥对工作的热爱并对他微笑后，他发生了什么
+他。他现在将永远继续他生命的欢乐。
 
-Although his new form includes a number of large razor-sharp blades growing
-from his demonic appendages, he kept his favourite axe and is eager to let you
-test its edge.
+尽管他的新形态包括许多锋利的大刀片
+从他的恶魔附肢中，他保留了他最喜欢的斧头，并渴望让你
+测试其优势。
 %%%%
-Ijyb
+伊吉卜
 
-A small and shrewd goblin inventor, wearing blue rags coated in soot.
-She claims dominion over this level of the dungeon; trespassers will find
-themselves on the business end of a homemade wand.
+身材矮小、精明的妖精发明家，穿着沾满烟灰的蓝色破布。
+她声称拥有这一层地牢的统治权；侵入者会发现
+他们自己在自制魔杖的业务端。
 %%%%
-Ilsuiw
+伊尔苏伊夫
 
-A deadly merfolk water-witch, who uses her dominion over the tides to draw
-unwitting adventurers to their deaths.
+致命的人鱼水女巫，利用她对潮汐的统治来吸引
+不知情的冒险者走向死亡。
 %%%%
-Jeremiah
+耶利米
 
-Jeremiah was a peaceful dreamer, prone to impromptu naps. They slipped into
-slumber while gazing into a magical orb, and dreamed of an old and hateful
-power binding them into service. Now Jeremiah stumbles through the dungeon,
-searching for the precious dreamshard that will restore their master’s power,
-unsure whether they wake or slumber still. Their dreams leak into reality in
-the form of a constant stream of butterflies.
+耶利米是一个平静的梦想家，容易即兴小睡。他们溜进了
+凝视着一个神祇奇的球体而沉睡，并梦见了一个古老而可恨的人
+将他们束缚起来服务的权力。现在耶利米跌跌撞撞地穿过地牢，
+寻找能够恢复主人力量的珍贵梦想，
+不确定他们是醒着还是还在睡觉。他们的梦想变成了现实
+呈源源不断的蝴蝶的形状。
 %%%%
-Jessica
+杰西卡
 
-An evil apprentice sorceress. She entered the dungeon hoping to find a quiet,
-secluded place where she could study the darker arts without being disturbed.
+邪恶的女术士学徒。她进入地牢希望能找到一个安静的地方，
+一个僻静的地方，她可以在这里不受干扰地学习黑暗艺术。
 %%%%
-Jorgrun
+约格伦
 
-A dwarven magician, particularly well-attuned to the dungeon around him. He
-wields powerful earth magic in combat.
+一位矮人魔法师，对周围的地下城特别熟悉。他
+在战斗中使用强大的土系魔法。
 %%%%
-Jory
+乔里
 
-Once a simple village peasant, Jory found himself transformed in undeath into a
-powerful creature. Through the countless centuries unlived since then, he has
-honed his skills in combat and magic, and amassed great wealth and many
-possessions.
+乔里曾经是一个简单的乡村农民，后来发现自己在亡灵中变成了一个
+强大的生物。从那时起，在无数个无人居住的世纪里，他
+磨练了他的战斗和魔法技能，并积累了巨大的财富和许多
+财产。
 %%%%
-Joseph
+约瑟夫
 
-Looks like a mercenary in a stupid-looking hat.
+看起来就像一个戴着一顶愚蠢帽子的雇佣兵。
 %%%%
-Josephina
+约瑟芬娜
 
-A fearsome necromancer who followed her craft beyond the limits of flesh and
-life. Her pursuit of demonic knowledge left her body ruined, but the powers she
-gained allowed her to rebuild her missing limbs from glittering ice.
+一位可怕的死灵法师，她的技艺超越了肉体和肉体的限制
+生活。她对恶魔知识的追求让她的身体遭到毁灭，但她的力量却被毁掉了。
+所获得的成果使她能够用闪闪发光的冰块重建失去的四肢。
 %%%%
-Josephine
+约瑟芬
 
-A formidable necromancer, committed to her craft even after it left her aged,
-decaying, and half-undead herself.
+一位令人敬畏的死灵法师，即使在年事已高之后仍致力于自己的技艺，
+腐烂，她自己也半不死。
 %%%%
-Khufu
+胡夫
 
-An incredibly powerful emperor on the way to godhood. He died quite some time
-ago, but he sees no reason why that should stop him.
+一个在成神祇之路上无比强大的皇帝。他死了很长一段时间
+以前，但他认为没有理由阻止他。
 %%%%
-Kirke
+克尔克
 
-A master of transformation and treachery. Beware, or you may be the next swine
-to join her herd!
+变形与背叛的大师。小心，否则你可能就是下一个猪
+加入她的羊群！
 %%%%
-Lernaean hydra
+勒南水螅
 
-A huge beast, mightiest of hydras, infamous in myth and legend. It flows
-through the water faster than a human can run, swatting aside trees as though
-they were matchsticks. Its many heads slaver and gnash constantly as it hunts
-for prey to slake its bottomless appetite.
+一种巨大的野兽，最强大的九头蛇，在神祇话和传说中臭名昭著。它流动
+在水中的速度比人类奔跑的速度还要快，就像把树木拍到一边一样
+它们是火柴棍。它的许多头在狩猎时不断地流口水和咬牙切齿
+让猎物满足其无底的食欲。
 %%%%
-Lodul
+洛杜尔
 
-An ogre emissary of the Ironbound Order, sent to find and stop intruders before
-they enter the Vaults. Fiercely charismatic, he's rallied a small army of his
-kin, overawing them with the long-range lightning array he wears on his back.
-(The large coin purse he took from the Vaults is also quite persuasive.)
+铁缚教团的食人魔使者，被派去寻找并阻止入侵者
+他们进入避难所。他极具魅力，召集了一支小军队
+他用背在身上的远程雷电阵威慑他们。
+（他从金库拿走的大零钱包也很有说服力。）
 %%%%
-Lom Lobon
+洛姆洛邦
 
-Stoic and inscrutable, Lom Lobon is an ancient demon infamous for their mastery
-of magic. Rumoured to be the most learned being in the halls of Pandemonium,
-they are at times sought out by mortal wizards who offer their souls in
-exchange for the secrets of the arcane. Lacking the terrible wrath present in
-most demons, Lom Lobon's single eye instead hides a cold, impartial cruelty.
+洛姆·洛本（Lom Lobon）是一个坚忍且深不可测的古代恶魔，北欧精湛而臭名昭著
+魔法的。据说他是混乱大厅中最博学的存在，
+有时，凡人巫师会寻找他们，将他们的灵魂献给
+交换奥术的秘密。缺乏可怕的愤怒
+与大多数恶魔相比，洛姆·洛本的独眼却隐藏着冷酷、公正的残忍。
 %%%%
-Louise
+路易丝
 
-A mighty sorceress, clad from head to toe in heavy armour. Once an adventurer
-looking for the fabled Orb of Zot, she was cast into the Abyss and got
-hopelessly lost there. Toyed with by some greater power, she was stuck on the
-hostile plane for nearly a decade. When she finally emerged from the Abyss,
-Louise had become powerful indeed, but had also gone fully insane. She now
-wanders the halls of the dungeon, seeking other adventurers to share her fate.
+一位强大的女巫，从头到脚都穿着重甲。曾经是冒险家
+为了寻找传说中的佐特宝珠，她被扔进了深渊并得到了
+绝望地迷失在那里。被某种更强大的力量所玩弄，她被困在了
+敌对飞机近十年了。当她终于从深渊中走出来时，
+露易丝确实变得强大了，但也彻底疯了。现在的她
+在地牢的大厅里徘徊，寻找其他冒险家来分享她的命运。
 %%%%
-Mara
+玛拉
 
-This tall and powerful demon is Mara, Lord of Illusions, mighty among dreamers.
-He is capable of creating intricately detailed illusions, so real that they are
-almost as deadly as the creatures they impersonate.
+这个高大而强大的恶魔就是魔罗，幻象之王，在梦想家中强大。
+他能够创造出错综复杂、细致入微的幻象，这些幻象如此真实，以至于令人难以置信。
+几乎和他们所模仿的生物一样致命。
 %%%%
-Maggie
+玛姬
 
-In a distant time, Maggie was apprenticed to the dreaded Hell Knights - but she
-grew impatient. In search of a shortcut to fame and fortune (and somewhat short
-on imagination), she entered the Dungeon and set out to slay a dragon. Now
-having slain one, Maggie sees no reason to stop.
+在遥远的过去，玛吉是可怕的地狱骑士的学徒 - 但她
+变得不耐烦了。寻找一条通往名誉和财富的捷径（而且有些短暂）
+靠想象力），她进入地牢并开始杀死一条龙。现在
+杀死一只后，玛吉认为没有理由停下来。
 %%%%
-Margery
+马杰里
 
-A lithe spellcaster in service to the powers of Hell; it is her duty to ensure
-that the inhabitants of the Dungeon never forget their place. She personally
-slew the ancient dragon from whose hide her strange armour is crafted.
+为地狱力量服务的灵活施法者；她有责任确保
+地牢里的居民永远不会忘记他们的位置。她个人
+杀死了古老的巨龙，她的奇怪盔甲就是用它的皮制成的。
 %%%%
-Maurice
+莫里斯
 
-A sly, conniving thief. A self-proclaimed legend, he was one of the most skilled
-and crafty of the thieves and rogues lured by the Orb. The magical parasitic
-vines that have claimed his body still wish to continue his life's work, with a
-back-up plan of both a vicious magic-drinking maw and potent wands.
+一个狡猾、纵容的小偷。他自诩为传奇人物，是技术最精湛的人之一
+以及被宝珠引诱的小偷和盗贼的狡猾。神祇奇的寄生者
+夺走了他身体的藤蔓仍然希望继续他一生的工作，
+邪恶的饮魔之口和强力魔杖的后备计划。
 %%%%
-Menkaure
+门卡乌尔
 
-A fair and noble ruler of an ancient and mighty kingdom, mummified after an
-early death. His faithful priests subsequently infused him with great and
-powerful magic, seeking to grant him eternal life. Now he is forgotten and
-reduced to mouldering bandages and dry, brittle bones.
+一个古老而强大的王国的公平而高贵的统治者，在一次木乃伊化后
+早逝。他忠实的牧师随后向他灌输了伟大而
+强大的魔法，寻求赋予他永生。现在他被遗忘了，
+只剩下腐烂的绷带和干燥易碎的骨头。
 %%%%
-Mennas
+门纳斯
 
-There was once a human priest named Mennas. He travelled far and wide as a
-missionary of Zin, often venturing even into Orcish lands. He beseeched the orcs
-to abandon their false tribes and return to the peoples of their birth; only
-Zin's light could truly cleanse the weight of sin that had twisted their bodies.
+从前有一位人类祭司，名叫门纳斯。他作为一个人走遍了世界各地
+辛的传教士，经常冒险进入兽人的土地。他恳求兽人
+放弃他们的虚假部落，回到他们出生的民族；仅
+辛的光芒确实可以净化扭曲他们身体的罪恶重压。
 
-By all accounts the orcs were not happy with Mennas. Eventually, a group of them
-demanded he recant his words and when Mennas remained silent, they cut out his
-tongue.
+从各方面来看，兽人对门纳斯并不满意。最终，他们一群人
+要求他收回自己的言论，当门纳斯保持沉默时，他们就取消了他的发言权。
+舌头。
 
-Whether or not this angel is that same Mennas is something of a mystery, as he
-seems to have difficulty speaking.
+这位天使是否是同一个门纳斯还是个谜，因为他
+似乎说话有困难。
 %%%%
-Mlioglotl
+米利奥格洛特尔
 
-A demon prince once possessed a hunger for power that was exceptional even by
-the standards of his kind. He betrayed his realm to Lugonu, and his reward was
-to become this twisted mass of corruption, now known only as Mlioglotl.
+一位恶魔王子曾经对权力有着强烈的渴望，这种渴望甚至连其他人都无法比拟。
+他同类的标准。他向卢戈努出卖了自己的王国，而他的回报是
+成为这个扭曲的犯罪群体，现在只被称为 Mlioglotl。
 %%%%
-Mnoleg
+姆诺莱格
 
-A weirdly glowing figure, dancing through the twisted air of Pandemonium.
+一个散发着怪异光芒的身影，在混乱的扭曲空气中翩翩起舞。
 %%%%
-Murray
+穆雷
 
-A demonic skull rolling along the ground.
+恶魔的头骨在地上滚动。
 %%%%
-Natasha
+娜塔莎
 
-A fast-moving magical cat. Once a powerful wizard's familiar, Natasha was
-abandoned after her master was consumed by the very necromantic forces he sought
-to control. Now she patrols the dungeon, taking a bloody vengeance with spell
-and claw upon any adventurer who crosses her path.
+一只快速移动的魔法猫。娜塔莎曾经是一位强大巫师的使魔，
+在她的主人被他所寻找的死灵力量吞噬后被遗弃
+来控制。现在她在地牢里巡逻，用咒语进行血腥的复仇
+并用爪子抓住任何遇到她道路的冒险家。
 
-This cat doesn't have nine lives, but just one death isn't going to be enough
-to put her down for good.
+这只猫没有九条命，但仅仅死一次还不够
+永远地放下她。
 %%%%
-Nellie
+内莉
 
-A highly intelligent elephant who travelled as part of a circus. One dark
-night, she slipped out of her chain and disappeared into Pandemonium, never to
-be seen again.
+一头非常聪明的大象，作为马戏团的一部分旅行。一暗
+晚上，她挣脱锁链，消失在魔界，再也没有出现过。
+再次见到。
 %%%%
-Nergalle
+内尔加勒
 
-A shrewd and wizened orc who has devoted her life to chronicling the bloody
-history of her people. She claims to know the names and deeds of every last orc
-who lost their life in their great exodus into the Dungeon, and even if this is
-a lie, she nonetheless seems to be on a first-name basis with many of them.
+一个精明而干瘪的兽人，一生致力于记录血腥的历史
+她的人民的历史。她声称知道最后每一个兽人的名字和事迹
+他们在进入地牢的大逃亡中失去了生命，即使这是
+虽然这是谎言，但她似乎与他们中的许多人都直呼其名。
 
-More than any other orc still breathing, she knows the blood and sacrifice it
-took to make this place a refuge for her kind. She will not brook it being
-intruded upon by anyone - least of all you.
+她比其他仍在呼吸的兽人更了解鲜血并牺牲它
+想让这个地方成为她同类的避难所。她不会容忍这样的事情发生
+被任何人侵入——尤其是你。
 %%%%
-Nessos
+内索斯
 
-A centaur warrior, skilled at warfare and deceit. They slew a mighty hydra, and
-now its deadly blood drips, still-fuming, from their arrows.
+半人马战士，擅长战争和欺骗。他们杀死了强大的九头蛇，并且
+现在，致命的血液从他们的箭中滴下，仍然冒着烟。
 %%%%
-Nikola
+尼古拉
 
-A brilliant scientist obsessed with electricity. In his attempts to perfect his
-electric golem, he was involved in a terrible accident, and now phases in and
-out of reality.
+一位痴迷于电的杰出科学家。在他努力完善自己的过程中
+电动傀儡，他卷入了一场可怕的事故，现在分阶段进行
+脱离现实。
 %%%%
-Nobody
+没有人
 
-A time-lost revenant, risen not from the death of a single individual but of
-many - its bones fused together from the young and the elderly and different
-species altogether. Whether they were all the victims of a single massacre or
-a thousand souls discarded over a thousand years is impossible to say now;
-history does not remember them.
+一个失落的亡魂，不是从一个人的死亡中复活，而是从一个人的死亡中复活。
+许多-它的骨头融合在一起，从年轻人到老年人和不同的
+共种。无论他们都是一场大屠杀的受害者，还是
+一千年来被遗弃的一千个灵魂现在还无法说清；
+历史不记得他们。
 
-But one thing is clear: they will fight to change that until every last memory
-they have left burns away.
+但有一件事是明确的：他们将努力改变这一点，直到最后的记忆
+他们没有烧伤。
 %%%%
-Norris
+诺里斯
 
-A relaxed water cultist with a healthy tan and a soothing voice. He
-doesn't really care if it is you or he who dies — “both” would probably be the
-best option.
+一位轻松的水崇拜者，拥有健康的棕褐色皮肤和舒缓的声音。他
+并不真正关心是你还是他死了——"两者"可能是
+最好的选择。
 %%%%
-Pargi
+帕尔吉
 
-An unusually weak troll.
+一个异常虚弱的巨魔。
 %%%%
-Parghit
+帕吉特
 
-An unusually strong troll, his thick frame scarred by many against-the-odds
-victories. He has been wounded so many times that his body has adapted, and now
-heals almost instantly. His necklace of troll claws is a memento of those who
-underestimated him.
+一个异常强壮的巨魔，他粗壮的身躯因许多逆境而伤痕累累
+胜利。他受过多次伤，身体已经适应了，现在
+几乎立即痊愈。他的巨魔爪项链是对那些
+低估了他。
 %%%%
-Pikel
+皮克尔
 
-A wise kobold would fear the forces of Hell, and certainly would not set up a
-highly lucrative transdimensional trade in damned souls. But Pikel is better
-known for his whip than his wisdom, mercilessly tormenting his piteous charges
-as he ferries them to their buyers.
+一个聪明的狗头人会害怕地狱的力量，当然不会建立一个
+对被诅咒的灵魂进行利润丰厚的跨维度贸易。但皮克尔更好
+以他的鞭子而不是他的智慧而闻名，无情地折磨他可怜的孩子
+当他将它们运送给买家时。
 %%%%
-Polyphemus
+波吕斐摩斯
 
-A cyclops shepherd, he is very protective of his charges, whom he watches with
-an undying fervor through his single massive eye. Nevertheless, he won't
-hesitate to use them as projectiles in a pinch; after all, the best defence is
-a good offence.
+作为独眼巨人牧羊人，他非常保护自己的孩子，并与他们一起观看
+他那只巨大的眼睛里流露出不灭的热情。尽管如此，他不会
+犹豫是否在紧要关头将它们用作射弹；毕竟，最好的防守就是
+一次很好的进攻。
 %%%%
-Prince Ribbit
+兔子王子
 
-A frog of unusual size, with a tiny crown perched incongruously atop his head.
+一只体型不寻常的青蛙，头上戴着一个不协调的小王冠。
 %%%%
-Robin
+罗宾
 
-A mountain hobgoblin, recently come in search of the legendary Orb. Not
-foolhardy or reckless enough to delve into the depths of the Dungeon alone,
-Robin has built a small army of minions. Potential competitors will quickly
-find a stream of screaming goblins flying toward them!
+山地妖精，最近前来寻找传说中的宝珠。不
+鲁莽或鲁莽地独自深入地牢的深处，
+罗宾组建了一支小喽啰军队。潜在的竞争对手将很快
+发现一队尖叫的妖精向他们飞来！
 %%%%
-Roxanne
+罗克珊
 
-A strikingly realistic sapphire statue of a famous earth mage who disappeared
-after a catastrophic mishap with a magical talisman.
+一位失踪的著名大地法师的极其逼真的蓝宝石雕像
+在与魔法护身符发生灾难性事故之后。
 %%%%
-Rupert
+鲁珀特
 
-Rippling muscles, glistening pecs, incredible glutes - Rupert is the peak of
-physical perfection. Even so, his roars seem louder than even his fantastic form
-can explain. Perhaps he holds some talisman that lends supernatural force to his
-bellows?
+起伏的肌肉、闪闪发光的胸肌、令人难以置信的臀肌——鲁珀特是
+身体完美。即便如此，他的咆哮声似乎比他那奇异的形态还要响亮
+可以解释一下。也许他持有某种护身符，可以赋予他超自然的力量
+风箱？
 %%%%
-Saint Roka
+圣罗卡
 
-A mighty warlord. Some orcs even say they are the Chosen One of Beogh.
+一个强大的军阀。有些兽人甚至说他们是贝奥的选民。
 %%%%
-Sigmund
+西格蒙德
 
-The elder of a pair of brothers who came for the Orb. No one knows what Sigmund
-saw in the dungeon to drive him mad, but his shrewd magical tactics and wicked
-scythe now leave little time for his victims to wonder. Despite his reputation
-as a vicious murderer, his grandiose and dramatic ways have earned him the
-admiration of many denizens of the dungeon.
+为夺取宝珠而来的一对兄弟中的长者。没有人知道西格蒙德是什么
+地牢中的所见让他发疯，但他精明的魔法战术和邪恶的
+镰刀现在几乎没有给他的受害者留下思考的时间。尽管他的声誉
+作为一个恶毒的杀人犯，他的宏伟和戏剧性的方式为他赢得了
+引起了许多地牢居民的钦佩。
 %%%%
-Snorg
+斯诺格
 
-A particularly corpulent troll with a short temper and a sizable gut.
-Uninterested in the Orb, Snorg delights in the endless parade of adventurers –
-that is, easy meals — it attracts.
+一个特别肥胖的巨魔，脾气暴躁，肠子很大。
+斯诺格对宝珠不感兴趣，但他对无尽的冒险家游行感到高兴——
+也就是说，简单的饭菜——它很有吸引力。
 %%%%
-Sprozz
+斯普罗兹
 
-A former beekeeper's apprentice with an ambitious dream: to modernise the whole
-world's beekeeping industry with the smooth certainty of disease-proof metal.
-His methods may be questionable and his goals dubious, but his prototype's
-stinger still looks awfully sharp...
+一位前养蜂人的学徒有着雄心勃勃的梦想：实现整体现代化
+世界养蜂业具有抗病金属的顺利保障。
+他的方法可能值得怀疑，他的目标也值得怀疑，但他的原型
+毒刺看起来仍然非常锋利......
 %%%%
-Sojobo
+索霍博
 
-Queen of the tengu, with legendary skill in swordsmanship, tactics, and magic.
-Storytellers claim she once trapped a raging tempest in a bottle and kept it
-as a talisman.
+天狗女王，拥有传奇的剑术、战术和魔法技能。
+故事讲述者声称她曾经将狂暴的风暴困在瓶子里并保存下来
+作为护身符。
 %%%%
-Sonja
+索尼娅
 
-A graceful kobold assassin. Admire her graceful pirouettes, thrill at her
-daring leaps! But watch out for her knives!
+优雅的狗头人刺客。欣赏她优雅的旋转，为她感到兴奋
+大胆的跳跃！但要小心她的刀！
 %%%%
-Terence
+特伦斯
 
-A veteran of a war against the armataurs' elephant-riders. He has recently
-retired to make a new home in the dungeon.
+一位参加过对抗武装象骑手的战争的老兵。他最近
+退休后在地牢里安了新家。
 %%%%
-Tiamat
+提亚马特
 
-The earthly avatar of Tiamat, deity of dragonkind, here incarnated as a mighty
-draconian warrior. Her scales seem to shimmer and change colour as you watch.
+龙族之神祇提亚马特的尘世化身在这里化身为强大的
+龙战士。当你观察时，她的鳞片似乎会闪烁并改变颜色。
 %%%%
-Urug
+乌鲁格
 
-A coarse and lanky orc. Urug lost her eye in a fight with a harpy, and has
-sworn to slay every last one of them. Unfortunately, the vision in her
-remaining eye is not very good, and she has mistaken you for one.
+一个粗壮又瘦长的兽人。乌鲁格在与鹰身女妖的战斗中失去了一只眼睛，
+发誓要杀死他们中的每一个人。不幸的是，她的愿景
+剩下的眼睛不太好，她误认为你了。
 {{
     if you.can_smell() then
-        return "She smells terrible."
+        return "她闻起来很难闻。"
     end
 }}
 %%%%
-Wiglaf
+维格拉夫
 
-A cantankerous dwarf wearing a stupid-looking hat. He eyes you sourly, as if
-deciding exactly how much offence he should take to the way you're staring at
-it.
+一个脾气暴躁的矮人，戴着一顶看起来很愚蠢的帽子。他用酸涩的眼神祇看着你，仿佛
+准确地决定他应该对你凝视的方式感到多大的冒犯
+它。
 %%%%
-Vashnia
+瓦什尼亚
 
-An elite marksnaga who leads a skilled team of sharpshooters. She is
-particularly skilled in translocation magic.
+一位精英标记者，领导着一支熟练的神祇枪手团队。她是
+尤其擅长移位魔法。
 %%%%
-Vv
+电压
 
-One of the Stoneborn, formed untold aeons ago with supreme command over rock.
-Her people shelter deep within the living earth, so whatever has forced Vv
-into the oppressive openness of the Dungeon must be dire indeed. But whatever
-it is, she's not talking...
+石裔之一，在无数亿年前形成，拥有对岩石的最高指挥权。
+她的人民庇护在地球深处，所以无论什么Vv
+进入地牢的压迫性开放确实是可怕的。但无论如何
+是的，她不说话……
 %%%%
-Xak'krixis
+萨克克里克西斯
 
-It has been centuries since outsiders were last allowed access to the cavernous
-libraries of the formicids, but their emissaries are still seen from time to
-time - surveying other lands for resources or scientific discoveries that might
-aid the colony.
+距离上次允许外人进入这个洞穴已经有几个世纪了
+蚁族的图书馆，但仍时不时能看到他们的使者
+时间 - 调查其他土地以寻找可能的资源或科学发现
+援助殖民地。
 
-This one's study of the magical fibres excreted by orb spiders has already led
-to an alchemical breakthrough, allowing them to shape fulminant prisms such that
-their explosions are directed at enemies alone. Alas, their enthusiasm to
-conduct a field test bodes poorly for your health.
+这位对圆球蜘蛛分泌的神祇奇纤维的研究已经领先
+炼金术上的突破，使他们能够塑造暴发棱镜，这样
+他们的爆炸只针对敌人。唉，他们的热情
+进行现场测试对您的健康不利。
 %%%%
-Xtahua
+埃克塔瓦
 
-An ancient and mighty dragon.
+一条古老而强大的龙。
 %%%%
-Zenata
+泽纳塔
 
-A master weaponsmith, her flesh melding into steel so smoothly that it's hard to
-tell where one ends and the other begins. She entered the Dungeon to search for
-the secrets of an ancient, long-suppressed cult, said to have exalted metal over
-flesh. The price of knowledge was her humanity - a price she paid eagerly.
+武器锻造大师，肉身融入钢铁，流畅得让人难以抗拒
+告诉我们一个在哪里结束，另一个从哪里开始。她进入地牢寻找
+一个古老的、长期被压制的邪教的秘密，据说该邪教将金属推崇为高
+肉。知识的代价是她的人性——她急切地付出的代价。
 %%%%
-Serpent of Hell gehenna
+地狱之蛇 地狱之蛇
 
-A huge, red-glowing, three-headed dragon, shrouded in damnation. It is
-possessed by the very essence of Gehenna and its eternal fire.
+一条巨大的、发出红光的三头巨龙，笼罩在诅咒之中。它是
+被地狱的本质及其永恒之火所占据。
 %%%%
-Serpent of Hell cocytus
+地狱之蛇科塞特斯
 
-A massive white three-headed dragon, covered with shards of gleaming ice,
-wholly possessed by the nightmarish cold of Cocytus.
+一条巨大的白色三头龙，全身覆盖着闪闪发光的冰碎片，
+完全被科塞特斯的噩梦般的寒冷所占据。
 %%%%
-Serpent of Hell dis
+地狱之蛇
 
-A towering three-headed beast with an army's worth of swords for teeth. Each of
-its scales is a shield with a razored edge.
+一头高大的三头兽，以相当于一支军队的剑为牙齿。每一个
+它的鳞片是一个带有剃刀边缘的盾牌。
 %%%%
-Serpent of Hell tartarus
+地狱之蛇 塔耳塔鲁斯
 
-Seemingly three pairs of lurid magenta eyes hanging in the darkness, the
-outline of a vast, sinuous dragon is just barely perceptible behind. Its malice
-is palpable.
+看似三双艳丽的洋红色眼睛悬挂在黑暗中，
+一条巨大蜿蜒的龙的轮廓在后面隐约可见。其恶意
+是显而易见的。
 %%%%
-# Non-unique monsters
-acid blob
+# 非独特的怪物
+酸滴
 
-A lump of sickly pustulent flesh, dripping with lethal acid.
+一团病态的脓肉，滴着致命的酸。
 %%%%
-acid dragon
+酸龙
 
-A small dragon with brilliant yellow scales, its mouth dripping with
-corrosive slime.
+一条小龙，身上有亮黄色的鳞片，嘴里滴着
+腐蚀性粘液。
 %%%%
-adder
+加法器
 
-A common dungeon snake, a species of troglodytic reptile commonly found in
-subterranean spaces.
+一种常见的地牢蛇，一种穴居爬行动物，常见于
+地下空间。
 %%%%
-air elemental
+空气元素
 
-A spirit drawn from the elemental plane of air. It exists in this world as a
-lightning-spitting spirit, stunning foes with its crackling bursts.
+从空气元素位面汲取的灵魂。它作为一个存在于这个世界上
+喷吐闪电的灵魂，用爆裂的爆裂声震慑敌人。
 %%%%
-alderking
+奥尔德金
 
-A self-styled monarch of a shambling black alder, half respected and half
-ridiculed by other fae. It backs up its aspirations to sovereignty with
-unearthly vile magic quite close to a touch of death.
+一位自封的黑桤木君主，一半受人尊敬，一半
+被其他fae笑了。它支持了其崇高愿望
+非常接近死亡的超凡邪恶魔法。
 %%%%
-alligator
+鳄鱼
 
-An aggressive crocodilian with great crunching jaws full of sharp teeth.
+一种好斗的鳄鱼，有着巨大的下颚，长着锋利的牙齿。
 %%%%
-alligator snapping turtle
+鳄龟
 
-A particularly large and nasty snapping turtle. Like its smaller relative, it
-can reach out and bite from afar.
+一种特别大且令人讨厌的鳄龟。就像它的较小的亲戚一样，它
+可以伸手从远处咬住。
 %%%%
-anaconda
+蟒蛇
 
-A very large snake that moves with startling swiftness. It kills not by poison
-but by constricting its prey.
+一条非常大的蛇，移动速度惊人。不是用毒害人的
+而是通过限制猎物。
 %%%%
-ancestor
+祖先
 
-A humanoid construct of insubstantial memory, floating through the air. Though
-perhaps somewhat changed in shape and bearing few discernable features, still
-they seem somehow to resemble a warrior from the distantly remembered past.
-The memory and the memorialist fight in concert, each able to fire past the
-other.
+一个具有非实体记忆的人形结构，漂浮在空中。虽然
+也许在形状上有所改变并且几乎没有可辨别的特征，但仍然
+他们似乎有点像来自遥远记忆中的过去的战士。
+记忆和纪念者齐心协力，各自都能射过
+其他。
 %%%%
-ancient champion
+古代冠军
 
-An unfathomably ancient skeleton. It has hundreds of golden sigils etched onto
-its bones, and pulses with terrible, unholy power.
+一具深不可测的古老骷髅。它上面刻有数百个金色印记
+它的骨头和脉动都带有可怕、邪恶的力量。
 %%%%
-ancient lich
+远古巫妖
 
-A lich who, having existed for countless centuries, has grown almost
-unimaginably powerful through the study of dark magic.
+一个已经存在了无数个世纪，几乎已经成长的巫妖
+通过对黑魔法的研究，获得了难以想象的强大力量。
 %%%%
-ancient zyme
+古老的酶
 
-A nexus of sentient cancer and disease, borne aloft perhaps by malice alone.
-Its nature inflicts withering illness on all living beings in its presence.
+有知觉的癌症和疾病的联系，也许仅仅因为恶意而被带到高处。
+它的本质会给它存在的所有生物带来致命的疾病。
 %%%%
-angel
+天使
 
-A divine warrior of the Shining One. It is a towering winged figure of
-unnatural beauty surrounded by an aura of brilliant white light.
+光辉一族的神祇战士。这是一个高耸的带翅膀的人物
+被明亮的白光光环包围的不自然的美丽。
 %%%%
-apis
+API
 
-A placid, sacred bull of Elyvilon. Its status as an exalted envoy of the Healer
-lets its very presence double the health of its allies.
+艾利维隆的一头平静而神祇圣的公牛。其作为治愈者的尊贵使者的地位
+让它的存在使其盟友的生命值加倍。
 %%%%
-apocalypse crab
+天启蟹
 
-An opalescent crab with jet black eyes, and chaotic mists effusing from its
-mandibles. Rumours claim that this species is waiting for the end of time.
+一只乳白色的螃蟹，有着漆黑的眼睛，从它的身体里散发着混乱的雾气。
+下颌骨。有传言称这个物种正在等待时间的终结。
 %%%%
-arcanist
+奥术师
 
-A wizard fond of spectacle and destruction. They scorn the cowardice of other
-magicians, who hide from their foes rather than simply blasting them out of
-existence.
+一个喜欢奇观和破坏的巫师。他们蔑视别人的懦弱
+魔法师，他们躲避敌人，而不是简单地将他们轰出
+存在。
 %%%%
-armataur
+阿马图尔
 
-A curious quadraped, resembling a cross between an armadillo and a yaktaur.
+一种奇怪的四足动物，类似于犰狳和牛牛的杂交体。
 %%%%
-armour echo
+装甲回声
 
-The sweat and toil of the armourer working leather and steel infuses an
-intention into their creation, a unique spark within every cuirass, pauldron and
-vambrace. A skilled forgewright can manifest these intentions in physical form,
-allowing their armour to protect its wearer in a more aggressive fashion than
-armour customarily does.
+制作皮革和钢铁的军械师的汗水和辛劳注入了
+他们的创作意图，每一件胸甲、肩甲和
+臂甲。熟练的锻造者可以以物理形式体现这些意图，
+允许他们的盔甲以比
+盔甲通常会这样做。
 %%%%
-aspiring flesh
+渴望肉体
 
-The divided and churning remains of a protean progenitor, striving desperately
-for form. Whatever they become, the last of their progenitor's power ensure it
-will be stronger and swifter than any such creature found elsewhere in the
-dungeon.
+一个多变的祖先的分裂和搅动的遗骸，拼命奋斗
+为了形式。无论他们变成什么样，他们祖先最后的力量都确保了这一点
+将比在其他地方发现的任何此类生物更强大和更快
+地牢。
 %%%%
-azure jelly
+天蓝色果冻
 
-An extremely cold blob of bright blue cytoplasm, forming bits of frost in the
-air around it.
+极冷的亮蓝色细胞质斑点，在细胞内形成霜冻碎片
+它周围的空气。
 %%%%
-ball lightning
+球状闪电
 
-A swift sphere of coruscating electrical energy. It will explode at the
-slightest disturbance.
+一个快速闪耀的电能球体。它将在以下位置爆炸
+轻微的干扰。
 %%%%
-ball python
+球蟒
 
-A small snake that can augment its bite by constricting small creatures.
+一种小蛇，可以通过收缩小生物来增强其咬合力。
 %%%%
-ballistomycete
+弹道菌纲
 
-A lumpy reddish fungus covered in knobbly rhizome growths, growing well in the
-dank underground dungeon. When it senses a threat, the ballistomycete may
-release a deadly floating spore that explodes on its victims.
+一种块状的红色真菌，覆盖着多节的根茎生长，在土壤中生长良好
+潮湿的地下地牢。当感受到威胁时，弹道菌可能会
+释放致命的漂浮孢子，在受害者身上爆炸。
 %%%%
-ballistomycete spore
+弹道菌孢子
 
-A fast, gas-filled floating spore released by a ballistomycete when it senses a
-threat. After seeking out its foe, the spore will explode, damaging anything
-caught in the blast and further confusing living creatures.
+当弹道菌感知到外界环境时，会释放出一种快速、充满气体的漂浮孢子。
+威胁。找到敌人后，孢子会爆炸，损坏任何东西
+陷入爆炸并进一步迷惑生物。
 %%%%
-balrug
+巴尔鲁格
 
-A huge and very powerful demon, wreathed in fire and shadows.
+一个巨大而强大的恶魔，笼罩在火焰和阴影之中。
 %%%%
-barachi
+巴拉奇
 
-An amphibious humanoid with a very ugly attitude.
+态度非常丑陋的两栖类人生物。
 %%%%
-basilisk
+蛇怪
 
-A crested lizard of middling size with a terrible petrifying gaze.
+中等体型的冠蜥蜴，目光可怕，石化。
 %%%%
-bat
+蝙蝠
 
-A large grey bat that, despite being herbivorous, is quite aggressive. It is
-myopic and uses echolocation to navigate.
+一种大型灰色蝙蝠，尽管是草食性的，但具有相当的攻击性。它是
+近视并使用回声定位来导航。
 %%%%
-battlemage
+战斗法师
 
-A humanoid construct of insubstantial memory, floating through the air. Though
-perhaps somewhat changed in shape and bearing few discernable features, still
-it seems somehow to resemble a warrior from the distantly remembered past,
-skilled with both conjurations and melee combat.
+一个具有非实体记忆的人形结构，漂浮在空中。虽然
+也许在形状上有所改变并且几乎没有可辨别的特征，但仍然
+它似乎有点像遥远记忆中的过去的战士，
+擅长咒语和近战格斗。
 %%%%
-battlesphere
+战场
 
-A small globe of destructive energy. Each time its creator casts an offensive
-spell, it will launch a magical barrage at the most injured nearby foe it can
-reach.
+一个充满破坏性能量的小球体。每次它的创造者发起进攻时
+法术，它会向附近受伤最严重的敌人发射魔法弹幕
+达到。
 %%%%
-bennu
+贝努
 
-A sacred, self-created sunbird, representative of rebirth. It has ascended
-past the cycles of life and death, and calls upon aspects of both, rising forth
-from death in a burst of unholy flame.
+神祇圣的、自我创造的太阳鸟，代表重生。已经上升了
+超越生与死的循环，并召唤两者的各个方面，升起
+在邪恶的火焰爆发中脱离死亡。
 %%%%
-bes kemwar
+贝斯凯姆瓦尔
 
-A minor hairy maggot spirit, phasing in and out of this plane. Each regional
-variant inflicts different minor ailments: the ones found in the Dungeon
-cause one's magic to grow weak.
+一只小型毛蛆精魂，逐步进出这个位面。各地区
+变种会造成不同的小病：在地牢中发现的病
+导致自己的魔力变弱。
 %%%%
-black bear
+黑熊
 
-A small black bear. Like all ursines, it will become enraged if badly hurt.
+一只小黑熊。像所有的熊一样，如果受到严重伤害，它会变得愤怒。
 %%%%
-black draconian
+黑色严酷
 
-A muscular black-scaled humanoid with a reptilian tail and powerful wings.
+一个肌肉发达、黑鳞的人形生物，拥有爬虫类尾巴和强大的翅膀。
 %%%%
-black mamba
+黑曼巴蛇
 
-An astonishingly fast tropical snake whose bite bears a deadly venom.
+一种速度惊人的热带蛇，其咬伤带有致命的毒液。
 %%%%
-blazeheart core
+烈焰之心核心
 
-The exposed elemental core of a blazeheart golem. Far too unstable to remain
-without its shell, it is in the process of violently exploding.
+烈焰之心傀儡暴露的元素核心。太不稳定而无法继续存在
+没有了外壳，它正在剧烈爆炸。
 %%%%
-blazeheart golem
+火心傀儡
 
-A volatile elemental spark encased in a shell of slag iron. If destroyed while
-its fires still blaze, the exposed core will violently detonate a moment later.
+包裹在渣铁壳中的挥发性元素火花。如果被破坏时
+它的火焰仍在燃烧，暴露的核心将在片刻后猛烈爆炸。
 %%%%
-blink frog
+眨眼青蛙
 
-A species of frog that possesses the ability to blink at will. It can blink
-itself close to its intended prey, or blink away to escape harm. It is commonly
-found in packs.
+一种拥有随意眨眼能力的青蛙。它可以眨眼
+自己靠近目标猎物，或者眨眼躲避伤害。常见的是
+发现在包里。
 %%%%
-blizzard demon
+暴雪恶魔
 
-A greater demon formed from wistful snow and bitter lightning.
+一个更大的恶魔由渴望的雪和痛苦的闪电组成。
 %%%%
-bloated husk
+肿胀的外壳
 
-A decaying undead corpse. When it reaches a victim (or if it's destroyed first),
-the gases trapped inside it are released and create a large, violent
-concussive blast.
+一具腐烂的不死尸体。当它到达受害者时（或者如果它先被摧毁），
+困在里面的气体被释放出来，产生一个巨大的、猛烈的
+震荡爆炸。
 %%%%
-block of ice
+冰块
 
-A block of ice shaped like a statue, but worked by no living hands.
+一块冰块，形状像一座雕像，但无人在世。
 %%%%
-bog body
+沼泽体
 
-An undead figure preserved by the brackish waters of a bog, and reanimated by
-some unknown magic.
+一个不死生物被沼泽的咸水保存，并通过
+一些不知名的魔法。
 %%%%
-boggart
+博格特
 
-A malevolent and dangerous little sprite. The shadowy illusions it summons may
-not be real, but are deadly all the same.
+一个恶毒而危险的小精灵。它召唤的阴暗幻象可能
+不是真实的，但仍然是致命的。
 %%%%
-bombardier beetle
+庞巴迪甲虫
 
-An unassuming beetle filled with an incredible amount of hypergolic fluid. The
-sticky spray it fires is capable of igniting predators and unwary adventurers
-alike, though more experienced ones know to keep moving if they wish to avoid
-a fiery grave.
+一种不起眼的甲虫，体内充满了数量惊人的自溶液体。的
+它发射的粘性喷雾能够点燃掠食者和粗心的冒险者
+同样，尽管更有经验的人知道如果他们想避免的话就继续前进
+一座火热的坟墓。
 %%%%
-bomblet
+小炸弹
 
-A small metal sphere surrounding a core of dormant fire magic. When given the
-proper command, it will detonate in a blast of metal and flame that is only
-partially affected by fire resistance.
+一个小金属球，周围环绕着休眠的火魔法核心。当给出
+正确的命令，它会在金属和火焰的爆炸中爆炸，这只是
+部分受耐火性影响。
 %%%%
-bone dragon
+骨龙
 
-A mighty undead abomination, pieced together from the broken bones of many
-dragons by powerful necromantic magic. The collective despair of such
-desecrated dragons gives this horror its own undying breath weapon, in
-billowing clouds of excruciating misery.
+一个强大的不死怪物，由许多断骨拼凑而成
+龙通过强大的死灵魔法。这样的集体绝望
+被亵渎的龙赋予了这种恐怖自己不朽的喷吐武器，
+令人难以忍受的苦难的滚滚云彩。
 %%%%
-boulder
+巨石
 
-A mass of fast-rolling stone, crushing everything in its path.
+一团快速滚动的石头，碾碎其路径上的一切。
 %%%%
-boulder beetle
+巨石甲虫
 
-A grey beetle with an almost impenetrable rocky carapace. When at some distance
-from its foe, a boulder beetle is capable of rolling at high speed, attempting
-to crash into its target for heavy damage.
+一种灰色甲虫，有着几乎无法穿透的岩石甲壳。当有一定距离时
+巨石甲虫能够高速滚动，试图躲避敌人
+撞向目标并造成严重伤害。
 %%%%
-bound soul
+束缚灵魂
 
-The soul of a living, holy, or demonic creature, captured by a dark sacrifice
-to Yredelemnul. The bound soul will follow its captor through stairs and come
-when recalled from a different level.
+被黑暗祭品捕获的活着的、神祇圣的或恶魔的生物的灵魂
+前往伊雷德莱姆努尔。被束缚的灵魂会跟随它的俘虏穿过楼梯来到
+当从不同的层面回忆起来时。
 %%%%
-boundless tesseract
+无边的超正方体
 
-An impossible shape that scintillates with unearthly colour. The power of Zot
-flows heavily through it, overlaying this reality with countless others where
-its domain remains pristine.
+不可思议的形状，闪烁着神祇秘的色彩。佐特的力量
+大量地流过它，将这个现实与无数其他现实重叠在一起
+它的领域仍然是原始的。
 
-Each tesseract is inextricably linked to the other, and destroying one will
-destroy both (and expel all the creatures they have beckoned to this reality,
-as well as dazing even those which they have not). But so long as they are
-allowed to exist, there will be no end to the forces which seek to keep you from
-the Orb.
+每个超立方体都与另一个有着千丝万缕的联系，摧毁一个人的意志
+摧毁两者（并驱逐所有他们召唤到这个现实的生物，
+甚至那些他们没有的东西也令人眼花缭乱）。但只要他们是
+如果允许存在，就会有无穷无尽的力量试图阻止你
+球体。
 %%%%
-brain worm
+脑虫
 
-A slimy fluorescent worm with a greatly distended head. This creature feeds on
-others' intellect as it squirms through unworldly grime.
+一种粘糊糊的荧光蠕虫，头部大大膨胀。这种生物以
+其他人的智慧在超凡脱俗的污垢中蠕动。
 %%%%
-briar patch
+荆棘补丁
 
-A tangled cluster of thorny briars, sharp enough to pierce thick hide and
-armour. Although stationary, its branches are possessed with a will of their
-own. They move to allow magic and missiles fired by those friendly to this
-plant to pass through unaffected.
+一丛缠结的带刺荆棘，锋利得足以刺穿厚厚的兽皮和
+盔甲。虽然是静止的，但它的枝条却有着自己的意志
+拥有。他们采取行动，允许对此友好的人发射魔法和导弹
+植物通过不受影响。
 %%%%
-Brimstone Fiend
+硫磺恶魔
 
-A huge and powerful demon wreathed in damnation, with great scaly wings. It is
-one of the most fearsome denizens of any of the Hells.
+一个巨大而强大的恶魔，笼罩着诅咒，长着巨大的鳞片翅膀。它是
+地狱中最可怕的居民之一。
 %%%%
-broodmother
+育雏母
 
-A giant spider swollen with eggs. Its innumerable offspring are always at its
-call.
+一只巨大的蜘蛛，身上充满了卵。它的无数子孙永远在它的
+打电话。
 %%%%
-burial acolyte
+埋葬侍僧
 
-A masked priest in the service of Kikubaaqudgha, well-versed in choral rituals
-to both rouse the dead and send them to eternal rest.
+一位为 Kikubaaqudgha 服务的蒙面牧师，精通合唱仪式
+唤醒死者并使他们永远安息。
 %%%%
-burstshroom
+爆发蘑菇
 
-A rapidly-growing mushroom whose life-cycle culminates in an explosive release
-of spores. These spores have a mild psychoactive effect and can sometimes daze
-creatures who breathe them in.
+一种快速生长的蘑菇，其生命周期最终以爆炸性释放告终
+孢子。这些孢子具有轻微的精神祇作用，有时会使人眩晕
+吸入它们的生物。
 %%%%
-bush
+布什
 
-A woody plant. It looks dry enough to be easily set on fire, and its foliage is
-not very dense, permitting both magic and missiles to pass through unaffected.
-However, it is firmly rooted, and requires significant effort to destroy.
+一种木本植物。它看起来足够干燥，很容易着火，而且它的叶子
+密度不是很高，可以让魔法和导弹不受影响地穿过。
+然而，它已经根深蒂固，需要付出巨大的努力才能摧毁。
 %%%%
-bullfrog
+牛蛙
 
-An unusually aggressive amphibian that pursues its prey with rapid hops.
-Its croak is loud and distinctive, but unlike its smaller counterparts above
-ground, the dungeon bullfrog is as large as it sounds.
+一种异常具有攻击性的两栖动物，以快速跳跃的方式追捕猎物。
+它的叫声响亮而独特，但与上面较小的同类不同
+地面上，地牢牛蛙和听起来一样大。
 %%%%
-bunyip
+班耶普
 
-A flesh-eating beast that uses its limbs and tail interchangeably. It moves
-with alarming speed, but must pause to reorganise itself after each attack.
-Its distinctive screams carry far and wide.
+一种食肉野兽，可以交替使用四肢和尾巴。它移动了
+速度惊人，但每次攻击后都必须停下来重新组织。
+它独特的尖叫声传得很远很远。
 %%%%
-butterfly
+蝴蝶
 
-A large, brightly coloured butterfly with beautifully patterned wings,
-fluttering incongruously through the darkness of the cave.
+一只色彩鲜艳的大蝴蝶，翅膀上有美丽的图案，
+在洞穴的黑暗中不协调地飘动。
 %%%%
-cactus giant
+仙人掌巨人
 
-A green-skinned, spiny colossus, with a hearty barrel chest and a thirst for
-battle. Any foe that strikes it in melee will be lucky to live to regret it.
+一个绿皮肤、多刺的巨人，有着饱满的桶状胸膛和对食物的渴望。
+战斗。任何在近战中击中它的敌人都将幸运地活到后悔。
 %%%%
-cacodemon
+卡科德蒙
 
-A maniacal demon, brimming with accursed power. Its gleeful laughter rarely
-ceases, even in the heat of battle.
+充满了诅咒力量的疯狂恶魔。很少有欢快的笑声
+即使在激烈的战斗中也会停止。
 %%%%
-cane toad
+甘蔗蟾蜍
 
-A hideous toad whose thick, warty hide is covered in poison glands. Unlike its
-smaller above-ground relatives, this dungeon-dweller is the size of a wolf.
+一种丑陋的蟾蜍，厚厚的疣皮上布满了毒腺。不同于它的
+与地面上的亲戚相比，这种地牢居民体型较小，有狼那么大。
 %%%%
-catoblepas
+卡托布莱帕斯
 
-A sluggish black buffalo, its hide encrusted with dull scales. It carries its
-hog-like head just above the ground, protected by a stiff mane of bristles.
-Its fearsome breath turns flesh into stone.
+一头行动迟缓的黑水牛，它的皮上布满了暗淡的鳞片。它承载着它的
+猪般的头位于地面上方，由坚硬的鬃毛保护。
+它可怕的气息将血肉变成石头。
 %%%%
-caustic shrike
+腐蚀性伯劳
 
-A swift, nightmarish bird whose razor-sharp metallic feathers drip with
-corrosive acid.
+一种敏捷的、噩梦般的鸟，其锋利的金属羽毛上滴着
+腐蚀性酸。
 %%%%
-caustic sporangium
+腐蚀性孢子囊
 
-A balloon-like sac of slime mold spores, suspended in a nutrient slurry to
-sustain them on their search for a new home. To the great misfortune of any
-adventurers in the vicinity, this slurry is also a highly potent acid.
+粘菌孢子的气球状囊，悬浮在营养浆中
+支持他们寻找新家。对于任何人来说都是巨大的不幸
+对于附近的冒险家来说，这种浆液也是一种强酸。
 %%%%
-centaur
+半人马座
 
-A hybrid with the torso of a human atop the body of a horse. It is highly
-skilled in archery.
+马身上有人类躯干的混合体。它是高度
+擅长射箭。
 %%%%
-centaur warrior
+半人马战士
 
-A muscular centaur, veteran of numerous battles, armed with well-made weapons
-and able to use them skilfully.
+肌肉发达的半人马，身经百战，装备精良的武器
+并能够熟练地使用它们。
 %%%%
-cerulean imp
+蔚蓝小鬼
 
-A small, wilful minor demon. Its wings, far larger than its scrawny body, were
-made to soar, and it lands only rarely and with the greatest reluctance.
+一个小而任性的小恶魔。它的翅膀比它骨瘦如柴的身体大得多
+飞行时，它很少会着陆，而且非常不情愿。
 %%%%
-chaos spawn
+混沌产生
 
-A being of pure chaos, its form is constantly shifting, growing and then losing
-eyes, mouths, claws and tentacles. It corrupts everything it touches.
+纯粹混沌的存在，其形态不断变化、成长，然后消失
+眼睛、嘴巴、爪子和触手。它会腐蚀它所接触到的一切。
 %%%%
-cherub
+小天使
 
-A throne-bearer of the gods, whose head is beset by four faces: one of a man,
-one of an ox, one of a lion, one of an eagle. It is one of the angelic beings
-who stand before the good gods, singing eternal hymns of praise to their glory
-and greatness.
+众神祇的宝座持有者，他的头被四张脸包围：其中一张是人脸，
+一只是牛，一只是狮子，一只是鹰。它是天使之一
+他们站在善良的诸神祇面前，唱着永恒的赞美诗来赞美他们的荣耀
+和伟大。
 %%%%
-chonchon
+春川
 
-Some sorcerers care little for unholy realms or undead forms, seeking power
-instead in the whims of cruel chaos. This ominous owl-winged head is all that
-remains of a former archmage: it delights in spreading misfortune and drinking
-blood in its new airborne form.
+一些巫师不太关心邪恶领域或不死形态，而是寻求力量
+相反，在残酷混乱的突发奇想中。这个不祥的猫头鹰翅膀头就是全部
+前大法师的遗骸：它喜欢传播不幸和饮酒
+血液以其新的空气传播形式。
 %%%%
-clockroach
+时钟蟑螂
 
-A common dungeon pest that combines the worst features of a scavenging insect
-and a looming deadline.
+一种常见的地牢害虫，结合了食腐昆虫最糟糕的特征
+以及迫在眉睫的最后期限。
 
-Time flows strangely around it, rewinding any injuries inflicted upon it unless
-the source of them is near enough to be caught up in its timestream.
+时间在它周围奇怪地流动，倒回对它造成的任何伤害，除非
+它们的源头足够近，足以被其时间流所捕获。
 %%%%
-cognitogaunt
+认知憔悴
 
-A wizened, headless corpse, animated not by conventional necromancy but by the
-mournful malice of dead stars. Its psychic eyes, floating disjointedly from its
-body's movements, relentlessly burrow through its victims' minds.
+一具干瘪无头的尸体，不是通过传统的死灵术而是通过
+死去的星星的可悲的恶意。它的灵眼从它的身体上脱节地漂浮着
+身体的动作，无情地深入受害者的思想。
 %%%%
-clockwork bee
+发条蜜蜂
 
-A mechanical insect powered by an intricate array of gears and springs. It is
-vicious and resilient to damage, but its clockwork naturally winds down as it
-attacks, eventually leaving it unable to move until its creator winds it again.
+一种机械昆虫，由一系列复杂的齿轮和弹簧提供动力。它是
+恶毒且对伤害有弹性，但它的发条装置自然会随着它的停止而停止
+攻击，最终使它无法移动，直到它的创造者再次给它上弦。
 %%%%
-colossal amoeba
+巨大阿米巴原虫
 
-An unfathomably massive pile of mystic pulsating protoplasm. The slightest
-threat will cause it to undergo rapid weaponised mitosis, rapidly overwhelming
-potential meals in a cytoplasmic tidal wave.
+一堆深不可测的神祇秘脉动原生质。最轻微的
+威胁将导致它经历快速的武器化有丝分裂，迅速压倒性的
+细胞质潮汐中潜在的食物。
 %%%%
-crawling flesh cage
+爬行的肉笼
 
-A modern breakthrough in arcane experimentation, this mobile prison cell
-weaponises the living fragments of once-escaped ugly things, extending the reach
-of their tendrils to thrash multiple foes at once from a distance.
+移动牢房是奥术实验的现代突破
+将曾经逃脱的丑陋事物的活体碎片武器化，扩大影响范围
+他们的卷须可以从远处同时殴打多个敌人。
 %%%%
-creeping inferno
+爬行地狱
 
-A formless mass of ancient fire, bound by heat and malevolence. It longs to
-unleash itself as a wild fire storm, yet must first patiently burn towards its
-victims with implaceable inevitability.
+一团无形的远古之火，被高温和恶意所束缚。它渴望
+像狂野的火焰风暴一样释放自己，但必须首先耐心地向其燃烧
+不可避免的受害者。
 %%%%
-creeping plasmodium
+爬行疟原虫
 
-An enormous and unnervingly motile slime mold colony. It creeps along the
-crevices of the walls in search of nutrients and can spread itself to new
-locations by launching enormous sporangia.
+一个巨大的、活动性惊人的粘菌群落。它沿着
+墙壁的缝隙中寻找营养，并能传播到新的地方
+通过发射巨大的孢子囊来定位。
 %%%%
-crimson imp
+深红小鬼
 
-A small, ugly minor demon. Its fanged maw seems locked in a permanent malign
-grin, and its horns protrude obscenely from its scaly pate.
+一个又小又丑的小恶魔。它的尖牙大嘴似乎被永远锁住了
+咧着嘴笑，它的角从它鳞状的头顶上猥亵地伸出来。
 %%%%
-crocodile
+鳄鱼
 
-A crocodilian with powerful jaws.
+具有强大下颚的鳄鱼。
 %%%%
-crystal echidna
+水晶针鼹
 
-A spiny, long snouted rodent grown out of pure living crystal. It is
-immune to most forms of magic and hurls both crystallising shots and painful
-barbs.
+一种由纯活水晶长成的多刺、长鼻子的啮齿动物。它是
+对大多数形式的魔法免疫，并投掷结晶射击和痛苦射击
+倒刺。
 %%%%
-crystal guardian
+水晶守护者
 
-An intricate animated statue made of heavily ensorcelled crystal that is
-immune to most forms of magic. The spells which created it are so powerful
-that even flesh may start to crystallise around any fragments that become
-embedded in it - leaving its foes brittle and vulnerable.
+一座复杂的动画雕像，由重度迷幻的水晶制成，
+对大多数形式的魔法免疫。创造它的咒语是如此强大
+即使是肉也可能开始在任何碎片周围结晶
+嵌入其中 - 使其敌人变得脆弱且脆弱。
 %%%%
-culicivora
+库里奇食目
 
-A small spider with rudimentary healing abilities. Though not undead, it packs
-a nasty vampiric bite.
+具有基本治疗能力的小蜘蛛。虽然不是不死生物，但它包
+令人讨厌的吸血鬼咬伤
 %%%%
-curse skull
+诅咒头骨
 
-A charred skull floating in the air and rotating slowly. Mystic symbols are
-carved into its blackened surface.
+一个烧焦的头骨漂浮在空中，缓缓旋转。神祇秘符号是
+刻在其黑色的表面上。
 %%%%
-curse toe
+诅咒脚趾
 
-A disembodied toe, hanging in the air and radiating an intense field of
-negative energy.
+一个脱离实体的脚趾，悬在空中，散发出强烈的能量场
+负能量。
 %%%%
-cyclops
+独眼巨人
 
-A giant with one eye in the centre of its forehead. Despite its lack of
-binocular vision, it is able to throw boulders with fearsome accuracy.
+额头中央有一只眼睛的巨人。尽管其缺乏
+双目视觉，它能够以令人恐惧的准确度投掷巨石。
 %%%%
-daeva
+达伊瓦
 
-A towering winged figure radiating an aura of brilliant golden light. It is a
-divine agent of the Shining One.
+一道高耸的羽翼身影，散发着璀璨的金光。它是一个
+光辉者的神祇圣代理人。
 %%%%
-# Only used in lookup mode, not when examining an actual monster.
-dancing weapon
+# 仅在查找模式下使用，而不是在检查实际怪物时使用。
+跳舞武器
 
-A weapon enchanted to dance through the air and attack under its own power.
+一种被附魔的武器，可以在空中舞动并利用自身的力量进行攻击。
 %%%%
-dart slug
+飞镖
 
-A small invertebrate. It hunts prey considerably larger than itself by firing
-chitinous darts, using a concealed air bladder to launch them with remarkable
-range and power.
+一种小型无脊椎动物。它通过射击来捕猎比自己大得多的猎物
+几丁质飞镖，使用隐藏的气囊以惊人的速度发射它们
+范围和功率。
 %%%%
-deathcap
+死亡帽子
 
-A noxious and deadly fungus suffused with negative energy. While parasitic in
-life, undeath has granted it the ability to absorb its nutrients directly from
-the life force of others.
+一种充满负能量的有毒致命真菌。虽然寄生在
+生命、亡灵赋予了它直接吸收营养的能力
+他人的生命力。
 %%%%
-death cob
+死亡玉米棒子
 
-A dreadful undead cob of maize. Look, this one was probably a mistake. We're
-sorry.
+可怕的不死玉米棒子。瞧，这可能是一个错误。我们是
+抱歉。
 %%%%
-death drake
+死亡幼龙
 
-A dark and baleful minor dragon. It breathes a lethally potent miasma from its
-pestilential maw.
+黑暗而凶恶的小龙。它从体内呼吸出致命的瘴气
+瘟疫的胃。
 %%%%
-death knight
+死亡骑士
 
-A warrior-priest of Yredelemnul, chanting fearful supplications to its dark god.
+伊瑞德勒姆努的战士祭司，向黑暗之神祇吟诵着可怕的祈求。
 %%%%
-death scarab
+死亡圣甲虫
 
-A hideous swarming undead insect, exuding death and decay and feeding on the
-life energies of those unfortunate enough to encounter it.
+一种可怕的成群结队的不死昆虫，散发着死亡和腐烂的气息，以
+那些不幸遇到它的人的生命能量。
 %%%%
-death yak
+死亡牦牛
 
-A larger and beefier relative of the common dungeon yak. Its little red eyes
-gleam with hunger for living flesh.
+普通地牢牦牛的体型更大、更强壮的近亲。它的小红眼睛
+闪烁着对活生生的肉体的渴望。
 %%%%
-deep elf annihilator
+深渊精灵歼灭者
 
-A deep elf who exults in conjured mayhem and destruction. It is widely hated
-and feared, both for the power and for the precision of its destructive magics.
+一位深海精灵，因召唤出的混乱和毁灭而欢欣鼓舞。是被广泛憎恶的
+并对其破坏性魔法的力量和精确度感到恐惧。
 %%%%
-deep elf archer
+深精灵弓箭手
 
-An experienced deep elf fighter with a penchant for ranged combat.
+一位经验丰富的深精灵战士，热衷于远程战斗。
 %%%%
-deep elf blademaster
+深精灵剑圣
 
-A champion of the deep elves, who scorns magic and is devoted to the study of
-the sword. It wields two weapons with astonishing dexterity and speed.
+深渊精灵的冠军，蔑视魔法并致力于研究
+剑。它以惊人的灵活性和速度挥舞着两把武器。
 %%%%
-deep elf death mage
+深渊精灵死亡法师
 
-A deep elf surrounded by a shimmering aura of negative energy, as a result of
-its practice of necromancy and life-sapping magic.
+一个被闪烁着负能量光环包围的深精灵，由于
+它练习死灵术和夺命魔法。
 %%%%
-deep elf demonologist
+深精灵恶魔学家
 
-A deep elf who is marked heavily by long years of contact with unnatural
-demonic forces and the creatures of the Abyss.
+一个深渊精灵，因长年与非自然接触而受到严重影响
+恶魔力量和深渊生物。
 %%%%
-deep elf elementalist
+深精灵元素师
 
-A deep elf commanding the primal forces of the universe. It is renowned for its
-ability to pin down even the most elusive foes with powerful, unavoidable magic.
+指挥宇宙原始力量的深渊精灵。它以其
+即使是最难以捉摸的敌人，也有能力用强大、不可避免的魔法来压制住他们。
 %%%%
-deep elf high priest
+深渊精灵大祭司
 
-An exalted servant of the ancient dark god of the deep elves, basking in
-hellish death magic.
+深渊精灵古老黑暗之神祇的崇高仆人，沐浴在
+地狱般的死亡魔法。
 %%%%
-deep elf knight
+深渊精灵骑士
 
-A battle-hardened deep elf fighter.
+身经百战的深精灵战士。
 %%%%
-deep elf master archer
+深精灵弓箭手大师
 
-A deep elf archer who has devoted a lifetime to the mastery of archery,
-dismissing magic as a frivolous distraction.
+一位毕生致力于射箭技艺的深渊精灵弓箭手，
+将魔法视为一种无聊的干扰。
 %%%%
-deep elf pyromancer
+深精灵烈焰术士
 
-A deep elf learned in the ways of fiery magic. It is capable of casting a
-wide array of scorching spells.
+一位学习火焰魔法之道的深渊精灵。它能够铸造
+各种各样的灼热咒语。
 %%%%
-deep elf sorcerer
+深精灵巫师
 
-A mighty spellcaster who draws power from the very Hells, and possesses lethal
-arcane abilities.
+一位强大的施法者，从地狱汲取力量，并拥有致命的能力
+奥术能力。
 %%%%
-deep elf zephyrmancer
+深精灵和风法师
 
-An elf with a singular focus on the magic of the air, leaving little time to
-study anything else.
+一个专注于空气魔法的精灵，几乎没有时间去思考
+研究其他任何东西。
 %%%%
-deep troll
+深巨魔
 
-A stooped troll with dark skin. It often travels in packs.
+一个弯腰驼背、皮肤黝黑的巨魔。它经常成群结队旅行。
 %%%%
-deep troll earth mage
+深地巨魔大地法师
 
-A particularly intelligent deep troll. It uses its magic to tunnel through the
-earth and ambush foes.
+一个特别聪明的深海巨魔。它利用它的魔力穿过隧道
+地球并伏击敌人。
 %%%%
-deep troll shaman
+深巨魔萨满
 
-A deep troll blessed with divine power to strengthen and hasten its kin.
+一种深渊巨魔，拥有神祇圣力量，可以强化和催促其亲属。
 %%%%
-demigod
+半神祇
 
-A human-like figure with an aura of power betraying its divine ancestry.
+一个类似人类的人物，有着背叛其神祇圣血统的力量光环。
 %%%%
-demonic crawler
+恶魔爬行者
 
-A hellish insectoid creature, fueled by some infernal power that constantly
-regrows its chitinous segments. Nothing short of a lethal blow will stop it
-for long.
+一种地狱般的类昆虫生物，以某种地狱之力为燃料，不断地
+重新长出几丁质片段。除了致命一击之外没有什么可以阻止它
+很长一段时间。
 %%%%
-demonspawn
+恶魔之子
 
-A half-mortal, half-demonic creature, with its hellish heritage asserting
-itself through a certain devilish cast to its features.
+一种半凡人、半恶魔的生物，其地狱般的遗产断言
+它本身就带有某种邪恶的特征。
 %%%%
-demonspawn blood saint
+恶魔之血圣人
 
-A half-mortal, half-demonic creature, radiating an intense heat. It weaves
-powerful and unpredictable spells of devastation.
+半凡半魔的生物，散发着强烈的热量。它编织
+强大且不可预测的毁灭咒语。
 %%%%
-demonspawn corrupter
+恶魔之子腐蚀者
 
-A half-mortal, half-demonic creature, oozing with dark energies. It twists
-space around itself, and can corrupt weapons, armour and even the very flesh of
-its opponents.
+一种半凡人、半恶魔的生物，浑身散发着黑暗能量。它扭曲
+其周围的空间，可以腐蚀武器、盔甲，甚至是肉体
+它的对手。
 %%%%
-demonspawn soul scholar
+恶魔灵魂学者
 
-A half-mortal, half-demonic creature, covered in icy blue scales. Its devotion
-to the deities of death grants it great insight into the vulnerabilities and
-applications of mortal souls.
+一种半凡半恶魔的生物，全身覆盖着冰蓝色的鳞片。它的奉献
+死亡之神祇赋予它对弱点和弱点的深刻洞察力
+凡人灵魂的应用。
 %%%%
-demonspawn warmonger
+恶魔之卵好战者
 
-A half-mortal, half-demonic creature, now more beast than whatever species it
-is descended from. It is devoted to martial combat, disrupting the magic of its
-foes as it feasts off of endless conflict.
+一种半凡人、半恶魔的生物，现在比它的任何物种都更像野兽
+是从. 继承下来的。它致力于武术战斗，破坏其魔法
+敌人，因为它享受着无休止的冲突。
 %%%%
-diamond sawblade
+金刚石锯片
 
-A serrated disc forged of razor-sharp material. It spins in place at high
-velocity, shredding through flesh and metal alike.
+由锋利材料锻造而成的锯齿盘。它在高位旋转
+速度，撕碎肉体和金属。
 %%%%
-diamond obelisk
+钻石方尖碑
 
-A towering obelisk surrounded by a powerful storm.
+一座高耸的方尖碑，周围环绕着强大的风暴。
 %%%%
-dire elephant
+可怕的大象
 
-A huge pachyderm, wilder and fiercer than normal elephants, with a very thick
-hide, powerful legs, and a memory to die for.
+一种巨大的厚皮动物，比普通大象更加狂野和凶猛，有很厚的皮毛
+隐藏、有力的双腿和令人向往的记忆。
 %%%%
-djinni
+神祇灵
 
-An elemental spirit formed from smokeless fire.
+由无烟之火形成的元素之灵。
 %%%%
-oblivion hound
+遗忘猎犬
 
-A demon lapdog of the queen of Tartarus, bound to hunt her enemies. The first
-time a foe hears its howl, it will echo in their mind, calling nightmarish
-creatures to hunt them. Those who survive have the small consolation of being
-inoculated against that particular hound's howl.
+塔尔塔罗斯女王的一只恶魔哈巴狗，注定要追捕她的敌人。第一个
+当敌人听到它的嚎叫时，它会在他们的脑海中回响，称其为噩梦
+来猎杀他们的生物。那些幸存下来的人有一点小小的安慰：
+接种了针对那只特定猎犬的嚎叫的疫苗。
 %%%%
-dormant clockwork bee
+休眠的发条蜂
 
-A mechanical insect powered by an intricate array of gears and springs. It has
-run out of power and can only be rewound by its creator moving into it.
+一种机械昆虫，由一系列复杂的齿轮和弹簧提供动力。它有
+能量耗尽，只能由其创造者进入其中来恢复。
 %%%%
-draconian
+严厉的
 
-A brown-scaled humanoid with a reptilian tail and small wings. It is yet to
-develop the distinct colouring and powerful breath attack of its mature form.
+棕色鳞片的人形生物，有爬虫类尾巴和小翅膀。目前还没有到
+发展其成熟形态的独特色彩和强大的呼吸攻击。
 %%%%
-draconian annihilator
+严厉的歼灭者
 
-A draconian that uses powerful conjurations to destroy anyone who dares to
-stand in its way.
+一个使用强大咒语摧毁任何敢于这样做的龙人
+挡住它的路。
 %%%%
-draconian knight
+严酷骑士
 
-A draconian protected by thick scales, skilful weapon use, and complementary
-magic.
+一个受到厚重鳞片、熟练武器使用和互补保护的龙人
+魔法。
 %%%%
-draconian monk
+严僧
 
-A draconian who has eschewed the study of weaponry and magic in order to train
-in the art of unarmed combat. Its scaly fists, well-thewed legs, and mighty
-tail rain down blows upon its opponents.
+一个为了训练而避开武器和魔法研究的龙人
+在徒手格斗的艺术中。它有鳞的拳头、修长的腿和强大的力量
+尾巴雨落在对手身上。
 %%%%
-draconian scorcher
+严酷的灼热者
 
-A cunning draconian who has mastered the inner secrets of the element of fire.
-Its scales are sooty from years of magical pyrotechnics.
+一个狡猾的龙人，掌握了火元素的内在秘密。
+它的鳞片因多年的魔法烟火而变得乌黑。
 %%%%
-draconian shifter
+严厉的变速者
 
-A draconian master of the warp, who can translocate both itself and anyone else
-to any place, either on this world or outside of it.
+一位严酷的亚空间大师，可以传送自己和其他任何人
+到任何地方，无论是在这个世界上还是在这个世界之外。
 %%%%
-draconian stormcaller
+严酷的风暴召唤者
 
-A draconian deriving its thunderous powers and draconic allies from the worship
-of Qazlal.
+一个从崇拜中获得雷霆力量和龙类盟友的龙人
+卡兹拉尔。
 %%%%
-draugr
+尸鬼
 
-A territorial gnarl of driftwood and shattered bones. Its resentment of the
-living has slowly twisted its remains into a monstrous form, capable of
-brandishing weapons and spreading terrible curses.
+一块由浮木和碎骨组成的领土结节。其怨恨
+生命体慢慢地将其残骸扭曲成一种可怕的形态，能够
+挥舞武器并散布可怕的诅咒。
 %%%%
-dread lich
+恐惧巫妖
 
-A lich who has made terrible pacts with demonic forces to augment its dark
-magic.
+与恶魔势力签订可怕契约以增强其黑暗力量的巫妖
+魔法。
 %%%%
-dream sheep
+梦见羊
 
-A drowsy, fluffy ovine whose coat sparkles with motes of dream dust. It gathers
-in herds and fills the air with dream dust, overwhelming its victims and
-putting them to sleep.
+一只昏昏欲睡、毛茸茸的绵羊，它的皮毛上闪烁着梦境尘埃的微粒。它聚集
+成群结队，空气中充满了梦幻的尘埃，压倒了它的受害者，
+让他们入睡。
 %%%%
-drowned soul
+淹死的灵魂
 
-A cold and hollow apparition of the drowned dead, chained by some lingering
-attachment to the depths in which it perished. It rushes to embrace the living,
-sharing the last moments of its watery fate with whatever it touches.
+一个冰冷而空洞的淹死者的幽灵，被一些挥之不去的人锁住
+对它灭亡的深处的依恋。它急忙拥抱生者，
+与它所触及的一切分享其水性命运的最后时刻。
 %%%%
-drude
+德鲁德
 
-A conniving demon born from the nightmares of sleeping mages. It delights in
-coaxing the imagined fears of mortals into reality.
+从沉睡的法师的噩梦中诞生的阴险恶魔。它乐于
+将凡人想象中的恐惧变成现实。
 %%%%
-dryad
+树妖
 
-A spirit of nature, bound to the forest in which it resides. It is capable of
-calling upon the trees to defend against incursions.
+一种自然之灵，与它所居住的森林息息相关。它能够
+召唤树木防御入侵。
 %%%%
-dwarf
+矮人
 
-A member of a short, sturdy mountain-dwelling folk.
+居住在山地的矮小而强壮的民族的一员。
 %%%%
-earth elemental
+土元素
 
-A spirit drawn from the elemental plane of earth. It exists in this world as a
-sinuous stream of silt and stone, capable of smoothly flowing through solid
-rock.
+来自地球元素位面的灵魂。它作为一个存在于这个世界上
+淤泥和石头蜿蜒的流，能够顺利地流过固体
+岩石。
 %%%%
-efreet
+埃弗里特
 
-An imposing, muscular figure engulfed in a cloud of searing flame.
+一个气势磅礴、肌肉发达的身影，被一团灼热的火焰所吞没。
 %%%%
-eidolon
+幻灵
 
-An ancient skeletal apparition, sheathed in a cloud of mist. Its form glows
-white-hot with debilitating energy.
+古老的骷髅幽灵，笼罩在雾气之中。它的形状会发光
+白热化，能量衰弱。
 %%%%
-eldritch tentacle
+可怕的触手
 
-An immense, squamous appendage of some unseen creature, dripping with ichor and
-tipped with a single, terrible-looking claw.
+某种看不见的生物的巨大鳞状附属物，滴着脓液和
+尖端有一只看起来很可怕的爪子。
 %%%%
-eldritch tentacle segment
+可怕的触手节段
 
-A part of an immense, squamous appendage. It thrashes and pulsates like no
-other living thing.
+巨大鳞状附属物的一部分。它像没有一样剧烈地搏动和搏动
+其他生物。
 %%%%
-electric golem
+电动傀儡
 
-An animated figure made completely of electricity, created in some demented
-wizard's experiment.
+一个完全由电力制成的动画人物，由一些疯狂的人创造
+巫师的实验。
 %%%%
-electric eel
+电鳗
 
-A type of fish capable of generating a powerful electric field.
+一种能够产生强大电场的鱼。
 %%%%
-eleionoma
+癌瘤
 
-Spirits of marshes and bogs. From the cypresses and willows of the fens stems the
-power of these fierce protective spirits. With the boughs and branches they flow,
-emerging from trees near their foes to strike.
+沼泽和沼泽的灵魂。从沼泽的柏树和柳树中生出
+这些凶猛的守护神祇之力。随着它们流动的树枝和树枝，
+从敌人附近的树上出现进行攻击。
 %%%%
-elemental wellspring
+元素源泉
 
-A swirling conflux of elemental water streaming from the elemental plane into
-this one, with powerful spirits and mighty floods flowing from it.
+元素水的漩涡汇流从元素位面流入
+这一颗，有着强大的灵气，以及浩瀚的洪流从中涌出。
 %%%%
-elephant
+大象
 
-A large, thick-hided pachyderm. It crushes its foes and then thrashes them with
-its trunk.
+一种大而厚皮的厚皮动物。它会碾碎敌人，然后用
+它的树干。
 %%%%
-elf
+精灵
 
-An elf, a member of an ancient fey race.
+精灵，古老精类种族的一员。
 %%%%
-emperor scorpion
+帝王蝎
 
-A giant scorpion with a massive barb on its tail dripping deadly venom. It is
-one of the largest arachnids known.
+一只巨大的蝎子，尾巴上有巨大的倒刺，滴着致命的毒液。它是
+已知最大的蜘蛛纲动物之一。
 %%%%
-endoplasm
+内质
 
-A glob of grey sludge that has somehow developed a rudimentary awareness and
-limited motility. It periodically draws heat from its surroundings to sustain
-itself, freezing enemies unfortunate enough to be adjacent at the time.
+一团灰色的污泥不知何故已经发展出了基本的意识和
+活动能力有限。它定期从周围吸取热量以维持
+本身，冻结当时不幸相邻的敌人。
 %%%%
-entropy weaver
+熵编织者
 
-A gaunt humanoid with flaking, pale chitin. Its spindly limbs are capable of
-startlingly quick movement and end in razor-sharp talons.
+一个瘦削的人形生物，身上有剥落的苍白几丁质。它细长的四肢能够
+动作快得惊人，末端是锋利的爪子。
 %%%%
-erythrospite
+红细胞磷
 
-A churning mass of flowing blood that throbs to the beat of an absent heart.
+一团翻腾的血液随着心不在焉的跳动而跳动。
 
-Does it wish to bury itself in your arteries because it recognises, on some
-primordial level, that this is where it belongs? Alas, all it is capable of in
-this fleeing moment of sentience is violence.
+它是否希望将自己埋在你的动脉中，因为它认识到，在某些方面
+太初层次，这就是它所属的地方吗？唉，它所能做的一切
+这种意识的逃离时刻就是暴力。
 %%%%
-ettin
+埃丁
 
-A two-headed giant, stronger than most, and able to land devastating blows left
-and right with its two huge weapons.
+一个双头巨人，比大多数人都强大，能够给予毁灭性的打击
+以及它的两把巨大武器。
 %%%%
-Executioner
+刽子手
 
-A horribly powerful and swift demon, its shape obscured by a cloud of swirling
-scythe-like blades.
+一个可怕的强大而敏捷的恶魔，它的形状被一团旋转的云遮蔽了
+镰刀状的刀片。
 %%%%
-eye of devastation
+毁灭之眼
 
-A huge eyeball, encased in a levitating globe of incandescent energy.
+一个巨大的眼球，包裹在一个悬浮的白炽能量球体中。
 %%%%
-eye of draining
+排水眼
 
-A hovering horror, rare and unnatural even amongst servitor eyes, radiating
-baleful energies. They monitor the flow of chaotic life and ever-present death
-for the divine Jiyva.
+一种盘旋的恐怖，即使在仆人的眼中也是罕见且不自然的，散发着光芒
+邪恶的能量。他们监视着混乱的生命和永远存在的死亡的流动
+为了神祇圣的吉瓦。
 %%%%
-faun
+农牧神祇
 
-A hybrid with the torso of a human atop the forelegs of a goat. It is fabled
-for its ability to play with the minds of those who intrude into its domain.
+山羊前腿上的人类躯干的杂交体。这是传说中的
+因为它有能力玩弄那些侵入其领域的人的思想。
 %%%%
-felid
+猫科动物
 
-A feline creature that has been granted sentience by magical means. It uses the
-gift of speech to demand milk, treats and catnip.
+一种通过魔法手段被赋予知觉的猫科动物。它使用
+要求牛奶、零食和猫薄荷的演讲礼物。
 %%%%
-fenstrider witch
+芬斯特莱德女巫
 
-Followers of the ancient swamp ways, these witches rise above the muck and mire
-on a pair of stilt-like chicken legs. They are masters of pain and poison.
+这些女巫是古老沼泽之路的追随者，他们从淤泥和泥沼中崛起
+踩在一双高跷般的鸡腿上。他们是痛苦和毒药的大师。
 %%%%
-fire bat
+火蝙蝠
 
-A bat whose leathery body burns with a hot flame.
+皮革般的身体燃烧着炽热火焰的蝙蝠。
 %%%%
-fire crab
+火蟹
 
-A variety of crab prized for its brilliantly jewelled shell. The rarity of the
-shells is only enhanced by its almost supernatural ability to wade through
-molten lava and expel massive quantities of flames.
+螃蟹的一个变种，因其壳上镶满宝石而备受推崇。其稀有程度
+贝壳只有通过其近乎超自然的涉水能力才能增强
+熔岩并喷出大量火焰。
 %%%%
-fire dragon
+火龙
 
-A great reptilian beast with powerful claws on its limbs, covered in thick
-red scales and with two huge bat-like wings. Little trails of smoke spill
-from its toothy maw.
+一只巨大的爬行动物，四肢上长着强大的爪子，浑身覆盖着厚厚的
+红色的鳞片和两只巨大的蝙蝠般的翅膀。烟雾溢出的小痕迹
+来自它的牙齿。
 %%%%
-fire elemental
+火元素
 
-A spirit drawn from the elemental plane of fire, which exists in this world as
-a brilliant column of raging flames.
+从火元素位面汲取的灵魂，存在于这个世界上
+一道绚丽的熊熊火焰。
 %%%%
-fire giant
+火巨人
 
-A giant with obsidian skin and a wild mane of glowing red hair, holding aloft a
-fiery sword. Fire giants believe that they are destined to unite and burn the
-entire world to cinders.
+一个有着黑曜石皮肤和一头狂野的红发的巨人，高举着一把
+炽热的剑。火巨人相信他们注定要团结起来并燃烧世界
+整个世界化为灰烬。
 %%%%
-fire vortex
+火旋涡
 
-A swirling cloud of flame. After striking a foe, it disintegrates.
+一团旋转的火焰云。攻击敌人后，它就会瓦解。
 %%%%
-flayed ghost
+剥皮鬼
 
-A hideous floating undead creature, the anguished spirit of a tortured victim,
-with torn skin hanging from an emaciated body. It restlessly stalks the
-dungeon, inflicting the anguish it felt in life upon those still living.
+一个可怕的漂浮不死生物，一个饱受折磨的受害者的痛苦灵魂，
+瘦弱的身体上挂着撕裂的皮肤。它不安地追随
+地牢，给那些还活着的人带来生活中的痛苦。
 %%%%
-fravashi
+弗拉瓦希
 
-A beneficent remnant of the countless mortal knights who serve the Shining One.
-Their hosts' role in the divine hierarchy is to guide and direct their legions
-in righteous moral warfare, though they may also call upon those mortals to
-defend themselves.
+为光辉者服务的无数凡间骑士中的仁慈残余。
+他们的主人在神祇圣等级制度中的角色是引导和指挥他们的军团
+在正义的道德战争中，尽管他们也可能呼吁那些凡人
+保卫自己。
 %%%%
-frilled lizard
+褶边蜥蜴
 
-A lizard with a giant and colourful fringe folded around its neck. It flares
-its impressive frill at its victims while hissing angrily.
+一只蜥蜴，脖子上缠绕着巨大的彩色流苏。它耀斑
+它对受害者做出令人印象深刻的装饰，同时发出愤怒的嘶嘶声。
 %%%%
-formicid
+杀蚁剂
 
-A sentient ant that walks upright and is competent at digging.
+一种有知觉的蚂蚁，直立行走，擅长挖掘。
 %%%%
-formless jellyfish
+无形的水母
 
-A gelatinous assemblage of tentacles and venom, leaving a glistening trail
-as it slides along. Surely such a mockery of life could not be natural..?
-# And yet, MH_NATURAL it is :)
+触手和毒液的凝胶状组合，留下闪闪发光的痕迹
+当它滑动时。这种对生命的嘲弄肯定不可能是自然的……？
+#然而，MH_NATURAL 是的:)
 %%%%
-foxfire
+狐火
 
-A thin wisp of flaming swamp gas. It will burn the first hostile thing it
-touches and then dissipate.
+一缕燃烧的沼泽气体。它会烧掉第一个敌对的东西
+接触然后消散。
 %%%%
-freezing wraith
+冰冻幽灵
 
-An incorporeal skeletal form surrounded by a cloud of freezing air, likely the
-remains of some unfortunate adventurer. It now floats slowly through the
-dungeon, seeking to share its fate with others.
+一种无形的骨骼形态，周围环绕着一团冰冷的空气，很可能是
+一些不幸的冒险家的遗骸。现在它慢慢地漂浮在
+地牢，寻求与他人分享命运。
 %%%%
-frost giant
+霜巨人
 
-A giant with blue skin and hair like ice and snow. Its eyes are as bleak as
-winter skies. It marches grimly into battle with a great, frosty axe and
-howling blasts of cold.
+有着蓝色皮肤、头发如冰雪般的巨人。它的眼睛像暗淡的
+冬天的天空。它手持一把冰冷的巨斧，冷酷地投入战斗，
+寒风呼啸。
 %%%%
-fulminant prism
+暴发棱镜
 
-A slender prism of unstable, soft gold that crackles with barely-contained
-destructive energy. Any blow which cracks its fragile surface is likely to
-result in a violent explosion.
+不稳定的软金细长棱柱，几乎不包含任何物质，发出噼啪声
+破坏性能量。任何使其脆弱表面破裂的打击都可能
+导致剧烈爆炸。
 %%%%
-fungus
+真菌
 
-A lumpy grey fungus, growing well in the dank underground dungeon.
+一种块状的灰色真菌，在潮湿的地下迷宫中生长良好。
 %%%%
-gargoyle
+石像鬼
 
-A granite statue of a hideous winged monster, somehow brought to life.
+一个可怕的有翼怪物的花岗岩雕像，不知何故被赋予了生命。
 %%%%
-ghost crab
+幽灵蟹
 
-A crab twisted by proximity to negative energy. Apparitions of the dead swirl
-around it, only barely visible.
+一只因接近负能量而扭曲的螃蟹。死亡漩涡的显现
+在它周围，几乎看不见。
 %%%%
-ghost moth
+鬼蛾
 
-A vile interdimensional predator that feeds on the life force of living beings.
-It resembles an enormous, spiny moth.
+一种邪恶的跨维度掠夺者，以生物的生命力为食。
+它像一只巨大的带刺飞蛾。
 %%%%
-ghoul
+食尸鬼
 
-A decayed cadaver, reanimated and accursed with a terrible hunger. It desires
-nothing but to feed on the flesh of the living, and will fell its victims with
-its vicious claws.
+一具腐烂的尸体，复活并因可怕的饥饿而受到诅咒。它渴望
+除了以活人的肉体为食之外，什么也没有，而意志则以牺牲品为代价
+它的恶毒的爪子。
 %%%%
-glass eye
+玻璃眼
 
-A floating eyeball formed from living glass. Only the divine Jiyva could form
-such a curious servitor.
+由活形成玻璃的漂浮视觉。只有神祇圣的吉瓦（Jiyva）才能形成
+真是个好奇的仆人。
 %%%%
-glowing orange brain
+发光的橙色大脑
 
-A huge pulsating brain, floating just off the floor and glowing with mutagenic
-energies. It radiates a constant psychic influence upon nearby allies, using its
-vast intellect to empower their spellcasting abilities.
+一个巨大的脉动大脑，漂浮在地板上，闪烁着诱变的光芒
+能量。它利用其自身的力量，对附近的盟友发出持续的心灵影响
+巨大的智慧可以增强他们的施法能力。
 %%%%
-glowing shapeshifter
+发光变形者
 
-A shapeshifter which has lost control over its transformations, and is
-constantly changing form.
+变形者失去了对其变形的控制，并且
+不断改变形式。
 %%%%
-gnoll
+豺狼人
 
-A taller and better-equipped relative of goblins, and ally of orcs. It is
-somewhat doglike in appearance.
+地精的更高、装备更好的亲戚，也是兽人的盟友。它是
+外表有点像狗。
 %%%%
-gnoll bouda
+豺狼人布达
 
-A gnoll witch possessed by a spirit of spite which flashes out from behind
-their eyes. Its strange chants and ululations send other gnolls into a wild
-frenzy.
+被从背后闪现的怨恨之灵附体的豺狼人女巫
+他们的眼睛。它奇怪的歌声和哀号让其他豺狼人陷入了狂野
+疯狂。
 %%%%
-gnoll sergeant
+豺狼人中士
 
-A commander of a pack of gnolls. Scars on its stout body give evidence of how
-it earned its rank.
+一群豺狼人的指挥官。它粗壮的身体上的伤疤证明了它是如何
+它赢得了它的地位。
 %%%%
-globe of annihilation
+毁灭地球
 
-A roiling sphere of intense destructive energies, drawn from the fabric of the
-Hells themselves. It pursues a designated target inexorably, growing in size as
-it travels. If it collides with either a creature or wall, it will explode
-violently - though its creator is protected from the wild destruction unleashed
-as it does so.
+一个充满强烈破坏性能量的翻滚球体，从宇宙的结构中汲取
+地狱本身。它无情地追求指定的目标，规模不断扩大
+它会旅行。如果它与生物或墙壁碰撞，它就会爆炸
+暴力 - 尽管它的创造者受到保护，免受释放的野蛮破坏
+正如它所做的那样。
 %%%%
-goblin
+妖精
 
-A short, impatient and unfriendly humanoid. Goblins first appeared only a few
-years ago, but are now remarkably numerous. Sadly, no number of raucous goblin
-parties will put them in a welcoming mood toward adventurers.
+一个矮小、不耐烦且不友好的人形生物。哥布林最初出现的数量很少
+几年前，但现在数量非常多。可悲的是，没有多少喧闹的妖精
+聚会会让他们对冒险家抱有欢迎的心情。
 %%%%
-goblin rider
+妖精骑士
 
-Goblin clans fractured over the advent of steel exoskeletons long ago, prompting
-an experimental arms race for goblin hegemony. Some volunteered to join forces
-with other species, an alliance that has enabled capturing and taming wyverns.
-From uptop their majestic dragon-like mounts, these goblins swiftly soar about
-and skewer those who intrude upon their allies' domain.
+很久以前，哥布林部落就因钢铁外骨骼的出现而分裂，促使
+为妖精霸权而进行的实验性军备竞赛。有些人自愿加入
+与其他物种的联盟使得能够捕获和驯服双足飞龙。
+这些妖精从它们雄伟的龙般坐骑上迅速翱翔
+并刺穿那些侵入盟友领地的人。
 %%%%
-golden dragon
+金龙
 
-A great winged dragon covered in shining golden scales. Legends say that its
-blood runs both hot and cold, and is venomous to boot.
+一条巨大的翼龙，全身覆盖着闪亮的金色鳞片。传说其
+血液既冷又热，并且有毒。
 %%%%
-golden eye
+黄金眼
 
-A tiny and shimmering floating eye, swift as the wind and glistening like gold.
-It has a peculiarly hypnotic look.
+一只闪烁着微光的浮动眼睛，速度如风，闪烁如金。
+它有一种特别催眠的外观。
 %%%%
-goliath frog
+歌利亚蛙
 
-A frog of exceptional size, for a frog. It lashes its prey with its tongue
-from a distance to coat them in its acidic stomach juices.
+对于青蛙来说，这是一种体型异常巨大的青蛙。它用舌头抽打猎物
+从远处将它们涂在酸性胃液中。
 %%%%
-great orb of eyes
+大眼珠
 
-A levitating ball, covered in malignant eyes and humming with eldritch
-energies. Many is the adventurer ripped limb from limb by its dreadful
-eyeteeth.
+一个悬浮的球，布满恶毒的眼睛，并发出可怕的嗡嗡声
+能量。许多冒险家被其可怕的力量撕成碎片。
+牙。
 %%%%
-green death
+绿色死亡
 
-A bloated form covered in oozing sores and exhaling clouds of lethal poison.
+一个浮肿的躯体，布满了渗出的疮口，并喷出致命的毒气。
 %%%%
-green draconian
+绿色严酷
 
-A muscular green-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达、绿鳞的人形生物，有爬虫类尾巴和小翅膀。
 %%%%
-grey draconian
+灰色严酷
 
-A muscular grey-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达的灰鳞人形生物，有爬行动物的尾巴和小翅膀。
 %%%%
-guardian mummy
+守护木乃伊
 
-An ancient warrior, embalmed and cursed to walk in undeath for eternity.
+一位古老的战士，经过防腐处理并被诅咒永远在亡灵中行走。
 %%%%
-guardian serpent
+守护蛇
 
-A rare and distinct member of scaly society, light and swift like a snake, yet
-also intelligent like a naga. It is said that a guardian serpent would rather
-die in battle than leave anything to an intruder.
+鳞状社会中罕见而独特的成员，像蛇一样轻盈而敏捷，但
+也像纳迦一样聪明。据说守护蛇宁愿
+战死沙场胜过将任何东西留给入侵者。
 %%%%
-guardian sphinx
+守护者狮身人面像
 
-A fearsome aged hybrid with a woman's head, a lion's body, and the wings of
-an eagle. It solemnly guards the temples and treasures of the Dungeon with a
-multitude of mind-clouding maledictions.
+一种可怕的古老混合体，有着女人的头、狮子的身体和翅膀
+一只鹰。它庄严地守护着地下城的神祇殿和宝藏
+无数令人心神祇不宁的咒骂。
 %%%%
-halazid warlock
+哈拉齐德术士
 
-An ancient undead sorcerer, exhumed by the living divines Sheza and Sargol and
-forced to labour night and day to anchor them to the world. Even after the fall
-of the divine twins, it works to resurrect its fallen masters.
+一位古老的不死巫师，由活着的神祇祇谢扎和萨尔戈尔挖掘出来
+被迫夜以继日地工作，以将他们固定在世界上。即使在秋天之后
+作为神祇圣双胞胎，它致力于复活其堕落的主人。
 %%%%
-harpy
+鹰身女妖
 
-A bird-like creature with a human face that roams the coasts endlessly, feared
-for its sharp claws and harrying strikes.
+一种长着人脸的鸟形生物，在海岸上无休无止地游荡，令人恐惧
+因为它锋利的爪子和猛烈的攻击。
 %%%%
-haunted armour
+闹鬼的盔甲
 
-An ordinary piece of armour, held in your haunting grip. It can attack nearby
-enemies, but must return to your side if you ever stray too far from it.
+一件普通的盔甲，握在你难以忘怀的手中。它可以攻击附近
+敌人，但如果你偏离得太远，就必须回到你身边。
 %%%%
-sin beast
+罪兽
 
-A ravenous brute of a demon - as much animal as person. Born from the residue
-of mortal depravity, it gorges itself on malice and magic alike.
+一个贪婪的恶魔恶魔——既是动物又是人。从残渣中诞生
+它充满了凡人的堕落，充满了恶意和魔法。
 %%%%
-hell hog
+地狱猪
 
-An extremely large and aggressive swine, bred in Hell, whose breath burns its
-foes to ash.
+一只极其巨大且具有攻击性的猪，在地狱中饲养，其呼吸燃烧着它的身体
+敌人化为灰烬。
 %%%%
-hell hound
+地狱猎犬
 
-A huge black dog with glowing red eyes, and smoke pouring from its fanged
-mouth.
+一只巨大的黑狗，眼睛发着红光，獠牙中冒出烟雾
+嘴。
 %%%%
-hell knight
+地狱骑士
 
-A heavily armoured warrior, in league with the powers of Hell, and usually
-accompanied by other unsavoury beings of its ilk.
+一名全副武装的战士，与地狱的力量结盟，通常
+与其他同类的令人讨厌的生物相伴。
 %%%%
-hell rat
+地狱鼠
 
-A unusually large rat. Its weird, knobbly orange skin glows with the infernal
-energies that spawned it.
+一只异常大的老鼠。它奇怪的、多节的橙色皮肤闪烁着地狱般的光芒
+产生它的能量。
 %%%%
-Hell Sentinel
+地狱哨兵
 
-A towering monolith constructed and possessed by demonic forces. A thousand
-eyes leer through slits in its jagged, spiked armour.
+由恶魔力量建造并占有的高耸巨石。一千
+眼睛透过锯齿状尖刺盔甲的缝隙斜视着。
 %%%%
-hellephant
+地狱芬特
 
-An abhorrent pachyderm, descendant of demons, burning from within with the
-fires of Hell.
+一只可憎的厚皮动物，恶魔的后裔，从内部燃烧着
+地狱之火。
 %%%%
-hellfire mortar
+地狱火迫击炮
 
-A terrifying weapon hewn from molten rock. It rains fiery destruction down upon
-its creators' enemies.
+由熔岩凿成的可怕武器。烈火般的毁灭降临在
+它的创造者的敌人。
 %%%%
-hellion
+恶人
 
-A hateful demon, desirous to see all life destroyed by its damnation.
+一个充满仇恨的恶魔，渴望看到所有生命都被它的诅咒毁灭。
 %%%%
-hellwing
+地狱之翼
 
-A hideous skeletal demon. It swoops through the air on powerful wings of
-ancient withered skin, taking sadistic joy from harrying those who would try to
-flee its grasp.
+一个可怕的骷髅恶魔。它用强大的翅膀在空中俯冲
+古老枯萎的皮肤，从骚扰那些试图这样做的人中获得虐待狂的快乐
+逃离它的掌控。
 %%%%
-hexer
+妖术师
 
-A humanoid construct of insubstantial memory, floating through the air. Though
-perhaps somewhat changed in shape and bearing few discernable features, still
-it seems somehow to resemble a warrior from the distantly remembered past,
-ready with debilitating spells and deadly knifework.
+一个具有非实体记忆的人形结构，漂浮在空中。虽然
+也许在形状上有所改变并且几乎没有可辨别的特征，但仍然
+它似乎有点像遥远记忆中的过去的战士，
+准备好使人衰弱的咒语和致命的刀法。
 %%%%
-hippogriff
+鹰头马身有翼兽
 
-A large creature with the hindquarters of a horse and the wings, head and
-talons of a great eagle. As popular heraldric creatures, some fortresses may
-keep them as symbols and defenders alike, where they in turn launch intruders
-into the waiting blades of their masters.
+一种巨大的生物，有马的后躯和翅膀、头和
+一只大鹰的爪子。作为流行的纹章生物，一些堡垒可能
+将它们作为象征和防御者，然后它们反过来发射入侵者
+进入他们主人等待的刀锋中。
 %%%%
-hoarfrost cannon
+白霜炮
 
-An elegant siege weapon, magically sculpted from crystalline ice. As ephemeral
-as a summer snowstorm, every salvo it fires consumes a portion of itself until
-nothing is left behind but water.
+一种优雅的攻城武器，由晶冰神祇奇地雕刻而成。如同转瞬即逝的
+就像夏季的暴风雪一样，它的每一次齐射都会消耗掉自身的一部分，直到
+除了水，什么也没有留下。
 %%%%
-hobgoblin
+妖怪
 
-A larger and even ruder goblin. Hobgoblins are perfectly capable of wielding
-weapons, but most prefer to beat their opponents to death with their bare hands.
+体型更大、更粗鲁的妖精。大妖精完全有能力挥舞
+武器，但大多数人更喜欢徒手将对手打死。
 %%%%
-hog
+猪
 
-A large even-toed ungulate. Like human beings, it is omnivorous, intelligent,
-and nearly hairless.
+大型偶趾有蹄类动物。和人类一样，它是杂食性的，有智慧，
+并且几乎没有毛发。
 %%%%
-holy swine
+圣猪
 
-A rare celestial version of a usually filthy animal, said to be an angelic
-being who succumbed to hostile magic.
+一种罕见的天体版本，通常是肮脏的动物，据说是天使
+屈服于敌对魔法的人。
 %%%%
-hound
+猎犬
 
-A fearsome hunting dog, lithe and alert.
+一种可怕的猎犬，轻盈而警觉。
 %%%%
-howler monkey
+吼猴
 
-An aggressively territorial primate, known for the astonishing variety and
-volume of noise it can produce.
+一种具有侵略性的领地灵长类动物，以惊人的多样性和
+它可以产生的噪音量。
 %%%%
-# Stolen from http://rustyandco.com/frequently-asked-questions/monster-guide/
-human
+# 盗自http://rustyandco.com/frequently-asked-questions/monster-guide/
+人类的
 
-An uppity sort of surface-dwelling, hairless ape. Dwarves think of them as
-fragile, elves think of them as clumsy, and monsters think of them as tasty.
+一种傲慢的地表无毛猿。矮人认为他们是
+脆弱，精灵认为它们笨拙，怪物则认为它们美味。
 %%%%
-hydra
+九头蛇
 
-A great and nightmarish lacertilian beast. It has many heads, and the potential
-to grow many more!
+一只巨大而噩梦般的蜥蜴兽。它有很多头，而且有潜力
+成长更多！
 
-Hitting it with any bladed weapon bigger than a short blade risks lopping a
-head off and causing two more to grow in its place. Very large claws, such as
-trolls', are long enough to do the same. Only a weapon branded with flame will
-cauterise the wound and prevent more heads from growing.
+用任何比短刀片更大的刀片武器击中它都有可能被砍倒
+离开并导致另外两个在其位置上生长。非常大的爪子，例如
+巨魔的长度足够长，可以做同样的事情。只有带有火焰烙印的武器才能
+烧灼伤口并防止更多的头部生长。
 %%%%
-ice beast
+冰兽
 
-A terrible creature, formed of snow and crystalline ice. Its feet leave puddles
-of icy water on the floor.
+一种可怕的生物，由雪和晶冰组成。它的脚留下水坑
+地板上的冰水。
 %%%%
-ice devil
+冰魔
 
-A man-sized demon covered in glittering ice.
+一个人形大小的恶魔，全身覆盖着闪闪发光的冰块。
 %%%%
-ice dragon
+冰龙
 
-A white, frost-coated dragon. Snowflakes trickle from its nostrils.
+一条身披冰霜的白色巨龙。雪花从它的鼻孔里滴下来。
 %%%%
-Ice Fiend
+冰魔
 
-A huge frigid demon covered in frost and wreathed in freezing air. It is one of
-the most terrible denizens of the many Hells.
+一只巨大的冰冷恶魔，浑身覆盖着冰霜，周围环绕着冰冷的空气。它是其中之一
+诸地狱中最可怕的居民。
 %%%%
-ice statue
+冰雕
 
-An imposing idol of some nameless arctic god, carved in glistening deep blue
-ice. Freezing vapours swirl about it, and a chill pervades the air.
+某个无名的北极神祇的宏伟雕像，用闪闪发光的深蓝色雕刻而成
+冰。冰冷的蒸汽在它周围旋转，空气中弥漫着寒意。
 %%%%
-iguana
+鬣蜥
 
-A green lizard with strong jaws and sharp teeth, prized for its flesh.
+一种绿色蜥蜴，有着强壮的下巴和锋利的牙齿，因其肉而珍贵。
 %%%%
-imperial myrmidon
+帝国侍从
 
-A warrior initiated in the mysteries of a dying cult, dedicated to serve
-thrones long-fallen. Its blows strip away magical defences, leaving its foes
-vulnerable to even the simplest hexes.
+一名战士，在垂死的邪教的神祇秘中开始，致力于服务
+王位早已没落。它的攻击会摧毁魔法防御，让敌人离开
+即使是最简单的咒语也很容易受到攻击。
 %%%%
-inugami
+犬神祇
 
-A mystical canine, frequently bound into the service of wizards and sorcerers.
-Its eyes flicker with remarkable intelligence, but its bite is no less sharp
-than its wilder cousins.
+一种神祇秘的犬类，经常为巫师和术士服务。
+它的眼睛闪烁着非凡的智慧，但它的咬合同样锋利
+比它更狂野的表亲。
 
-They are difficult to truly kill - when gravely wounded, they instead return to
-spiritual form to lick their wounds until ready to be summoned again.
+它们很难被真正杀死——当受重伤时，它们反而会返回
+精神祇形态来舔舐伤口，直到准备好再次被召唤。
 %%%%
-iron dragon
+铁龙
 
-A very heavy, slow and apparently flightless dragon. It is named for its
-scales, which are so tough they might be iron. Small flakes of metal trail from
-its nostrils.
+一条非常沉重、缓慢且显然不会飞的龙。它因其而得名
+鳞片非常坚硬，可能是铁的。小金属片从
+它的鼻孔。
 %%%%
-iron elemental
+铁元素
 
-A rare and powerful spirit from the elemental plane of earth, it exists in this
-world by inhabiting a hulking mass of iron.
+一种来自土元素位面的稀有而强大的灵魂，它存在于这个世界中。
+居住在巨大的铁块中的世界。
 %%%%
-iron giant
+钢铁巨人
 
-A huge, rusting monolith, larger than any other species of giant. It packs
-an incredible punch.
+一块巨大的、生锈的巨石，比任何其他巨人都大。它包
+令人难以置信的一拳。
 %%%%
-iron golem
+铁傀儡
 
-A large, ponderous and very solid statue of metal, given the power of
-locomotion through some esoteric means.
+一座巨大、笨重且非常坚固的金属雕像，赋予了
+通过一些深奥的方式进行运动。
 %%%%
-iron imp
+铁小鬼
 
-An ugly, twisted little minor demon with metal skin.
+一个丑陋、扭曲、有着金属皮肤的小恶魔。
 %%%%
-iron troll
+铁巨魔
 
-A great troll, mighty of limb and plated with thick scales that resemble
-lightly rusted iron, especially in their hardness.
+一个巨大的巨魔，四肢强大，全身覆盖着厚厚的鳞片，类似于
+轻微生锈的铁，尤其是其硬度。
 %%%%
-ironbound beastmaster
+铁缚兽王
 
-A cruel and unruly brute who growls in the language of the untamed. Its very
-presence provokes and overworks non-sapient, living beasts and slimes alike into
-a rapid fervour.
+一个残忍且不守规矩的野蛮人，用未驯服的语言咆哮。其非常
+存在会激怒并过度劳累非智慧的活体野兽和史莱姆，使其进入
+快速的热情
 %%%%
-ironbound convoker
+铁缚召集者
 
-A guardian mage clad in pattern-etched armour. It can recite words of power
-to summon distant allies and imbue them with unnatural might.
+身穿刻纹铠甲的守护法师。它可以背诵力量的话语
+召唤远方的盟友并赋予他们非自然的力量。
 %%%%
-ironbound frostheart
+铁缚霜心
 
-An emaciated warrior-mage, bound to guard long-coveted treasures. It calls
-forth deadly frost from its surrounds, freezing foes that are next to walls.
+一个瘦弱的战士法师，注定要守护人们垂涎已久的宝藏。它调用
+从周围喷出致命的冰霜，冻结墙边的敌人。
 %%%%
-ironbound mechanist
+铁甲机械师
 
-A well-armoured coglin whose talents with machinery have been harnessed by the
-Ironbound order to repair and augment the many constructs that help guard the
-Vaults.
+一名全副武装的科格林，其机械天赋已被
+Ironbound的命令是修复和增强的许多有助于守卫世界的建筑
+保险库。
 %%%%
-ironbound thunderhulk
+铁缚雷霆巨人
 
-A brutish figure, hastily armoured in scraps of leather and metal to combat
-a fearsome intruder. On its back is an antique, arcane 'lightning rod', which
-calls down thunder on distant foes, although it cannot hit nearby targets.
+一个野蛮的人物，匆忙用皮革和金属碎片武装起来以进行战斗
+一个可怕的入侵者。它的背上有一根古老而神祇秘的"避雷针"，
+对远处的敌人召唤雷霆，但无法击中附近的目标。
 %%%%
-ironbound preserver
+铁缚保护者
 
-A towering, muscular figure, capable of safeguarding its allies by selflessly
-accepting a portion of the injuries inflicted upon them.
+身材高大、肌肉发达，能够无私地保护盟友
+接受对他们造成的部分伤害。
 %%%%
-jackal
+豺狼
 
-A small canine scavenger. Packs of jackals roam the underworld, searching for
-carrion to devour.
+小型犬类清道夫。成群的豺狼在地下世界游荡，寻找
+腐肉来吞噬。
 %%%%
-jelly
+果冻
 
-A pulsating mass of acidic protoplasm.
+酸性原生质的脉动团。
 %%%%
-jiangshi
+蒋氏
 
-A vampiric thrall bound into servitude by esoteric rituals. Though its rigid
-limbs give it an awkward gait, it moves with surprising speed, leaping upon its
-victims and leeching away their life essence with its vicious claws.
+一个被深奥仪式束缚的吸血鬼奴隶。虽然它的刚性
+四肢赋予它一种笨拙的步态，它以惊人的速度移动，跳跃在它的身上
+受害者并用其恶毒的爪子吸走他们的生命精华。
 %%%%
-jorogumo
+上云
 
-A spider spirit that takes the appearance of a human. It weaves deadly magics to
-incapacitate and kill its prey.
+具有人类外貌的蜘蛛精。它编织致命的魔法
+使其失去行动能力并杀死猎物。
 %%%%
-juggernaut
+主宰
 
-A gigantic humanoid with thick iron plates welded to its skin. It moves with
-alarming speed and deals incredible damage with its immense fists, but must
-rest between blows.
+一个巨大的人形生物，皮肤上焊接着厚厚的铁板。它随着移动
+惊人的速度并用巨大的拳头造成难以置信的伤害，但必须
+击打之间休息。
 %%%%
-jumping spider
+跳蜘蛛
 
-A spider which weaves webs between its front legs and leaps at its prey,
-ensnaring them. The speed with which it leaps is almost supernatural.
+蜘蛛在前腿之间织网并扑向猎物，
+诱捕他们。它跳跃的速度几乎是超自然的。
 %%%%
-killer bee
+杀人蜂
 
-A giant bee, bearing a deadly barb which can sting repeatedly.
+一只巨大的蜜蜂，长着致命的倒刺，可以反复蜇人。
 %%%%
-Killer Klown
+杀手小丑
 
-A comical figure full of life and laughter. It looks very happy to see you...
-but is there a slightly malicious cast to its features? Is that red face paint
-or something altogether less pleasant?
+一个充满生机和笑声的滑稽人物。见到你看起来很高兴...
+但其功能是否存在轻微恶意？那是红脸漆吗
+或者完全不那么令人愉快的事情？
 %%%%
-knight
+骑士
 
-A humanoid construct of insubstantial memory, floating through the air. Though
-perhaps somewhat changed in shape and bearing few discernable features, still
-it seems somehow to resemble a warrior from the distantly remembered past,
-well equipped with arms and armour both.
+一个具有非实体记忆的人形结构，漂浮在空中。虽然
+也许在形状上有所改变并且几乎没有可辨别的特征，但仍然
+它似乎有点像遥远记忆中的过去的战士，
+武器和盔甲都装备精良。
 %%%%
-kobold
+狗头人
 
-A small, greyish creature with the look and temperament of a feral dog. No one
-knows for sure where kobolds come from, but ancient demon-gods, evil spirits,
-and meddling wizards have all been suggested as culprits.
+一种体型较小的灰色生物，外表和性情都像野狗。没有人
+确切地知道狗头人来自哪里，但古老的恶魔神祇、邪恶的灵魂，
+多管闲事的巫师都被认为是罪魁祸首。
 %%%%
-kobold brigand
+狗头人强盗
 
-A kobold that is bigger and tougher than the ordinary kobold, with a penchant
-for underhanded tactics.
+比普通狗头人更大更坚韧的狗头人，具有嗜好
+对于卑鄙的战术。
 %%%%
-kobold blastminer
+狗头人爆破矿工
 
-A kobold, ready with multiple armaments to defend itself from the many
-dangers of the depths. The blastmote-packed cannon on its shoulder bears its
-maker's mark, and is fiercely loyal; it will fire for none other.
+一只狗头人，准备好多种武器来防御众多敌人
+深处的危险。肩上装满爆炸物的大炮承载着它的
+制造商的标记，并且非常忠诚；它不会为任何人而开火。
 %%%%
-kobold demonologist
+狗头人恶魔学家
 
-A kobold in league with demonic powers, able to call forth beings from the
-depths of Hell.
+与恶魔力量结盟的狗头人，能够召唤来自世界的生物
+地狱深处。
 %%%%
-kobold fleshcrafter
+狗头人血肉工匠
 
-A skull-masked kobold, its body mutated by forbidden magics. It conducts vile
-experiments in the service of demonic powers, formulating ever more terrible
-monstrosities as vessels for devilish minds.
+头戴骷髅面具的狗头人，其身体因禁忌魔法而发生变异。其行为恶劣
+为恶魔力量服务的实验，制定出更可怕的
+怪物是邪恶思想的容器。
 %%%%
-kobold geomancer
+狗头人风水师
 
-A wily kobold who has learned to weaponise every crack and crevice that lines
-the walls of its domain.
+一个狡猾的狗头人，他学会了将每一条裂缝和缝隙都变成武器
+其领域的城墙。
 %%%%
-komodo dragon
+科莫多巨蜥
 
-An enormous monitor lizard more than capable of preying on large animals.
+一种巨大的巨蜥，能够捕食大型动物。
 %%%%
-kraken
+海怪
 
-A gargantuan sea monster, capable of devouring entire ships. Its many tentacles
-reach towards the shore and crush any who draw near.
+巨大的海怪，能够吞噬整艘船只。它有许多触手
+伸向海岸并碾碎任何靠近的人。
 %%%%
-large abomination
+大可憎
 
-A hideous conglomeration of mangled body parts, possessed and altered in ways
-that challenge sanity. Each varies in speed, strength, or resilience by
-the nature of whatever unfortunates were used to make it.
+一个由残破的身体部位组成的可怕的集合体，以各种方式被附身和改变
+这挑战了理智。每个人的速度、力量或弹性各不相同
+任何不幸的事物被用来制造它的本质。
 %%%%
-laughing skull
+笑的头骨
 
-A blazing swift skull that cackles with the bleak malice of the dead. Fond of
-swarming, its laughter grows more spiteful and powerful for each nearby member
-of its own kind.
+一个炽热而敏捷的头骨，带着死者阴冷的恶意咯咯地笑。喜欢
+它的笑声蜂拥而至，对附近的每个成员来说都变得更加恶意和强大
+属于它自己的类型。
 %%%%
-lava snake
+熔岩蛇
 
-A burning red snake which dwells in pools of lava. It spits gobs of molten rock
-at passers-by.
+一条居住在熔岩池中的燃烧的红蛇。它吐出熔岩块
+在路人处。
 %%%%
-lemure
+莱穆尔
 
-An accursed soul magically bound to hellish servitude for the highest bidder.
-If its master is slain, it will be freed, departing this realm with gratitude.
+一个被诅咒的灵魂被神祇奇地束缚在出价最高者的地狱般的奴役之下。
+如果它的主人被杀，它就会获得自由，满怀感激地离开这个世界。
 %%%%
-lich
+巫妖
 
-A powerful wizard who has learned to cheat death itself, now existing as a
-skeletal, desiccated corpse kept intact by a mighty exercise of dark magic.
+一个强大的巫师，学会了欺骗死亡本身，现在作为一个存在
+通过强大的黑魔法练习，骨骼干燥的尸体完好无损。
 %%%%
-lightning spire
+闪电尖塔
 
-A buzzing contraption made from a coil and a rod. It irregularly zaps
-electricity at the most distant enemy in its range.
+一种由线圈和棒制成的嗡嗡作响的装置。它不规则地跳动
+向其射程内最远的敌人发射电力。
 %%%%
-lindwurm
+林德沃姆
 
-A small serpentine dragon with a pair of strong forelimbs. Its thick scales
-give off an eerie red glow.
+一条小型蛇形龙，拥有一对强壮的前肢。它的鳞片很厚
+发出诡异的红色光芒。
 %%%%
-living spell
+活咒语
 
-A spell, waiting to cast itself at the first foe that enters its range. Once
-it does, it'll dissipate into the ether.
+这是一个咒语，等待着第一个进入其范围的敌人。曾经
+确实如此，它会消散到以太中。
 %%%%
-lost soul
+失去灵魂
 
-The echo of an unmourned soul. Though the memories of its living self are
-long-faded, it is drawn to the moment of death by some lingering instinct. It
-seizes upon the passage of other souls, losing the last vestiges of its being
-in the memories of another's life.
+一个未哀悼的灵魂的回声。虽然它活着的自己的记忆是
+它早已褪色，被某种挥之不去的本能吸引到死亡的那一刻。它
+抓住其他灵魂的通道，失去其存在的最后痕迹
+在另一个人的生活的记忆中。
 %%%%
-lurking horror
+潜伏的恐怖
 
-A formless mass of negative energy, bound to bring terrible torment once the
-forces holding it together dissolve. The alien presence of intruders to the
-Abyss is sure to unravel it, yet it seems perversely drawn toward them; still,
-it seems somehow reluctant to move while being observed.
+一团无形的负能量，一旦出现，必然会带来可怕的折磨。
+将其结合在一起的力量消失了。外星人入侵者的存在
+深渊肯定会解开它，但它似乎反常地被它们吸引着；仍然，
+当被观察时，它似乎不愿意移动。
 %%%%
-mana viper
+法力毒蛇
 
-A violet-scaled serpent with faintly glowing eyes. It thirsts for magic as well
-as flesh, and its bite can drink dry the magical reservoirs of even a powerful
-mage in no time.
+一条紫色鳞片的蛇，眼睛里闪烁着微弱的光芒。它也渴望魔法
+就像肉一样，它的咬一口可以吸干即使是强大的魔法储存库
+法师立刻。
 %%%%
-manticore
+蝎尾狮
 
-A hideous cross-breed, bearing the features of a human and a lion, with great
-bat-like wings. Its tail bristles with spikes that can be loosed at potential
-prey.
+一种可怕的杂交品种，具有人类和狮子的特征，具有巨大的
+蝙蝠般的翅膀。它的尾巴上长满了尖刺，有可能会松开
+猎物。
 %%%%
-marrowcuda
+骨髓库达
 
-The flame-wreathed skeleton of a carnivorous fish, darting through air as easily
-as it once parted water. It burns with a hunger it could not satisfy in life and
-is singularly driven by in death.
+肉食鱼的火焰缠绕骨架，轻松地在空中飞驰
+就像它曾经分开水一样。它因生活中无法满足的饥饿而燃烧，
+唯一的驱动力是死亡。
 
-While a single one may be only a nuisance, the swarm is never far behind, and
-every bite it lands will summon more and more of them until every scrap of flesh
-on its prey has been devoured.
+虽然单个的可能只是一个麻烦，但群体永远不会落后，而且
+它的每一口都会召唤越来越多的它们，直到每一块肉
+它的猎物已被吞噬。
 %%%%
-martyred shade
+殉难的阴影
 
-The wandering shade of a long-dead soul who died for a forgotten cause. Though
-their memories have turned to mist, something deep within still compels them to
-serve and sacrifice - no matter the cost.
+一个因被遗忘的原因而死去的早已死去的灵魂的游荡阴影。虽然
+他们的记忆已经化为迷雾，但内心深处的某些东西仍然迫使他们
+服务和牺牲——不惜一切代价。
 %%%%
-meliai
+梅利亚伊
 
-A nymphal hybrid, with a winged torso of a human atop the stinging abdomen
-of a bee. The meliai serve under many roles: priestesses of nature, nurses to
-the divine, and warrior-champions for their hives.
+一种若虫杂交体，腹部有刺，上面有人类的带翅膀的躯干
+Meliai扮演着多种角色：自然的女祭司、护理人员
+神祇圣的和战士的冠军为他们的蜂巢。
 %%%%
-merfolk
+人鱼
 
-A hybrid with the torso of a human and the tail of a fish. It is capable of
-dwelling both in water and on land, and fiercely defends its domain.
+人的躯干和鱼的尾巴的混合体。它能够
+栖于水陆，勇猛保卫其领地。
 %%%%
-merfolk aquamancer
+人鱼水术师
 
-A slender merfolk mystic with unusually webby hands. Its form shifts and
-glistens as if seen through ocean spray.
+一位身材苗条的人鱼神祇秘主义者，有着异常纤细的双手。它的形式发生变化并
+闪闪发光，就像透过海洋浪花看到的一样。
 %%%%
-merfolk avatar
+人鱼头像
 
-A beguiling merfolk whose voice mesmerises listeners. It carries no weapon,
-but its song summons drowned souls to defend the sea against intruders.
+迷人的人鱼，其声音令听众着迷。它没有携带任何武器，
+但它的歌声召唤溺水的灵魂来保卫海洋免受入侵者的侵害。
 %%%%
-merfolk impaler
+人鱼穿刺者
 
-A powerfully muscled merfolk warrior, bearing a deadly weapon.
+一名肌肉发达、手持致命武器的人鱼战士。
 %%%%
-merfolk javelineer
+人鱼标枪手
 
-A fearsome merfolk champion with a piercing gaze and a large bundle of
-javelins.
+一个可怕的人鱼冠军，有着锐利的目光和一大堆
+标枪。
 %%%%
-merfolk siren
+人鱼海妖
 
-A beguiling merfolk whose voice can mesmerise listeners.
+迷人的人鱼，其声音可以让听众着迷。
 %%%%
-minotaur
+牛头怪
 
-A large muscular human with the head of a bull. It makes its home in a
-gauntlet where it awaits worthy challengers.
+一个身材高大、肌肉发达、长着牛头的人类。它把它的家安在
+挑战等待着有价值的挑战者。
 %%%%
-molten gargoyle
+熔化的石像鬼
 
-A hideous molten stone statue come to life, with flames licking across its
-body.
+一座可怕的熔石雕像复活了，火焰舔舐着它的雕像
+身体。
 %%%%
-monarch bomb
+君主炸弹
 
-A flying munitions factory, held aloft on jets of fiery exhaust and packed to
-the brim with explosives. It can rapidly fill an area with bomblets, and when
-commanded by its creator, will explode them all (and itself) to devastating
-effect.
+一座飞行军火工厂，被喷出的炽热废气高高举起，并包装成
+边缘充满炸药。它可以用小炸弹快速布满一个区域，并且当
+由其创造者指挥，将把它们全部（和它本身）炸毁，造成毁灭性的后果
+效果。
 %%%%
-morphogenic ooze
+形态发生软泥
 
-A multihued mire of roiling flesh and fluctuating sludge, striving and failing
-for more coherence than any other slime. As a fresh carrier of the ruinous
-contagion that overtook the Slime Pits, it can impart unto others the same
-horrible fate. While it may not be a permanent transformation for you, the
-melding of weapons and armour, as well as the severe weakening of spells, may
-make it a lethal one regardless.
+一片由翻腾的血肉和波动的淤泥组成的多彩泥沼，努力和失败
+比任何其他粘液更具连贯性。作为毁灭性的新鲜载体
+超越史莱姆坑的传染病，它可以将同样的情况传染给其他人
+可怕的命运。虽然这对你来说可能不是永久的转变，
+武器和盔甲的融合，以及法术的严重削弱，可能会
+无论如何，让它成为致命的。
 %%%%
-moth of wrath
+愤怒之蛾
 
-A moth known for its ability to inspire rage by touching its foes, or merely
-gazing at its friends. For some inexplicable reason, it was eradicated from
-the surface centuries ago.
+一种飞蛾，以其通过触摸敌人而激起愤怒的能力而闻名，或者仅仅是
+凝视着它的朋友。由于某种莫名其妙的原因，它被根除了
+几个世纪前的地表。
 %%%%
-mountainshell
+山壳
 
-An enormous land tortoise whose shell is so thick and rock-encrusted that
-sleeping ones are frequently mistaken for geological formations. And like a
-mountain, its exterior is nearly impervious to any destructive force; only at
-close range can one properly aim for the narrow gaps between its plates to
-strike the tender flesh within.
+一种巨大的陆龟，其外壳非常厚且布满岩石，
+睡觉的人经常被误认为是地质构造。并且像一个
+山，它的外部几乎不受任何破坏力的影响；仅在
+近距离可以正确瞄准其板之间的狭窄间隙
+敲打里面的嫩肉。
 %%%%
-mummy
+木乃伊
 
-An undead figure covered in bandages and embalming fluids, compelled to walk by
-an ancient curse. It radiates a malign aura.
+一个浑身缠着绷带和防腐液的不死人物被迫走过
+一个古老的诅咒。它散发着邪恶的气息。
 %%%%
-mummy priest
+木乃伊牧师
 
-An ancient servant of a long forgotten god, embalmed and cursed to walk in
-undeath for all eternity.
+一位被遗忘已久的神祇的古代仆人，经过防腐处理并被诅咒走进去
+永远不死。
 %%%%
-mutant beast
+变异兽
 
-A bizarre creature, twisted and warped by overexposure to magical radiation.
-Each has a different set of traits.
+一种奇异的生物，因过度暴露于魔法辐射而扭曲变形。
+每个人都有一组不同的特征。
 %%%%
-naga
+纳迦
 
-A hybrid that is human from the waist up; below is a scaly, muscular snakelike
-tail. Its mouth drips with venomous saliva.
+腰部以上都是人类的混血儿；下面是一条有鳞、肌肉发达的蛇
+尾巴。它的嘴里滴着有毒的唾液。
 %%%%
-naga mage
+纳迦法师
 
-A naga that has trained in the use of magic, trailed by an eldritch nimbus. It
-is especially skilled in spells dealing with poison and venom.
+接受过使用魔法训练的纳迦，身后跟随着可怕的灵气。它
+尤其擅长处理毒药和毒液的法术。
 %%%%
-naga ritualist
+纳迦仪式者
 
-An esoteric mystic draped in talismans. It venerates poison as a sacred gift
-and means of spiritual purification.
+身披护身符的深奥神祇秘主义者。它尊崇毒药为神祇圣的礼物
+以及精神祇净化的手段。
 %%%%
-naga sharpshooter
+纳迦神祇枪手
 
-A naga with exceptionally keen eyesight, adept in the use of ranged weaponry
-and simple magics which allows it to snipe at targets across nearly any
-obstruction.
+拥有异常敏锐视力、擅长使用远程武器的纳迦
+以及简单的魔法，使其能够狙击几乎任何地方的目标
+阻碍。
 %%%%
-naga warrior
+纳迦战士
 
-A fearsome naga warrior clad in sturdy armour and wielding a mighty weapon.
+一个可怕的纳迦战士，身穿坚固的盔甲，挥舞着强大的武器。
 %%%%
-nagaraja
+纳加拉贾
 
-A magnificent example of the naga. It is an expert at both martial and magical
-arts.
+纳迦的一个伟大的例子。它是武术和魔法双方面的专家
+艺术。
 %%%%
-nameless horror
+无名的恐怖
 
-A malign force from the space between planes. It is hostile to the magic forces
-that removed it from its home. These horrors are often the result of mistaken
-summoning spells and have slain many aspiring wizards.
+来自位面之间空间的邪恶力量。它与魔法力量为敌
+这把它从家里搬走了。这些恐怖事件往往是错误的结果
+召唤咒语并杀死了许多有抱负的巫师。
 %%%%
-nascent plasmodium
+新生疟原虫
 
-A slime mold colony in an early phase of its life cycle. Not yet mature enough
-to reproduce, it can still defend itself by firing globs of potent acid.
+处于生命周期早期阶段的粘菌菌落。还不够成熟
+为了繁殖，它仍然可以通过发射强酸球来保护自己。
 %%%%
-nargun
+纳尔贡
 
-An ancient stone creature that has lived among these frozen caves since before
-Antaeus rent Cocytus into being. It tolerates its new neighbors begrudgingly,
-preferring the company of its petrified enemies. Veins of ice permeate its
-frozen stone flesh.
+一种古老的石头生物，从以前就生活在这些冰冻的洞穴中
+安泰俄斯租下了科塞托斯。它不情愿地容忍它的新邻居，
+更喜欢与石化的敌人为伍。冰脉渗透其
+冰冻的石肉。
 %%%%
-necromancer
+死灵法师
 
-An evil wizard who is devoted to the practice of death magic, the mastery of
-unholy energies, and the raising of corpses into a parody of life.
+一个邪恶的巫师，致力于练习死亡魔法，掌握
+邪恶的能量，以及将尸体提升为对生命的模仿。
 %%%%
-necrophage
+坏死噬菌体
 
-A vile undead creation of the most unholy necromancy, made from the decaying
-corpses of humanoid creatures. It exists to spread disease and decay.
+用最邪恶的死灵术创造出的邪恶不死生物，由腐烂的物质制成
+人形生物的尸体。它的存在是为了传播疾病和腐烂。
 %%%%
-nekomata
+猫又
 
-An upright feliform trickster of an elderly demon, with a forked tail ablaze
-with a shimmering haze. It holds a deep disdain for mortal humanoids, a
-patronising pity for mortal cats, and enough mystic might to subjugate both.
+一只直立的猫形骗子，是一位老年恶魔，叉尾燃烧着
+带着闪烁的薄雾。它对凡人类人生物抱有深深的蔑视，
+对凡间的猫有居高临下的怜悯，还有足够的神祇秘力量来征服两者。
 %%%%
-neqoxec
+奈克克
 
-A weirdly shaped demon, pulsing and shifting with mutagenic energies, its belly
-distended with the devoured brains of its victims.
+一个形状怪异的恶魔，它的腹部充满了突变能量，不断脉动和变化
+因受害者被吞噬的大脑而膨胀。
 %%%%
-obsidian bat
+黑曜石蝙蝠
 
-A faceless stone bat unearthed from infernal chasms. Devilish beasts hunt in its
-wake.
+从地狱深渊中出土的无面石蝠。凶兽在其内狩猎
+醒来。
 %%%%
-obsidian statue
+黑曜石雕像
 
-A beautiful statue of an unknown creature, jet-black like a tear in reality.
-Its eyes glow with an otherworldly, malignant radiance.
+一座未知生物的美丽雕像，漆黑如现实中的泪水。
+它的眼睛闪烁着超凡脱俗的邪恶光芒。
 %%%%
-occultist
+神祇秘主义者
 
-A wizard fond of illusion and treachery. They scorn the crudeness of other
-magicians, who hurl wild conjurations toward their foes rather than cunningly
-exploiting their greatest weaknesses.
+一个喜欢幻想和背叛的巫师。他们蔑视他人的粗鲁
+魔术师，他们向敌人投掷狂野的咒语，而不是狡猾地
+利用他们最大的弱点。
 %%%%
-octopode
+八足虫
 
-A more intelligent cousin of the mighty kraken, capable of using tools and
-spells. It is fully amphibious, but most of its species choose to stay beneath
-the waves and serve their King.
+强大的海妖的更聪明的表亲，能够使用工具和
+咒语。它是完全两栖的，但它的大多数物种选择留在水下
+波浪并服务他们的国王。
 %%%%
-ogre
+食人魔
 
-A large, ugly, and fat creature, distantly related to goblins. It is
-tremendously strong, and likes fighting alongside its orc friends.
+一种又大又丑又胖的生物，与妖精有远亲关系。它是
+非常强壮，喜欢与兽人朋友并肩作战。
 %%%%
-ogre mage
+食人魔法师
 
-A rare breed of ogre, skilled in the use of magic. It usually becomes a
-chieftain among its kin.
+一种稀有的食人魔品种，擅长使用魔法。它通常会变成一个
+其亲属中的酋长。
 %%%%
-oklob plant
+奥克洛布工厂
 
-A very dangerous plant which fends off predators by spraying corrosive vitriol
-at them. Even experienced adventurers give oklob plants a wide berth.
+一种非常危险的植物，通过喷洒腐蚀性硫酸来抵御捕食者
+对他们。即使是丰富的冒险家也对oklob植物敬而远之。
 %%%%
-oklob sapling
+奥克洛布树苗
 
-A young oklob plant. It is more fragile than the mature specimen, but the acid
-it sprays is just as deadly.
+年轻的 oklob 植物。它比成熟的雕塑更脆弱，但酸
+它喷出的液体同样致命。
 %%%%
-oni
+鬼
 
-A large, rowdy, and drink-loving creature. When they're not busy with their
-duties serving any number of gods, oni mostly love a good fight.
+体型庞大、吵闹、爱喝酒的生物。当他们不忙自己的事情时
+侍奉各种神祇祗的职责，鬼大多喜欢一场精彩的战斗。
 %%%%
-oni incarcerator
+鬼囚徒
 
-An infamous, dutiful retainer of Gehenna. These immense and indomitable oni
-weave their weapons through reality itself to reach and capture the innumerable
-damned souls owed to the hells upon their deaths.
+臭名昭著、尽职尽责的地狱保留者。这些巨大而顽强的鬼
+通过现实本身编织他们的武器来到达并捕获无数的
+受诅咒的灵魂死后欠地狱的债。
 %%%%
-ophan
+奥芬
 
-A creature from the heavenly realms. It consists of a wheel within a wheel, and
-both of these are covered in eyes; strange flames of holy fire flicker all over
-it. To be seen by its countless eyes is to be highlighted and branded as both
-dissident and quarry for its allies to hunt down.
+来自天界的生物。它由一个轮子套着一个轮子组成，并且
+这两个人都被眼睛遮住了；浑身上下闪烁着奇异的圣火火焰
+它。被无数双眼睛看到，就会被凸显出来，并被打上烙印
+持不同政见者和盟友追捕的猎物。
 %%%%
-orange crystal statue
+橙色水晶雕像
 
-An intricately carved idol of some nameless godling, hewn of translucent orange
-crystal. Its lifeless eyes seem to glitter uncannily with a wicked
-intelligence. It is capable of unleashing a powerful psychic assault upon the
-minds of any who approach it.
+一座由半透明橙色凿成的、雕刻精美的无名神祇灵雕像
+水晶。它毫无生气的眼睛似乎闪烁着邪恶的光芒
+情报。它能够对敌人发动强大的精神祇攻击
+任何接近它的人的思想。
 %%%%
-orange demon
+橙色恶魔
 
-An amber-coloured demon with a barbed tail not unlike that of a scorpion.
+琥珀色的恶魔，尾巴上有倒刺，与蝎子的尾巴没什么不同。
 %%%%
-Orb Guardian
+宝珠守护者
 
-A huge, glowing, four-limbed purple creature with heightened senses, created by
-the Orb itself. It guards the Orb with enormous punctiliousness and violence,
-and its death will alert any Boundless Tesseracts on the level to begin creating
-reinforcements.
+一种巨大的、发光的、四肢紫色生物，具有高度的感官，由
+球体本身。它以极大的谨慎和暴力守护着球体，
+它的死亡将提醒该关卡上的任何无边超立方体开始创建
+增援。
 
-Unless the Orb has already been disturbed, it will refuse to abandon its duty
-by leaving the floor.
+除非球体已经受到干扰，否则它将拒绝放弃其职责
+离开会场。
 %%%%
-orb of destruction
+毁灭之球
 
-A conjured globe of pure magic that homes onto a designated target, albeit with
-massive inertia. A smart and agile person may move out of its path, causing it
-to miss its target. It cannot be avoided by Dodging skill, and is able to make
-sharp turns to hit adjacent targets.
+一个纯粹魔法的魔法球体，可以瞄准指定的目标，尽管有
+巨大的惯性。一个聪明而敏捷的人可能会偏离它的道路，从而导致它
+错过目标。无法通过闪避技能回避，并且能够使
+急转弯以击中相邻目标。
 %%%%
-orb of entropy
+熵球
 
-A globe of profound nothingness and the oblivion that awaits all things - flesh,
-souls, and even time itself. When the universe ends, only these will remain.
+一个深邃的虚无和等待一切事物的遗忘的星球——肉体，
+灵魂，甚至时间本身。当宇宙终结时，只剩下这些。
 %%%%
-orb of fire
+火球
 
-A globe of raw primordial fire, capable of impressive pyrotechnics and of
-twisting the very flesh of creatures who come into its ken.
+一个充满原始原始之火的星球，能够产生令人印象深刻的烟火和
+扭曲进入其领地的生物的肉体。
 %%%%
-orb of winter
+冬天的球体
 
-A globe of deepest cold, still lingering from a time before the stars lit the
-heavens. It can shroud the soul in a chill so intense that even the gods cannot
-reach it.
+一个最深的寒冷的星球，从星星点亮大地之前的时间起仍然挥之不去。
+天啊。它可以将灵魂笼罩在连神祇都无法承受的强烈寒意之中。
+达到它。
 %%%%
-orb spider
+圆球蜘蛛
 
-An eerily glowing spider with strands of pure energy emerging from its
-spinnerets. It seems to want to keep its distance.
+一只散发着诡异光芒的蜘蛛，其身上散发出一股股纯粹的能量
+喷丝板。似乎想要保持距离。
 %%%%
-orc
+兽人
 
-A subterranean tribe whose forebearers were once scattered across every corner
-of the surface world. Eons of persecution have taught them the necessity of
-violence and the importance of having your brethren at your side.
+一个地下部落，其祖先曾经分散在各个角落
+地表世界的。亿万年的迫害告诉他们有必要
+暴力以及让你的弟兄站在你一边的重要性。
 %%%%
-orc apostle
+兽人使徒
 
-An orcish wayfarer who has been touched by the hand of Beogh. Whether out of
-religious devotion or personal jealousy, they have come to bar your path.
+被贝奥之手触摸过的兽人徒步旅行者。无论是出于
+宗教信仰或个人嫉妒，它们会挡住你的道路。
 
-Hold nothing back - for neither they nor their followers will do so.
+不要有所保留——因为他们和他们的追随者都不会这样做。
 
-Glory to Beogh!
+荣耀属于贝奥！
 %%%%
-orc apostle follower
+兽人使徒追随者
 
-A favoured child of Beogh, once not so unlike yourself.
+贝奥最宠爱的孩子，曾经与你并没有那么不同。
 
-Now that you have proven yourself to them, they will fight and die for both you
-and the cause. Shepherd them well.
+既然你已经向他们证明了自己，他们就会为你而战，为你而死
+以及原因。好好牧养他们。
 %%%%
-orc high priest
+兽人大祭司
 
-An exalted servant of the orc god Beogh and a master of many foul rites, to
-whose aid Beogh will even send beings from the netherworld.
+兽人神祇贝奥的崇高仆人，也是许多肮脏仪式的主人，
+他的帮助比奥甚至会从阴间派遣生物。
 %%%%
-orc knight
+兽人骑士
 
-A heavily armoured orc, covered in scars from many past battles. It commands
-its brethren in battle, rousing them to greater, more violent efforts with
-bloodcurdling shouts.
+一名全副武装的兽人，身上布满了过去多次战斗留下的伤痕。它命令
+激励他们在战斗中做出更大、更猛烈的努力
+令人毛骨悚然的叫喊声。
 %%%%
-orc priest
+兽人牧师
 
-A servant of Beogh, the ancient god of the orcs. Beogh rewards its devoted
-prayers by striking down its enemies.
+古代兽人之神祇贝奥的贡献者。 Beogh 奖励其贡献精神祇
+通过击倒敌人来祈祷。
 %%%%
-orc sorcerer
+兽人巫师
 
-An exceptionally competent orcish wizard, in league with hellish and chthonic
-forces and motivated by the purest imaginable strain of malevolence.
+一个非常有能力的兽人巫师，与地狱和地狱联盟
+力量和动机是最纯粹的可以想象的恶意压力。
 %%%%
-orc warlord
+兽人军阀
 
-A supreme commander of an orc host, skilled at both melee and ranged combat.
+兽人军队的最高指挥官，擅长近战和远程战斗。
 %%%%
-orc warrior
+兽人战士
 
-An experienced, armoured and well-armed orc soldier, able to command a small
-mob of its fellows.
+一名经验丰富、全副武装、装备精良的兽人士兵，能够指挥一支小型部队
+它的同伴的乌合之众。
 %%%%
-orc wizard
+兽人巫师
 
-An orc who has gained proficiency in the occult arts, using them for martial
-purposes.
+精通神祇秘艺术并将其用于武术的兽人
+目的。
 %%%%
-pale draconian
+苍白严酷
 
-A muscular humanoid with pale scales, a reptilian tail and small wings.
+一个肌肉发达的人形生物，有着苍白的鳞片、爬行动物的尾巴和小翅膀。
 %%%%
-pandemonium lord
+混乱领主
 
-A formidable demon lord inhabiting the endless halls of Pandemonium. Each one
-is different, with its own set of strengths and weaknesses.
+居住在无尽魔界大厅中的强大恶魔领主。每一个
+是不同的，有自己的优点和缺点。
 %%%%
-peacekeeper
+和平卫士
 
-A four-legged humanoid construct, tasked with recapturing escaped prisoners and
-punishing heretics. Long after the fall of the empire it once served, it
-continues to enforce imperial law, knowing no jurisdiction.
+一个四足人形生物，其任务是抓回逃犯并
+惩罚异端。在它曾经服务的帝国垮台很久之后，
+继续执行帝国法律，不知道任何管辖权。
 %%%%
-pearl dragon
+珍珠龙
 
-A dragon consecrated to the holy divine powers. Its breath is blessed fire, and
-its claws sear its victims with divine wrath.
+奉献给神祇圣力量的龙。它的呼吸是受祝福的火，并且
+它的爪子会带着神祇圣的愤怒灼烧受害者。
 %%%%
-petrified flower
+石化花
 
-A sizeable and statuesque flower, fossilised either by bitter grief or the cruel
-grace of divinity, standing in its own eternal vigil.
+一朵巨大而雕像般的花朵，因痛苦的悲伤或残酷而变成化石
+神祇性的恩典，站在自己永恒的守夜中。
 %%%%
-phalanx beetle
+方阵甲虫
 
-An intricate mechanical beetle covered in reinforced metal plates that resemble
-a shield. It projects a kinetic barrier around its creator while adjacent to
-them, increasing their armour class.
+一种复杂的机械甲虫，上面覆盖着类似于
+一个盾牌。它在其创造者周围投射出一个动能屏障，同时邻近
+他们，提高他们的装甲等级。
 
-It will never voluntarily leave its creator's side, and if forcibly seperated,
-will prioritise returning to them over any other concerns.
+它永远不会主动离开创造者的身边，如果强行分离，
+将优先考虑返回他们而不是任何其他问题。
 %%%%
-phantasmal warrior
+幻影战士
 
-A hideous translucent green spirit of a warrior fallen in battle but recalled
-to this plane by unholy magic. The blade it wields is ethereal, rendering those
-it strikes weak-willed and vulnerable to dark magic.
+一名在战斗中倒下但被召回的可怕的半透明绿色战士灵魂
+通过邪恶的魔法来到这个位面。它所挥舞的刀刃是空灵的，使那些
+它攻击意志薄弱且易受黑魔法攻击的人。
 %%%%
-phantom
+幻影
 
-A nearly-transparent undead spirit, suspected by some sages to be a degenerate
-form of ghost, with no memories of its former life. It rarely stays in one
-place for long.
+一种近乎透明的不死灵魂，被一些圣人怀疑是堕落的灵魂
+鬼魂的形态，没有前世的记忆。它很少停留在一个
+放置很长时间。
 %%%%
-pharaoh ant
+法老蚁
 
-A royal ant returned to unlife through strange, probably horrifying means. It
-binds the souls of its allies when slain, allowing them to fight on after death
-as simulacra.
+一只皇家蚂蚁通过奇怪的、可能是可怕的方式恢复了生命。它
+被杀时束缚盟友的灵魂，让他们在死后继续战斗
+作为拟像。
 %%%%
-pile of debris
+一堆碎片
 
-A heavily ruptured stonework, surrounded by rubble.
+一座严重破裂的石雕，周围都是瓦砾。
 %%%%
-pile of flesh
+一堆肉
 
-A leftover mess of broken bones, inert grasping organs, and scattered skin.
-While some highly-specialised sorcerers might be capable of bringing it to life,
-it is otherwise harmless - the possible leftovers of some departed or
-absent-minded magus.
+剩下的一堆断骨、无力的抓握器官和散落的皮肤。
+虽然一些高度专业的巫师可能能够将其变为现实，
+否则它是无害的——一些已故或离开的人可能留下的东西
+心不在焉的魔术师。
 %%%%
-pillar of rime
+雾凇之柱
 
-A spire of strangely tenebrous ice, its brittle tendrils reaching skyward like
-the fingers of an outstretched hand. {{
-    if spells.memorised("rimeblight") then
-        return "If only the dying breath of every soul could create such art."
+一个奇怪的阴暗冰塔，它脆弱的卷须像
+伸出的手的手指。 {{
+    if spells.memorised("冰晶长矛") then
+        return "如果每个灵魂都竭尽全力创造出这样的艺术就好了。"
     else
-        return "It might even be beautiful if you didn't know the gruesome " ..
-               "way it formed."
+        return "如果你不知道其可怖之处，它甚至可能很美丽"..
+               "它形成的方式。"
     end
 }}
 %%%%
-pillar of salt
+盐柱
 
-A pillar of salt shaped like a statue, but worked by no living hands.
+一根盐柱，形状像雕像，但无人在世。
 %%%%
-plant
+植物
 
-A plant that has adapted to grow in the unpleasant dungeon environment,
-somehow thriving even underground in the absence of the sun.
+适应了在令人不快的地牢环境中生长的植物，
+即使在没有阳光的地下，它们也会以某种方式蓬勃发展。
 %%%%
-platinum paragon
+白金典范
 
-A gleaming warrior, wrought from precious metals and the very pinnacle of
-forgecraft techniques. Its every motion flows with a deadly, fluid grace that
-belies its artifical nature.
+一位闪闪发光的战士，由贵金属和巅峰之作打造而成
+锻造技术。它的每一个动作都带着一种致命的、流畅的优雅
+掩盖了其人为本质。
 %%%%
-player ghost
+玩家幽灵
 
-The apparition of an unfortunate adventurer, retaining many of the skills and
-abilities the adventurer had in life. It is condemned to haunt this particular
-level of the dungeons, lashing out violently at the next adventurer to cross
-its path.
+一个不幸的冒险家的幽灵，保留了许多技能和
+冒险家生前所拥有的能力。它注定要困扰这个特殊的地方
+地牢的关卡，猛烈地攻击下一个穿越的冒险家
+它的路径。
 %%%%
-polar bear
+北极熊
 
-A bear covered in glistening white fur, habituated to cold conditions. Like all
-ursines, it will become enraged if badly hurt.
+一只熊，全身覆盖着闪闪发光的白色皮毛，习惯了寒冷的环境。像所有人一样
+熊类，如果受重伤，它会变得愤怒。
 %%%%
-poltergeist
+恶作剧精神祇
 
-A ghostly trickster that is fond of possessing small objects and making them
-fly noisily through the air.
+喜欢持有小物品并制作它们的幽灵骗子
+喧闹地在空中飞翔。
 %%%%
-polterguardian
+恶作剧守护者
 
-Many poltergeists are fiercely territorial over the domains they choose to
-haunt, but these have extended that protection even to the people who share
-their domain with them. Some say they must be the lingering souls of those who
-guarded the Vaults in life; others suggest the Ironbound Order simply recruited
-them in common cause. Whichever is true, their very presence shelters other
-creatures from missiles, causing sling and spell alike to veer off-course at the
-last moment.
+许多恶作剧者对他们选择的领域有强烈的领地意识
+困扰，但这些甚至将这种保护扩展到了共享的人
+他们的领域。有人说，它们一定是那些人挥之不去的灵魂。
+一生守护金库；其他人则认为铁缚教团只是简单地招募了
+他们有共同的事业。无论哪一个属实，他们的存在都会庇护其他人
+来自导弹的生物，导致投石索和咒语等偏离航向
+最后一刻。
 %%%%
-profane servitor
+亵渎的仆人
 
-A blasphemous being that was once an angel of the Shining One. It now stands as
-unliving proof that not even the holiest of beings are beyond Yredelemnul's
-grasp.
+曾是光之天使的亵渎者。现在它是
+毫无生气的证据表明，即使是最神祇圣的存在也无法超越伊雷德勒姆努的范围
+把握。
 %%%%
-program bug
+程序错误
 
-A ravenous and incredibly buggy monster. Please report its existence to the
-DevTeam.
+一个贪婪且多得令人难以置信的怪物。请将其存在报告给
+开发团队。
 %%%%
-protean progenitor
+千变万化的祖先
 
-A gargantuan humanoid of fractured shape from the aeons when the seas were but
-primordial soup. The many shapeshifters of the dungeon once sloughed off from
-these unfathomably ancient beings, and when they themselves finally cease, even
-their remains will give birth one last time to furious monsters.
+一个巨大的人形生物，形状破碎，来自远古时期的海洋。
+原始汤。地牢中的许多变形者曾经从
+这些深不可测的古老生物，当它们最终消失时，甚至
+他们的遗体将最后一次诞生出愤怒的怪物。
 %%%%
-putrid mouth
+腐烂的嘴
 
-A starved spirit whose mouth is a pit of rot, emitting vile fumes. Its putrid
-maw cannot eat the food it finds, so it moans with rage and desparate hunger.
+一个饥饿的灵魂，其嘴巴变成了腐烂的深坑，散发着邪恶的烟雾。其腐烂
+胃无法吃掉它找到的食物，所以它因愤怒和绝望的饥饿而呻吟。
 %%%%
-purple draconian
+紫色严酷
 
-A muscular purple-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达、紫色鳞片的人形生物，有爬虫类尾巴和小翅膀。
 %%%%
-queen bee
+蜂王
 
-A ruler of a swarm of bees, even larger and more dangerous than its many
-offspring.
+一群蜜蜂的统治者，比它的许多蜜蜂更大、更危险
+后代。
 %%%%
-quicksilver dragon
+水银龙
 
-A long and sinuous dragon, seemingly more neck and tail than anything else. Its
-skin shines like molten mercury, magical energies arc from its pointed snout,
-and it moves with terrifying swiftness.
+一条又长又蜿蜒的龙，看起来比其他任何东西都多了脖子和尾巴。其
+皮肤像熔化的水银一样闪闪发光，魔法能量从它尖尖的鼻子中射出，
+它移动的速度快得可怕。
 %%%%
-quicksilver elemental
+水银元素
 
-A mercurial spirit drawn from the elemental plane of earth. It exists in
-this world by inhabiting a shimmering body of liquid metal.
+来自地球元素位面的善变之灵。它存在于
+这个世界居住在闪闪发光的液态金属体中。
 %%%%
-quokka
+短尾矮袋鼠
 
-A pesky little marsupial that is a bit like a rat, but not quite.
+一种讨厌的小有袋动物，有点像老鼠，但又不完全一样。
 %%%%
-radroach
+蟑螂
 
-A giant cockroach that has been exposed to high amounts of mutagenic energy. It
-is horrifyingly mutated, but this has only made it stronger.
+一只暴露于大量诱变能量的巨型蟑螂。它
+发生了可怕的变异，但这只会让它变得更加强大。
 %%%%
-ragged hierophant
+衣衫褴褛的主教
 
-A bedraggled priest, once-fine robes now lined with salt and dust. Forsaken by
-the gods, it now relies on constructs to protect itself.
+一位衣衫褴褛的牧师，曾经精美的长袍现在布满了盐和灰尘。被抛弃
+天啊，它现在依靠构造来保护自己。
 %%%%
-rakshasa
+罗刹
 
-A maneater demon, bestial and misshapen, in search of hidden power and
-knowledge. It is an expert in the art of illusion, and is exceptionally
-intelligent and cruel.
+一个食人恶魔，凶残而畸形，寻找隐藏的力量和
+知识。它是幻术艺术的专家，并且异常出色
+聪明又残忍。
 %%%%
-rat
+老鼠
 
-A dirty rodent that has grown large and aggressive in the dungeon environment.
+一种肮脏的啮齿动物，在地牢环境中变得巨大且具有攻击性。
 %%%%
-raiju
+莱州
 
-A profoundly unnatural hound, crackling with electricity. It travels in packs,
-and covers great distances by bursting into living lightning.
+一只极其不自然的猎犬，身上充满了电流。它成群结队地旅行，
+并通过爆发出活生生的闪电来覆盖很远的距离。
 %%%%
-reaper
+收割者
 
-A haunting form wielding a giant scythe, ceaselessly harvesting the souls of
-the living.
+挥舞着巨大镰刀的鬼魂，不断地收割着人们的灵魂
+活着的人。
 %%%%
-red devil
+红魔鬼
 
-A larger cousin of the common imp, with a fiendish grin and two short wings
-sprouting from its shoulders. It favours tridents and loves to skewer its
-victims with painful barbs.
+普通小恶魔的大表亲，有着恶魔般的笑容和两个短翅膀
+从它的肩膀上发芽。它喜欢三叉戟并且喜欢串它的
+带有痛苦倒钩的受害者。
 %%%%
-red draconian
+红色严酷
 
-A muscular red-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达、红鳞的人形生物，有爬行动物的尾巴和小翅膀。
 %%%%
-hornet
+大黄蜂
 
-A buzzing hornet with a vicious stinger dripping with paralytic poison.
+一只嗡嗡作响的黄蜂，毒刺上滴着麻痹毒液。
 %%%%
-raven
+乌鸦
 
-A jet-black corvid with a nasty beak and a reputation for heralding bad luck.
-Most ornithologists consider this a baseless stereotype; the rest are still
-recovering from a series of staggeringly unlikely accidents.
+一种漆黑的乌鸦，长着令人讨厌的喙，以预示着厄运而闻名。
+大多数鸟类学家认为这是毫无根据的刻板印象。其余的仍然
+从一系列极其不可能的事故中恢复过来。
 %%%%
-redback
+红背鸟
 
-A vicious black spider with a splash of red on its swollen abdomen. Its
-mandibles drip with lethal poison.
+一只凶恶的黑色蜘蛛，肿胀的腹部上有一抹红色。其
+下颌骨滴着致命的毒液。
 %%%%
-rending blade
+撕裂刀片
 
-A crackling weapon formed of condensed magical energy. It can cut through entire
-rows of adversaries whenever its creator lands a melee attack.
+由魔力凝聚而成的爆裂武器。它可以切断整个
+每当它的创造者进行近战攻击时，就会有成排的对手。
 %%%%
-revenant
+亡灵
 
-The skeletal remains of someone who died unmourned and forgotten. It burns with
-an unquenchable hunger to be remembered.
+死者无人哀悼且被遗忘的人的骸骨。它燃烧着
+一种无法抑制的渴望被记住的感觉。
 %%%%
-revenant soulmonger
+亡灵灵魂贩子
 
-A timeworn revenant whose flames dance with the silhouettes of long-forgotten
-atrocities. Cursed with a hunger they can never satisfy, they unleash these
-long-dead echoes to reenact violence upon any soul they deem worthy of adding to
-their eternal collection.
+一个陈旧的亡灵，其火焰与早已被遗忘的剪影共舞
+暴行。被永远无法满足的饥饿所诅咒，他们释放了这些
+死亡已久的回声对任何他们认为值得添加的灵魂重新施加暴力
+他们的永恒收藏。
 %%%%
-ribbon worm
+带状蠕虫
 
-A giant annelid, glistening with slime, with unusually large teeth. It expels
-fragments of its own innards to ensnare unsuspecting prey.
+一种巨大的环节动物，身上闪烁着粘液，牙齿异常大。它驱逐
+用自己的内脏碎片来诱捕毫无戒心的猎物。
 %%%%
-rime drake
+雾凇
 
-A small but dangerous dragon. Its breath is visible even on the warmest days.
+一条小而危险的龙。即使在最温暖的日子里，它的呼吸也清晰可见。
 %%%%
-river rat
+河鼠
 
-A rodent with hair of a most peculiar green colour, and a powerful bite. It
-tends to form great swarms with its kin.
+一种啮齿动物，毛发呈最奇特的绿色，咬合力极强。它
+倾向于与其亲属形成大群。
 %%%%
-rock fish
+岩鱼
 
-A strange stone-scaled fish that swims through solid rock with the same ease
-that most fish do through water.
+一种奇怪的石鳞鱼，可以同样轻松地游过坚硬的岩石
+大多数鱼都是通过水进行的。
 %%%%
-rockslime
+岩石石灰
 
-An oozing avalanche, scouring the ground beneath it as it rumbles forward.
-It consumes only the metal and bone from its victims, using them to reinforce
-itself even further.
+一场渗出的雪崩，在隆隆向前冲刷着下方的地面。
+它只消耗受害者的金属和骨头，用它们来强化
+本身更进一步。
 %%%%
-Royal Jelly
+蜂王浆
 
-A particularly rich and golden gelatinous thing. Smaller jellies swim and pulse
-just below its surface, ready to burst forth at the slightest touch.
+一种特别丰富的金色凝胶状东西。较小的水母游泳和脉动
+就在它的表面之下，只要轻轻一碰就会爆发。
 %%%%
-royal mummy
+皇家木乃伊
 
-An ancient pharaoh, embalmed and cursed to undeath, now capable of great and
-terrifying feats of magic.
+一位古代法老，经过防腐处理并被诅咒不死，现在能够做出伟大而伟大的事情
+可怕的魔法壮举。
 %%%%
-rust devil
+铁锈恶魔
 
-A hideous humanoid figure with rust-spotted metal skin, spreading corrosion
-and decay to all it touches.
+一个可怕的人形人物，金属皮肤生锈，腐蚀蔓延
+并腐烂到它所触及的一切。
 %%%%
-sacred lotus
+神祇圣的莲花
 
-A large and vivid bloom drifting placidly upon the surface of the water. The
-cradle of the lotus's petals shine with eternity and elegance - while it is
-entirely harmless, it would take immense effort to destroy it.
+一朵朵巨大而生动的花朵平静地漂浮在水面上。的
+莲花花瓣的摇篮闪耀着永恒和优雅的光芒——而它
+完全无害，要摧毁它需要付出巨大的努力。
 %%%%
-salamander
+蝾螈
 
-A red, flaming half-human half-snake creature with a legendary affinity for
-fire.
+一种红色、燃烧的半人半蛇生物，具有传奇般的亲和力
+火。
 %%%%
-salamander mystic
+火蜥蜴神祇秘主义者
 
-A member of the salamander's scholarly caste, possessed of lesser size and
-strength, but wise in the ways of magic.
+蝾螈学术阶层的一员，体型较小，
+力量，但在魔法方面很聪明。
 %%%%
-salamander tyrant
+蝾螈暴君
 
-An intimidating volcano lord. It commands the magma of its realm as an
-extension of its body, and the majesty of its gaze can weaken even the proudest
-challenger.
+令人生畏的火山领主。它命令其领域的岩浆作为
+其身体的伸展和凝视的威严甚至可以削弱最骄傲的人
+挑战者。
 %%%%
-saltling
+盐腌
 
-A small, human-shaped agglomeration of salt. It was created by the last
-fugitive loyalists of the fallen eastern empire, forced in desperation to
-construct golems from local resources to defend themselves.
+一个人形的小盐团。它是由最后创建的
+沦陷的东方帝国的逃亡忠诚者，被迫绝望
+用当地资源建造傀儡来保卫自己。
 %%%%
-satyr
+色狼
 
-A more intelligent relative of the faun, often found in their company, and far
-more unforgiving of — and dangerous to — interlopers.
+牧神祇的一个更聪明的亲戚，经常出现在他们的陪伴中，而且距离很远
+对闯入者更加无情，也更加危险。
 %%%%
-scorpion
+蝎子
 
-A loathsome arachnid, armed to the teeth. Its body is covered in a thick
-carapace, its tail is tipped by a venomous sting, and its forelimbs are
-equipped with a pair of sharp grasping claws.
+一种令人厌恶的蜘蛛，武装到牙齿。它的身体被一层厚厚的
+甲壳，尾巴尖有毒刺，前肢
+配备有一对锋利的抓爪。
 %%%%
-screaming refraction
+尖叫折射
 
-A deeply unfortunate soul mostly processed into crystal by some malevolent tear
-in reality. Ethereal reflections of its past and future suffering are cast upon
-nearby surfaces and foes.
+一个非常不幸的灵魂，大部分被恶意的眼泪加工成水晶
+在现实中。过去和未来苦难的空灵反映被投射在
+附近的表面和敌人。
 %%%%
-scrub nettle
+磨砂荨麻
 
-An irritable, bristling shrub. It fends off anything that might graze upon it by
-launching some of its innumerable toxic stinging hairs.
+一种烦躁、直立的灌木。它可以抵御任何可能吃到它的东西
+发射出无数有毒的刺毛。
 %%%%
-sea snake
+海蛇
 
-A brightly coloured snake, very comfortable in the water. It has a highly
-potent venomous bite.
+一条颜色鲜艳的蛇，在水中非常舒服。它具有高度
+强烈的剧毒叮咬。
 %%%%
-searing wretch
+灼热的可怜虫
 
-An animated corpse alight with terrible fire. The flames are fueled by its
-regenerating flesh, which bubbles and melts as it grows.
+一具动画尸体被可怕的火焰点燃。火焰是由它助长的
+再生的肉，随着生长而冒泡并融化。
 %%%%
-seismosaurus
+地震龙
 
-A stubborn and fiercely territorial lizard with the strength of a mountain. Its
-thunderous footfalls herald violent tremors.
+顽固且领地意识极强的蜥蜴，拥有如山一般的力量。其
+雷鸣般的脚步声预示着剧烈的震动。
 %%%%
-seismosaurus egg
+地震龙蛋
 
-A lizard egg the size of a small boulder and nearly as hard. Perhaps as a
-defence mechanism, they hatch rapidly in the presence of predators and even a
-newborn can give all but the most ambitious of monsters a reason to consider an
-easier meal.
+蜥蜴蛋的大小与小石块相当，几乎同样坚硬。或许作为一个
+防御机制，它们在捕食者甚至是动物存在的情况下迅速孵化
+新生儿可以给除了最雄心勃勃的怪物之外的所有怪物一个考虑的理由
+更容易进餐。
 %%%%
-seraph
+六翼天使
 
-A six-winged servant of the good gods, of the highest rank of the angelic
-hosts. Its eyes burn with divine fire.
+善神祇的六翼仆人，天使中的最高等级
+主机。它的眼睛燃烧着神祇圣的火焰。
 %%%%
-servant of whispers
+耳语的仆人
 
-A member of an order of monks who abandoned their former faith. It now serves
-a minor god of wind and whispers, who allows it to calm the air and, when
-in great need, to break the stillness with divine thunder.
+放弃了以前信仰的僧侣团体的成员。现在它服务
+掌管风与低语的小神祇，他让空气平静下来，当
+急需用神祇雷打破寂静。
 %%%%
-shadow
+影子
 
-A featureless silhouette of your own body, moving independently through the
-divine power of Dithmenos. No matter how many times it is struck down, it will
-reform itself, for a shadow is inextinguishable so long as whatever cast it
-remains.
+你自己身体的无特征轮廓，在空间中独立移动
+狄特美诺斯的神祇力。无论被击倒多少次，它都会
+自我改革，因为只要投射它的东西，影子就无法熄灭
+仍然存在。
 %%%%
-shadowghast
+影鬼
 
-A skulking apparition that disguises itself as a harmless shadow. Attuned to the
-dim light of the dungeon, it can slip in and out of sight at will, moving
-swiftly from one pool of shade to the next before striking unerringly at the
-blind spots of those who cannot see it.
+一个潜伏的幽灵，将自己伪装成无害的影子。适应于
+地牢光线昏暗，可以随意进出视线，移动
+迅速地从一处阴影转移到另一处阴影，然后准确无误地击中
+那些看不到它的人的盲点。
 %%%%
-shadow demon
+暗影恶魔
 
-A mysterious demonic figure, difficult to distinguish from the darkness around
-it. It weaves the shadows into powerful minions.
+神祇秘的恶魔身影，与周围的黑暗难以区分
+它。它将阴影编织成强大的爪牙。
 %%%%
-shadow dragon
+影龙
 
-A great umbral dragon, radiating evil and death. Its breath reeks of the grave.
+一条巨大的影龙，散发着邪恶和死亡的光芒。它的呼吸充满了坟墓的臭味。
 %%%%
-shadow imp
+影子小鬼
 
-A shadowy minor demon, with an affinity for the necromantic arts.
+一个神祇秘的小恶魔，对死灵艺术有着浓厚的兴趣。
 %%%%
-shadow prism
+阴影棱镜
 
-A prism-like silhouette which wavers with barely-contained destructive energy.
-Any blow which disrupts its form will result in a violent blast of shadow.
+棱镜般的轮廓，带着勉强遏制的破坏性能量摇摆不定。
+任何破坏其形态的打击都会导致猛烈的阴影冲击。
 %%%%
-shadow puppet
+皮影戏
 
-A minor servant of living shadow whose form wavers perpetually on the edge of
-recognition - as if an unseen light were flickering behind something almost
-familiar.
+活生生的影子的小仆人，其形体永远在黑暗的边缘摇摆不定。
+识别——就好像有看不见的光在某物后面闪烁
+熟悉的。
 
-The strength of its attacks increases in proportion with the power of the spell
-which summoned it.
+其攻击强度与法术强度成比例增加
+召唤了它。
 %%%%
-shadow turret
+影子炮塔
 
-A strangely static silhouette whose form suggests a large cannon. Though it uses
-no gunpowder, the depths of its bore flickers angrily with every shot, as if
-remembering the fiery light of its ignition.
+一个奇怪的静态剪影，其形状让人联想到一门大炮。虽然它使用
+没有火药，每一次射击，它的枪膛深处都会愤怒地闪烁，仿佛
+记得它点火时发出的炽热光芒。
 %%%%
-shadow wraith
+暗影幽灵
 
-A mist-wreathed skeletal shadow, hanging in mid-air. It drains away the
-life force of living beings.
+一道雾气缭绕的骨影，悬浮在半空中。它排干了
+众生的生命力。
 %%%%
-shambling mangrove
+蹒跚的红树林
 
-A gnarled mangrove, possessed of sapience and a cantankerous disposition. Its
-roots run deep through the water and soil of its marshy home and can make
-footing very difficult for those who provoke its ire. Marsh fauna are often
-found nesting within its branches, and may not take kindly to being disturbed.
+一棵粗糙的红树林，拥有智慧和脾气暴躁。其
+根部深深扎入其沼泽家园的水和土壤中，可以使
+对于那些激怒它的人来说，站稳脚跟是非常困难的。沼泽动物群经常
+在树枝上筑巢，可能不喜欢被打扰。
 %%%%
-shapeshifter
+变形者
 
-A disturbing creature with the power to change its form. It is very rarely
-observed alive in its natural state.
+一种令人不安的生物，具有改变其形态的能力。这是非常罕见的
+在自然状态下观察到活体。
 %%%%
-shard shrike
+碎片伯劳
 
-An incredibly fast-moving bird, known for impaling its prey on shards of ice
-before tearing them to pieces. It has acclimated to the desolate wastes of
-Cocytus, and is enveloped with an accursed chill.
+一种移动速度极快的鸟类，以用冰碎片刺穿猎物而闻名
+在将它们撕成碎片之前。它已经适应了荒凉的荒原
+科塞特斯，浑身笼罩着一股可恶的寒意。
 %%%%
-shining eye
+闪亮的眼睛
 
-A strangely deformed floating eyeball, pulsating with flesh-twisting energy.
+一个奇怪变形的漂浮眼球，充满了扭曲肉体的能量。
 %%%%
-shock serpent
+震荡蛇
 
-A sinuous serpent whose body crackles with volatile electricity. Its electric
-shroud can discharge when struck, inflicting a painful shock on any nearby
-foes.
+一条蜿蜒的蛇，其身体因不稳定的电流而发出噼啪声。其电动
+裹尸布被击中时会放电，对附近的任何人造成痛苦的电击
+敌人。
 %%%%
-shooting star
+流星
 
-A glimmering spark of magical energy. It seeks out nearby enemies to expend
-itself upon, dealing damage and pushing them backwards.
+闪烁着魔法能量的火花。它会寻找附近的敌人来消耗
+自身，造成伤害并将其向后推。
 
-It does not block its allies' line of fire.
+它不会阻挡盟友的火线。
 %%%%
-silent spectre
+沉默的幽灵
 
-A terrible spirit which brings an unearthly silence to the area around it,
-making it impossible to recite the magical incantations involved with casting
-spells or reading scrolls.
+一种可怕的精神祇，给周围地区带来了异常的寂静，
+使得无法背诵与施法相关的魔法咒语
+咒语或阅读卷轴。
 %%%%
-simulacrum
+拟像
 
-An icy replica of a monster, animated by heretical magics.
+一个冰冷的怪物复制品，由异端魔法驱动。
 %%%%
-sixfirhy
+六福希
 
-A small vile creature that moves in bursts, stopping then darting with
-lightning speed. It sprays sparks as it goes.
+一种邪恶的小生物，会突然移动，停下来然后猛冲过去
+闪电般的速度。它一边走一边喷出火花。
 %%%%
-skeletal warrior
+骷髅战士
 
-A vicious and heavily armed humanoid skeleton, animated by unholy power.
+邪恶且全副武装的人形骷髅，由邪恶的力量驱动。
 %%%%
-skeleton
+骨架
 
-A skeleton compelled to unlife by the exercise of necromancy.
+因使用死灵术而失去生命的骷髅。
 %%%%
-sky beast
+天兽
 
-A strange aerial creature formed of fleshy clouds and electric feathers. It
-commands the faint wind currents of the Dungeon with every strike, which will
-buffet its victims in dramatic correlation to the amount of open air around
-said prey.
+一种由肉质云和带电羽毛组成的奇怪空中生物。它
+每一次攻击都会指挥地牢中微弱的风流，这将
+受害者受到的冲击与周围露天空气的数量密切相关
+猎物说。
 %%%%
-skyshark
+天鲨
 
-Skysharks cut through the air with a thoughtless ease. Just a taste of blood
-gives them an enraged strength, and further morsels drive them into a frenzy.
+天鲨轻而易举地划破空气。只闻到了血的味道
+给他们带来愤怒的力量，进一步的食物会让他们陷入疯狂。
 %%%%
-sleepcap
+睡帽
 
-A surprisingly ambulatory mushroom. It wafts its spores over prey to send them
-into a deep sleep, making it simple for the fungus to kill and devour them.
-It can take months for its mycelia to fully infiltrate and digest victims.
+一种令人惊讶的移动蘑菇。它把孢子飘到猎物身上，把它们送走
+进入深度睡眠，使真菌很容易杀死和吞噬它们。
+它的菌丝体可能需要几个月的时间才能完全渗透并消化受害者。
 %%%%
-slime creature
+粘液生物
 
-An icky glob of slime that slithers along the ground. It can merge with other
-slime creatures to become dramatically more dangerous, and is especially likely
-to do so in confined spaces.
+一团恶心的粘液沿着地面滑行。它可以与其他的合并
+史莱姆生物变得更加危险，并且特别有可能
+在密闭空间内这样做。
 %%%%
-slymdra
+斯莱姆德拉
 
-A quivering amalgam of viscous slime, its many pseudopods gnashing at the air
-like a throng of reptilian maws. It rapidly absorbs nearby slime creatures into
-itself, growing a new 'head' for each one and becoming even more resilient.
+一种颤抖的粘液混合物，它的许多伪足在空中咬牙切齿
+就像一群爬行动物的胃。它会迅速将附近的粘液生物吸收到
+自己，为每个人长出一个新的"头脑"，并变得更有弹性。
 
-Whether through convergent evolution or genetic memory, it also shares the
-hydra's most infamous trait: lopping off a head with a bladed weapon will just
-make it grow two more unless the wound is cauterised by a flaming weapon.
+无论是通过趋同进化还是遗传记忆，它也共享
+九头蛇最臭名昭著的特征：用带刃的武器砍下头只会
+让它再长出两个，除非伤口被燃烧的武器烧灼。
 
-When not stalking prey, its constituent slimes may separate from it again,
-perhaps to seek new food sources on their own.
+当不跟踪猎物时，其组成的粘液可能会再次与猎物分离，
+也许是为了自己寻找新的食物来源。
 %%%%
-small abomination
+小可憎
 
-A hideous mass of body parts. Each varies in speed, strength, or resilience by
-the nature of whatever unfortunates were used to make it.
+一堆可怕的身体部位。每个人的速度、力量或弹性各不相同
+任何不幸的事物被用来制造它的本质。
 %%%%
-smoke demon
+烟魔
 
-An infernal demon that manifests itself as a writhing cloud of smoke. Having
-considerable pyrokinetic powers, it can very effectively attack its enemies
-from afar.
+一种地狱恶魔，表现为一团翻腾的烟雾。拥有
+相当大的火动力，可以非常有效地攻击敌人
+从远处。
 %%%%
-snaplasher vine
+snaplasher 藤
 
-A swift and sinuous vine brought alive by a dryad's magic. It can quickly bind
-and entangle the dryad's foes, dragging them back to the forest from which it
-surges.
+被树精魔法赋予生命的快速而蜿蜒的藤蔓。它可以快速绑定
+并缠住树精的敌人，将他们拖回树精所在的森林
+激增。
 %%%%
-snaplasher vine segment
+snaplasher 藤段
 
-Part of a swift and sinuous vine brought alive by a dryad's magic. It can
-quickly bind and entangle the dryad's foes, dragging them back to the forest
-from which it surges.
+被树妖的魔法赋予生命的快速而蜿蜒的藤蔓的一部分。它可以
+快速捆绑并缠住树妖的敌人，将他们拖回森林
+它从中涌动。
 %%%%
-snapping turtle
+鳄龟
 
-A belligerent testudine with an armoured carapace. Its neck is surprisingly
-extensible and can reach out and bite from afar.
+具有装甲甲壳的好战睾丸。它的脖子令人惊讶
+可伸展，可以伸出并从远处咬住。
 %%%%
-solar ember
+太阳余烬
 
-A mote of intense light and heat manifested by a sun scarab. It is linked to
-their essence and will never leave their side, being reconstituted time and time
-again whenever it is extinguished.
+太阳圣甲虫所显现的强烈光和热的微粒。它链接到
+他们的本质永远不会离开他们身边，一次又一次地被重组
+每当它熄灭时，就会再次出现。
 
-Some myths even claim that the sun which shines down upon the outside world was
-once carried around by such a scarab.
+有些神祇话甚至声称，照在外面世界上的太阳是
+曾经被这样的圣甲虫携带着。
 %%%%
-soul eater
+噬魂者
 
-A demon that manifests as a malignantly shifting shadow gliding through the
-air. It radiates an intense aura of negative force.
+一个恶魔，表现为一个恶毒地移动的影子，在宇宙中滑行。
+空气。它散发着强烈的负面力量的光环。
 %%%%
-soul wisp
+灵魂一缕
 
-A tiny fragment of a living soul, splintered from the body in which it belongs.
-Too mindless to be fully controlled, it seeks nothing but to reunite with its
-greater self once more - unfortunately, this process tends to be more violent
-than the magic which created it.
+活生生的灵魂的一小块碎片，从它所属的身体中分裂出来。
+它太无意识而无法完全控制，它除了与它的团聚之外别无所求。
+再次伟大的自我 - 不幸的是，这个过程往往更加暴力
+比创造它的魔法更重要。
 %%%%
-spark wasp
+火花黄蜂
 
-A profoundly unnatural insect covered in vaguely metallic plates. Its stinger
-crackles with electricity, capable of delivering a powerful shock to unwary
-victims, and is capable of closing the distance with them at shockingly
-lethal speed.
+一种极其不自然的昆虫，身上覆盖着模糊的金属板。它的毒刺
+带有电流的噼啪声，能够给粗心的人带来强烈的电击
+并能够以惊人的速度拉近与受害者的距离
+致命的速度。
 %%%%
-spatial maelstrom
+空间漩涡
 
-A malevolent rift in reality, dissolving all terrain it passes by into swirling
-vortices.
+现实中的恶毒裂缝，将其经过的所有地形溶解成漩涡
+漩涡。
 %%%%
-spatial vortex
+空间漩涡
 
-A crazily shifting twist in the fabric of reality.
+现实结构中的疯狂转变。
 %%%%
-spectral thing
+光谱的东西
 
-A hideous glowing apparition.
+一个可怕的发光幽灵。
 %%%%
-spectral weapon
+光谱武器
 
-A spirit drawn from a weapon — it never strikes on its own. Damage done to it
-will be partially mirrored onto the caster.
+从武器中汲取的灵魂——它永远不会自行攻击。对它造成的损害
+将部分镜像到脚轮上。
 %%%%
-spellspark servitor
+法术火花侍者
 
-A magical construct forged around a spark of its creator's own arcane power,
-allowing it to wield some of their destructive magics directly.
+围绕其创造者自身奥术力量的火花铸造的神祇奇构造，
+允许它直接使用一些破坏性魔法。
 %%%%
-sphinx marauder
+狮身人面像掠夺者
 
-A wicked youthful hybrid with a woman's head, a lion's body, and the wings of
-an eagle. It gleefully wreaks havoc with both the violent turbulence of
-high winds and the frustration of bewildering magics.
+一个邪恶的年轻混血儿，有着女人的头、狮子的身体和翅膀。
+一只鹰。它兴高采烈地对猛烈的湍流造成严重破坏
+狂风和令人困惑的魔法的挫败。
 %%%%
-splinterfrost barricade
+冰霜碎片路障
 
-A durable barricade made of ice reinforced with forgecraft magic. A lattice of
-precise hairline cracks are visible just beneath its surface which allow it to
-fracture into a barrage of razor-sharp projectiles whenever it sustains critical
-damage.
+由锻造魔法加固的冰制成的耐用路障。一个格子
+精确的发丝裂纹在其表面下方可见，使其能够
+每当它维持临界状态时就会破裂成一连串锋利的射弹
+损坏。
 %%%%
-spriggan
+斯普里根
 
-A small humanoid, resembling a human or elf except for the size. It moves at a
-great speed, and loves playing dirty tricks on people.
+小型人形生物，除了体型不同外，与人类或精灵相似。它以一个
+速度很快，而且喜欢对人玩肮脏的把戏。
 %%%%
-spriggan air mage
+斯普里根空气法师
 
-A magically adept spriggan blessed with the secrets of the winds.
+拥有风之秘密的魔法熟练小精灵。
 %%%%
-spriggan berserker
+斯普里根狂战士
 
-A relatively mighty spriggan that plunges recklessly into combat.
+相对强大的小树精，会不计后果地投入战斗。
 %%%%
-spriggan defender
+斯普里根后卫
 
-An elite, well-equipped spriggan warrior, renowned for its unbelievable agility
-and its prowess with advanced weaponry.
+装备精良的精英战士，以其令人难以置信的敏捷性而闻名
+以及其先进武器装备的实力。
 %%%%
-spriggan druid
+小精灵德鲁伊
 
-A spriggan whose connection with the birds and the beasts is exceptionally
-strong. If it dies, its sacrifice will heal and temporarily strengthen nearby
-animals.
+与鸟类和野兽有着非同寻常的联系的小树枝
+强。如果它死了，它的牺牲会治愈并暂时强化附近的力量
+动物。
 %%%%
-spriggan rider
+斯普里根骑士
 
-A spriggan that has tamed a hornet as its mount, and is tasked with protecting
-the spriggan fens and cairns from intruders.
+驯服大黄蜂作为坐骑的小树枝，肩负保护大黄蜂的任务
+斯普里根沼泽和凯恩斯免受入侵者的侵害。
 %%%%
-star jelly
+星果冻
 
-A white gelatinous mound that pulses with a strange iridescence. Its body
-absorbs magical energy like a sponge, and when sufficiently injured, will
-unleash this energy as a flurry of shooting stars.
+一个白色的凝胶状土丘，闪烁着奇怪的虹彩。它的身体
+像海绵一样吸收魔力，受到充分伤害时，会
+将这种能量释放为一阵流星。
 %%%%
-starcursed mass
+星咒群
 
-A mass of stellar detritus that glows with the sickly putrescence of a dying
-star, forever shrieking soundlessly in a voice beyond mortal grasp. Its form
-undulates constantly, dividing spontaneously and then withdrawing when
-threatened. When divided, its deafening chorus of screams can overwhelm the
-minds of even the bravest warriors, leaving them stunned and helpless.
+一团恒星碎屑，闪烁着垂死者病态腐烂的光芒
+星星，永远以凡人无法掌握的声音无声地尖叫。它的形式
+不断波动，自发分裂，然后撤回
+威胁。当分裂时，它震耳欲聋的尖叫声可以压倒一切
+即使是最勇敢的战士也会感到震惊和无助。
 %%%%
-starflower
+星花
 
-A mass of lashing vines and tentacles growing out of the husk of a dead star.
-Space itself runs through the xylem and phloem of its branches, which appear to
-be in many places at once.
+一团藤蔓和触手从一颗死去的恒星的外壳中生长出来。
+空间本身贯穿其树枝的木质部和韧皮部，这些木质部和韧皮部似乎
+一次在很多地方。
 %%%%
-starspawn tentacle
+星辰触手
 
-The writhing appendage of a tentacled starspawn, capable of grasping nearly any
-prey and dragging it back to be devoured. Any damage dealt to it hurts the
-whole creature.
+有触手的星虫的扭动附属物，能够抓住几乎任何东西
+并把它拖回来被吃掉。对它造成的任何伤害都会伤害
+整个生物。
 %%%%
-starspawn tentacle segment
+星之源触手节段
 
-A sinuous length of an extended starspawn tentacle. Any damage dealt to it
-hurts the whole creature.
+一条蜿蜒延伸的星辰触手。对其造成的任何伤害
+伤害整个生物。
 %%%%
-statue
+雕像
 
-A piece of sculpted granite with glowing red eyes. Although it is rooted to its
-base, it can still move parts of itself.
+一块雕刻的花岗岩，眼睛发着红光。虽然它扎根于它的
+基地，它仍然可以移动自己的部分。
 %%%%
-steam dragon
+蒸汽龙
 
-A relatively small grey dragon, with a resilient-looking scaly hide and steam
-pouring from its mouth.
+一条相对较小的灰龙，拥有看起来有弹性的鳞片皮和蒸汽
+从它的嘴里倾泻而出。
 %%%%
-steelbarb worm
+钢倒钩虫
 
-A large worm covered with hard, spiky metal plates. Despite the apparent
-heaviness of its outer armour, it is rather fast.
+一种巨大的蠕虫，上面覆盖着坚硬的尖刺金属板。尽管明显
+它的外甲很重，速度相当快。
 %%%%
-stoker
+司炉
 
-A mortal who made an unholy pact in life, now chained to tend the fires of
-hell in undeath as payment.
+一个凡人，在生命中签订了一个邪恶的契约，现在被锁起来去照管火焰
+以不死地狱作为报酬。
 %%%%
-stone giant
+石巨人
 
-A gigantic humanoid with grey skin almost as hard as rock. It carries several
-boulders, and is perfectly capable of flinging them a great distance.
+一个巨大的人形生物，灰色的皮肤几乎像岩石一样坚硬。它承载着几个
+巨石，并且完全有能力将它们扔出很远的距离。
 %%%%
-storm dragon
+风暴龙
 
-A powerful dragon with a hide of thick matte scales almost like blue rubber,
-and enormous scaly wings crackling with sparks.
+一条强大的龙，皮肤上覆盖着厚厚的哑光鳞片，几乎像蓝色橡胶，
+还有巨大的鳞片翅膀，闪烁着火花。
 %%%%
-strange machine
+奇怪的机器
 
-A strange mechanical contraption, all hisses and pops. Shadows seem to dance
-across its reflective surface.
+一个奇怪的机械装置，充满了嘶嘶声和砰砰声。影子似乎在跳舞
+穿过其反射表面。
 %%%%
-sun demon
+太阳恶魔
 
-A demonic figure shining with the heat and fury of a fallen star.
+恶魔般的身影闪烁着坠落之星的炽热与愤怒。
 %%%%
-sun moth
+太阳蛾
 
-A moth of transcendent beauty, coated in pyrophoric scales. Tiny cinders dance
-and twirl in its wake and whenever it beats its wings, they ignite in such
-spectacular displays of incandescence that one could almost forget how far away
-the sun is from this place.
+一种超凡美丽的飞蛾，表面覆盖着发火的鳞片。小煤渣跳舞
+并在它的尾迹中旋转，每当它拍打翅膀时，它们就会以这样的方式点燃
+壮观的白炽灯光让人几乎忘记了距离有多远
+太阳来自这个地方。
 %%%%
-swamp dragon
+沼泽龙
 
-A slimy dragon, its gnarly hide covered in swamp muck. Noxious gases dribble
-from its snout.
+一条粘糊糊的龙，粗糙的皮肤上覆盖着沼泽淤泥。有毒气体滴落
+从它的鼻子。
 %%%%
-swamp drake
+沼泽幼龙
 
-A small and slimy dragon, covered in swamp muck and giving off a terrible
-stench.
+一条又小又粘的龙，浑身是沼泽淤泥，散发着可怕的气息
+恶臭。
 %%%%
-swamp worm
+沼泽蠕虫
 
-A large slimy worm, adept at traversing swamps and marshes.
+一种大型粘液蠕虫，擅长穿越沼泽和沼泽。
 %%%%
-tarantella
+塔兰泰拉
 
-A small but greatly-feared spider. Its touch alone causes victims to break into
-a frenzied dance.
+一种小而令人畏惧的蜘蛛。它的触摸本身就会导致受害者闯入
+疯狂的舞蹈。
 %%%%
-tainted leviathan
+被污染的利维坦
 
-Before even the oldest of ancient liches mastered life and death, a group of
-titans attempted to pull themselves free of mortality through brute strength.
-They almost succeeded before rot dragged them to Ereshkigal. A glimmer of their
-former beauty remains, alluring despite the stench.
+甚至在最古老的远古巫妖掌握生与死之前，一群
+泰坦试图通过蛮力使自己摆脱死亡。
+他们几乎成功了，但腐烂却把他们拖到了埃列什基伽勒。他们的一丝光彩
+尽管散发着恶臭，但昔日的美丽依然迷人。
 %%%%
-tengu
+天狗
 
-A humanoid figure with the head and talons of a bird. Its ferociously combative
-nature belies its fragile appearance.
+具有鸟头和爪子的人形人物。其凶猛好斗
+大自然掩盖了其脆弱的外表。
 %%%%
-tengu conjurer
+天狗魔术师
 
-A tengu with a talent for the destructive magical arts.
+拥有破坏性魔法天赋的天狗。
 %%%%
-tengu reaver
+天狗掠夺者
 
-An elite, ferocious tengu highly skilled with both steel and spells.
+一位精英、凶猛的天狗，精通钢铁和法术。
 %%%%
-tengu warrior
+天狗战士
 
-A particularly bloodthirsty tengu who has opted to hone its skill in airborne
-fighting and weaponry instead of spellcasting.
+一位特别嗜血的天狗，选择磨练空降技能
+战斗和武器而不是施法。
 %%%%
-tentacle
+触手
 
-The mighty tentacle of a kraken. Any damage dealt to it hurts the whole
-creature.
+海怪的强大触手。对它造成的任何伤害都会伤害整个
+生物。
 %%%%
-tentacle segment
+触手节
 
-A part of the mighty tentacle of a kraken. Any damage dealt to it hurts the
-whole creature.
+海怪强大触手的一部分。对它造成的任何伤害都会伤害
+整个生物。
 %%%%
-tentacled monstrosity
+触手怪物
 
-A writhing mass of tentacles, all covered in putrid mucus.
+一堆扭动的触手，浑身都沾满了腐烂的粘液。
 %%%%
-tentacled starspawn
+有触手的星辰
 
-A lumbering maw shrouded in a mass of sinuous tentacles. On spotting prey, its
-tentacles lunge outward, dragging victims directly to its waiting gullet.
+笨重的大嘴笼罩着大量蜿蜒的触手。在发现猎物时，它
+触手向外猛冲，将受害者直接拖入等待的食道。
 %%%%
-thrashing horror
+殴打恐怖
 
-A seething mass of yellow flesh. It thrashes erratically, staggering foes
-beneath the weight of its impacts.
+一团沸腾的黄色肉。它不规则地猛击，使敌人感到震惊
+在其影响的重压下。
 %%%%
-titan
+泰坦
 
-A huge, bolt-hurling, lightning-limned humanoid. It is unusually large and
-powerful, even among giants.
+一个巨大的、能投掷闪电、周围有闪电的人形生物。它异常大并且
+强大，甚至在巨人之中。
 %%%%
-thermic dynamo
+热发电机
 
-A clashing tempest of boundless energy, channelling into capacitor jewels. Its
-whirls of fire and ice occasionally escape and ricochet wildly off of walls.
+无尽能量的冲突风暴，流入电容器宝石。其
+火与冰的漩涡偶尔会从墙壁上逸出并疯狂地弹跳。
 %%%%
-thorn hunter
+荆棘猎人
 
-A predatory marsh plant, possessed of motility and a rudimentary intelligence.
-It ensnares its prey with protrusions of spiny brambles and then skewers the
-trapped creatures with its razor-sharp thorns.
+一种掠食性沼泽植物，具有运动能力和基本智力。
+它用带刺的荆棘的突出物诱捕猎物，然后将猎物串起来
+用锋利的荆棘困住生物。
 %%%%
-toadstool
+伞菌
 
-A short-lived species of fungus typically found on or around decaying organic
-matter.
+一种短命的真菌，通常在腐烂的有机物上或周围发现
+很重要。
 %%%%
-toenail golem
+趾甲傀儡
 
-A huge animated statue made entirely from toenail clippings. Some people just
-have too much time on their hands.
+一座完全由脚趾甲碎片制成的巨大动画雕像。有些人只是
+他们手头有太多时间。
 %%%%
-tormentor
+折磨者
 
-A malign devil covered in all manner of claws, spines, and cruel hooks. It is
-able to inflict torturous agony on those foolish enough to gaze upon it.
+浑身布满利爪、刺和残忍的钩子的恶毒恶魔。它是
+能够给那些愚蠢到凝视它的人带来折磨人的痛苦。
 %%%%
-torpor snail
+麻木蜗牛
 
-A ponderous gastropod with a rock-hard shell. It is said to be in some way
-connected with the god Cheibriados; its very presence slows the movements of
-unwary adventurers, leaving them easy prey for its terrifying, ever-gnashing
-radulae.
+一种笨重的腹足动物，有着坚硬的外壳。据说在某种程度上
+与神祇谢布里亚多斯（Cheibriados）有联系；它的存在破坏了运动的速度
+粗心的冒险家，让他们很容易成为可怕的、永远咬人的猎物
+齿舌。
 %%%%
-training dummy
+训练假人
 
-A mannequin used for battle practice.
+用于战斗练习的人体模型。
 %%%%
-troll
+巨魔
 
-A huge and physically powerful humanoid creature. Short on intelligence but
-long on brawn, its thick knobbly hide heals rapidly from most wounds.
+一种巨大且身体强大的人形生物。智力不足但
+它的肌肉发达，厚厚的、多节的皮皮可以使大多数伤口迅速愈合。
 %%%%
-twister
+龙卷风
 
-A whirling vortex of frost.
+冰霜漩涡旋转。
 %%%%
-two-headed ogre
+双头食人魔
 
-A huge ogre with two heads on top of its bloated body. It is capable of holding
-a weapon in each giant hand.
+一个巨大的食人魔，臃肿的身体上长着两个头。它能够容纳
+每只巨大的手中都拿着一件武器。
 %%%%
-tyrant leech
+暴君水蛭
 
-An exceptionally aggressive blood-sucking annelid that thrives in swamps and
-marshlands.
+一种极具攻击性的吸血环节动物，在沼泽和
+沼泽地。
 %%%%
-Tzitzimitl
+齐齐米特尔
 
-A horrific fallen divinity, possessing jaws of gnashing stone and a necklace of
-starry organs. It spreads disease and despair, and patiently awaits the end of
-days when it will devour the sun.
+一个可怕的堕落神祇灵，拥有咬牙切齿的下巴和一条项链
+星空器官。它传播疾病和绝望，并耐心等待终结
+它将吞噬太阳的日子。
 %%%%
-ufetubus
+胎儿管
 
-A chattering and shrieking minor demon. They delight in sneaking past and
-backstabbing their prey.
+一个喋喋不休、尖叫的小恶魔。他们喜欢偷偷溜过去
+背后刺伤他们的猎物。
 %%%%
-undying armoury
+不朽的军械库
 
-A swirling tempest of souls and steel: knights and blacksmiths and
-weaponmasters, all bound to weapons they once held in life. To fight one is like
-fighting an entire army.
+灵魂与钢铁的旋风风暴：骑士、铁匠和
+武器大师，都与他们生前持有的武器绑定在一起。与一个人战斗就像
+与整个军队作战。
 %%%%
-ugly thing
+丑陋的东西
 
-An ugly thing. According to legend, it is the otherworldly spawn of a wizard's
-breeding experiment. Yuck.
+一件丑陋的事情。据传说，它是一位巫师的超凡脱俗的产物
+育种实验。恶心。
 %%%%
-undertaker
+承办人
 
-The Dungeon's vast repositories of the dead and the unholy realms thereafter
-both require regular restocking and reorganisation, far beyond the coordination
-of the restless dead. These corpse-collecting constructs burrow through the
-earth and command divisions of zombified hands to assist them in stealing away
-carrion, and may also violently create new corpses for such purposes.
+地牢里巨大的死者宝库以及此后的邪恶领域
+两者都需要定期补货和重组，远远超出协调范围
+焦躁不安的死者。这些尸体收集结构在地下挖洞
+地球并指挥僵尸之手分队协助他们偷走
+腐肉，并且还可能为此目的暴力地创造新的尸体。
 %%%%
-unseen horror
+看不见的恐怖
 
-A creature rarely seen by anyone; those few who have seen one would rather they
-hadn't. It moves erratically.
+很少有人见到的生物；那些见过的人宁愿他们
+没有。它移动不规则。
 %%%%
-ushabti
+乌沙卜蒂
 
-A funerary stone figurine kept in tombs to serve the deceased as they pass
-through the afterlife. It is inscribed with spells to protect the interred for
-eternity.
+墓葬中保存的陪葬石像，供死者经过时使用
+通过来世。它刻有咒语以保护被埋葬的人
+永恒。
 %%%%
-vampire
+吸血鬼
 
-A human cursed with vampirism, drifting in a state between life and undeath,
-perpetually hungry for the blood of the living.
+一个被吸血鬼诅咒的人类，在生与死之间漂流，
+永远渴望生者的鲜血。
 %%%%
-vampire bat
+吸血蝙蝠
 
-A large black bat with vicious fangs that feeds on blood. It is the preferred
-form for vampires in disguise.
+一只巨大的黑色蝙蝠，长着恶毒的尖牙，以血液为食。是首选
+伪装的吸血鬼的形式。
 %%%%
-vampire bloodprince
+吸血鬼血王子
 
-A scornful scion to whom even other vampires bend the knee. Their command over
-blood magic allows them to feed upon the lifeforce of entire armies at once.
+一个甚至其他吸血鬼都向他屈服的轻蔑的后裔。他们的指挥权
+血魔法使他们能够同时吸取整支军队的生命力。
 %%%%
-vampire knight
+吸血鬼骑士
 
-A powerful vampire noble who complements its combat prowess with dark magic.
+强大的吸血鬼贵族，用黑魔法补充其战斗能力。
 %%%%
-vampire mage
+吸血鬼法师
 
-A sorcerer who, by accident or design, has been afflicted with the curse of the
-vampire. Regardless, through undeath, it has finally mastered the art of dark
-magic.
+一个因意外或故意而受到诅咒的巫师
+吸血鬼。无论如何，通过亡灵，它终于掌握了黑暗之术
+魔法。
 %%%%
-vampire mosquito
+吸血蚊子
 
-A mosquito that has fed upon tainted blood and been transformed into a
-revolting and pestilent undead insect, seeking to drain its victims to the last
-drop.
+一只蚊子，吸食了被污染的血液后，变成了一只蚊子。
+令人反感、瘟疫的不死昆虫，试图将受害者吸干至最后一刻
+滴。
 %%%%
-vault guard
+金库守卫
 
-A heavily armed and armoured guardian of the Vaults.
+一名全副武装、全副武装的避难所守护者。
 %%%%
-vault sentinel
+避难所哨兵
 
-A vigilant scout, quick to alert its fellows to the presence of intruders. It
-marks such intruders with powerful magic, making them unable to hide from
-pursuit no matter where they flee.
+警惕的侦察兵，能迅速提醒同伴注意入侵者的存在。它
+用强大的魔法标记这些入侵者，使他们无法躲避
+无论他们逃到哪里，都要追捕。
 %%%%
-vault warden
+金库典狱长
 
-A veteran commander, able to seal nearby doorways and staircases to prevent
-intruders from either trespassing further or escaping alive.
+一名经验丰富的指挥官，能够封锁附近的门口和楼梯以防止
+入侵者要么进一步侵入，要么活着逃跑。
 %%%%
-very ugly thing
+非常丑陋的东西
 
-A very ugly thing. According to legend, it is the otherworldly spawn of a
-wizard's breeding experiment. Double yuck!
+一件非常丑陋的事情。据传说，它是一个超凡脱俗的物种
+巫师的培育实验。双呸！
 %%%%
-vine stalker
+藤蔓追猎者
 
-A bizarre symbiotic creature, made up of a carnivorous vine magically combined
-with a humanoid.
+一种奇异的共生生物，由食肉藤蔓神祇奇地组合而成
+与一个人形生物。
 %%%%
-void ooze
+虚空软泥
 
-The viscous detritus of a thousand failed spells, surging forward with unnerving
-speed. Its very substance is a hole in the fabric of magic; enchantments find no
-purchase there and even momentary contact with it can leave one's spells greatly
-diminished.
+一千次失败咒语的粘性碎屑，带着令人不安的气息向前涌动
+速度。它的本质是魔法结构中的一个洞；结界找不到
+在那里购买，哪怕是短暂的接触，都会给你留下很大的魔力
+减少了。
 %%%%
-walking alembic
+步行蒸馏器
 
-A mobile and combat-capable alchemical manufactory that uses the friction of
-melee combat to brew a variety of useful potions. When it has built up enough
-heat to complete its synthesis, it will automatically dispense the finished
-potions to nearby allies and fall apart.
+一个具有移动性和战斗能力的炼金工厂，利用摩擦力
+近战战斗可酿造各种有用的药水。当它积累了足够多的时候
+加热完成合成，会自动分配成品
+向附近的盟友提供药水并崩溃。
 %%%%
-walking earthen tome
+行走的土书
 
-A spellbook that has gone too long without being read. It overflows with magic,
-forming thick armour from its binding, legs from its pages, and periodically
-erupting in flurries of free-floating, self-casting spells.
+一本已经太久没有读过的魔法书。充满了魔力，
+从它的装订中形成厚厚的盔甲，从它的书页中形成腿，并定期
+爆发出一连串自由漂浮、自我施法的法术。
 
-It is coated with impossibly ancient dust.
+它覆盖着难以置信的古老灰尘。
 %%%%
-walking crystal tome
+行走的水晶书
 
-A spellbook that has gone too long without being read. It overflows with magic,
-forming thick armour from its binding, legs from its pages, and periodically
-erupting in flurries of free-floating, self-casting spells.
+一本已经太久没有读过的魔法书。充满了魔力，
+从它的装订中形成厚厚的盔甲，从它的书页中形成腿，并定期
+爆发出一连串自由漂浮、自我施法的法术。
 
-It is encrusted with long, sharp, deadly-looking crystals.
+它上面覆盖着又长又锋利、看起来致命的晶体。
 %%%%
-walking divine tome
+行走的神祇书
 
-A spellbook that has gone too long without being read. It overflows with magic,
-forming thick armour from its binding, legs from its pages, and periodically
-erupting in flurries of free-floating, self-casting spells.
+一本已经太久没有读过的魔法书。充满了魔力，
+从它的装订中形成厚厚的盔甲，从它的书页中形成腿，并定期
+爆发出一连串自由漂浮、自我施法的法术。
 
-Its cover bears the icon of a long-forgotten god, still fully possessed of wrath.
+它的封面上有一位被遗忘已久的神祇的图标，他仍然充满愤怒。
 %%%%
-walking frostbound tome
+行走的霜封书
 
-A spellbook that has gone too long without being read. It overflows with magic,
-forming thick armour from its binding, legs from its pages, and periodically
-erupting in flurries of free-floating, self-casting spells.
+一本已经太久没有读过的魔法书。充满了魔力，
+从它的装订中形成厚厚的盔甲，从它的书页中形成腿，并定期
+爆发出一连串自由漂浮、自我施法的法术。
 
-It glistens with a thick layer of unmelting ice.
+它闪烁着一层厚厚的未融化的冰。
 %%%%
-walking tome
+步行书
 
-A spellbook that has gone too long without being read. It overflows with magic,
-forming thick armour from its binding, legs from its pages, and periodically
-erupting in flurries of free-floating, self-casting spells.
+一本已经太久没有读过的魔法书。充满了魔力，
+从它的装订中形成厚厚的盔甲，从它的书页中形成腿，并定期
+爆发出一连串自由漂浮、自我施法的法术。
 %%%%
-wandering mushroom
+流浪蘑菇
 
-A large, fleshy mushroom that wanders slowly around the dungeon. It is both
-innately curious and incredibly shy, pursuing the objects of its curiosity only
-when out of sight. Noxious spores drift around its cap.
+一种巨大的肉质蘑菇，在地牢周围缓慢徘徊。两者都是
+天生好奇且极其害羞，只追求好奇的对象
+当看不见的时候。有毒的孢子在它的帽子周围漂浮。
 %%%%
-warg
+座狼
 
-A particularly evil-looking wolf, usually found in the company of orcs.
+一种看起来特别邪恶的狼，通常与兽人为伍。
 %%%%
-war gargoyle
+战争石像鬼
 
-A rare type of gargoyle, constructed from a solid steel statue and imbued with
-vicious strength, speed, and weaponised breath.
+一种罕见的石像鬼，由坚固的钢雕像制成，并充满了
+邪恶的力量、速度和武器化的气息。
 %%%%
-water elemental
+水元素
 
-A spirit drawn from the elemental plane of water. It exists on this world as
-part of a body of water and can engulf other beings in its form, depriving them
-of breath and voice.
+从水元素位面汲取的灵魂。它存在于这个世界上
+水体的一部分，可以以其形式吞没其他生物，剥夺他们的生命
+呼吸和声音。
 %%%%
-water moccasin
+水莫卡辛鞋
 
-A largish venomous brown snake. It usually lives near water, and is an able
-swimmer.
+一条体型较大、有毒的棕色蛇。它通常生活在靠近水源的地方，并且是一种能够
+游泳运动员。
 %%%%
-water nymph
+水仙女
 
-A capricious nature spirit, deeply bonded with the waters in which it lives.
-Wherever they flow, so may it, and ponds and rivers surge and leap at its
-whim.
+一种反复无常的自然精灵，与它所生活的水域有着紧密的联系。
+它们流到哪里，它就流到哪里，池塘和河流也随之涌动和跳跃。
+一时兴起。
 %%%%
-weeping skull
+哭泣的头骨
 
-An undead skull kept aloft by unholy clouds of collective misery, which slowly
-drift out in its wake. It mourns without end for the living, the dead, and its
-own former life all alike.
+一个不死的头骨被集体痛苦的邪恶云朵高高举起，慢慢地
+在它的尾迹中漂出。它为生者、死者和它的同胞哀悼不已
+自己的前世都一模一样。
 %%%%
-wendigo
+温迪戈
 
-A gaunt spirit of frozen hunger, so ravenous it will consume friend and foe
-alike. According to legend, if one cuts off its legs, it will feast upon its own
-marrow. It stalks those lost wandering in the cold and hunts with the force of
-blizzards.
+冰冻饥饿的憔悴灵魂，如此贪婪，它将吞噬朋友和敌人
+一样。相传，如果砍掉它的腿，它就会吃掉自己的腿
+骨髓。它会追踪那些在寒冷中迷路的人，并以力量进行狩猎
+暴风雪。
 %%%%
-white draconian
+白龙
 
-A muscular white-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达、白色鳞片的人形生物，有爬虫类尾巴和小翅膀。
 %%%%
-white imp
+白色小鬼
 
-A small and mischievous minor demon covered in frost.
+浑身覆盖着冰霜的小而顽皮的小恶魔。
 %%%%
-wight
+怀特
 
-An ancient warrior, kept in a state of perpetual undeath by its desire to die
-with honour in battle.
+一位古代武士，因求死欲而处于永久不死状态
+在战斗中获得荣誉。
 %%%%
-will-o-the-wisp
+鬼火
 
-A green-glowing gaseous entity, flickering and pulsing irregularly as it hovers
-through the air. Travelers have been known to confuse these for distant lanterns -
-a mistake rarely made twice.
+一种发出绿光的气态实体，在盘旋时闪烁和不规则地脉动
+通过空气。众所周知，旅行者会将这些与远处的灯笼混淆 -
+一个错误很少犯两次。
 %%%%
-wind drake
+风龙
 
-A small but powerful dragon, particularly adept amongst its kin at manipulating
-the currents of air that surround it. It can exhale powerful blasts of wind.
+一种小而强大的龙，在它的亲属中特别擅长操纵
+它周围的气流。它可以呼出强大的风。
 %%%%
-wolf
+狼
 
-A strong wild canine, with sharp teeth and a healthy appetite.
+强壮的野生犬科动物，牙齿锋利，食欲旺盛。
 %%%%
-wolf spider
+狼蛛
 
-A hairy fast-moving hunting spider with vicious mandibles, the size of a wolf.
-It roams the dungeon in search of prey, which it kills with its deadly venom.
+一种毛茸茸的快速移动狩猎蜘蛛，下颌凶恶，大小如狼。
+它在地牢中漫游寻找猎物，并用致命的毒液杀死猎物。
 %%%%
-worldbinder
+世界结合者
 
-A cloud of thick fog, with faint, feeble claws constantly reaching out and then
-fading back into the fog. When threatened, it calls forth creatures banished to
-the void between realities, using them to defend itself.
+一团浓雾，微弱无力的爪子不断伸出，然后
+消失在雾中。当受到威胁时，它会召唤被放逐到的生物
+现实之间的虚空，利用它们来保卫自己。
 %%%%
-wraith
+幽灵
 
-A cloud of black mist surrounding an insubstantial skeletal form. Its eyes burn
-bright with unholy malevolence and hunger for life essence, on which it feeds.
+一团黑色雾气围绕着一具无形的骷髅。它的眼睛燃烧着
+闪烁着邪恶的恶意和对它所赖以生存的生命本质的渴望。
 %%%%
-wretched star
+可怜的明星
 
-A conflux of unearthly light and energy, awash in unnatural colours and strange
-forms no normal being was meant to perceive. It fills all those in its presence
-with the disorder of the Abyss.
+超凡脱俗的光线和能量的融合，充满了不自然的色彩和奇怪的感觉
+正常人无法感知的形式。它充满了所有在场的人
+与深渊的混乱。
 %%%%
-wyrmhole
+虫洞
 
-A small and strangely serpentine fold in space and time. Scholars once
-theorised the Dungeon's easy access to manifold unholy realms is due to the
-tunneling of yet-undiscovered translocations dragons. Whether or not this is
-true, distant stars mottle this drake's endless lengths, and dimensions bend to
-its writhing whim.
+空间和时间中的一个小而奇怪的蛇形折叠。曾经的学者
+理论上，地下城能够轻松进入多种邪恶领域是由于
+挖掘尚未发现的易位龙。无论这是否是
+真实的，遥远的星星斑驳着这条龙无尽的长度，尺寸弯曲到
+它的蠕动的突发奇想。
 %%%%
-wyvern
+飞龙
 
-A dragon-like creature with a long, sharply pointed tail. Although smaller and
-less formidable than true dragons, it is nonetheless a foe to be reckoned with.
+一种像龙一样的生物，有一条又长又尖的尾巴。虽然较小且
+虽然不如真龙那么可怕，但它仍然是一个不可忽视的敌人。
 %%%%
-yak
+牦牛
 
-A common dungeon yak, covered in shaggy yak hair and bearing a nasty pair of
-yak horns.
+一头普通的地牢牦牛，全身覆盖着蓬乱的牦牛毛，并带着一对令人讨厌的东西
+牦牛角。
 %%%%
-yaktaur
+亚克陶尔
 
-A hybrid with the torso of a robust human atop the body of a yak. It excels in
-ranged combat, and is also a formidable foe in close quarters.
+牦牛身上有强壮的人类躯干的混合体。它擅长于
+远程作战，近距离作战也是一个可怕的敌人。
 %%%%
-yaktaur captain
+亚克陶船长
 
-An exceptionally strong and brutish yaktaur, able to order its weaker brethren
-around to do its bidding.
+极其强大且野蛮的夜牛，能够命令较弱的同胞
+周围执行其命令。
 %%%%
-yellow draconian
+黄色严酷
 
-A muscular yellow-scaled humanoid with a reptilian tail and small wings.
+一个肌肉发达、黄鳞的人形生物，有爬虫类尾巴和小翅膀。
 %%%%
-ynoxinul
+伊诺克努尔
 
-A winged demon covered in shiny metallic scales. It has a legion of minor
-demons under its command.
+一个长着翅膀的恶魔，全身覆盖着闪亮的金属鳞片。它拥有一大批未成年人
+其指挥下的恶魔。
 %%%%
-zombie
+僵尸
 
-A corpse raised to undeath by necromancy.
+被死灵术复活的尸体。
 %%%%
-zykzyl
+齐克齐尔
 
-A demon born of mortal envy, its flesh undulating with a sickening wetness
-whenever it moves. It is driven by a singular desire to reduce all beauty to a
-form as hideous as its own.
+因凡人的嫉妒而诞生的恶魔，它的肉体因令人作呕的潮湿而起伏
+每当它移动时。它是由一种单一的愿望驱动的，即把所有的美都简化为一种
+形式和它自己的一样可怕。
 %%%%
-# Specials
-test spawner
+# 特价商品
+测试产卵器
 
-(If you see this outside wizmode or the arena, this is a bug.)
+（如果您在 Wizmode 或竞技场之外看到此内容，则这是一个错误。）
 
-Whatever it is, it is capable of spawning countless monsters by casting Shadow
-Creatures, and is virtually undestructible itself.
+不管是什么，只要施放暗影就能催生无数怪物
+生物，本身几乎是坚不可摧的。
 
-To destroy it, lower the central elevator pillar, then pump rockets into the
-hole in its exposed brain when the pillar rises to an appropriate height. You
-can add another rocket while jumping down.
+要摧毁它，请降低中央电梯支柱，然后将火箭泵入
+当柱子升到适当的高度时，它暴露的大脑就会出现一个洞。你
+跳下时可以添加另一枚火箭。
 
-Oh wait, wrong game.
+哦等等，错误的游戏。
 %%%%
-ghost
+鬼
 
-The remains of a monster that existed in an older version, but has since been
-removed.
+旧版本中存在的怪物的遗骸，但此后已被
+已删除。
 %%%%
-sensed monster
+感应到的怪物
 
-A hostile monster whose presence has been detected.
+已检测到其存在的敌对怪物。
 %%%%
-trivial sensed monster
+微不足道的感知怪物
 
-A trivially weak monster whose presence has been revealed by the power of
-Ashenzari.
+因力量而显露出存在的微弱怪物
+阿申扎里。
 %%%%
-easy sensed monster
+容易感知的怪物
 
-A weak monster whose presence has been revealed by the power of Ashenzari.
+因阿什扎里的力量而显现其存在的弱小怪物。
 %%%%
-tough sensed monster
+感知强悍的怪物
 
-A somewhat dangerous monster whose presence has been revealed by the power of
-Ashenzari.
+某种危险的怪物，其存在已被
+阿申扎里。
 %%%%
-nasty sensed monster
+讨厌的感应怪物
 
-A very dangerous monster whose presence has been revealed by the power of
-Ashenzari.
+一种非常危险的怪物，其存在已被
+阿申扎里。
 %%%%
-friendly sensed monster
+友善的感应怪物
 
-A friendly monster whose presence has been {{
-    if you.god() == "Ashenzari" then
-        return "revealed by the power of Ashenzari"
+一个友善的怪物，其存在已{{
+    if you.god() == "阿申扎里" then
+        return "由阿什扎里的力量揭示"
     else
-        return "detected"
+        return "被侦测到"
     end
 }}.
 %%%%
 ##############################################################################
-### Vault-defined monsters
+### Vault 定义的怪物
 ##############################################################################
-Cloud Mage
+云法师
 
-A strange wizard who has attained mastery over clouds, making deft and
-foreboding mystic gestures.
+一位奇怪的巫师，他精通云端，灵巧而敏捷。
+不祥的神祇秘手势。
 %%%%
-Head Instructor
+首席导师
 
-A powerful warrior-mage who instructs aspiring students in physical, magical,
-and anti-magical combat.
+一位强大的战士法师，指导有抱负的学生物理、魔法、
+以及反魔法战斗。
 %%%%
-Hellbinder
+地狱缚誓者
 
-A mighty spellcaster wreathed in arcane energies, muttering profane
-incantations.
+一位强大的施法者，浑身笼罩着奥术能量，低声低语着亵渎之语
+咒语。
 %%%%
-# arena sprint final boss
-Master Blaster
+# 冲刺竞技场刺杀最终boss
+爆破大师
 
-A mighty old lich, notorious for blasting people with powerful conjurations at
-the slightest provocation, or just on a whim.
+一位强大的老巫妖，因用强大的咒语攻击人类而臭名昭著。
+哪怕是最轻微的挑衅，或者只是一时兴起。
 %%%%
-Statue of Wucad Mu
+乌提姆雕像
 
-A statue made of a fine glassy orange crystal. It depicts a mystic known as
-Wucad Mu, who mastered the matters of the mind, and is imbued with Wucad Mu's
-powers of mental combat.
+由精美的玻璃状橙色水晶制成的雕像。它描绘了一位神祇秘主义者，称为
+Wucad Mu，掌握了心灵的东西，并充满了 Wucad Mu 的
+精神祇战斗的力量。
 %%%%
-moon troll
+月亮巨魔
 
-A bizarre breed of intelligent troll, glowing with mysterious power from beyond
-this world which shields it from damage except at close range.
+一种奇异的聪明巨魔，散发着来自远方的神祇秘力量
+这个世界可以保护它免受除了近距离之外的伤害。
 %%%%
-lunar statue
+月球雕像
 
-<zot statue>
+<佐特雕像>
 %%%%
-air elementalist statue
+空气元素雕像
 
-A delicate statue of a tengu gliding through the air. It looks quite
-insubstantial.
+精美的天狗雕像在空中滑翔。看起来相当
+不实质性的。
 %%%%
-antique champion
+古董冠军
 
-An unfathomably expensive skeleton. It has countless sigils engraved into its
-bones, and pulses with a ghostly presence.
+一具极其昂贵的骷髅。它的身上刻有无数的符文
+骨头和豆类都带有幽灵般的存在。
 %%%%
-archer statue
+弓箭手雕像
 
-A statue of a beautiful elven archer, sculpted in finest marble. It holds a
-bow aloft, and appears to be magically animated, letting it use the bow to
-riddle intruders with arrows.
+美丽的精灵弓箭手雕像，采用最优质的大理石雕刻而成。它拥有一个
+高高举起弓，似乎有魔法般的动画，让它用弓来
+带箭头的谜语入侵者。
 %%%%
-bog mummy
+沼泽木乃伊
 
-An undead figure preserved by the brackish waters of a bog. It has begun to
-decay heavily, and looks fragile.
+沼泽中的咸水保存着不死生物。它已经开始
+腐烂严重，看起来很脆弱。
 %%%%
-captured wizard
+被俘的巫师
 
-A wild-eyed wizard whose tongue has been cut out, frantically mumbling and
-waving its arms but unable to cast a single spell.
+一个舌头被割掉的狂野巫师，疯狂地咕哝着
+挥舞着手臂，却无法施展任何法术。
 %%%%
-charred statue
+烧焦的雕像
 
-A statue that has been imbued with flame, allowing it to make use of simple
-fire-based conjurations.
+一座充满火焰的雕像，可以使用简单的
+基于火的咒语。
 %%%%
-Cigotuvi's Monster
+奇戈图维的怪物
 
-A terrifying creation that appears to have been constructed from the body parts
-of every monstrous creature imaginable, with writhing tentacles sprouting from
-its form.
+似乎是由身体部位构建而成的可怕创造物
+各种可以想象到的怪物，长着扭动的触手
+它的形式。
 %%%%
-conjurer statue
+魔术师雕像
 
-A statue able to harness the mightiest of pure conjurations ever devised by
-Iskenderun.
+一座能够利用有史以来最强大的纯粹咒语的雕像
+伊斯肯德伦。
 %%%%
-deformed humanoid
+变形人形
 
-A poor creature that looks hideously deformed.
+一个看起来畸形得可怕的可怜生物。
 %%%%
-demonic plant
+恶魔植物
 
-A demonic mockery of a plant, covered with mysterious appendages and writhing
-tentacles. It appears to be harmless.
+对一种植物的恶魔般的嘲弄，其上覆盖着神祇秘的附属物并扭动着
+触手。它似乎是无害的。
 %%%%
-dimme
+暗淡
 
-A terrible creature with demonic ancestry. Its presence is horrifying, but
-supernaturally compelling.
+有着恶魔血统的可怕生物。它的存在令人恐惧，但
+超自然地引人注目。
 %%%%
-drunken dwarf
+醉酒的矮人
 
-A dwarf who seems to be working as an ale quality tester, and is enjoying the
-job a little too much.
+一个矮人，似乎是一名啤酒质量测试员，并且正在享受
+工作有点太多了。
 %%%%
-earth elementalist statue
+土元素雕像
 
-A plain statue of a dwarf wielding a pickaxe. It looks incredibly heavy.
+一个挥舞着镐的矮人的朴素雕像。它看起来非常重。
 %%%%
-fire elementalist statue
+火元素雕像
 
-An ornately worked statue of an orc holding a torch aloft, hewn from black
-basalt. The air around it shimmers.
+一座用黑色凿成的、高举火炬的兽人雕像，雕工华丽
+玄武岩。周围的空气都在闪烁。
 %%%%
-flesh golem
+肉傀儡
 
-An animated mound of misshapen flesh, sculpted over an iron skeleton.
+一座由畸形血肉组成的动画堆，雕刻在铁骨架上。
 %%%%
-frost-covered statue
+冰霜覆盖的雕像
 
-A statue of a mage, with frost constantly forming across its surface.
+一尊法师雕像，表面不断凝结冰霜。
 %%%%
-ghost-faced bat
+鬼脸蝙蝠
 
-A bat with a spectral visage.
+一只有着幽灵般面孔的蝙蝠。
 %%%%
-giga bat
+千兆蝙蝠
 
-An enormous, bloated bat.
+一只巨大、臃肿的蝙蝠。
 %%%%
-goblin sharper
+妖精更锋利
 
-A goblin newly converted to Nemelex Xobeh. It's still learning about all the
-cards and, thankfully, isn't inclined to use them against you.
+刚刚转变为涅梅莱克斯·索贝的地精。它仍在学习所有
+幸运的是，他们不会用它们来对付你。
 %%%%
-greater air elemental
+高等空气元素
 
-A mighty spirit drawn from the elemental plane of air, surrounded by a
-deadly vortex of frost.
+从空气元素位面汲取的强大灵魂，周围环绕着
+致命的冰霜漩涡。
 %%%%
-ice bat
+冰蝙蝠
 
-An undead creature in the shape of a bat, made of ice.
+蝙蝠形状的不死生物，由冰制成。
 %%%%
-flame-cult kobold
+拜火教狗头人
 
-A kobold that has been enchanted to explode in a blaze of fire.
+一个被施了魔法会在火焰中爆炸的狗头人。
 %%%%
-mad acolyte of Lugonu
+卢戈努的疯狂侍僧
 
-A devoted follower of Lugonu, driven mad by years of living in the Abyss.
+卢戈努的忠实追随者，因长年在深渊中生活而发疯。
 %%%%
-malarious merfolk avatar
+疟疾人鱼头像
 
-A young merfolk that looks deeply ill, but is still capable of bespelling its
-audience.
+一个年轻的人鱼，看起来病得很重，但仍然有能力施咒
+观众。
 %%%%
-master elementalist
+元素大师
 
-A demented wizard commanding the primal forces of the universe.
+一个疯狂的巫师，指挥着宇宙的原始力量。
 %%%%
-megabat
+巨型蝙蝠
 
-A huge black bat.
+一只巨大的黑色蝙蝠。
 %%%%
-microbat
+微型蝙蝠
 
-A bat that, despite its name, is not any smaller than a megabat.
+尽管它的名字如此，但它并不比巨型蝙蝠小。
 %%%%
-spectator
+旁观者
 
-A follower of Okawaru, granted the honour of spectating a duel to the death.
+大川流的追随者，有幸观看一场生死决斗。
 %%%%
-# Sprint only, too unhinged for regular games...
-oklob plant annihilator
+# 仅限冲刺，对于常规游戏来说太精神祇错乱了......
+oklob植物消灭者
 
-A mere plant that has somehow attained sentience and the use of magic, by some
-inconceivable sorcery.
+一种纯粹的植物，以某种方式获得了知觉并能够使用魔法，某些人
+不可思议的巫术。
 %%%%
-oklob plant conjurer
+oklob植物魔术师
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-oklob plant demonologist
+奥克洛布植物恶魔学家
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-oklob plant meteorologist
+oklob 植物气象学家
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-oklob plant shifter
+oklob 植物升降器
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-oklob plant summoner
+oklob植物召唤师
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-oklob sapling priest
+奥克洛布树苗牧师
 
-An immature oklob plant that seems to be mumbling some orisons... er, what?!?
+一株未成熟的oklob植物，似乎在咕哝着一些祈祷……呃，什么？！？
 %%%%
-oklob sapling wizard
+oklob 树苗
 
-<oklob plant annihilator>
+<oklob植物歼灭者>
 %%%%
-orb golem
+球傀儡
 
-A metal golem crackling with magical energies. It must have been created by
-a truly devious wizard, or possibly someone who misheard what monsters could
-be found in the Realm of Zot.
+充满魔法能量的金属傀儡。它一定是由
+一个真正狡猾的巫师，或者可能是一个听错了怪物的能力的人
+可以在佐特王国中找到。
 %%%%
-phase bat
+相蝙蝠
 
-A strange, glowing bat that flutters through more dimensions than the average
-bat.
+一种奇怪的发光蝙蝠，可以飞越比普通蝙蝠更多的维度
+蝙蝠。
 %%%%
-phase spider
+相位蜘蛛
 
-An otherworldly spider that can move short and medium distances by briefly
-shifting between the planes of reality, in order to better ensnare its prey.
+一种超凡脱俗的蜘蛛，可以短暂移动短距离和中距离
+在现实层面之间转换，以便更好地诱捕猎物。
 %%%%
-pristine statue
+原始雕像
 
-An immaculately sculpted porphyry statue of an archer poised to release a bolt,
-with a full quiver at the hip.
+一座完美雕刻的斑岩雕像，是一位准备射出箭的弓箭手，
+臀部完全颤抖。
 %%%%
-rotten bat
+烂蝙蝠
 
-A bat that is well past its sell-by date.
+远远超过保质期的球棒。
 %%%%
-sickly merfolk siren
+病态的人鱼海妖
 
-A young merfolk that looks quite sick, but still has the power to mesmerise its
-victims.
+一个年轻的人鱼，看起来很病态，但仍然有能力催眠它
+受害者。
 %%%%
-skeletal bat
+骨骼蝙蝠
 
-A bat skeleton without the decency to lie unmoving like dead bats are supposed
-to.
+蝙蝠骨架没有像死蝙蝠那样躺着一动不动的体面
+到。
 %%%%
-spriggan baker
+斯普里根·贝克
 
-A spriggan that has mastered the culinary arts.
+精通烹饪艺术的小精灵。
 %%%%
-#if TAG_MAJOR_VERSION > 34
-still boulder
+#如果TAG_MAJOR_VERSION > 34
+仍然巨石
 
-A gargantuan mass of stone at rest.
+一块静止的巨大石头。
 #endif
 %%%%
-water elementalist statue
+水元素雕像
 
-A smooth statue of a beautiful merfolk bathing in a fountain, sculpted from
-creamy, faintly pinkish travertine. It glistens softly in the light.
+一座美丽的人鱼在喷泉中沐浴的光滑雕像，由
+奶油色、略带粉红色的石灰华。它在灯光下闪闪发光。
 %%%%
-witch
+女巫
 
-An old and unnaturally ugly human, wearing robes stained with what appears to
-be swamp ooze, cauldron soot and brew ingredients.
+一个年老且丑陋的人类，穿着长袍，上面沾有似乎是
+是沼泽软泥、大锅烟灰和酿造原料。
 %%%%
-withered plant
+枯萎的植物
 
-A plant whose life has been drained away, but with its physical form still
-intact. It looks like it died many {{ if you.branch() == "Crypt" or
-you.branch() == "Tomb" or you.branch() == "Zot" then return "centuries";
-else return "years"; end }} ago.
+生命已被耗尽，但其物理形态仍然存在的植物
+完好无损。看起来它早在 {{
+if you.branch() == "地穴" or you.branch() == "墓" or you.branch() == "佐特" then
+    return "数个世纪"
+else
+    return "数年"
+end}} 前就已经死去。
 %%%%
-worm
+蠕虫
 
-A giant annelid, glistening with slime, with unusually large teeth.
+一种巨大的环节动物，身上闪烁着粘液，牙齿异常大。
 %%%%
-zin angel
+津天使
 
-A divine agent of Zin. It is a towering winged figure with an aura of brilliant
-white light. Its face is marked by a scowl, as if its zeal against any real or
-perceived vice overshadows its goodness.
+辛的神祇使。那是一座高耸的翼影，气势辉煌。
+白光。它的脸上带着愁容，仿佛它热衷于反对任何真实的或
+感知到的罪恶掩盖了它的善良。
 %%%%
-zot statue
+佐特雕像
 
-A profoundly disturbing statue, hewn from a single piece of dark gabbro
-scintillating with tiny crystals. It is impossible to tell whether it is
-intended to represent some creature or personage, or to be completely abstract.
+一座令人深感不安的雕像，由一整块深色辉长岩凿成
+闪烁着微小的晶体。无法判断是否是
+旨在代表某种生物或人物，或者完全抽象。
 %%%%
-### Arena sprint boss renames
-dire wolf spider
+### 竞技场冲刺老板重命名
+恐狼蜘蛛
 
-<wolf spider>
+<狼蛛>
 %%%%
-giant anaconda
+巨型水蚺
 
-<anaconda>
+<蟒蛇>
 %%%%
-greater orb of eyes
+眼大球
 
-<great orb of eyes>
+<大眼睛>
 %%%%
-naga warlord
+纳迦军阀
 
-<naga warrior>
+<纳迦战士>
 %%%%
-sulphuric acid blob
+硫酸滴
 
-<acid blob>
+<酸性斑点>
 %%%%
-vault guard captain
+跳马守卫队长
 
-<vault guard>
+<金库守卫>
 %%%%
-grandmaster elementalist
+元素大师
 
-<master elementalist>
+<元素大师>
 %%%%
-### Meatsprint
-bag of meat
+### 肉印
+一袋肉
 
-One of the legions of abominations created by the sculptors of flesh. It is a
-horrendous imitation of the human form, consisting of an unrecognisable mass of
-meat stitched together with limbs sewn on seemingly at random. Its skin hangs
-off loosely in some places and bulges repulsively in others. Each one bears a
-large symbol carved into its flesh, a mark of pride from its twisted creator.
+由血肉雕塑家创造的可憎军团之一。它是一个
+对人类形态的可怕模仿，由大量无法识别的物质组成
+肉被缝合在一起，四肢看似随意地缝在一起。它的皮肤垂下来
+有些地方松散，而另一些地方则令人厌恶地凸出。每一个都承载着一个
+巨大的符号刻在它的肉体上，这是它扭曲的创造者的骄傲标志。
 %%%%
-large bag of meat
+大袋肉
 
-One of the legions of abominations created by the sculptors of flesh. Its
-bloated hulk pulsates and throbs constantly with accursed fires. It looks as if
-it could explode into a torrent of viscera at any moment.
+由血肉雕塑家创造的可憎军团之一。其
+臃肿的废船随着被诅咒的火焰不断地脉动和颤动。看起来好像
+随时都可能爆发出五脏六腑的洪流。
 %%%%
-meat berserker
+肉类狂暴者
 
-One of the legions of abominations created by the sculptors of flesh. Its form
-is large and muscular. It moves swiftly and with impetuous fury, the sole
-thought within its being to rend you apart with great fervour. As it rages, it
-creates a cacophonous din.
+由血肉雕塑家创造的可憎军团之一。它的形式
+体型大且肌肉发达。它行动迅速，带着急躁的愤怒，唯一的
+其存在的想法是要以极大的热情将你撕碎。当它肆虐时，它
+产生刺耳的噪音。
 %%%%
-meat hydra
+肉水螅
 
-One of the legions of abominations created by the sculptors of flesh. Each of
-its eight necks is distended and elongated, connected to a colossal body
-crumpled and dripping with ichor. Its many heads spew blood while writhing and
-convulsing in agony, as it brings torment to itself and anything else that
-beholds its foul visage.
+由血肉雕塑家创造的可憎军团之一。每一个
+它的八个脖子被扩张和拉长，连接到一个巨大的身体
+皱巴巴的，滴着脓水。它的许多头在扭动时喷出鲜血
+痛苦地抽搐，因为它给自己和其他任何事物带来折磨
+看到它肮脏的面容。
 %%%%
-meat beast
+肉兽
 
-One of the legions of abominations created by the sculptors of flesh. Ablaze
-with demonic frenzy, it gores and tramples with ferocity unmatched. Its skin is
-flayed, exposing the glistening tendons and sinew underneath, and the teeth
-inside its cavernous maw are stained with blood.
+由血肉雕塑家创造的可憎军团之一。燃烧
+它带着恶魔般的狂怒，以无与伦比的凶猛来刺伤和践踏。它的皮肤是
+剥了皮，露出下面闪闪发光的肌腱和肌腱，还有牙齿
+它的大嘴里沾满了血。
 %%%%
-sculptor of flesh
+肉体的雕塑家
 
-An artisan of unlife, the sculptor appears as a grim skeletal form. It has six
-long arms ending in mangled hands with broken fingers, upon which it crawls
-like a spider. Its skull is abnormally large and full of holes. Its bones are
-reddened and fractured, inscribed with the unholy spells it weaves to assemble
-its puppets.
+这位雕塑家是一位无生命的工匠，以冷酷的骷髅形象出现。它有六个
+长长的手臂末端是残破的手和断指，它在上面爬行
+像蜘蛛一样。它的头骨异常大并且布满了洞。它的骨头是
+变红、破碎，铭刻着它编织组装的邪恶咒语
+它的木偶。
 %%%%
-destroyer
+驱逐舰
 
-The destroyers begin to descend upon you. They come in numbers and with wrath,
-maws gaping like abaddon, bottomless and abyssal. They bring your doom and will
-feast on your remains.
+毁灭者开始向你降临。他们带着愤怒而来，
+胃像地狱一样张开，无底深渊。他们给你带来厄运和意志
+享用你的遗骸。
 %%%%
-accursed
+被诅咒的
 
-The accursed are the ones who came before. They have come to ensure you share
-their fate.
+受诅咒的是那些先来的人。他们来确保您分享
+他们的命运。
 %%%%
-tyrant
+暴君
 
-A colossal mass of bones and skulls, a walking tomb. You hear shrieks and
-screams as it approaches, shattering off bones with each crushing step,
-reassembling itself in eternal unrest.
+巨大的骨头和头骨，一座行走的坟墓。你听到尖叫声
+当它靠近时发出尖叫声，每一步都粉碎骨头，
+在永恒的动荡中重新组装自己。
 %%%%
-dread
+恐惧
 
-An affront to existence, a void in which there is only torment and damnation.
-Its unearthly form is torn and twisted, black and hollow. It is bereft of
-rational thought, knowing only hatred and the desire to desecrate your soul.
+这是对存在的侮辱，是一片只有折磨和诅咒的空虚。
+它的神祇秘形状被撕裂和扭曲，黑色和空心。它失去了
+理性的思考，只知道仇恨和亵渎灵魂的欲望。
 %%%%
-scourge
+祸害
 
-A vast serpentine form with raw and diseased skin, seeping bile and pus,
-spouting venom and blight.
+巨大的蛇纹石，皮肤粗糙、患病，渗出胆汁和脓液，
+喷出毒液和枯萎病。
 %%%%
-observer
+观察者
 
-You see the unseen, you stare and they stare back. They whisper and laugh, they
-grin and cry, they leer at you with contempt and gaze at you in adoration. They
-are the observers, they are the judge of your worth and will decide your end.
+你看到看不见的东西，你凝视，他们也凝视着你。他们窃窃私语，大笑，他们
+他们笑着哭着，他们用轻蔑的眼神祇看着你，用崇拜的目光看着你。他们
+是观察者，他们是你价值的评判者，并将决定你的结局。
 %%%%
-wretched soul
+可怜的灵魂
 
-A spectre, struggling to leave the mortal world it is incarcerated in. It
-drains life and unlife from all those it comes into contact with.
+一个幽灵，挣扎着离开被囚禁的凡人世界。
+吸干它所接触到的所有人的生命和非生命。
 %%%%
-fleshlord
+血肉领主
 
-One of the greatest servants of the Meatlord. It is muscular, agile and full of
-malevolence.
+肉王最伟大的仆人之一。它肌肉发达、敏捷、充满活力
+恶意。
 %%%%
-vile
+卑鄙的
 
-An emaciated figure brimming with damnation and plague. Its appearance
-signifies the end of days.
+一个瘦弱的身影，充满了诅咒和瘟疫。它的外观
+象征着日子的结束。
 %%%%
-The Servant
+仆人
 
-His glaive is alight with the flames of hell.
+他的剑上燃烧着地狱之火。
 %%%%
-The Captor
+俘虏
 
-Those who enter will not escape.
+进入的人将无法逃脱。
 %%%%
-The Defiler
+污染者
 
-His shield is emblazoned with images of infernal flames.
+他的盾牌上刻有地狱之火的图案。
 %%%%
-The Meatlord
+肉王
 
-You behold the embodiment of filth, corruption and depravity: the Meatlord. His
-foul body is bloated to the extreme, leaking viscous fluid and the stench of
-death. His head is that of a boar with bulging eyes and tusks split in two, his
-snout flares and oozes as he snorts and squeals at the sight of you, and his
-mouth is a toothless rift which drools pools of blood and vomits forth
-disgusting remains. His neck is stretched and lops forward, its skin sagging
-downward. His immense gut writhes and distorts as the larvae within await their
-repugnant release. His legs are unrecognisable masses of flesh, covered in
-protrusions and throbbing boils. Your mind reels at the sight of this hideous
-form, and your senses begin to shut down in an attempt to preserve your sanity
-as you choke on the oppressive stench.
+你看到的是污秽、腐败和堕落的化身：肉领主。他的
+恶臭的身体肿胀到了极点，渗出粘稠的液体，散发着恶臭。
+死亡。他的头是一头野猪，眼睛凸出，獠牙分成两半，
+当他看到你时，他会喷鼻息并尖叫，他的鼻子会燃烧并渗出液体。
+嘴是一条无牙的裂口，流着血并吐出
+令人厌恶的遗迹。他的脖子伸长并向前倾斜，皮肤下垂
+向下。当里面的幼虫等待它们的到来时，他巨大的肠道翻滚扭曲。
+令人厌恶的释放。他的双腿是无法辨认的肉块，上面覆盖着
+突出物和搏动性的疖子。看到这可怕的景象你的心会晕眩
+形式，你的感官开始关闭，试图保持你的理智
+当你被压抑的恶臭窒息时。
 %%%%
-The Unspeakable
+难以言说的事
 
-You hear the echoes of planets behind the deafening roar of stars as it
-approaches. It is the jaws of the abyss. It brings forth crawling chaos from
-within. It is the last sight you will ever see.
+在震耳欲聋的恒星轰鸣声后面，你听到行星的回声
+接近。这是深渊的下颚。它带来了爬行的混乱
+之内。这是你最后看到的景象。
 %%%%

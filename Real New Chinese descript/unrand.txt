@@ -1,857 +1,857 @@
 %%%%
-Singing Sword
+歌剑
 
-An enchanted blade which loves nothing more than to sing to its owner, whether
-they want it to or not.
+一把附魔之剑，最喜欢给它的主人唱歌，无论是
+他们想要或不想要。
 %%%%
-Sulking Sword
+闷闷不乐的剑
 
-<Singing Sword>
+<歌声剑>
 %%%%
-Screaming Sword
+尖叫剑
 
-<Singing Sword>
+<歌声剑>
 %%%%
-Wrath of Trog
+穴居人之怒
 
-A bloodstained axe that was the favourite weapon of the old god Trog, before it
-was lost. It induces a bloodthirsty berserker rage when used in battle, although
-mere mortals who wield it will find themselves temporarily overwhelmed by Trog's
-power.
+一把沾满血迹的斧头，在它之前是旧神特洛格最喜欢的武器
+迷路了。在战斗中使用时它会引发嗜血的狂暴狂暴，尽管
+凡人只要使用它就会发现自己暂时被穴居人的力量所压倒
+权力。
 %%%%
-mace of Variability
+变化性狼牙棒
 
-A large mace said to have appeared when Xom grew bored with the predictability
-of more ordinary instruments of chaos.
+据说，当Xom对这种可预测性感到恐慌时，一把大狼牙棒就出现了
+更普通的混沌工具。
 %%%%
-glaive of Prune
+梅干剑
 
-The glaive of Prune carries a terrible and insidious curse. Unless its wielder
-maintains firm self-control, they are doomed to undergo a horrifying (albeit
-temporary) transformation. This is normally trivial to resist, but incapacitated
-wielders are certain to succumb, finding themselves nightmarishly purple, squishy,
-and delicious. They can take comfort in learning that it's surprisingly hard to
-injure a giant prune.
+普鲁恩的剑带有可怕而阴险的诅咒。除非它的持有者
+保持坚定的自制力，他们注定会经历一场可怕的（尽管
+临时）转变。这通常是微不足道的抵抗，但无能为力
+持有者肯定会屈服，发现自己变成噩梦般的紫色，软软的，
+和美味的。当他们得知要做到这一点出人意料地困难时，他们会感到安慰。
+伤害一棵巨大的李子。
 %%%%
-staff of Olgreb
+奥尔格勒布的职员
 
-A staff which was once wielded by the great alchemist Olgreb.
+伟大的炼金术士奥尔格勒布曾经使用过的法杖。
 %%%%
-crystal ball of Wucad Mu
+乌卡姆水晶球
 
-A sphere of flawless crystal, shaped by countless mantras. When one focuses upon
-it, the boundaries between 'self' and 'other' sometimes seem to blur.
+一颗无瑕水晶球体，由无数咒语塑造而成。当一个人专注于
+有时候，"自我"和"他人"之间的界限似乎变得模糊。
 {{
-    if you.race() == "Djinni" then
-        return "It is utterly useless to Djinn."
+    if you.race() == "吉尼" then
+        return "对神祇灵来说完全没用。"
     end
 }}
 %%%%
-Vampire's Tooth
+吸血鬼的牙齿
 
-An ivory-like quick blade that looks like it could have been crafted from the
-tooth of some enormous predatory creature. It is lethally vampiric.
+一把像象牙一样的快速刀片，看起来像是由
+某种巨大掠食性动物的牙齿。这是致命的吸血鬼。
 %%%%
-scythe of Curses
+诅咒之镰
 
-A scythe surrounded by an ominous aura of dread. It carries a terrible and
-ancient curse, which it busily inflicts on both the wielder and their enemies.
+一把镰刀，周围充满了不祥的恐惧气息。它承载着可怕而
+古老的诅咒，它频繁地对持有者和他们的敌人施加这种诅咒。
 %%%%
-sceptre of Torment
+折磨权杖
 
-An accursed bone sceptre, created by some unknown hellish power. When used in
-combat, it causes agonising pain in all those unfortunate enough to gaze upon
-it, save for the wielder.
+一根被诅咒的骨权杖，由某种未知的地狱力量创造。当用于
+战斗，它会给所有不幸目睹的人带来痛苦
+它，为持有者保留。
 %%%%
-sword of Cerebov
+切雷波夫之剑
 
-A twisted blade, covered in eerie flames. Its demonic power burns away at the
-very essence of those it is wielded against.
+一把扭曲的剑，上面覆盖着诡异的火焰。它的恶魔力量在
+它所针对的对象的本质。
 %%%%
-orb of Dispater
+迪斯帕特宝珠
 
-An orb pulsing with unholy energies, granting the power to unleash damnation
-when held — although not without draining the wielder's vitality in the
-process. It carries with it some of the corrosive malice of the Iron City of
-Dis.
+一颗充满邪恶能量的球体，赋予释放诅咒的力量
+持有时——尽管会消耗持有者的生命力
+过程。它带有钢铁之城的一些腐蚀性恶意。
+迪斯。
 %%%%
-sceptre of Asmodeus
+阿斯摩蒂尔斯权杖
 
-A bright ruby sceptre, carrying some of the powers of the arch-fiend Asmodeus.
-It may call forth fiery demons from their infernal home to do the wielder's
-bidding.
+一把明亮的红宝石权杖，承载着大恶魔阿斯摩蒂斯的部分力量。
+它可能会从地狱之家召唤出炽热的恶魔来完成持有者的任务
+投标。
 %%%%
-faerie dragon scales
+仙龙鳞片
 
-An enchanted suit of armour created from the scales of a rare breed of dragon,
-now thought to be extinct. This prized relic is now one of the last proofs that
-the vividly coloured faerie dragons ever existed.
-%%%%
-# TAG_MAJOR_VERSION == 34
-demon blade "Bloodbane"
-
-A blade forged in Hell by the sacrifice of countless tortured souls. It
-inflicts the rage and suffering of those souls upon its wielder.
+一套由稀有龙的鳞片制成的迷人盔甲，
+现在被认为已经灭绝。这件珍贵的文物现在是最后的证据之一
+色彩鲜艳的精灵龙曾经存在过。
 %%%%
 # TAG_MAJOR_VERSION == 34
-scimitar of Flaming Death
+魔刃"血祸"
 
-A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out,
-covering opponents in magical flame.
-%%%%
-eveningstar "Brilliance"
-
-Soon after falling, Yredelemnul attempted to twist holy energy into a dark
-mockery of itself, turning it against its progenitors and weakening it against
-undead and demons. It was discovered too late that such a complete perversion
-was uncontrollable; the foul flame destabilised or destroyed everything it was
-infused into, except for several demonic test subjects and one stolen holy
-weapon. A lesser, and more stable, version of the dark energy proved more
-workable, and became Yredelemnul's umbra.
-
-This is that weapon: an eveningstar with its light long fled, despite its name,
-and a shadow that repulses those its light used to comfort...
-%%%%
-demon blade "Leech"
-
-A blade forged in Hell by the sacrifice of countless tortured souls. It fills
-its wielder with the rage and suffering of those souls, and gorges itself
-further on drained life force every time it strikes, leaving behind a mess of
-blood and gore.
+一把由无数受折磨的灵魂牺牲在地狱中铸造的利刃。它
+将这些灵魂的愤怒和痛苦强加于其持有者身上。
 %%%%
 # TAG_MAJOR_VERSION == 34
-dagger of Chilly Death
+烈焰死亡弯刀
 
-A dagger made of one huge shard of sapphire. It covers opponents in ice,
-slowing down their movement somewhat.
+一把带有神秘冒烟的刀刃的弯刀。有时它的热量会泄漏出去，
+用魔法火焰覆盖对手。
+%%%%
+晚星"辉煌"
+
+坠落后不久，伊瑞德莱姆努试图将神圣能量扭曲成黑暗
+嘲弄自身，将其转向其祖先，并削弱其对抗
+不死族和恶魔。等发现如此彻底的变态时为时已晚
+无法控制；恶臭的火焰动摇或摧毁了一切
+被注入，除了几个恶魔测试对象和一个被盗的圣物
+武器。事实证明，暗能量的较小且更稳定的版本更有效
+可行，并成为伊雷德莱姆努尔的本影。
+
+这就是那个武器：一颗夜星，尽管它的名字如此，但它的光芒却早已逃逸，
+还有一个阴影，它排斥那些用它的光来安慰的人……
+%%%%
+魔刃"水母"
+
+一把由无数受折磨的灵魂牺牲在地狱中铸造的利刃。它充满了
+它的持有者带着那些灵魂的愤怒和痛苦，吞噬着自己
+每次袭击都会进一步耗尽生命力，留下一团糟
+血腥和血腥。
 %%%%
 # TAG_MAJOR_VERSION == 34
-dagger "Morg"
+寒冷死亡匕首
 
-An ugly rusty dagger. Many years ago it was the property of a powerful mage
-called Boris. He got lost in the Dungeon while seeking the Orb.
-%%%%
-scythe "Finisher"
-
-A long and exceedingly sharp scythe, capable of eviscerating in a single blow.
-Its extraordinary speed is the work of a mad wizard, who spent years refining
-it before discarding it in a fit of rage.
-
-The blade looses a low keen as it cuts through the air.
-%%%%
-greatsling "Punk"
-
-A sling made of weird green leather, oozing corrosive slime. Originally the
-weapon of a notorious mischief-maker and general scamp, it's since fallen into
-less savoury hands.
-%%%%
-longbow "Zephyr"
-
-This bow was woven from the air itself by Eiolaiphi the air mage as a gift for
-one of the children of Uskayaw. The bow can be pulled with incredible speed,
-and it launches swift and true. It is also nearly indestructible, which is
-fortunate given that the original owner was ripped to pieces by jealous
-celebrants.
-%%%%
-giant club "Skullcrusher"
-
-A massive enchanted cudgel that augments the already considerable strength of
-anyone mighty enough to wield it.
-%%%%
-glaive of the Guard
-
-A glaive commissioned several years ago by a wealthy queen fearful for the
-safety of her vast treasury. No foe, the smith promised, could defeat a guard
-wielding such a weapon!
-
-It was stolen a few months later, along with the rest of the queen's treasury;
-the guard, it transpired, had been caught napping. Still, it should serve more
-than adequately in the hands of a waking user.
-%%%%
-zealot's sword
-
-A sword made of one huge piece of crystal. Legend says it was the Shining One's
-gift to a worshipper. This blade is notorious for inducing bloodthirsty rage in
-both the wielder and all of their followers.
-%%%%
-arbalest "Damnation"
-
-An unholy crossbow, forged in the fires of Gehenna. It imbues the bolts it
-fires with the raw power of its namesake. Thankfully, the blasts this weapon
-produces never harm the one firing.
-%%%%
-sword of the Dread Knight
-
-An adamantine great sword. Its first wielder was a worshipper of Yredelemnul
-who eschewed the use of magic in combat, preferring to destroy her enemies with
-brute force. Unfortunately for her, not all of her opponents shared her
-limitations.
-
-It has felled countless great warriors under her grip, and the souls of those
-who had their lives taken beckon it to take even more under its new owner.
-%%%%
-morningstar "Eos"
-
-A jewelled morningstar, glowing brightly with the light of the dawn. It
-illuminates the dungeon's recesses, revealing the machinations of those who
-would prefer to stay invisible.
+一把由一大块蓝宝石碎片制成的匕首。它用冰覆盖对手，
+稍微减慢了他们的动作。
 %%%%
 # TAG_MAJOR_VERSION == 34
-spear of the Botono
+匕首"莫尔格"
 
-A dark and malign artefact. It increases the potency of hexes cast by anyone
-unwise enough to risk wielding it.
+一把生锈的丑陋匕首。很多年前它是一位强大法师的财产
+叫鲍里斯。他在寻找宝珠时在地牢里迷路了。
 %%%%
-trident of the Octopus King
+镰刀"终结者"
 
-A trident stolen many years ago from the Octopus King's garden. Luckily, he
-seems to be in no hurry to get it back.
+一把长而锋利的镰刀，一击就能掏出内脏。
+其非凡的速度是一位疯狂巫师的杰作，他花费数年时间精炼而成
+在盛怒之下将其丢弃之前。
+
+刀刃划破空气时发出低沉的锐利声。
 %%%%
-mithril axe "Arga"
+伟大的吊索"朋克"
 
-A beautiful mithril axe, probably lost by some dwarven hero.
+由奇怪的绿色皮革制成的吊带，渗出腐蚀性粘液。原来是
+一个臭名昭著的恶作剧者和一般流氓的武器，它从此陷入了困境
+少了些咸味的手。
 %%%%
-Elemental Staff
+长弓"和风"
 
-A powerful staff which used to belong to the leader of the Guild of Five
-Elements. It is imbued with protective and offensive enhancements from all
-the elemental schools of magic.
+这把弓是由空气法师 Eiolaiphi 从空气中编织而成，礼物送达
+乌斯卡亚人的孩子之一。弓可以以令人难以置信的速度拉动，
+它启动迅速且真实。它也几乎坚不可摧，这是
+还好原主被嫉妒撕成碎片
+庆祝者。
 %%%%
-heavy crossbow "Sniper"
+巨人俱乐部"碎颅者"
 
-The sacred weapon of Toth-Mos, first apostle of the god Ashenzari. It grants
-the wielder a fraction of Ashenzari's own vision, ensuring that every shot will
-land true.
+一根巨大的附魔棍，增强了本已相当大的力量
+任何强大到足以使用它的人。
 %%%%
-# TAG_MAJOR_VERSION == 34
-longbow "Piercer"
+守卫之刃
 
-An exceptionally large metal longbow.
+几年前，一位富有的女王担心自己会受到威胁，委托制作了一把战刀
+她庞大的金库的安全。铁匠承诺，没有任何敌人能够击败守卫
+拥有这样的武器！
+
+几个月后，它与女王金库的其余部分一起被盗；
+据了解，这名警卫当时正在打瞌睡。尽管如此，它应该服务更多
+比醒着的用户能充分掌握。
 %%%%
-# TAG_MAJOR_VERSION == 34
-blowgun of the Assassin
+狂热者的剑
 
-This blowgun seems to guide the needle to seek the most lethal point to hit
-the target, packing a nasty punch.
+一把巨大的水晶打造而成的剑。传说这是闪灵的
+给崇拜者的礼物。这把剑因在战场上引发嗜血狂怒而臭名昭著
+持有者及其所有追随者。
 %%%%
-lance "Wyrmbane"
+强弩"诅咒"
 
-An enchanted lance deadly to all dragonkind. It grows more powerful every time
-it inflicts a killing blow on a strong dragon. The more powerful it grows, the
-harder it will be to find a worthy opponent.
+一把邪恶的十字弓，在地狱之火中锻造而成。它浸透了螺栓
+以其同名者的原始力量燃烧。值得庆幸的是，这把武器爆炸了
+产生的伤害不会伤害到一次射击。
 %%%%
-Spriggan's Knife
+恐惧骑士之剑
 
-A dainty little knife which was made by Spriggans, or for Spriggans, or
-possibly from Spriggans. Anyway, it's in some way associated with those fey
-folk.
+一把精金巨剑。它的第一位持有者是伊瑞德莱姆努尔的崇拜者
+她在战斗中避免使用魔法，更喜欢用魔法消灭敌人
+蛮力。对她来说不幸的是，并非所有对手都认同她
+限制。
+
+无数伟大的战士倒在她的手下，而那些人的灵魂
+那些被夺走生命的人召唤它在新主人的带领下夺走更多的生命。
 %%%%
-plutonium sword
+晨星"埃欧斯"
 
-A triple sword made of weird glowing metal. It irradiates those it strikes,
-causing a range of unpredictable effects — if they survive the impact of the
-blade itself, that is.
-%%%%
-great mace "Undeadhunter"
-
-A weapon imbued with magic to disrupt and destroy the forces binding undead
-creatures together. Legends say that, long ago, a lich lord created many
-such weapons to ensure the loyalty of his undead servants. Sadly, this mace
-might be the last one left.
-%%%%
-whip "Snakebite"
-
-A double-ended whip made from the cured hides of black mambas, and enchanted
-with toxins ranging from ordinary venoms to asphyxiating curare.
-%%%%
-# TAG_MAJOR_VERSION == 34
-knife of Accuracy
-
-It is almost unerringly accurate.
+一颗镶满宝石的晨星，在黎明的光芒中闪烁着明亮的光芒。它
+照亮了地牢的深处，揭露了那些人的阴谋
+宁愿保持隐形。
 %%%%
 # TAG_MAJOR_VERSION == 34
-Lehudib's crystal spear
+波托诺之矛
 
-Presumably this relic led to the invention of the famous spell, or maybe the
-other way around.
+一个黑暗而邪恶的人工制品。它增加了任何人施放的六角形的效力
+不明智地冒险使用它。
 %%%%
-captain's cutlass
+章鱼王的三叉戟
 
-An infamous weapon, once used by a vile pirate captain to slaughter countless
-innocents. He finally met his destiny when a kraken swallowed his ship, and the
-cutlass was thought to be lost with him.
+多年前从章鱼王花园被盗的三叉戟。幸运的是，他
+似乎并不急于把它拿回来。
 %%%%
-storm bow
+秘银斧"阿尔加"
 
-A longbow with the colour of dark rain clouds that fires arrows like lightning.
+一把美丽的秘银斧头，可能被某个矮人英雄丢失了。
 %%%%
-tower shield of Ignorance
+元素法杖
 
-A shield unearthed from the remains of a ruined city. It bears an inscription
-written in an ancient language. Scholars and wise men laboured for countless
-hours to decipher it, and in time, a translation was finally settled on:
-
-"With a shield like this, who needs to think?"
+曾经属于五人行会首领的强力法杖
+元素。它充满了来自所有方面的保护性和进攻性增强
+魔法基础学校。
 %%%%
-robe of Augmentation
+重弩"狙击手"
 
-A variegated robe, woven with enchantments to enhance the wearer's physical and
-mental abilities. Its creators wove in strands of hair from a hundred different
-animals, each chosen for the unique strengths it could grant the robe's wearer.
-%%%%
-cloak of the Thief
-
-A pitch-black cloak which allows its wearer to excel in the arts of thievery.
-Even the clumsy will find their footsteps softer and the shouts of their
-adversaries less attention-getting.
+阿什扎里神的第一使徒托特莫斯的神圣武器。它授予
+使用者只有阿申扎里自己视野的一小部分，确保每次射击都会
+土地真实。
 %%%%
 # TAG_MAJOR_VERSION == 34
-tower shield "Bullseye"
+长弓"读书器"
 
-Just in case you had trouble getting hit.
-%%%%
-crown of Dyrovepreva
-
-A large circlet of dull bronze, set with a dazzling array of gemstones. It was
-first worn by a prince of the Titans, who sought protection from the incessant
-warfare between his fellow princes. In practice, the main effect of the
-artefact was to unite his rivals against him.
-%%%%
-hat of the Bear Spirit
-
-A fur hat once owned by Ukta, a powerful ogre shaman. It houses the spirit of
-an especially mighty bear, whose rages devastated the ogres until it was slain.
-%%%%
-robe of Misfortune
-
-A splendid flowing robe of fur and silk whose lucky colour has faded.
+特大的金属长弓。
 %%%%
 # TAG_MAJOR_VERSION == 34
-cloak of Flash
+刺客的吹箭筒
 
-A cloak that twitches and jerks without any intervention.
+这把气枪似乎引导着针寻找最致命的击中点
+目标，发出令人讨厌的一拳。
 %%%%
-hood of the Assassin
+长矛"维姆班恩"
 
-A soft hood, enchanted by members of the Assassin's Guild to allow the wearer
-to sense potential victims nearby, and to easily spot vulnerabilities after
-closing in on them.
+对所有龙类来说致命的魔法长枪。每一次它都变得更加强大
+对强大的龙造成致命一击。它成长得越强大，
+找到一个有价值的对手将更加困难。
 %%%%
-Lear's hauberk
+斯普里根的刀
 
-A well-made golden hauberk that covers all of its wearer's body parts. It
-includes a chainmail coif, chausses and maille gauntlets.
+一把精致的小刀，由 Spriggans 制造，或为 Spriggans 制造，或
+可能来自 Spriggans。无论如何，它在某种程度上与那些妖精有关
+民间。
 %%%%
-skin of Zhor
+钚剑
 
-The {{
+由奇怪的发光金属制成的三重剑。它会照射到它所击中的人，
+造成一系列不可预测的影响——如果它们在冲击中幸存下来
+也就是说，刀片本身。
+%%%%
+伟大的狼牙棒"不死猎手"
+
+一种充满魔法的武器，可以扰乱和摧毁束缚不死者的力量
+生物在一起。传说很久以前，一位巫妖领主创造了许多
+这些武器可以确保他的亡灵仆人的忠诚。可悲的是，这把狼牙棒
+可能是最后剩下的了。
+%%%%
+鞭子"蛇咬伤"
+
+由黑曼巴蛇皮制成的双头鞭子，并附有魔法
+毒素范围从普通毒液到窒息性箭毒。
+%%%%
+# TAG_MAJOR_VERSION == 34
+精度刀
+
+它几乎是无误准确的。
+%%%%
+# TAG_MAJOR_VERSION == 34
+列胡迪卜的水晶矛
+
+据推测，这个遗物导致了著名咒语的发明，或者也许是
+反过来说。
+%%%%
+船长的弯刀
+
+一种臭名昭著的武器，曾被邪恶的海盗船长用来屠杀无数人
+无辜者。当海怪吞没了他的船时，他终于遇到了自己的命运。
+人们认为弯刀和他一起丢失了。
+%%%%
+风暴弓
+
+漆黑雨云色的长弓，射出如闪电般的箭矢。
+%%%%
+无知塔盾
+
+从城市废墟中出土的盾牌。它刻有铭文
+用一种古老的语言写成的。学者和智者为无数的
+花了几个小时来破译它，最终确定了翻译：
+
+"有了这样的盾牌，谁还需要思考？"
+%%%%
+强化长袍
+
+一种杂色长袍，编织有咒语，可以增强穿着者的体力和力量
+心理能力。它的创造者用来自一百种不同颜色的头发编织而成
+每种动物都被选中，因为它们可以赋予长袍的穿着者独特的力量。
+%%%%
+盗贼斗篷
+
+一件漆黑的斗篷，让穿着者在盗窃方面表现出色。
+即使是笨手笨脚的人也会发现他们的脚步变得更加轻柔，他们的呼喊声也变得更加柔和。
+对手不太引人注目。
+%%%%
+# TAG_MAJOR_VERSION == 34
+塔盾"靶心"
+
+以防万一你遇到麻烦被击中。
+%%%%
+Dyrovepreva 的王冠
+
+暗青铜制成的大圆环，镶嵌着一系列耀眼的宝石。原来是
+首先由泰坦王子佩戴，他寻求保护免受不断的侵害
+他的同伴王子之间的战争。在实践中，主要作用是
+神祇器是为了联合他的对手来对抗他。
+%%%%
+熊灵之帽
+
+一顶毛皮帽子，曾经属于强大的食人魔萨满乌克塔。它承载着
+一只特别强大的熊，它的愤怒摧毁了食人魔，直到它被杀死。
+%%%%
+厄运长袍
+
+华丽的毛皮和丝绸长袍，幸运的颜色已经褪色。
+%%%%
+# TAG_MAJOR_VERSION == 34
+闪电斗篷
+
+一件无需任何干预即可抽搐和猛拉的斗篷。
+%%%%
+刺客兜帽
+
+柔软的兜帽，由刺客公会的成员施魔法，让佩戴者能够
+感知附近潜在的受害者，并在事后轻松发现漏洞
+逼近他们。
+%%%%
+李尔的锁甲
+
+制作精良的金色锁子甲，覆盖穿戴者身体的所有部位。它
+包括锁子甲头巾、马腿和锁子甲手套。
+%%%%
+佐尔的皮肤
+
+该{{
     if you.can_smell() then
-        return "smelly "
+        return "臭"
     end
-}}skin of some strange animal, native to cold and distant lands. It radiates
-the chill of its native habitat.
+}}某种奇怪动物的皮，原产于寒冷而遥远的土地。它辐射
+其原生栖息地的寒冷。
 %%%%
-salamander hide armour
+蝾螈皮甲
 
-Most salamanders' bodies are consigned to the fiery depths from which they
-sprang. Rarely, though, salamanders instead preserve the skins of those that
-passed. The runes and decorations on this hide suggest it once belonged to a
-respected warrior or priest - perhaps even a king. The fiery spirit remains in
-the skin, granting its power to the wearer.
+大多数蝾螈的尸体都被扔到了火热的深处，在那里它们
+跳了。但很少有蝾螈会保存那些蝾螈的皮。
+通过了。这块兽皮上的符文和装饰表明它曾经属于一个
+受人尊敬的战士或牧师——甚至可能是国王。火热的精神依然存在
+皮肤，赋予佩戴者力量。
 %%%%
-gauntlets of War
+战争的手套
 
-A pair of thick steel gauntlets. They were Okawaru's reward for a mighty
-warlord. The owner is destined to die in battle, but what a death it will be!
+一副粗钢手套。它们是大川流对强大的奖励
+军阀。主人注定会战死，但那将是怎样的死法！
 %%%%
-shield of Resistance
+抵抗之盾
 
-A bronze shield, looking almost exactly like a tortoise's shell. It was built
-by the adherents of an obscure minor faith, who imbued it with the power of
-their god. As the god is said to, this shield protects against sword and sling,
-frost and flame.
+青铜盾牌，看上去几乎和龟壳一模一样。它被建造了
+由一个默默无闻的小信仰的信徒所创造，他们赋予了它力量
+他们的神。正如神所说，这面盾牌可以抵御剑和投石器，
+霜和火焰。
 %%%%
-robe of Folly
+愚蠢长袍
 
-A dull grey robe. It is enchanted to provide mages with immeasurable power,
-and more than a little overconfidence...
+一身暗灰色长袍。它具有魔力，能够为法师提供不可估量的力量，
+还有一点点过度自信......
 %%%%
-Maxwell's patent armour
+麦克斯韦的专利装甲
 
-A suit of armour created by the famous inventor Maxwell, providing unparalleled
-protective qualities at a very affordable price. His unorthodox materials left
-it with certain shortcomings, but he's yet to have anyone come back for a
-refund.
+著名发明家麦克斯韦创造的一套盔甲，提供无与伦比的
+以非常实惠的价格提供防护品质。他留下的非正统材料
+它有一定的缺点，但他还没有让任何人回来
+退款。
 %%%%
-mask of the Dragon
+龙的面具
 
-The mask of the High Priest of ancient Erebora. In ancient times, the gods of
-the Ereborans ceased to answer their prayers, and in desperation, the people
-turned to the forbidden worship of dragons. Now, of their works, only this mask
-remains.
+古代埃雷博拉大祭司的面具。在远古时代，众神
+埃瑞波兰人不再回应他们的祈祷，在绝望中，人们
+转向禁止的龙崇拜。现在，他们的作品中，只有这张面具
+仍然存在。
 %%%%
-robe of Night
+夜之长袍
 
-A long black robe made of strange glossy material. It shrouds its wearer in
-darkness, reducing the range of vision. According to legend, it was the gift
-of Rutra, a renowned demigoddess of the night, to one of her followers.
+由奇怪的光泽材料制成的黑色长袍。它将佩戴者笼罩在
+黑暗，减少了视野。相传这是一份礼物
+鲁特拉（Rutra），一位著名的夜间半神祇，对她的一位追随者说道。
 %%%%
-scales of the Dragon King
+龙王的鳞片
 
-A suit of armour created from the enchanted scales of a once-mighty king of
-dragons. In his time, titans and lesser dragons struggled with him in vain —
-but as with all things, even he was eventually cast down and undone. Of his
-life and deeds, this is all that remains.
+一套由曾经强大的国王的魔法鳞片制成的盔甲
+龙。在他的时代，泰坦和小龙与他的斗争都是徒劳的——
+但就像所有的事情一样，即使是他最终也被击垮了。他的
+生命和行为，仅此而已。
 %%%%
-hat of the Alchemist
+炼金术士的帽子
 
-A dirty hat. It bears signs of surviving many weird explosions, which suggests
-it may have means of protecting the head inside from the risks involved with
-alchemy experiments.
+一顶脏帽子。它有在许多奇怪的爆炸中幸存下来的迹象，这表明
+它可能有办法保护头部免受相关风险的影响
+炼金术实验。
 %%%%
-fencer's gloves
+击剑手手套
 
-A pair of gloves made of white silk.
+一双白色丝绸制成的手套。
 %%%%
-cloak of Starlight
+星光斗篷
 
-A phosphorescent cloak, woven of pure light beams. The ripples of its folds
-as the wearer leaps and swerves in combat may dazzle those who gaze on it.
+一件磷光斗篷，由纯光束编织而成。其褶皱的涟漪
+佩戴者在战斗中跳跃和转向可能会让凝视它的人眼花缭乱。
 %%%%
-ratskin cloak
+鼠皮斗篷
 
-A cloak stitched from the hides of hundreds of hell rats by an enchantress with
-far too much time on her hands. Many more rats remain somehow concealed within
-it, and may scurry out to assist the wearer.
+女巫用数百只地狱鼠的皮缝制而成的斗篷
+她手上的时间太多了。还有更多的老鼠以某种方式隐藏在里面
+它，并且可能会急忙出去帮助佩戴者。
 %%%%
-shield of the Gong
+锣盾
 
-A heavy bronze gong that can be worn as a shield. Locked away in a temple for
-many years, its bearer is shielded by decades of accumulated prayer.
+可以作为盾牌佩戴的重型青铜锣。被锁在寺庙里
+多年来，它的持有者受到数十年积累的祈祷的保护。
 %%%%
-amulet of the Air
+空气护身符
 
-A sky-blue amulet, suffused with enchantments that protect the wearer and make
-their Air spells more powerful. Its creator lacked just one thing: a steady
-hand.
+天蓝色的护身符，充满魔力，可以保护佩戴者并让
+他们的空气法术更强大。它的创造者只缺少一件事：稳定的
+手。
 %%%%
-ring of Shadows
+暗影之戒
 
-A black ring that can make its wearer one with the shadows.
-%%%%
-# TAG_MAJOR_VERSION == 34
-amulet of Cekugob
-
-A strange-looking piece of crystal on an ordinary-looking string, with an odd
-selection of powers.
-%%%%
-amulet of the Four Winds
-
-A pendant made of purest jade. It grants its wearer immense willpower and
-mental fortitude.
-%%%%
-necklace of Bloodlust
-
-A necklace made of bloodstained human and animal teeth, and something that
-appears to be a piece of spine.
-%%%%
-ring of the Hare
-
-An unadorned malachite ring, half of an ancient pair. Its wearer is
-exceptionally difficult to catch.
-%%%%
-ring of the Tortoise
-
-A rough-hewn aquamarine ring, half of an ancient pair. Its wearer is
-exceptionally difficult to harm.
-%%%%
-ring of the Mage
-
-An enchanted sapphire, inset into a ring. It aids the spellcasting of its
-wearer.
-%%%%
-brooch of Shielding
-
-A brooch with an intricate inlaid design, providing a range of magical
-protections. Back in the good old days, every adventurer had one of these handy
-devices. That, and a pony.
-%%%%
-robe of Clouds
-
-A robe of a material as nebulous and insubstantial as the clouds. It whips the
-air around it up into a furious storm as it ripples and swirls.
-%%%%
-hat of Pondering
-
-The favourite hat of the slug wizard Gastronok, stained with reddish slime and
-enchanted to aid in his arcane pondering. It has been specially enchanted to
-protect against the desiccating effects of salt.
-%%%%
-obsidian axe
-
-An axe with a powerful curse placed on it by one of the lords of Pandemonium,
-so that unsuspecting adventurers would unleash demons into this world. Beware,
-for it has ways of taking its wielder under its command...
-%%%%
-consecrated labrys
-
-An axe with a delicate blessing placed on it by one of the sacred Seraphim,
-so that worthy adventurers would rid this world of demons. Rejoice, for it has
-ways of bringing courage to its wielder in even the darkest places...
-%%%%
-lightning scales
-
-A set of armoured plates assembled to protect a creature with a long, scaly
-lower body. Faintly crackling with electricity, they supercharge their wearer's
-ability to cover distance.
-%%%%
-Black Knight's barding
-
-A heavy barding made from pitch-black steel and inlaid with plates of black
-diamond. It once protected the steed of the Black Knight during their reign of
-terror. Those who wear it become partially undead, gaining some of the benefits
-without the unfortunate downsides, although the great weight of metal and stone
-slows the wearer somewhat.
-%%%%
-amulet of Vitality
-
-A jewelled amulet famed for its powers of resilience and recuperation. Its
-greatest notoriety came from its use by the dread necromancer Borgnjor, who
-relied upon it to maintain her slender hold on life. After her final demise,
-the amulet vanished from the pages of history.
-%%%%
-autumn katana
-
-An exquisitely crafted sword. Its blade is so sharp that it can cut through
-space itself.
-%%%%
-shillelagh "Devastator"
-
-A wooden cudgel, loaded with more than just lead.
-%%%%
-dragonskin cloak
-
-An opalescent cloak gleaming with the colours of all kinds of dragons. It
-imbues the wearer with draconic resistances, although somewhat unreliably.
-%%%%
-ring of the Octopus King
-
-One of the eight rings once worn by the Octopus King and now scattered across
-the land. Each has its own unique enchantment.
-%%%%
-Axe of Woe
-
-As you hold this axe your mind does not feel fully your own. Your body begins
-to exhibit strength far beyond its capabilities, and your movements become
-guided by Makhleb.
-%%%%
-moon troll leather armour
-
-A suit of armour rumoured to have been created by enchanting the hide of a
-now-extinct species of troll. Whether the name rings true or is merely
-appropriated to add mystique is something of a mystery. The armour's innate
-powers of regeneration and magical protection, however, are hard to dispute.
-%%%%
-macabre finger necklace
-
-An ugly dangling finger on a string. Everything about it reeks of malign
-influences... but it's hard to avoid thinking that it would look better with a
-ring on it.
+一枚能让佩戴者与阴影融为一体的黑色戒指。
 %%%%
 # TAG_MAJOR_VERSION == 34
-boots of the spider
+切库戈布护身符
 
-A novel pair of boots invented by a suitor of Arachne.
+一根看起来很普通的绳子上有一块看起来很奇怪的水晶，上面有一个奇怪的东西
+权力的选择。
 %%%%
-dark maul
+四风护身符
 
-A large, iron-shod maul specialised for dealing massively powerful blows. Such
-power comes at a price: the maul's head is so heavy it takes a great length of
-time to lift it up for another swing.
+由最纯净的玉石制成的吊坠。它赋予佩戴者巨大的意志
+精神上的坚韧。
+%%%%
+嗜血项链
+
+一条由沾满血迹的人类和动物牙齿制成的项链，还有一些东西
+似乎是一块脊柱。
+%%%%
+野兔戒指
+
+一枚朴素的孔雀石戒指，是一对古老戒指的一半。它的佩戴者是
+异常难以捕捉。
+%%%%
+乌龟戒指
+
+一枚粗凿的海蓝宝石戒指，是一对古老戒指的一半。它的佩戴者是
+特别难以受到伤害。
+%%%%
+法师之戒
+
+镶嵌在戒指上的迷人蓝宝石。它有助于其施法
+佩戴者。
+%%%%
+屏蔽胸针
+
+具有复杂镶嵌设计的胸针，提供一系列神奇的效果
+保护。回到过去的美好时光，每个冒险家都有这样一个方便的工具
+设备。那，还有一匹小马。
+%%%%
+云袍
+
+一件材质如云一般模糊且无形的长袍。它鞭打着
+当它荡漾和旋转时，它周围的空气会变成一场猛烈的风暴。
+%%%%
+沉思之帽
+
+鼻涕虫巫师加斯特罗诺克最喜欢的帽子，沾满了红色的粘液和
+着迷于帮助他进行神秘的思考。它被特别迷住了
+防止盐的干燥作用。
+%%%%
+黑曜石斧头
+
+一把带有强大诅咒的斧头，由混乱之地的一位领主放置，
+这样毫无戒心的冒险家就会将恶魔释放到这个世界上。当心，
+因为它有办法让使用者处于它的指挥之下……
+%%%%
+奉献的实验室
+
+一把带有精致祝福的斧头，由一位神圣的六翼天使放置在上面，
+以便勇敢的冒险者能够消灭这个世界上的恶魔。庆幸，因为它已经
+即使在最黑暗的地方，也能为使用者带来勇气的方法......
+%%%%
+闪电鳞片
+
+一组装甲板，组装起来可以保护具有长鳞片的生物
+下半身。它们会发出微弱的电流，为佩戴者的身体充电
+覆盖距离的能力。
+%%%%
+黑骑士的马甲
+
+由漆黑的钢铁制成并镶嵌着黑色板材的重型马甲
+钻石。它曾经在黑骑士统治时期保护过他们的战马
+恐怖。佩戴它的人会变得部分不死，获得一些好处
+没有不幸的缺点，尽管金属和石头的重量很大
+稍微减慢佩戴者的速度。
+%%%%
+活力护身符
+
+一款宝石护身符，以其恢复力和恢复能力而闻名。其
+最大的恶名来自于可怕的死灵法师博格尼·奥尔（Borgnjor）的使用，他
+依靠它来维持她对生命的微弱把握。在她最后去世后，
+护身符从历史的书页上消失了。
+%%%%
+秋天的武士刀
+
+一把制作精良的剑。它的刀刃非常锋利，可以切开
+空间本身。
+%%%%
+shillelagh "毁灭者"
+
+一根木棍，里面装的不仅仅是铅。
+%%%%
+龙皮斗篷
+
+乳白色的斗篷闪烁着各种龙的颜色。它
+赋予佩戴者龙类抗性，尽管有些不可靠。
+%%%%
+章鱼王戒指
+
+章鱼王曾经佩戴过的八枚戒指之一，现在散落在各处
+土地。每一个都有其独特的魅力。
+%%%%
+祸患之斧
+
+当你拿着这把斧头时，你的思想并不完全属于你自己。你的身体开始
+展现出远远超出其能力的力量，你的动作变得
+由马赫莱布指导。
+%%%%
+月亮巨魔皮甲
+
+据传一套盔甲是通过对兽皮施魔法而制成的
+现已灭绝的巨魔物种。无论这个名字听起来真实还是仅仅是
+用来增加神秘感是一种神秘。铠甲是与生俱来的
+然而，再生和魔法保护的力量却是无可争议的。
+%%%%
+恐怖的手指项链
+
+一根丑陋的手指悬在绳子上。一切都散发着恶臭
+影响...但很难避免认为如果加上
+敲响它。
 %%%%
 # TAG_MAJOR_VERSION == 34
-hat of the High Council
+蜘蛛之靴
 
-A relic of some ancient wizarding war. Centuries later, it still crackles with
-effects from the residual hexes and magical energies it was once subjected to
-on a daily basis; spellcasters able to get a handle on its power, however, will
-find it enhances the power of their spells.
+阿拉克尼的追求者发明的一双新颖的靴子。
 %%%%
-arc blade
+黑暗之槌
 
-A blade somehow crafted from pure electricity. It arcs wildly between the
-wielder and their foes as it strikes.
-%%%%
-demon whip "Spellbinder"
-
-A weapon said to have once been used to keep unruly imprisoned wizards in line;
-it violently disrupts the flow of magic around it.
-%%%%
-lajatang of Order
-
-A silver-bladed lajatang, once bestowed upon a favoured worshipper of Zin. It
-became the most prized weapon of the many priests of Zin. After their order was
-destroyed, it fell into disuse and vanished from history.
-%%%%
-great mace "Firestarter"
-
-A huge mace imbued with potent fire magic. It fills those it strikes with an
-inner flame, and offers some protection against the resulting devastation.
-%%%%
-orange crystal plate armour
-
-A suit of armour carved from transparent orange crystal. It provides remarkable
-protection for both mind and body. The wearer can even channel psychic energies
-through the crystal itself, enhancing their magical abilities. However, it's
-rather heavy...
-%%%%
-Majin-Bo
-
-A staff inhabited by a mighty demon, tricked and trapped in this form long ago.
-To survive, she now offers great arcane power in a terrible bargain: in
-exchange for a tiny portion of the caster's life essence, taken every time its
-wielder casts a spell, she will redirect the life essence of creatures damaged
-by the spell to the caster.
-%%%%
-pair of quick blades "Gyre" and "Gimble"
-
-Two quick blades joined by a chain. Swinging one compels the wielder to swing
-the other, as if they have minds of their own.
+一种大型铁钉大槌，专门用于进行强力打击。这样的
+力量是有代价的：大槌的头部非常重，需要很长的时间
+是时候抬起它进行另一次挥杆了。
 %%%%
 # TAG_MAJOR_VERSION == 34
-Maxwell's etheric cage
+高级议会的帽子
 
-A fine mesh cage designed to capture magical energy. Experimental notes suggest
-that research was abandoned when the cage began to capture magical
-contamination almost as effectively. Anyone reckless enough to place it on
-their head would find their magic regeneration dramatically increased, at the
-cost of multiplying any magical contamination received.
+一些古代巫师战争的遗迹。几个世纪后，它仍然噼啪作响
+曾经遭受过的残余咒语和魔法能量的影响
+每天；然而，能够掌握其力量的施法者将
+发现它增强了他们法术的力量。
+%%%%
+弧形刀片
+
+以某种方式用纯电力制成的刀片。它在之间疯狂地弧线
+当它攻击时，持有者和他们的敌人。
+%%%%
+魔鞭《咒语师》
+
+据说曾经被用来让不守规矩的被囚禁的巫师保持秩序的武器；
+它猛烈地扰乱了周围的魔法流动。
+%%%%
+秩序拉贾唐
+
+一把银刃拉贾唐，曾赠予辛的一位受宠的崇拜者。它
+成为许多辛祭司最珍贵的武器。他们的订单完成后
+被毁，它被废弃并从历史中消失。
+%%%%
+伟大的狼牙棒"点火器"
+
+充满强大火焰魔法的巨大狼牙棒。它使那些被它击中的人充满了
+内部火焰，并提供一些保护以防止由此造成的破坏。
+%%%%
+橙色水晶板甲
+
+一套由透明橙色水晶雕刻而成的铠甲。它提供了非凡的
+对身心的保护。佩戴者甚至可以引导心灵能量
+通过水晶本身，增强他们的魔法能力。然而，它是
+比较重...
+%%%%
+魔人博
+
+一根被强大恶魔占据的法杖，很久以前就以这种形态被欺骗和困住了。
+为了生存，她现在以可怕的代价提供了巨大的奥术力量：
+交换施法者每次生命精华的一小部分
+持有者施展法术，她会重新引导受损生物的生命本质
+通过施法者的咒语。
+%%%%
+pair of quick blades "环流"和"金布尔"
+
+两个快速刀片由链条连接。挥动它会迫使持有者挥动
+另一个，好像他们有自己的想法。
 %%%%
 # TAG_MAJOR_VERSION == 34
-crown of Eternal Torment
+麦克斯韦的以太笼
 
-A gold crown set with jet-black gems. It permanently afflicts its wearer with
-agonising pain, substantially reducing their resilience but rendering them
-immune to further torments.
-%%%%
-robe of Vines
-
-A robe woven of living vines. The vines form a symbiotic relationship with
-their wearer, greatly increasing their regeneration, but preventing them from
-being healed by potions.
-%%%%
-Kryia's mail coat
-
-A coat of armour said to have been forged for Queen Kryia in her old age. She
-continued to insist on leading her armies from the front even into her dotage,
-and as her aging body failed her, this coat helped to enhance the healing
-draughts that kept her alive.
-%%%%
-frozen axe "Frostbite"
-
-A massive axe that looks like it was carved from a glacier, or possibly calved
-from one. It leaves ice crystals in its wake as it swings through the air.
+一个细网状的笼子，旨在捕捉魔法能量。实验笔记表明
+当笼子开始捕捉魔法时，这项研究就被放弃了
+污染几乎同样有效。任何鲁莽的人都会把它放在
+他们的头脑会发现他们的魔法再生速度急剧增加，在
+增加所受到的任何魔法污染的成本。
 %%%%
 # TAG_MAJOR_VERSION == 34
-armour of Talos
+永恒折磨之冠
 
-A huge and weighty suit of bronze plate armour. Only one with a correspondingly
-huge body can wear it.
+镶有乌黑宝石的金冠。它会永久地影响其佩戴者
+剧烈的疼痛，大大降低了他们的恢复力，但使他们
+免受进一步的折磨。
 %%%%
-warlock's mirror
+藤蔓长袍
 
-A handheld array of hexagonal mirrors, synthesised from a truly exotic
-substance and polished to a blinding sheen.
+由活藤编织而成的长袍。藤蔓与植物形成共生关系
+他们的佩戴者，大大增加了他们的再生能力，但阻止他们
+被药水治愈。
 %%%%
-amulet of invisibility
+克莉亚的锁甲外套
 
-An amulet that can be activated to render its wearer invisible.
+据说是为晚年的克莉亚女王打造的铠甲。她
+即使到了晚年，仍坚持在前线领导她的军队，
+当她衰老的身体无力时，这件外套有助于增强愈合能力
+使她活下去的草稿。
 %%%%
-scarf of invisibility
+冻斧"冻疮"
 
-A scarf that can be activated to render its wearer invisible.
+一把巨大的斧头，看起来像是从冰川中雕刻出来的，或者可能是由冰川雕刻而成的
+从一。当它在空中摆动时，它会留下冰晶。
 %%%%
-Maxwell's thermic engine
+# TAG_MAJOR_VERSION == 34
+塔洛斯之铠
 
-A strange sword, one blade blistering hot and the other icy cold. When it hits
-its target the thermal gradient increases. What causes this effect is unknown
-but it is rumoured that otherworldly forces are involved.
+一套巨大而沉重的青铜板甲。只有一个具有相应的
+巨大的身材可以穿。
 %%%%
-demon trident "Rift"
+术士的镜子
 
-A small wrinkle in the very fabric of reality, magically bound to a shaft by
-some mad acolyte of Lugonu. Its attacks can warp through nearby space at the
-wielder's command.
+手持式六边形镜子阵列，由真正奇异的材料合成
+物质并抛光至令人眼花缭乱的光泽。
 %%%%
-sphere of Battle
+隐形护身符
 
-An orb encased in vividly coloured scales, wrought by a long-forgotten wizard.
-It was the mage Iskenderun's favourite playtoy.
+可以激活以使其佩戴者隐形的护身符。
 %%%%
-Cigotuvi's embrace
+隐形围巾
 
-A suit of armour borne of rotten flesh and bone and gristle, held intact by the
-will of a long-dead sorcerer. The dreadful energies within it call to the bodies
-of the recently dead, protecting the wearer with a cocoon of carrion.
+一条可以激活的围巾，使佩戴者隐形。
 %%%%
-seven-league boots
+麦克斯韦热力发动机
 
-An enchanted pair of boots which grant the ability to take strides of incredible
-length, as long as the wearer is advancing bravely towards their foes.
+一把奇怪的剑，一柄炽热，另一柄冰冷。当它击中时
+其目标是热梯度增加。造成这种影响的原因尚不清楚
+但有传言说有超凡脱俗的力量参与其中。
 %%%%
-Mad Mage's Maulers
+恶魔三叉戟"裂痕"
 
-A pair of gloves designed to carefully control and channel the flow of magic,
-later misused and mangled by the lunatic murderer-mages of the Fifth Circle.
-Their influence leaves the wearer utterly unable to cast spells - the wearer's
-magic is redirected to far bloodier purposes.
+现实结构中的一个小皱纹，神奇地绑在一根轴上
+卢戈努的一些疯狂助手。它的攻击可以扭曲穿过附近的空间
+持有者的命令。
 %%%%
-dreamdust necklace
+战斗范围
 
-A dull dusty mixture trapped within a cracked crystal on a thin silver chain.
+一颗被色彩鲜艳的鳞片包裹着的球体，由一位被遗忘已久的巫师制作而成。
+这是法师伊斯肯德伦最喜欢的玩具。
 %%%%
-dreamshard necklace
+西戈图维的拥抱
 
-A beautiful rainbow of colour and motion trapped within a delicate crystal on a
-thin silver chain. Listening carefully, one can hear the distant echo of a
-thousand dreams from all corners of reality, their melody giving a warm sense
-of safety.
+一套由腐肉、骨头和软骨组成的盔甲，由
+一位死去已久的巫师的意志。里面可怕的能量召唤着身体
+最近死去的人，用腐肉茧保护佩戴者。
 %%%%
-Delatra's gloves
+七级联赛靴子
 
-A pair of long ultramarine gloves, worn by a famed experimental alchemist in an
-age long past. They channel the energy of discovery, empowering their wearer with
-the force created by a blind step from ignorance to certainty.
+一双迷人的靴子，可以迈出令人难以置信的步伐
+长度，只要佩戴者勇敢地向敌人前进。
 %%%%
-woodcutter's axe
+疯狂法师的重锤
 
-A weapon that chops foes down as steadily and methodically as a forester cutting
-wood. The unchanging rhythm of its work has settled on it with the force of
-natural law, and no amount of force or skill can make it swing faster or slower.
+一副旨在仔细控制和引导魔法流动的手套，
+后来被第五环的疯狂杀人法师滥用和破坏。
+它们的影响使佩戴者完全无法施展法术——佩戴者的
+魔法被重定向到更加血腥的目的。
 %%%%
-Throatcutter
+梦尘项链
 
-Taken from a paladin of the Shining One by the common cutpurse who murdered her,
-Throatcutter was used for a long series of increasingly sordid deeds thereafter.
-Blood, murder and betrayal stain its history and blade both, and little trace now
-remains of the blade which once stood between danger and the innocent.
+一种暗淡的尘土飞扬的混合物，被困在一条细银链上的裂纹水晶中。
 %%%%
-staff of the Meek
+梦幻项链
 
-A sacred relic of the Monks of St. Lee, followers of the renunciate archmage. Just
-as St. Lee sought to atone for the destruction his spells wrought by protecting
-others, so his staff protects its wielder.
+美丽的彩虹般的色彩和动感被困在精致的水晶中
+细银链。仔细一听，可以听到远处传来的回声
+千个梦想来自现实的各个角落，它们的旋律给人一种温暖的感觉
+的安全性。
 %%%%
-trishula "Condemnation"
+德拉特拉的手套
 
-A weapon to bring forth guilt from the guilty. It was first wielded by the archangel
-Lucriel, who, on seeing the suffering of the first mortals, led them as an army
-against the cruelty of the gods. The ragged survivors of Lucriel's army took this
-weapon with them into the wilderness, the sole remnant of an archangel's virtue.
+一双深蓝色的长手套，由一位著名的实验炼金术士在一次炼金术中佩戴。
+时代早已过去。它们引导探索的能量，赋予佩戴者
+从无知到确定的盲目步骤所产生的力量。
 %%%%
-amulet of Elemental Vulnerability
+樵夫的斧子
 
-A blue-steel amulet. Its creator, an exceedingly practical woman, designed it to
-provide powerful protection against mundane jabs, stabs and bites. It's worse than
-useless against fire and frost, but how often does anyone really need to worry
-about that?
+一种可以像护林员砍伐一样稳定而有条不紊地砍倒敌人的武器
+木头。它的工作节奏一成不变，以一种力量固定下来。
+自然法则，再多的力量或技巧也无法让它摆动得更快或更慢。
 %%%%
-mountain boots
+割喉者
 
-These sturdy boots were created by an artificer who lived high up on a remote
-mountain peak, as protection against the mountain's near-constant avalanches,
-rockslides, and snowstorms. No force short of translocations magic will budge
-the wearer from their position.
+被谋杀她的普通窃贼从光辉圣骑士手中夺走，
+此后，割喉者被用来进行一系列日益肮脏的行为。
+鲜血、谋杀和背叛玷污了它的历史和刀刃，如今已无踪迹
+曾经站在危险和无辜者之间的剑的残骸。
 %%%%
-Lochaber axe
+温顺的员工
 
-This brutal weapon, long thought lost to history, combines the extended reach
-of a polearm with the cleaving sharpness of an axe. Ghosts of ancient warriors
-linger about it, draining fickle users.
+圣李僧侣的神圣遗物，他们是放弃大法师的追随者。只是
+当圣李试图弥补他的咒语所造成的破坏时
+其他人，因此他的法杖可以保护其使用者。
 %%%%
-Hermit's pendant
+特里苏拉"严厉"
 
-An ascetic once took a sacred vow, forswearing use of magical tools and ownership
-of everything but this pendant. Which god they made this vow to remains a point of
-bitter contention among the devout, but their pendant's power - and limitations -
-are irrefutable.
+一种使有罪者有罪的武器。它最初是由大天使使用的
+卢克瑞尔（Lucriel）看到第一批凡人的痛苦后，率领他们组建了一支军队
+反对诸神的残酷。卢克瑞尔军队的衣衫褴褛的幸存者抓住了这个
+带着他们进入荒野的武器，这是大天使美德的唯一残余。
 %%%%
-slick slippers
+元素脆弱护身符
 
-Crafted from the tanned, smooth hide of a Western Skyshark, these slippers are
-astonishingly comfortable. They lack the protective benefits of a good pair of
-boots, but they can get their wearers out of almost any bind.
+蓝钢护身符。它的创造者是一位非常务实的女性，她设计它的目的是
+提供强大的保护，防止普通的刺伤、刺伤和咬伤。这比
+对火和霜毫无用处，但有多少人真的需要担心
+关于那个？
 %%%%
-Force Lance
+山靴
 
-A plain iron lance, imbued with supernatural gravitas via the artifice of the
-mage Gell. It strikes with a force many times stronger than that imparted by
-the wielder.
+这些坚固的靴子是由一位住在偏远高处的工匠制作的
+山峰，作为抵御山上近乎持续的雪崩的保护，
+岩石滑坡和暴风雪。没有易位魔法的任何力量都不会改变
+佩戴者从他们的位置。
 %%%%
-toga "Victory"
+洛哈伯斧头
 
-An ancient artefact of Okawaru, these woolen robes were lost when a former
-champion failed a duel. Its enchantments increase in power when the wearer
-emerges victorious from threatening combat, but resorting to the use of scrolls
-or potions for assistance causes them to fade away again.
+这种残酷的武器，长期以来被认为已失传于历史，它结合了超长的射程
+具有斧头般锋利的长柄武器。古代武士的鬼魂
+徘徊不前，耗尽了善变的用户的精力。
 %%%%
-Storm Queen's Shield
+隐士的吊坠
 
-A disc of crackling metal, created by a woman whose cunning artifice and
-crafty politics once united a continent. Most of her surviving inventions are
-closely guarded by various royals, ostensible proof of their claim to be her
-true successor, but this early prototype slipped through their fingers.
+一位苦行僧曾经发下神圣的誓言，发誓放弃使用魔法工具和所有权
+除了这个吊坠之外的所有东西。他们向哪位神发誓仍然是一个问题
+虔诚者之间的激烈争论，但他们的吊坠的力量 - 和限制 -
+是无可辩驳的。
 %%%%
-hand cannon "Mule"
+光滑的拖鞋
 
-Hand cannons use magical dust to launch projectiles. The alchemists who craft
-them boast of their potency, but omit the smoke and noise blasted out with each
-shot. Filled with powdered blastmotes, Mule packs an especially powerful kick.
+这些拖鞋采用西方天鲨晒黑的光滑皮革制成，
+令人惊讶的舒适。他们缺乏一对好的保护措施
+靴子，但它们可以让穿着者摆脱几乎任何束缚。
 %%%%
-gloves of the gadgeteer
+力矛
 
-A pair of suede gloves covered in a dizzying array of delicate sigils. While
-originally intended to aid in the crafting of magical devices, they are
-nonetheless useful for wringing every last drop of power out of someone else's
-work.
+一把朴素的铁矛，通过神灵的诡计而充满了超自然的重力
+法师盖尔。它的攻击力比它所施加的力量强许多倍
+持有者。
 %%%%
-Charlatan's Orb
+长袍
 
-This orb is the work of a master artificer, contracted to retrieve the orb, who
-valued their life more than their professional integrity. While this fake
-faithfully recreates the eerie glow and space-warping properties of the true
-orb, the power it grants is artificial and only accessible to skilled evokers.
+这些羊毛长袍是大川流的古老手工艺品，当前任
+冠军在决斗中失败。当佩戴者佩戴它时，它的魔力会增强
+从威胁性战斗中取得胜利，但诉诸卷轴
+或辅助药水会使它们再次消失。
 %%%%
-justicar's regalia
+风暴女王之盾
 
-A gleaming breastplate with a slot in its centre for a holy symbol or bejewelled
-coat of arms. Those who hear commands given by its wearer feel filled with the
-power to carry them out, no matter the adversity.
+一个噼啪作响的金属圆盘，由一位女人用狡猾的技巧和
+狡猾的政治曾经统一了一个大陆。她现存的大部分发明是
+受到各个王室成员的严密看守，表面上证明他们声称自己是她
+真正的继承者，但这个早期的原型从他们的指缝中溜走了。
 %%%%
-skull of Zonguldrok
+手炮"骡子"
 
-The skull of a legendary necromancer, seemingly parted from the rest of its
-body. When held, it seems disinclined to explain the precise circumstances of
-its ending up in this state, but offers no objection to others siphoning what
-considerable necromantic power still remains in its ancient bones.
+手持加农炮使用魔法粉尘来发射射弹。炼金术士们
+他们吹嘘自己的力量，但忽略了每个人喷出的烟雾和噪音
+射击。骡子充满了爆炸粉末，具有特别强大的踢力。
 %%%%
-fungal fisticloak
+小玩意儿的手套
 
-The handiwork of a mad mycologist who once attempted to overcome the genetic
-anxiety of wandering mushrooms by cultivating a species that could be easily
-transported without disturbing them. The result is as much a living organism as
-it is a piece of clothing, every linen fibre twined together with fungal mycelia
-that draw both nutrients and confidence from whoever wears it. And in exchange
-for such trifles as blood or peptides, the colony will instinctively lash out to
-defend its wearer from whatever they perceive as a threat.
-
-It's like wearing a thousand tiny friends at once! And the humming they fill
-your mind with in the dark is actually quite lulling....
-
-(This item also occupies your helmet slot.)
+一双绒面革手套上覆盖着一系列令人眼花缭乱的精致符号。同时
+最初的目的是帮助制作魔法装置，它们是
+尽管如此，对于榨干别人的最后一滴力量还是很有用的
+工作。
 %%%%
-crown of vainglory
+江湖骗子的宝珠
 
-An extravagant crown of gold filigree and glittering jewels that even a king
-could feel immodest wearing. It grants its wearer a regal aura the match of any
-in heaven and also a great deal of unearned confidence.
+这颗球体是一位技师大师的杰作，他受雇来取回该球体，他
+重视他们的生命胜过他们的职业操守。虽然这个假
+忠实地再现了真实的怪异光芒和空间扭曲特性
+球体，它所赋予的力量是人为的，只有熟练的唤起者才能获得。
+%%%%
+正义者的法衣
+
+闪闪发光的胸甲，中心有一个槽，可放置神圣符号或宝石
+徽章。那些听到佩戴者发出的命令的人会感到充满了
+无论逆境如何，都有能力执行它们。
+%%%%
+宗古尔卓克的头骨
+
+传奇死灵法师的头骨，似乎与其余部分分开
+身体。当举行时，它似乎不愿意解释具体情况
+它最终处于这种状态，但不反对其他人吸取什么
+它古老的骨头中仍然残留着相当大的死灵力量。
+%%%%
+真菌拳头斗篷
+
+一位疯狂真菌学家的杰作，他曾经试图克服遗传因素
+通过培育一种可以轻松获得的物种来缓解流浪蘑菇的焦虑
+运输时不打扰他们。结果是一个活的有机体
+它是一件衣服，每根亚麻纤维都与真菌菌丝体缠绕在一起
+它可以从佩戴它的人身上汲取营养和信心。并作为交换
+对于诸如血液或肽之类的小事，群体会本能地猛烈攻击
+保护其佩戴者免受他们认为的任何威胁。
+
+就像同时穿着一千个小朋友一样！以及它们充满的嗡嗡声
+黑暗中你的思绪实际上很平静......
+
+（该物品也会占用你的头盔槽位。）
+%%%%
+虚荣之冠
+
+奢华的王冠，由金丝和闪闪发光的珠宝组成，即使是国王
+可能会感觉穿着不端庄。它赋予佩戴者一种与任何人都相匹配的帝王光环
+在天堂里，还有大量不劳而获的信心。

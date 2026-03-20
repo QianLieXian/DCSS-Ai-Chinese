@@ -1,1290 +1,1290 @@
 %%%%
-Fast status
+快速状态
 
-All of your actions are 50% faster.
+您的所有操作速度都快了 50%。
 %%%%
-Invis status
+隐身状态
 
-You are invisible. Most enemies will be unable to see you and will suffer
-penalties to hit, though they may be able to guess at your general location.
-If the status is greyed out, it is active but ineffective for some reason (for
-example if you are glowing with magical contamination or standing in shallow
-water).
+你是隐形的。大多数敌人将无法看到你并会遭受痛苦
+尽管他们可能能够猜测出您的大致位置，但仍会受到惩罚。
+如果状态为灰色，则表示它处于活动状态，但由于某种原因无效（例如
+例如，如果您因魔法污染而发光或站在浅水处
+水）。
 %%%%
-Tele status
+电话状态
 
-You are about to teleport. While waiting to teleport, attempting to apply the
-status again (such as by using a scroll of teleportation) will cancel the
-teleportation.
+你即将传送。在等待传送时，尝试应用
+再次状态（例如使用传送卷轴）将取消
+隐形传送。
 %%%%
-!Tele! status
+！电话！状态
 
-You are about to teleport towards hostile monsters, if possible. Before this
-happens, attempting to teleport again (such as by using a scroll of
-teleportation) will cancel this teleportation.
+如果可能的话，你将传送到敌对的怪物那里。在此之前
+发生，尝试再次传送（例如通过使用滚动
+传送）将取消本次传送。
 %%%%
-Fly status
+飞行状态
 
-You are flying above the ground, and are able to cross water and lava or fight
-above shallow water without penalties. Most types of flight will time out – be
-careful what you are above when that happens!
+你在地面上空飞行，可以穿越水面和熔岩或战斗
+浅水以上不受处罚。大多数类型的航班都会超时 – 是
+当这种情况发生时，请小心你上面的情况！
 %%%%
-Agi status
+敏捷状态
 
-You are unnaturally agile, and gain a bonus to your evasion.
+你异常敏捷，并会因躲避而获得加值。
 %%%%
-Brill status
+布里尔状态
 
-You are unnaturally smart, and gain a bonus to the power of your spells as well
-as halving their magic cost (rounding up).
+你异常聪明，并且你的法术威力也获得加成
+将其魔法成本减半（向上舍入）。
 %%%%
-Might status
+可能状态
 
-You are unnaturally mighty, doing significantly more damage in physical combat.
+你异常强大，在物理战斗中造成的伤害显着增加。
 %%%%
-Regen status
+恢复状态
 
-You regenerate health at an unnaturally fast rate. This is only shown for
-temporary regeneration.
+你以异常快的速度恢复生命值。这仅显示用于
+暂时再生。
 %%%%
--Regen status
+-恢复状态
 
-Your health has stopped regenerating due to the presence of nearby monsters.
+由于附近怪物的存在，你的生命值已停止恢复。
 %%%%
-MPRegen status
+MP再生状态
 
-You regenerate health and magic at an unnaturally fast rate. This is only shown
-for temporary regeneration.
+你以异常快的速度恢复生命值和魔法。这只是显示
+用于暂时再生。
 %%%%
-Touch status
+触摸状态
 
-Your attacks deal no damage, but have a chance of confusing monsters that they
-hit.
+你的攻击不会造成伤害，但有机会迷惑怪物
+击中。
 %%%%
-Will++ status
+遗嘱++状态
 
-Your willpower is much stronger, protecting against many magical effects.
+你的意志更加强大，可以抵御许多魔法效果。
 %%%%
-Regen Will++ status
+再生威尔++状态
 
-Trog's Hand is simultaneously making you regenerate health at an unnaturally
-fast rate and strengthening your willpower to protect you against many magical
-effects.
+穴居人之手同时让你以不自然的方式恢复生命值
+快速的速度并增强你的意志，以保护你免受许多魔法的伤害
+影响。
 %%%%
-Berserk status
+狂暴状态
 
-You are hasted, deal increased damage in combat, and have increased health, but
-are unable to perform most actions other than moving and attacking in melee.
-The status will wear off very quickly unless you are attacking monsters, and
-when it expires you will be slowed and unable to berserk again for a short
-duration.
+你很匆忙，在战斗中造成的伤害增加，生命值也增加，但是
+除了近战移动和攻击之外，无法执行大多数动作。
+除非你正在攻击怪物，否则状态会很快消失，并且
+当它过期时，你的速度会减慢，并且短时间内无法再次狂暴
+持续时间。
 %%%%
--Berserk status
+-狂暴状态
 
-You are recovering from your berserk rage, and are unable to berserk again for
-a short duration.
+你正在从狂暴的愤怒中恢复，并且无法再次狂暴
+持续时间短。
 %%%%
-Bearserk status
+贝尔塞克状态
 
-You are filled with barbearic rage! You are hasted, deal grizzly damage, and
-have greatly increased health, but find it impawsible to do much other than
-move and maul foes. You'll bid furwell to this status very quickly unless you
-are attacking, and when it expires you will be slowed and unable to bearserk
-again for a short duration.
+你充满了野蛮的愤怒！你很匆忙，造成灰熊伤害，并且
+健康状况大大提高，但发现除了
+移动并重击敌人。你很快就会获得这种状态，除非你
+正在攻击，当它过期时，你会被减慢并且无法攻击
+再次短暂地。
 %%%%
-Pois status
+泊位状态
 
-You are poisoned and will continually lose health. While poisoned, your current
-health will be partially recoloured to display the eventual poison damage that
-will be dealt. Poison can be cured immediately by potions of curing.
+你中毒了，并且会不断失去生命值。中毒期间，您当前的
+生命值将部分重新着色以显示最终的毒药伤害
+将会被处理。中毒可以通过治愈药水立即治愈。
 %%%%
-Conf status
+会议状态
 
-You are confused. You may stumble in a random direction when attempting to move
-or attack, and are unable to cast spells or use most items other than potions.
-Confusion can be cured immediately by potions of curing.
+你很困惑。尝试移动时，您可能会在随机方向上绊倒
+或攻击，并且无法施展法术或使用药水以外的大多数物品。
+混乱可以通过治疗药水立即治愈。
 %%%%
-Contam status
+污染状况
 
-You are glowing with mutagenic radiation. This can inflict mutations over time
-(usually negative) or even cause you to suffer damage as the unstable magic
-explodes violently. In addition, your glow prevents invisibility and reduces
-your stealth.
+你散发着诱变辐射的光芒。随着时间的推移，这可能会造成突变
+（通常是负面的）甚至导致你因为不稳定的魔法而受到伤害
+剧烈爆炸。此外，你的光芒可以防止隐形并减少
+你的隐身。
 {{
     local dmg = you.contam_max_damage();
     if dmg > 0 then
-        return "\nAn explosion at your current level of contamination could " ..
-               "inflict up to " .. dmg .. " damage."
+        return "\n以你目前的污染水平下可能会发生爆炸" ..
+               "造成高达".. dmg .."伤害。"
     end
 }}
 %%%%
-Drain status
+排水状态
 
-Your maximum health has been temporarily drained by negative energy. This
-status will not wear off by waiting, but will gradually expire as you gain
-experience.
+你的最大生命值已被负能量暂时耗尽。这个
+状态不会因等待而消失，而是会随着您的获得而逐渐过期
+经验。
 %%%%
--Breath status
+-呼吸状态
 
-You are catching your breath, and are unable to use your innate breath ability
-until the status expires.
+你正在屏住呼吸，无法使用你天生的呼吸能力
+直到状态过期。
 %%%%
-Breath status
+呼吸状态
 
-Indicates how many uses of your draconian breath weapon are available. If the
-indicator is dim, there are zero. Otherwise, the number of plusses indicate
-additional uses available.
+指示你的严酷喷吐武器有多少次可用。如果
+指示灯暗淡，有零。否则，加号的数量表示
+可用的额外用途。
 %%%%
-Breath+ status
+呼吸+状态
 
-<Breath status>
+<呼吸状态>
 %%%%
-Breath++ status
+呼吸++状态
 
-<Breath status>
+<呼吸状态>
 %%%%
-Exh status
+排气状态
 
-You are exhausted, and are unable to activate divine powers that cause
-exhaustion until the status expires.
+你已经筋疲力尽，无法发动神力，导致
+直到状态到期为止。
 %%%%
-Slow status
+缓慢状态
 
-All your actions take 50% longer.
+您的所有操作需要的时间延长 50%。
 %%%%
-Para status
+准状态
 
-You are paralysed, and completely unable to act.
+你瘫痪了，完全无法行动。
 %%%%
-Sleep status
+睡眠状态
 
-You are asleep, and completely unable to act. Taking damage will wake you.
+你睡着了，完全无法行动。受到伤害会让你醒来。
 %%%%
-Held status
+持有状态
 
-You are held in a net or a spider web. You cannot move freely and will instead
-try to struggle free.
+你被困在网或蜘蛛网上。你不能自由移动，而是会
+尝试挣脱束缚。
 %%%%
-Constr status
+施工状态
 
-You are being constricted by an enemy. Your evasion is impaired, and you will
-take damage over time. You are unable to move away from the enemy, although you
-can struggle to escape by attempting to do so, and will become increasingly more
-likely to succeed and break the constriction when doing so multiple times.
+你正被敌人束缚。你的躲避能力受到了削弱，你将会
+随着时间的推移而受到伤害。你无法离开敌人，尽管你
+可以通过尝试这样做来挣扎逃脱，并且会变得越来越
+多次这样做可能会成功并打破收缩。
 %%%%
-Mesm status
+梅斯状态
 
-You are mesmerised and cannot move away from the monster mesmerising you. The
-effect can be broken by killing or confusing the responsible monster or by
-breaking line of sight with them.
+你被催眠了，无法离开催眠你的怪物。的
+可以通过杀死或迷惑负责的怪物或通过
+打破了他们的视线。
 %%%%
-Fear status
+恐惧状态
 
-You are overcome with fear and cannot move towards the monster causing fear in
-you. The effect can be broken by killing or confusing the responsible monster
-or by breaking line of sight with them.
+你被恐惧所征服，无法走向引起恐惧的怪物
+你。该效果可以通过杀死或迷惑负责的怪物来打破
+或者打破他们的视线。
 %%%%
--Tele status
+- 电话状态
 
-You are prevented from teleporting or blinking.
+您将无法传送或眨眼。
 %%%%
--Move status
+-移动状态
 
-You cannot walk, fly around, slither, etc. You can still take other actions,
-and can still be moved via translocations or by being pushed, pulled, and so on.
+你不能行走、飞来飞去、滑行等。你仍然可以采取其他行动，
+并且仍然可以通过易位或推、拉等方式移动。
 %%%%
-Mark status
+标记状态
 
-Your location is marked due to the effects of a trap or a spell, and monsters
-will hunt you down more precisely and will be able to detect you even if you
-are not in their vision.
+由于陷阱或咒语以及怪物的影响，您的位置被标记
+会更精确地追捕你，即使你
+都不在他们的视野里。
 %%%%
-Fire status
+火灾状况
 
-You are covered with sticky fire, which causes damage over a moderate duration.
-Moving will quell the fire much more rapidly, and entering water will extinguish
-it immediately.
+你被粘性火焰覆盖，会在中等持续时间内造成伤害。
+移动会更快地扑灭火，进入水中会熄灭
+立即吧。
 %%%%
-Fire+ status
+火灾+状态
 
-<Fire status>
+<火灾状态>
 %%%%
-Fire++ status
+火灾++状态
 
-<Fire status>
+<火灾状态>
 %%%%
-Corona status
+电晕状态
 
-You are surrounded by light, greatly reducing your stealth and making you
-easier to hit.
+你被光包围，大大降低了你的隐身性，使你
+更容易击中。
 %%%%
-Barbs status
+倒刺状态
 
-There are barbs embedded in your skin, and moving around will cause you to take
-damage. Remaining in place for a short time will allow you to remove the barbs
-without taking damage.
+你的皮肤上嵌有倒刺，四处走动会导致你采取
+损坏。在原处停留一小段时间即可去除倒刺
+而不受到伤害。
 %%%%
-Sick status
+生病状态
 
-You have been sickened, and your health will no longer regenerate.
+你已经生病了，你的健康将不再恢复。
 %%%%
-Vertigo status
+眩晕状态
 
-You are disoriented and dizzy, reducing your accuracy, evasion, and
-spellcasting success rate.
+你迷失方向、头晕目眩，降低了你的准确度、躲避能力和
+施法成功率。
 %%%%
-Corr status
+更正状态
 
-You are corroded, reducing your damage in physical combat and your armour by an
-amount depending on the severity of the corrosion.
+你被腐蚀了，物理战斗中的伤害和护甲减少了
+用量取决于腐蚀的严重程度。
 %%%%
-Flay status
+剥皮状态
 
-You are covered in illusionary wounds, causing severe damage while the effect
-remains active. Destroying the source of the illusion will restore all health
-lost to the flaying.
+你被幻象伤口覆盖，造成严重伤害，同时效果
+保持活跃。摧毁幻象之源将恢复所有生命值
+输给了剥皮。
 %%%%
-Weak status
+弱势地位
 
-Your melee attacks do 25% less damage.
+你的近战攻击造成的伤害减少 25%。
 %%%%
-Frozen status
+冻结状态
 
-You are covered in ice, and your movement speed is reduced.
+你被冰覆盖，移动速度降低。
 %%%%
-Sap status
+闷棍状态
 
-Your magic is sapped. Casting a spell will cause you to lose access to your
-magic, briefly preventing you from casting any further spells.
+你的魔力被削弱了。施展咒语会导致你失去对你的
+魔法，短暂地阻止你施展任何进一步的法术。
 %%%%
--Cast status
+-演员阵容
 
-You are unable to cast spells.
+你无法施展法术。
 %%%%
-Crippled status
+残废状态
 
-At least one of your strength, intelligence, or dexterity has fallen to 0 or
-below. You will act slowly until this situation is remedied.
+你的力量、智力或敏捷中至少一项已降至 0 或
+下面。你会慢慢行动，直到这种情况得到纠正。
 %%%%
-DChan status
+DChan状态
 
-You are channelling the dead, causing any living creatures killed in your
-vicinity to be raised as spectral servants.
+你正在引导死者，导致你体内的任何活物都被杀死
+附近将被提升为幽灵仆人。
 %%%%
-Vit status
+维生素状况
 
-You are divinely vitalised, providing protection from poison, confusion,
-petrification, and sickness, and increasing and sustaining your strength,
-intelligence and dexterity.
+你具有神圣的活力，提供免受毒害、混乱的保护，
+石化、疾病，以及增加和维持你的力量，
+智力和灵巧。
 %%%%
-Will/2 status
+意愿/2状态
 
-Your willpower is weaker, making you vulnerable to many magical effects.
+你的意志较弱，使你容易受到许多魔法效果的影响。
 %%%%
-Stone status
+石材状态
 
-You are petrified, and completely unable to act. You are very easy to hit,
-but all damage taken is substantially reduced.
+你被吓呆了，完全无法行动。你很容易被击中，
+但受到的所有伤害都会大幅减少。
 %%%%
-Petr status
+彼得状态
 
-You are turning to stone. Your actions are slowed, all damage taken is slightly
-reduced, and you will soon be completely petrified (gaining the Stone status).
+你正在变成石头。你的行动变慢，受到的所有伤害轻微
+减少，你很快就会完全石化（获得石头状态）。
 %%%%
-Resist status
+抵抗状态
 
-You are more resistant to fire, cold, electricity, poison and acid.
+你对火、寒冷、电、毒和酸的抵抗力更强。
 %%%%
-Slime status
+史莱姆状态
 
-Your wielded weapon or your fists are coated in slime, and will turn the next
-living or corporeal undead monster you hit into a neutral slime.
+你挥舞的武器或你的拳头涂有粘液，并且会转动下一个
+活体或实体不死怪物，你将其击入中性粘液中。
 %%%%
-Swift status
+斯威夫特状态
 
-You are covering ground swiftly.
+您正在迅速覆盖地面。
 %%%%
--Swift status
+- 快速状态
 
-You are covering ground slowly.
+你正在慢慢地覆盖地面。
 %%%%
-DDoor status
+D门状态
 
-You are temporarily invulnerable to harm, but are brought close to death in the
-process and cannot be affected by healing while the effect is active. After the
-spell expires, it cannot be immediately recast.
+你暂时不会受到伤害，但会在危险中濒临死亡。
+过程，并且在效果激活时不会受到治疗的影响。之后
+法术过期后，无法立即重施。
 %%%%
--DDoor status
+-D门状态
 
-You are still close to death's doorway, and cannot recast Death's Door for a
-short duration.
+你仍然接近死亡之门，并且无法将死亡之门重铸为
+持续时间短。
 %%%%
-Quad status
+四方状态
 
-QUAD DAMAGE!
+QUAD DAMAGE！
 %%%%
-Sil status
+锡状态
 
-You are silenced. This makes reading scrolls, casting spells, invoking divine
-abilities, or shouting impossible.
+你沉默了。这使得阅读卷轴、施展法术、召唤神力
+能力，或者喊不可能。
 %%%%
-Flooded status
+水淹状态
 
-Your lungs are filled with liquid, preventing you from breathing properly. This
-makes reading scrolls, casting spells, and invoking divine abilities impossible.
-You will also take asphyxiation damage every turn.
+您的肺部充满液体，导致您无法正常呼吸。这
+使得阅读卷轴、施展法术和调用神圣能力变得不可能。
+每回合你还会受到窒息伤害。
 %%%%
-Stealth status
+隐身状态
 
-Your stealth is greatly increased.
+你的隐身能力大大增强。
 %%%%
-Vortex status
+涡流状态
 
-You are in the eye of a mighty ice storm. After the vortex fades, it cannot be
-called forth again for a short time.
+你正处于一场强大的冰风暴的中心。漩涡消散后，就无法再
+又短暂地叫了一声。
 %%%%
--Vortex status
+-涡流状态
 
-You are surrounded by unstable winds, and cannot recast Polar Vortex for a short
-duration.
+你被不稳定的风包围，并且无法在短时间内重铸极地涡旋
+持续时间。
 %%%%
-Liquid status
+液体状态
 
-You are liquefying the ground around you, slowing the movement of all creatures
-in the area.
+你正在液化你周围的地面，减慢所有生物的移动速度
+在该地区。
 %%%%
-Hero status
+英雄状态
 
-Your combat skills are temporarily increased.
+你的战斗能力暂时增强。
 %%%%
-Finesse status
+技巧状态
 
-Your combat speed is greatly increased.
+你的战斗速度大大提高。
 %%%%
-Duel status
+决斗状态
 
-You are duelling a foe in Okawaru's Arena, and will be returned whence you came
-if you are victorious.
+你正在大川流的竞技场与敌人决斗，并将返回你来的地方
+如果你赢了。
 %%%%
-Disjoin status
+脱离状态
 
-You are destabilising space around yourself, causing nearby monsters to be
-randomly blinked away from you.
+你正在破坏自己周围空间的稳定，导致附近的怪物
+随机地眨眼离开你。
 %%%%
-Fugue status
+赋格状态
 
-Your weapon is temporarily enhanced by the souls of the damned, providing
-slaying bonuses that increase with every enemy killed. At the maximum bonus,
-foes adjacent to your attacks' targets suffer pain damage.
+你的武器会被诅咒者的灵魂暂时增强，提供
+每杀死一个敌人，击杀奖励就会增加。在奖金最高的情况下，
+与你的攻击目标相邻的敌人会受到疼痛伤害。
 %%%%
-Debt status
+债务状况
 
-You have lived beyond your means. You cannot spend gold again until you earn
-enough to cancel out your debt.
+你的生活入不敷出。在您赚钱之前，您不能再次花费金币
+足以抵消你的债务。
 %%%%
-Toxic status
+中毒状态
 
-You are radiating toxic energy, and will continuously inflict poison on all
-nearby creatures.
+你正在放射出有毒的能量，并将持续对所有人造成毒害
+附近的生物。
 %%%%
-Recite status
+背诵状态
 
-You are reciting Zin's laws to nearby monsters, with a range of effects
-depending on the target. After finishing a recitation, it cannot be repeated
-for a short time.
+你正在向附近的怪物背诵辛的法则，具有一系列效果
+取决于目标。念完后不可重复
+很短一段时间。
 %%%%
--Recite status
+-背诵状态
 
-You have recently finished reciting Zin's laws, and cannot recite again for a
-short duration.
+您最近已经背诵完Zin动作，并且不能再背诵一次
+持续时间短。
 %%%%
-rF- status
+rF-状态
 
-You are more vulnerable to fire.
+你更容易受到火灾的影响。
 %%%%
-rP- status
+rP-状态
 
-You are more vulnerable to poison.
+你更容易受到毒害。
 %%%%
-Bullseye status
+靶心状态
 
-You have targeted an enemy with a dimensional bullseye, causing missiles fired
-or thrown at a different enemy to also be teleported at the target.
+你用维度靶心瞄准敌人，导致发射导弹
+或扔向不同的敌人以传送到目标。
 %%%%
-Forest status
+森林状况
 
-You are calling a forested plane into temporary existence, and awakening nearby
-trees to damage your foes.
+你正在召唤一个森林位面暂时存在，并在附近苏醒
+树木来伤害你的敌人。
 %%%%
-Dragoncall status
+召唤龙状态
 
-You are calling forth mighty dragons to attack your foes. Each dragon which
-answers the call will drain your magical energy. After the call ends, it cannot
-be issued again for a short time.
+你正在召唤强大的龙来攻击你的敌人。每条龙其中
+接听电话会耗尽你的魔法能量。通话结束后，无法
+短期内再次发行。
 %%%%
--Dragoncall status
+-龙召唤状态
 
-You have recently called forth dragons, and cannot recast Dragon's Call for a
-short duration.
+你最近召唤了龙，并且无法重铸龙之召唤
+持续时间短。
 %%%%
--Potion status
+-药水状态
 
-You are unable to quaff potions.
+你无法喝下药水。
 %%%%
-rF+ status
+rF+状态
 
-You are more resistant to fire.
+你对火的抵抗力更强。
 %%%%
-rC+ status
+rC+状态
 
-You are more resistant to cold.
+你对寒冷的抵抗力更强。
 %%%%
-rElec+ status
+rElec+状态
 
-You are more resistant to electricity.
+你对电的抵抗力更强。
 %%%%
-Horr status
+恐怖状态
 
-You are terrified of nearby monsters, reducing your damage and accuracy in
-combat as well as the power of your spells.
+你害怕附近的怪物，从而降低你的伤害和准确度
+战斗以及法术的力量。
 %%%%
--Scroll status
+- 滚动状态
 
-You are unable to read scrolls.
+你无法阅读卷轴。
 %%%%
-Cleave status
+切割状态
 
-Your melee attacks cleave, hitting all adjacent targets.
+你的近战攻击会分裂，击中所有相邻目标。
 %%%%
-Ambros status
+安布罗斯状态
 
-You are regenerating health and magic, but are also confused. Curing the
-confusion will also end the regeneration.
+你正在恢复健康和魔法，但也很困惑。固化
+混乱也会结束再生。
 %%%%
-Surge status
+浪涌状态
 
-Your next use of an evokable device will have its power enhanced, at the cost
-of some of your magic.
+你下次使用可唤起装置时，它的力量将会增强，但代价是
+你的一些魔法。
 %%%%
-Howl status
+嚎叫状态
 
-A terrifying howl is echoing in your mind, calling forth powerful creatures to
-attack you.
+恐怖的嚎叫声在你的脑海中回响，召唤着强大的生物
+攻击你。
 %%%%
-Blood status
+血液状况
 
-Your body is covered in congealed blood, serving as armour for as long as you
-remain seriously injured.
+你的身体被凝结的血液覆盖，只要你活着，它就会充当盔甲
+仍受重伤。
 %%%%
-Channel status
+通道状态
 
-You are channelling magical energy.
+你正在引导魔法能量。
 %%%%
-Beast status
+野兽状态
 
-You have been transformed into a monstrous, furry were-beast. The ferocious
-energy pulsing through your limbs keeps you ready to kill.
+你已经变成了一头毛茸茸的怪物。凶猛的
+能量在你的四肢中脉动，让你做好杀人的准备。
 %%%%
-Flux status
+通量状态
 
-You are unstable at a fundamental level. You inflict dangerous levels of
-magical contamination on foes with each touch. Sufficient contamination
-causes a highly localised meltdown, dealing enormous damage.
+从根本上来说，你是不稳定的。你造成危险程度的
+每次接触都会对敌人造成魔法污染。足够的污染
+造成高度局部的熔毁，造成巨大的损害。
 
-However, this instability makes you unable to use weapons, shields, or
-body armour. You also glow, reducing stealth and preventing invisibility,
-and you do less damage in melee, as your limbs sometimes destabilise mid-swing.
+然而，这种不稳定性使你无法使用武器、盾牌或
+防弹衣。你也会发光，减少隐身并防止隐形，
+而且你在近战中造成的伤害较小，因为你的四肢有时会在挥杆过程中不稳定。
 %%%%
-Serpent status
+蛇状态
 
-You have been transformed into a giant, cold-blooded, poison-resistant serpent,
-ready to wind your coils around foes and crush them to death.
+你已经变成了一条冷血抗毒的巨蛇，
+准备好将你的线圈缠绕在敌人身上并将他们压死。
 %%%%
-Maw status
+胃状态
 
-Your midsection has transformed into a giant mouth, gnashing and ready to devour
-foes. The mouth may devour slain creatures, healing you to an extent increased
-by your Shapeshifting skill and the power of the creature eaten. Skill also
-increases the damage done by the maw.
+你的腹部已经变成了一张巨嘴，咬牙切齿，准备吞噬
+敌人。嘴巴可能会吞噬被杀死的生物，使你的治疗效果提高
+取决于你的变形技能和被吃掉的生物的力量。技巧也
+增加胃造成的伤害。
 %%%%
-Statue status
+雕像状态
 
-You have been transformed into a slow but extremely robust stone statue.
-Your melee damage, both unarmed and with weapons, is substantially increased.
-Your stone body is immune to poison and miasma, and gains resistance to
-electricity, negative energy and torment.
+你已经变成了一尊缓慢但极其坚固的石像。
+你的近战伤害，无论是徒手还是使用武器，都会大大增加。
+你的石身免疫毒药和瘴气，并获得抗性
+电、负能量和折磨。
 %%%%
-Dragon status
+龙状态
 
 {{
-    local desc = "You have been transformed into a mighty"
+    local desc = "你已经变身为强大的"
 
-    if you.race():find("Draconian") then
-        desc = desc .. " dragon"
-        if you.race() ~= "Grey Draconian" then
-            desc = desc .. ", increasing the power of any innate breath attacks"
+    if you.race():find("严酷的") then
+        desc = desc .."龙"
+        if you.race() ~= "灰色严酷" then
+            desc = desc .. "，增加任何先天呼吸攻击的力量"
         end
-        if you.race() == "Red Draconian" then
-            desc = desc .. ". You are highly resistant to fire and " ..
-                           "resistant to poison, but vulnerable to cold"
-        elseif you.race() == "White Draconian" then
-            desc = desc .. ". You are highly resistant to cold and " ..
-                           "resistant to poison, but vulnerable to fire"
-        elseif you.race() == "Green Draconian" then
-            desc = desc .. " and retaining your innate colour"
+        if you.race() == "红色严酷" then
+            desc = desc .. "。你对火有优势的抵抗力" ..
+                           "耐毒，但怕冷"
+        elseif you.race() == "白龙" then
+            desc = desc .. "。你对寒冷的抵抗力优势" ..
+                           "耐毒，但易着火"
+        elseif you.race() == "绿色严酷" then
+            desc = desc .."并保留您与生俱来的色彩"
         else
-            desc = desc .. ". You retain your innate colour, and are " ..
-                           "also resistant to poison"
+            desc = desc .."。您保留了与生俱来的颜色，并且"..
+                           "也能抵抗毒物"
         end
     else
-        desc = desc .. ", fire-breathing dragon. You are highly resistant " ..
-                       "to fire and resistant to poison, but vulnerable to " ..
-                       "cold"
+        desc = desc .. "，喷火龙。你抵抗力最强" ..
+                       "耐火、耐毒，但易受腐蚀" ..
+                       "寒冷的"
     end
 
-    desc = desc .. "."
+    desc = desc .."."
 
     return desc
-}} Your melee attacks deal incredible damage, and you are much more robust but
-less evasive.
+你的近战攻击会造成难以置信的伤害，而且你也更加强大，但是
+少一些回避。
 %%%%
-Storm status
+风暴状态
 
-You have been transformed into a lightning-filled tempest. Your melee attacks
-are strengthened and electrified, and strike all adjacent foes. You gain flight,
-increased evasion, immunity to poison, miasma, petrification, and constriction,
-and resistance to electricity. You gain the ability to launch yourself at foes
-as a lightning bolt.
+你已经变成了充满闪电的风暴。你的近战攻击
+被强化并带电，攻击所有邻近的敌人。你获得飞行，
+提高躲避能力，对毒药、瘴气、石化和收缩的免疫力，
+和耐电性。你获得向敌人发射自己的能力
+如一道闪电。
 %%%%
-Death status
+死亡状态
 
-You have been transformed into an undying offence against life itself.
+你已经变成了对生命本身的永恒的冒犯。
 
-Foes struck by your hands or melee weapons are weakened, slowed, and drained,
-and you can heal yourself by tormenting living foes nearby. You also resist
-cold, have enhanced willpower, and are immune to poison, miasma, negative
-energy, and torment. Unfortunately, you are vulnerable to holy damage and
-Dispel Undead, and cannot consume potions.
+被你的双手或近战武器击中的敌人会被削弱、减速和耗尽，
+你可以通过折磨附近活着的敌人来治愈自己。你也反抗
+寒冷，意志增强，免疫毒、瘴气、负面
+能量和折磨。不幸的是，你很容易受到神圣伤害并且
+驱散亡灵，并且无法消耗药水。
 %%%%
-Bat status
+蝙蝠状态
 
-You have been transformed into a swift-moving bat, increasing your evasion but
-substantially weakening your melee attacks.
+你已经变成了一只快速移动的蝙蝠，增加了你的躲避能力，但是
+大大削弱你的近战攻击。
 
-Any equipped weapons, armour and rings are melded, and you are unable to cast
-spells. The effectiveness of your melee attacks while in this form is based on
-experience level instead of on Unarmed Combat skill.
+任何装备的武器、盔甲和戒指都会融合，并且你无法施放
+咒语。在这种形式下，你的近战攻击的有效性取决于
+经验水平而不是徒手格斗技能。
 %%%%
-Pig status
+猪状况
 
-You have been transformed into a pig. You move quickly but are less effective
-in melee.
+你已经变成了一头猪。你行动迅速但效率较低
+在混战中。
 
-Any equipped weapons, armour and rings are melded, and you are unable to cast
-spells. The effectiveness of your melee attacks while in this form is based on
-experience level instead of on Unarmed Combat skill.
+任何装备的武器、盔甲和戒指都会融合，并且你无法施放
+咒语。在这种形式下，你的近战攻击的有效性取决于
+经验水平而不是徒手格斗技能。
 %%%%
-App status
+应用程序状态
 
 {{
-    if you.race() == "Octopode" then
-        return "A vicious spike has grown from one of your tentacles, " ..
-               "increasing the damage of your extra tentacle attacks."
+if you.race() == "章鱼" then
+        return "你的一根根长出恶毒的尖刺，"..
+               "增加额外触手攻击的伤害。"
     else
-        return "Monstrous horns or talons have grown from your body, " ..
-               "granting a chance of making an extra attack in melee."
+        return "从你身体里长出来的巨大的角或爪子，"..
+               "在近战中给予额外攻击的机会。"
     end
 }}
 %%%%
-Tree status
+树木状况
 
-You have been transformed into a tree and are rooted to the ground, unable to
-move or teleport. You have minimal evasion but increased health and natural
-armour, and are resistant to poison, and immune to torment and drowning.
+你已经变成一棵树，扎根于地，无法
+移动或传送。你的躲避能力最小，但健康和自然能力有所提高
+盔甲，并且能够抵抗毒药，并且免疫折磨和溺水。
 
-Any equipped cloak, helmet, gloves, boots and body armour are melded.
+任何装备的斗篷、头盔、手套、靴子和防弹衣都会融合在一起。
 %%%%
-Wisp status
+小精灵状态
 
-You have been transformed into an insubstantial wisp of gas. You are highly
-evasive and are resistant to fire, cold, electricity and acid, and immune to
-poison, and negative energy.
+你已经变成了一缕无形的气体。你是高度
+具有躲避能力，耐火、耐寒、耐电、耐酸，并且免疫
+有毒、负能量。
 
-Any equipped weapons, armour and jewellery are melded, and you are unable to
-cast spells. The effectiveness of your melee attacks while in this form is based
-on experience level instead of on Unarmed Combat skill.
+任何装备的武器、盔甲和珠宝都会融合，你无法
+施展法术。在这种形式下，你的近战攻击的有效性是基于
+经验水平而不是徒手格斗技能。
 %%%%
-Fungus status
+真菌状况
 
-You have been transformed into a sentient fungus. You are highly evasive and
-can release spores to cause confusion when attacking in melee, but are unable
-to move when hostile creatures are present. You are resistant to poison and
-immune to negative energy.
+你已经变成了有知觉的真菌。你非常回避并且
+近战攻击时可以释放孢子造成混乱，但无法
+当敌对生物存在时移动。你对毒有抵抗力并且
+对负能量免疫。
 
-Any equipped weapons and armour are melded, and you are unable to cast spells.
-The effectiveness of your melee attacks while in this form is based on
-experience level instead of on Unarmed Combat skill.
+任何装备的武器和盔甲都会融合，并且你无法施展法术。
+在这种形式下，你的近战攻击的有效性取决于
+经验水平而不是徒手格斗技能。
 %%%%
-Shadow status
+影子状态
 
-You have been transformed into a swirling mass of dark shadows. You are
-permanently invisible and are immune to poison, draining, and torment. All
-incoming damage is halved, you bleed smoke on any incoming attack, and you have
-infinite willpower. However, your ability to deal damage in melee and with
-ranged attacks is halved, your spellcasting power is greatly hampered, and your
-maximum health is further drained when taking damage.
+你已经变成了一团旋转的黑影。你是
+永久隐形并且免疫毒药、吸取能量和折磨。全部
+传入的伤害减半，任何传入的攻击都会流血，并且你有
+无限的意志。然而，你在近战和与敌人造成伤害的能力
+远程攻击减半，你的施法能力大大削弱，你的
+受到伤害时，最大生命值会进一步耗尽。
 %%%%
-Orb status
+宝珠状态
 
-You are near (or perhaps holding) the Orb of Zot, whose energies disrupt
-translocation magic. Teleportation will take longer and scrolls of blinking may
-transport you a short distance away from your intended destination.
+你靠近（或者拿着）佐特之球，它的能量会扰乱
+移位魔法。传送将需要更长的时间并且闪烁卷轴可能会
+将您运送到距离预定目的地不远的地方。
 %%%%
-Orb? status
+宝珠？状态
 
-You are holding the Charlatan's Orb, whose energies disrupt translocation
-magic. Teleportation will take longer and scrolls of blinking may transport you
-a short distance away from your intended destination.
+你拿着江湖骗子宝珠，它的能量会扰乱易位
+魔法。传送需要更长的时间，眨眼卷轴可能会传送你
+距您预定的目的地不远。
 %%%%
--Hop status
+- 跳数状态
 
-Your legs are tired, and you are unable to hop. This status will only recover
-after you spend several turns not moving. (Other actions, such as attacking or
-casting spells, are fine.)
+你的腿累了，你无法跳跃。此状态只会恢复
+当你花了几个回合不动之后。 （其他行为，例如攻击或
+施展法术，没问题。）
 %%%%
-Ray status
+射线状态
 
-You are currently channelling a ray of searing magical energy. Pressing
-<w>.</w> or <w>s</w> to wait in place will maintain and intensify the ray, at
-the cost of 1 MP per turn. Any other action, including recasting the spell,
-will end it.
+你目前正在引导一束灼热的魔法能量。压制
+<w>.</w> 或 <w>s</w> 原地等待将维持并增强光线，在
+每轮 1 MP 的成本。任何其他行动，包括重施咒语，
+将会结束它。
 %%%%
-Ray+ status
+射线+状态
 
-<Ray status>
+<射线状态>
 %%%%
-Ray++ status
+雷++状态
 
-<Ray status>
+<射线状态>
 %%%%
-Lash status
+睫毛状态
 
-You are moving at supernatural speed, causing movement actions to become
-instant. Any martial attacks made while moving in this way deal increased
-damage and never miss.
+你以超自然的速度移动，导致移动动作变得
+瞬间。以这种方式移动时进行的任何军事攻击都会增加
+损坏，永不错过。
 %%%%
-Heavenly status
+天堂般的地位
 
-You are surrounded by a storm of heavenly clouds. While the storm rages, your
-evasion and combat accuracy and damage are substantially increased, and
-striking enemies with martial attacks increases this bonus. The storm weakens
-over time and fades away once the bonus reaches zero. The heavenly clouds
-prevent invisibility, and obscure the vision of those outside the storm.
+你被天上的云朵风暴所包围。当暴风雨肆虐时，你的
+躲避和战斗的准确性和伤害大幅提高，并且
+用武术攻击攻击敌人会增加此奖励。风暴减弱
+随着时间的推移，一旦奖金达到零，就会消失。天上的云彩
+防止隐形，并遮蔽风暴之外的人的视野。
 %%%%
-SlowM status
+慢速状态
 
-Your movement is slowed on this liquid ground.
+在这片液体地面上，你的动作会变慢。
 %%%%
-Alive status
+存活状态
 
-You are full of blood, and regenerate health quickly.
+你的血量充足，生命值恢复很快。
 %%%%
-Aug status
+八月状态
 
-You receive spellcasting and slaying bonuses that scale with your health.
+你会收到与你的生命值成正比的施法和杀戮奖励。
 %%%%
-Beogh status
+贝奥状态
 
-You can swear fealty to Beogh, the god of all orcs, through a nearby priest.
-To do so, use the Convert to Beogh ability in the ability menu.
+你可以通过附近的牧师向兽人之神祇 Beogh 宣誓效忠。
+为此，请使用功能菜单中的"转换为 Beogh"功能。
 %%%%
-Bloodless status
+无血状态
 
-Your body is entirely devoid of blood, reducing your maximum health and
-preventing you from regenerating health when monsters are visible. You are
-immune to poison and negative energy, significantly resist cold, and resist
-torment.
+你的身体完全没有血液，降低了你的最大生命值
+当怪物可见时阻止你恢复生命值。你是
+对毒物和负能量免疫，显着抗寒，抵抗
+折磨。
 %%%%
-Bribe status
+贿赂状况
 
-You are bribing the inhabitants of the current branch.
+您正在贿赂当前分支的居民。
 %%%%
-Cloud status
+云状态
 
-You are in a cloud.
+你在云端。
 %%%%
--Clouds status
+-云状态
 
-The air is too still for clouds to form.
+空气太静止，云无法形成。
 %%%%
-Dig status
+挖掘状态
 
-You are digging.
+你正在挖掘。
 %%%%
-Elixir status
+圣水状态
 
-Your health and/or magic are being rapidly restored, as well as the health of
-your allies.
+你的健康和/或魔力以及其他人的健康正在迅速恢复
+你的盟友。
 %%%%
-Fast+Slow status
+快+慢状态
 
-You are under both slowing and hasting effects.
+你同时受到减速和加速的影响。
 %%%%
-Lava status
+熔岩状态
 
-You are currently flying over lava.
+您目前正在熔岩上空飞行。
 %%%%
-Recall status
+召回状态
 
-You are recalling your allies.
+你正在召回你的盟友。
 %%%%
-Water status
+水质状况
 {{
-    local verb = you.flying() and "flying over" or
-                 you.race() == "Merfolk" and "swimming in" or "standing in"
+    local verb = you.flying() and "飞越" or
+                 you.race() == "人鱼" and "游在" or "站在"
     local feat = view.feature_at(0, 0):gsub("_", " ")
 
     if feat ~= "deep water" and feat ~= "shallow water" then
-        feat = "water"
-        verb = "over"
+        feat = "地面"
+        verb = "站在"
     end
 
-    return "You are currently " .. verb .. " " .. feat .. "."
+    return "你目前".. verb .." ".. feat .."."
 }}
 %%%%
-Attr status
+属性状态
 
-Enemies are magically translocated toward you. (This won't wake them up.)
+敌人会神奇地转移到你身边。 （这不会吵醒他们。）
 %%%%
-Zot status
+佐特状态
 
-You have spent too much time in one branch, allowing the malevolent power of Zot
-to notice you. If you spend the indicated number of turns in the branch without
-descending to a new floor, Zot will find you, causing permanent health damage.
+你在一个分支上花费了太多的时间，让佐特的邪恶力量
+注意到你。如果您在分支上花费了指定的圈数而没有
+下降到新楼层，佐特会找到你，造成永久性的健康损害。
 %%%%
-Zot count status
+Zot 统计状态
 
-If you spend the indicated number of turns in this branch without descending to
-a new floor, Zot will find you, causing permanent health damage.
+如果您在该分支中度过了指定的回合数而没有下降到
+到了新楼层，佐特就会找到你，造成永久性的健康损害。
 %%%%
-Gem status
+宝石状态
 
-If you spend the indicated number of turns in this branch, its gem will be found
-and shattered by the power of Zot.
+如果您在该分支中度过了指定的回合数，就会找到它的宝石
+并被佐特的力量粉碎。
 %%%%
-Gem (*) status
+宝石 (*) 状态
 
-The power of Zot no longer hunts you, but this branch's gem still remains
-intact.
+佐特的力量不再追捕你，但这个分支的宝石仍然存在
+完好无损。
 %%%%
-rF0 status
+rF0状态
 
-The wrath of Ignis prevents you from resisting fire.
+伊格尼斯的愤怒使你无法抵抗火焰。
 %%%%
--Blink status
+- 闪烁状态
 
-You are unstable and cannot cast Blink or activate evoked blink abilities
-for a short period of time. Powerful sources of translocation magic such as
-scrolls of blinking ignore this limitation, as do external sources of blinking
-outside of your control.
+你不稳定，无法施放眨眼或激活诱发眨眼技能
+短时间内。强大的易位魔法来源，例如
+闪烁卷轴忽略此限制，外部闪烁源也是如此
+在你的控制之外。
 %%%%
--Bbolt status
+-Bbolt状态
 
-You are recovering from becoming lightning, and are unable to blinkbolt again
-for a short duration.
+你正在从变成闪电的状态中恢复，并且无法再次闪烁
+持续时间很短。
 %%%%
-Charge- status
+充电状态
 
-You are currently channelling electrical charge. Pressing <w>.</w> or <w>s</w>
-to wait in place will maintain and continue this process until it discharges.
-Any other action, including recasting the spell, will dissipate the charge
-harmlessly.
+您当前正在引导楼梯。按<w>.</w>或<w>s</w>
+原地等待将维持并继续这个过程，直到放电。
+任何其他行动，包括重铸该咒语，都会驱散电荷
+无害的。
 %%%%
-Charge/ status
+费用/状态
 
-<Charge- status>
+<充电状态>
 %%%%
-Charge\ status
+充电\状态
 
-<Charge- status>
+<充电状态>
 %%%%
-Charge| status
+充电|状态
 
-<Charge- status>
+<充电状态>
 %%%%
-Wave status
+波浪状态
 
-You are currently channelling waves of flames. Pressing <w>.</w> or <w>s</w>
-to wait in place will maintain and intensify the waves, at the cost of 1 MP per
-turn. Any other action, including recasting the spell, will end it.
+目前你正在引导火焰波。按<w>.</w>或<w>s</w>
+原地等待将增加并增加吞吐量，每消耗 1 MP
+转。任何其他行动，包括重铸该咒语，都会结束它。
 %%%%
-Wave+ status
+波浪+状态
 
-<Wave status>
+<波次状态>
 %%%%
-Ramparts status
+城墙状况
 
-You are encasing nearby walls in ice. The ice will crack and fall away if you
-move to a new position.
+你正在用冰包裹附近的墙壁。如果你这样做，冰就会破裂并脱落
+移动到新的位置。
 %%%%
-Bog status
+沼泽状态
 
-You are creating a toxic bog in the nearby area, and are immune to its effects.
-You cannot sustain this transformation in areas out of your line of sight.
+你正在附近区域制造有毒沼泽，并且不受其影响。
+您无法在视线之外的区域维持这种转变。
 %%%%
-Enlightened status
+开悟状态
 
-You are in touch with a greater truth, increasing your resistance to effects
-which target your willpower. Tragically, this epiphany won't last.
+你接触到了一个更大的真理，增强了你对影响的抵抗力
+以你的意志为目标。可悲的是，这种顿悟不会持续太久。
 %%%%
-Will+ status
+遗嘱+状态
 
-<Enlightened status>
+<开悟状态>
 %%%%
-Reap status
+收获状态
 
-The dead are hopping! Living creatures you kill may rise as zombified servants.
+死人都在跳！你杀死的生物可能会复活为僵尸仆人。
 %%%%
-Peek status
+查看状态
 
-You are peering down the stairs. You can freely return to the previous level, but
-once you take any action on this floor, all stairs leading back up will collapse.
+你正在楼梯下往下看。您可以自由返回到上一级，但是
+一旦你在这一层采取任何行动，所有向上的楼梯都会倒塌。
 %%%%
-Fragile status
+脆弱状态
 
-Your body is as fragile and brittle as glass, increasing the damage you take from
-all sources.
+您的身体像玻璃一样脆弱，会增加您受到的伤害
+所有来源。
 %%%%
-Ooze status
+软泥状态
 
-Acidic ooze creeps out of the walls around you. Each turn, foes are damaged
-depending on the number of slimy walls they remain adjacent to.
+酸性软泥从你周围的墙壁中渗出。每回合，敌人都会受到伤害
+取决于它们相邻的粘糊糊的墙壁的数量。
 %%%%
-Dog status
+狗的状况
 
-You have summoned your canine familiar.
+你已经召唤了你的宠物狗。
 %%%%
--Dog status
+- 狗的状况
 
-Your canine familiar is recovering from its injuries, and cannot be summoned
-again for a short time.
+你的魔宠正在从伤势中恢复，无法召唤
+再次短暂。
 %%%%
--Siphon status
+-虹吸状态
 
-You have recently siphoned the essence of the living, and cannot do so again for
-a short time.
+你最近吸走了生命的精华，并且不能再这样做了
+很短的时间。
 %%%%
--Word status
+-字状态
 
-You are fatigued from recently speaking a word of chaos, and are unable to do so
-again for a short time.
+你最近因为乱说话而感到疲劳，无法这样做
+再次短暂。
 %%%%
-Jinx status
+金克斯状态
 
-Jinxing spirits encircle you. When you attack foes, those who fail a Will check
-are jinxed, taking damage and becoming drained. The spirits depart quickly when
-no foes are in sight.
+金星精神围绕着你。当你攻击敌人时，那些未通过意志检定的人
+受到诅咒，受到伤害并变得精疲力尽。当灵魂迅速离开时
+看不到敌人。
 %%%%
-Rise status
+上升状态
 
-You are hovering upward toward the ceiling. After a short delay, Ignis' power
-will blast you into the level above.
+你正在向天花板上方盘旋。短暂的延迟后，伊格尼斯的力量
+会把你炸到上面的水平。
 %%%%
-Challenge status
+挑战状态
 
-You have been challenged by a chosen apostle of Beogh, who will know your
-location no matter where on the floor you are. Defeat them, and you may recruit
-them to join you. If you flee the floor, Beogh will punish you by temporarily
-depriving you of allies.
+你受到了 Beogh 指定的使徒的挑战，他会知道你的情况
+无论您位于楼层的哪个位置。打败他们，你就可以招募
+他们加入你。如果你坐在地板上，Beogh 会暂时惩罚你
+剥夺你的盟友。
 %%%%
-Vengeance status
+复仇状态
 
-One of your apostles has been killed, and you have not yet killed all foes who
-were involved in their death. If you do so, Beogh will resurrect them sooner.
+你的一名使徒已被杀，而你还没有杀死所有敌人
+参与了他们的死亡。如果你这样做，贝奥就会更快地复活他们。
 %%%%
-Pray status
+祈祷状态
 
-You have invoked divine aid in avenging the death of a fallen apostle. Orcs will
-continuously rally to your side, though your prayer will end more rapidly when
-there are no more foes around to fight.
+你祈求神圣的帮助来为一名堕落使徒的死报仇。兽人将
+不断地团结在你的身边，尽管当你的祈祷结束时，你的祈祷会更快地结束。
+周围没有更多的敌人可以战斗。
 %%%%
-Recruit status
+招募状况
 
-An orcish apostle is available to recruit as a permanent companion.
-(Use the Recruit Apostle ability)
+可以招募一名兽人使徒作为永久同伴。
+（使用招募使徒能力）
 %%%%
-Torch status
+火炬状态
 
-You carry the Black Torch. If this indicator is dark, the torch is unlit; if it
-is bright, you have called upon Yredelemnul to light the torch. So long as the
-torch burns, you will gain piety for kills. With sufficient piety, you will be
-able to use its umbral fire to empower your undead servants and damage your
-enemies.
+你携带着黑色火炬。如果该指示灯变暗，则手电筒未点亮；如果它
+天很亮，你已经召唤伊瑞德雷姆努点燃火把。只要
+火炬燃烧，你会因击杀而获得虔诚。只要有足够的虔诚，你就会
+能够使用它的暗影之火来增强你的不死仆人的力量并伤害你的
+敌人。
 %%%%
-Shackles status
+枷锁状态
 
-Yredelemnul's grip is engulfing an area in life-stealing chains.
+伊瑞德莱姆努的掌控正在用夺命锁链吞噬一片区域。
 %%%%
-Rev status
+转速状态
 
-You're starting to limber up. Your weapon-based and unarmed attacks are closer
-to full strength, and will continue to grow more powerful with each swing.
+你开始活动起来了。你的武器攻击和徒手攻击更加接近
+全力以赴，并且每次挥击都会变得更加强大。
 %%%%
-Rev+ status
+修订+状态
 
-You're limbering up. Your weapon-based and unarmed attacks are close to full
-strength, and will continue to grow more powerful with each swing.
+你正在热身。你的武器攻击和徒手攻击都接近满级
+力量，并且会随着每一次挥击而变得更加强大。
 %%%%
-Rev* status
+修订*状态
 
-You're limbered up. Your weapon-based and unarmed attacks are at full strength,
-and will remain so as long as you keep swinging and for a short while afterward.
+你已经活动起来了你的武器攻击和徒手攻击都处于全力状态，
+只要你继续摆动，并且在随后的一小段时间内，这种情况就会保持下去。
 %%%%
--Gavotte status
+-加沃特状态
 
-Gravity around you is still unstable, and you cannot cast Gell's Gavotte again
-until it settles back down.
+你周围的重力仍然不稳定，你无法再次施放盖尔的加沃特舞
+直到它恢复平静。
 %%%%
-Fusillade status
+齐射状态
 
-You are hurling conjured alchemical reagents at nearby monsters.
+你正在向附近的怪物投掷魔法炼金试剂。
 %%%%
-Nightfall status
+夜幕降临状态
 
-You are channelling the deepest night, greatly reducing your sight range. It
-will gradually return to normal over time.
+你正在引导最深的夜，大大缩小你的视线范围。它
+随着时间的推移会逐渐恢复正常。
 %%%%
-Blind status
+盲状态
 
-Your vision is badly impaired. All spells and attacks you perform (which do not
-automatically hit) have an increased chance to miss. This chance is much greater
-the further away you are from your target.
+你的视力严重受损。你执行的所有法术和攻击（不
+自动击中）的失误机会增加。这个机会就大很多了
+你离目标越远。
 %%%%
-Ruin status
+废墟状态
 
-You are marked with the sign of ruin, causing any melee attacks which damage you
-to heavily drain and randomly slow, weaken, or blind you.
+你被标记为毁灭的标志，造成任何对你造成伤害的近战攻击
+大量消耗并随机减慢、削弱或致盲你。
 %%%%
--GClaw status
+-GClaw状态
 
-You have not yet harvested enough death to cast Grave Claw again.
+你还没有收获足够的死亡来再次施展坟墓之爪。
 %%%%
-Legion status
+军团状态
 
-You are beckoning the legions of chaos; short-lived demons will be periodically
-summoned near you.
+你正在召唤混乱军团；短命的恶魔会定期出现
+召唤到你附近。
 %%%%
--Bloodrite status
+- 血晶状态
 
-You have recently performed an infernal blood rite and must fully heal before
-being able to perform another.
+您最近进行了地狱血仪式，必须在完全治愈之前
+能够执行另一个操作。
 %%%%
-Execution status
+执行状态
 
-You are sharing your body with an Executioner, giving you a powerful auxiliary
-attack that also triggers when you dodge attacks, as well as letting you rampage
-towards foes. This will expire quickly if you stop attacking.
+你与刽子手分享你的身体，为你提供强大的辅助
+当你躲避攻击时也会触发攻击，并让你狂暴
+对敌人。如果你停止攻击，它很快就会失效。
 %%%%
-Destr status
+德斯特状态
 
-Your Unleash Destruction is growing more powerful as you use it consecutively.
+当你连续使用它时，你的释放毁灭会变得更加强大。
 %%%%
-Destr+ status
+德斯特+状态
 
-<Destr status>
+<解除状态>
 %%%%
-Destr++ status
+德斯特++状态
 
-<Destr status>
+<解除状态>
 %%%%
-Destr+++ status
+德斯特+++状态
 
-<Destr status>
-If you use it again, it will unleash a salvo of additional bolts aimed at random
-targets and this bonus will reset.
+<解除状态>
+如果你再次使用它，它会随机发射一连串额外的螺栓
+目标并且此奖金将重置。
 %%%%
-Slaughter status
+屠宰状况
 
-You are an instrument of Makhleb's destructive will. Your power and defences are
-greatly enhanced, but you must endure the Crucible of Flesh once this effect
-ends.
+你是马赫莱布破坏性意志的工具。你的力量和防御是
+大大增强，但一旦出现此效果，你必须忍受血肉熔炉
+结束。
 %%%%
-Pact status
+契约状态
 
-Makhleb has come to collect on certain promises made to them.
-{{ if you.religion == "Makhleb" then
-        return "Fulfill your oath as their instrument by slaying the terrified " ..
-               "mortals that have been gathered here, and they may grant you " ..
-               "freedom once again."
+马克勒布来兑现对他们做出的某些承诺。
+{{ if you.religion == "马赫莱布" then
+        return"通过杀死恐惧的人来履行你作为他们工具的誓言"..
+               "聚集在这里的凡人，他们可能会赐予你" ..
+               "再次获得自由。"
    else
-        return "Fight and bleed and you may be granted freedom once again."
+        return "战斗和流血，你可能会再次获得自由。"
     end}}
 %%%%
-Escape! status
+逃走！状态
 
-A path out of the Crucible has opened. Find it and claim your freedom again. For
-a time.
+一条离开坩埚的道路已经打开。找到它并再次获得自由。对于
+一次。
 %%%%
-Shield status
+屏蔽状态
 
-You are protected by a divine shield. Enemies that strike it in melee will have
-their attacks completely blocked, and they may also be blinded by its light.
+你受到神圣盾牌的保护。在近战中攻击它的敌人将会
+他们的攻击被完全挡住，甚至可能会被它的光芒弄瞎。
 %%%%
-Blast status
+爆炸状态
 
-You are preparing to unleash a kinetic shockwave and cannot move until this is
-complete.
+您正准备释放动能冲击波，并且在释放之前无法移动
+完成。
 %%%%
-Blast. status
+爆炸。状态
 
-<Blast status>
+<爆炸状态>
 %%%%
-Blast.. status
+爆炸..状态
 
-<Blast status>
+<爆炸状态>
 %%%%
-Blast... status
+爆炸...状态
 
-<Blast status>
+<爆炸状态>
 %%%%
-Winding status
+绕线状态
 
-You are winding up your clockwork bee. It cannot attack its target until it is
-fully wound up.
+你正在给你的发条蜜蜂上发条。它无法攻击目标，直到它
+完全发条。
 %%%%
-Winding. status
+缠绕。状态
 
-<Winding status>
+<绕线状态>
 %%%%
-Winding.. status
+绕线..状态
 
-<Winding status>
+<绕线状态>
 %%%%
-Winding... status
+绕线...状态
 
-<Winding status>
+<绕线状态>
 %%%%
-Unstable status
+状态不稳定
 
-You have become untethered in space, blinking randomly each turn and suffering a
-small amount of damage each time you do so.
+你在太空中变得不受束缚，每回合随机眨眼并遭受
+每次这样做都会造成少量损坏。
 %%%%
-Vainglory status
+虚荣状态
 
-You have recently announced your regal presence and it simply would not do to
-leave the floor again so soon afterward.
+你最近宣布了你的王者风范，但这根本不适合
+不久之后再次离开地板。
 %%%%
-Protected status
+保护状态
 
-Your platinum paragon is close enough to you to sometimes parry attacks directed
-at you.
+您的白金典范离您足够近，有时可以招架定向攻击
+对你。
 %%%%
-Vexed status
+烦恼状态
 
-Your mind is clouded by frustration. For the next several turns, you will
-uncontrollably attack random adjacent creatures (whether friendly or enemy) or
-even empty space.
+你的思绪被挫败感笼罩着。在接下来的几个回合中，你将
+无法控制地攻击随机相邻的生物（无论是友方还是敌人）或
+甚至空旷的空间。
 %%%%
-Drowsy status
+昏昏欲睡的状态
 
-You are rapidly growing sleepy and may soon fall asleep completely.
+您正在迅速变得困倦，并且可能很快就会完全入睡。
 %%%%
-Vampire status
+吸血鬼状态
 
-You are a vampire - a creature that straddles the border between life and
-undeath. You can drink the lifeblood of the living to heal, and even turn those
-you slay stealthily into vampiric thralls, but do not heal in the presence of
-monsters.
+你是一个吸血鬼——一种跨越生命与生命边界的生物
+亡灵。你可以喝活人的命血来治愈，甚至可以扭转那些
+你悄悄地杀死了吸血鬼奴隶，但在吸血鬼面前无法治愈
+怪物。
 %%%%
-Swarm status
+群体状态
 
-You have transformed into a swarm of vampire bats, allowing you to move quickly
-and evasively. You may trail clouds of bats in your wake.
+你已经变成了一群吸血蝙蝠，让你可以快速移动
+并回避。您可能会尾随成群的蝙蝠。
 %%%%
-Memories status
+记忆状态
 
-This indicates how many spells you could cast from accumulated memories if you
-Enkindled now.
+这表明如果你
+现在燃起来了。
 %%%%
-Enkindled status
+点燃状态
 
-You are burning accumulated memories for power. Each damage-dealing spell you
-cast will consume a memory. In exchange, their power and spell success are
-increased, encumbrance penalties are ignored, and your spellclaw attacks do
-bonus damage proportional to the spell level and heal you based on the damage
-dealt.
+你正在燃烧积累的记忆来获取力量。每个造成伤害的咒语都会让你
+强制转换会消耗内存。作为交换，他们的力量和法术成功率是
+增加，负担惩罚被忽略，并且你的法术爪攻击会被忽略
+与法术等级成正比的额外伤害并根据伤害治愈你
+处理了。
 %%%%
-Cacophony status
+不和谐的状态
 
-You are noisily attacking with all of your armour. Every piece of armour you
-haunt currently moves of its own volition; any damage it takes will not affect
-you, you can freely fire through it, and its attacks may daze, drain, or confuse
-your enemies.
+你正在用你所有的盔甲大声攻击。你的每一件铠甲
+出没当前自行移动；它所造成的任何损坏都不会影响
+你，你可以自由地射击它，它的攻击可能会眩晕、耗尽或迷惑
+你的敌人。
 %%%%
-Catalyst status
+催化剂状态
 
-You have an explosive catalyst readied. The catalyst will detonate, dealing fire
-damage to the primary target of each of your melee attacks and any enemy
-adjacent to them, with each hit. Attacking will extend the duration of the
-catalyst even if you miss.
+你已经准备好了爆炸性催化剂。催化剂会爆炸并引发火灾
+对每次近战攻击的主要目标和任何敌人造成伤害
+与他们相邻，每次击中。攻击会延长持续时间
+即使你错过了催化剂。
 %%%%
-Shroud status
+护罩状态
 
-You are covered by a thin shroud of slime that may deflect a melee attack. When
-it does, the shroud will break for a short time, though it will soon repair
-itself naturally.
+你身上覆盖着一层薄薄的粘液，可能会偏转近战攻击。当
+确实如此，裹尸布会在短时间内破裂，但很快就会修复
+本身自然。
 %%%%
-Yak status
+牦牛状况
 
-You are a rime yak, fur encrusted with ice.
+你是一头霜牦牛，毛皮上结满了冰。
 %%%%
-Spider status
+蜘蛛状态
 
-You are an agile jumping spider whose attacks can web enemies.
+你是一只敏捷的跳蛛，它的攻击可以网住敌人。
 %%%%
-Quill status
+鹅毛笔状态
 
-You have spiny quills growing out of your body which may damage melee attackers.
+你的身体里长出了带刺的刺，这可能会伤害近战攻击者。
 %%%%
-Hive status
+蜂巢状态
 
-You are a living beehive, abuzz with busy insects.
+你是一个活生生的蜂巢，里面充满了忙碌的昆虫。
 %%%%
--Swarm status
+-群体状态
 
-The insects that dwell within you have recently swarmed to your defence. This
-will not happen again until your health fully recovers.
+居住在你体内的昆虫最近蜂拥而至保护你。这个
+在您的健康完全恢复之前，不会再发生这种情况。
 %%%%
-Aqua status
+水族状态
 
-Your body is composed of elemental water that can reach to attack and drown
-enemies.
+你的身体由元素水组成，可以攻击和淹没
+敌人。
 %%%%
-Sphinx status
+狮身人面像状态
 
-You are a cunning, riddle-loving sphinx, with the force of a windstorm in your
-paws.
+你是一个狡猾、热爱谜语的狮身人面像，你的体内拥有风暴般的力量。
+爪子。
 %%%%
-Werewolf status
+狼人状态
 
-You are a vicious werewolf.
+你是一个恶毒的狼人。
 %%%%
-Slay status
+击杀状态
 
-The damage and accuracy of your attacks is temporarily increased.
+你的攻击的伤害和准确性会暂时增加。
 %%%%
-Scroll status
+滚动状态
 
-You are a walking scroll, parchment crisp and full of magic.
+你是一本会行走的卷轴，像羊皮纸一样酥脆，充满魔力。
 %%%%
-Crab status
+螃蟹状况
 
-You are a heavily-armoured crab with rusting breath.
+你是一只全副武装、呼吸生锈的螃蟹。
 %%%%
-Scarab status
+圣甲虫状态
 
-You are a sun scarab, with solar fire blazing beside you.
+你是一只太阳圣甲虫，太阳之火在你身边熊熊燃烧。
 %%%%
-Medusa status
+美杜莎状态
 
-You have a mane of venomous tendrils for hair.
+你的头发有一簇有毒的卷须。
 %%%%
--Lithotox status
+-Lithotox状态
 
-Your lithotoxin has recently activated and will not do so again until you fully
-heal.
+您的石毒素最近已被激活，并且在您完全激活之前不会再次激活。
+治愈。
 %%%%
-Doom status
+末日状态
 
-A malevolent fate is gathering around you. If your Doom reaches 100%, you will
-be afflicted by a random bane and your Doom will reset to 0. Banes have diverse
-negative effects that can significantly endanger your character for an extended
-period of time.
+邪恶的命运正在你周围聚集。如果你的厄运达到 100%，你将会
+受到随机祸害的影响，你的厄运将重置为 0。祸害有多种
+负面影响可能会长期严重危害你的角色
+一段时间。
 
-Both Doom and Banes are only cured by gaining experience, though Banes typically
-last much longer.
+毁灭战士和贝恩斯都只能通过获得经验来治愈，尽管贝恩斯通常
+持续时间更长。
 %%%%
-Ostracised status
+被排斥的地位
 
-Your connection to the divine has been partially cut-off, temporarily reducing
-your effective piety. Gaining experience will eventually recover all piety that
-has been locked away this way.
+你与神的联系已被部分切断，暂时减少
+你有效的虔诚。获得经验最终会恢复所有的虔诚
+就这样被锁起来了。
 %%%%
-Tesseract status
+超立方体状态
 
-A Boundless Tesseract is drawing in forces from a parallel reality. New monsters
-will steadily appear at random locations across the floor until either of the
-tesseracts is destroyed. If this is allowed to continue for a very long time,
-those monsters may sometimes appear near your location instead.
+无限的宇宙立方正在从平行现实中汲取力量。新怪物
+将稳定地出现在地板上的随机位置，直到
+超立方体被破坏。如果允许这种情况持续很长一段时间，
+这些怪物有时可能会出现在您所在位置附近。
 %%%%
--Star status
+- 星级状态
 
-Your orb of stardust has recently expended its energy. It will recharge once
-several turns pass while your MP is full and there are no enemies in sight.
+你的星尘球最近耗尽了它的能量。会充一次电
+几个回合过去了，你的MP已经满了，而且看不到敌人。
 %%%%
--Mesm status
+-Mesm状态
 
-Your orb of mesmerism has recently expended its energy. It will recharge after
-a short length of time (but cannot recharge on turns where you move).
+你的催眠球最近耗尽了它的能量。之后就会充电
+时间很短（但无法在移动的回合中充电）。
 %%%%
-Phobia status
+恐惧症状态
 
-Your claustrophobia has given you a slaying malus. This is dependent on the
-number of walls surrounding you.
+你的幽闭恐惧症让你产生了致命的恶意。这取决于
+您周围的墙壁数量。
 %%%%
-Dim status
+昏暗状态
 
-The power of all your spells is reduced by half.
+你所有法术的威力都会减少一半。
 %%%%
-Sunder status
+破甲状态
 
-Your next attack will have increased accuracy, inflict three times its normal
-damage, and cleave at an increased range. This bonus is lost if you perform any
-action besides attacking.
+你的下一次攻击将提高准确性，造成三倍于正常的伤害
+伤害，并以更大的范围劈裂。如果您执行任何操作，此奖金将丢失
+除了攻击之外的动作。
 %%%%
-Devious status
+状态不正
 
-Your evasion and slaying are increased. This stacks up to 3 times and will never
-expire so long as you continue to perform melee attacks.
+你的闪避和杀戮都会增加。最多可以叠加 3 次并且永远不会
+只要你继续进行近战攻击就会过期。
 %%%%
-Slimifying status
+瘦身状态
 
-Your body is slowly being turned into slime. Even if a full transformation
-occurs, you have enough force of will to eventually revert back.
+你的身体正在慢慢变成粘液。就算彻底转型
+一旦发生，你就有足够的意志最终恢复原样。
 %%%%
-Jelly status
+果冻状态
 
-You have been temporarily transformed into a jelly. You have several unusual
-resistances and extra health, but heavily weakened spells.
+你暂时变成了果冻。你有几个不寻常的
+抵抗力和额外的生命值，但法术被严重削弱。
 
-Any equipped weapons and armour are melded. The effectiveness of your
-newly-acidic melee attacks while in this form is based on your experience level
-rather than Unarmed Combat skill.
+任何装备的武器和盔甲都会融合。您的有效性
+在这种形式下新的酸性近战攻击取决于你的经验水平
+而不是徒手格斗技能。
 %%%%
-OozeRegen status
+软泥再生状态
 
-You are covered in regenerative ooze from your recent trip down the stairs. For
-a brief time, your wounds will heal rapidly and your reserves of magic will
-recover quickly.
+你身上沾满了最近下楼梯时产生的再生淤泥。对于
+短时间内，你的伤口会迅速愈合，你的魔法储备也会
+快点恢复吧。
 %%%%
--Hellfire status
+-地狱火状态
 
-You are unable to cast Hellfire Mortar again until the effect of your last cast
-ends.
+在你上次施法效果生效之前，你无法再次施放地狱火迫击炮
+结束。
 %%%%
-Engorged status
+饱胀状态
 
-Your maw has just consumed a delicious meal, greatly increasing your
-regeneration until it finishes digesting it.
+你的胃刚刚吃了一顿美味的饭菜，大大增加了你的
+再生，直到消化完毕。
 %%%%
-Eel status
+鳗鱼状况
 
-Your arms are a pair of electric eels.
+你的手臂是一对电鳗。
 %%%%
-Blade status
+刀片状态
 
-Multiple vicious blades are growing out of your body.
+多把凶恶的利刃从你的身体中生长出来。
 %%%%
-Spore status
+孢子状态
 
-Your arm is a mass of multicoloured fungus.
+你的手臂是一团五彩的真菌。

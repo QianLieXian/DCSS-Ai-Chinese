@@ -1,135 +1,135 @@
 %%%%
-Armataur
+阿马图尔
 
-Scaled mammals the size of horses, Armataurs are fast-rolling and tenacious when
-pursuing enemies, but lack dexterity.
+甲马兽是有马大小的有鳞哺乳动物，在行动时会快速滚动且顽强。
+追击敌人，但缺乏灵活性。
 %%%%
-Barachi
+巴拉奇
 
-Barachim are slow-moving, amphibious humanoids who can hop long distances.
-Their extended range of vision also allows them to be seen from further away.
+巴拉奇姆是行动缓慢的两栖类人生物，可以长距离跳跃。
+他们的视野范围扩大也使他们能够从更远的地方看到他们。
 %%%%
-Coglin
+科格林
 
-Coglins ride enchanted exoskeletons able to wield weapons in both hands,
-wrapping slow-revving metal around their puny goblinoid frames.
+科格林骑着魔法外骨骼，双手都可以挥舞武器，
+将缓慢旋转的金属包裹在他们娇小的妖精框架上。
 %%%%
-Deep Elf
+深渊精灵
 
-Deep Elves have a strong affinity for all kinds of magic, but are very fragile.
-They regenerate magical power rapidly.
+深渊精灵对各种魔法都有很强的亲和力，但又非常脆弱。
+他们迅速恢复魔力。
 %%%%
-Demigod
+半神
 
-Demigods refuse to worship any god, but make up for this with divine attributes
-and high reserves of health and magic.
+半神人拒绝崇拜任何神，而是用神圣属性来弥补这一点
+以及大量的健康和魔法储备。
 %%%%
-Demonspawn
+恶魔之子
 
-Demonspawn are half human, half demon. They acquire strong demonic mutations as
-they grow.
+恶魔之子一半是人类，一半是恶魔。他们获得了强烈的恶魔突变
+他们成长。
 %%%%
-Djinni
+吉尼
 
-Djinn are ever-burning spirits. They learn spells automatically as they grow,
-and cast by drawing down their own fires.
+巨灵是永远燃烧的灵魂。他们随着成长自动学习咒语，
+并通过引燃自己的火焰来施放。
 %%%%
-Draconian
+严酷的
 
-Draconians are versatile hybrids. They mature when reaching level 7 and develop
-a colour.
+天龙人是多才多艺的混血儿。他们在达到7级时成熟并发展
+一种颜色。
 %%%%
-Formicid
+蚁酸
 
-Formicids are humanoid ants adept at digging. Their limbs are exceptionally
-strong and they live in a state of permanent stasis.
+蚁科蚂蚁是擅长挖掘的人形蚂蚁。他们的四肢异常
+强大，他们生活在永久停滞的状态。
 %%%%
-Felid
+猫科动物
 
-Felids are many-lived sentient cats. They cannot use armour or weapons.
+猫科动物是多生有知觉的猫。他们不能使用盔甲或武器。
 %%%%
-Gargoyle
+石像鬼
 
-Made of living stone, Gargoyles have a preternatural affinity for earth magic.
-They have low health, but their stone bodies are incredibly tough.
+石像鬼由活石制成，对大地魔法有着超自然的亲和力。
+他们的生命值很低，但他们的石头身体却异常坚韧。
 %%%%
-Gnoll
+豺狼人
 
-Gnolls are canine-like humanoids. They are unable to specialise in any single
-skill, but instead gradually become proficient in all skills at once.
+豺狼人是类似犬科动物的人形生物。他们无法专注于任何单一领域
+技能，而是逐渐精通所有技能。
 %%%%
-Human
+人类
 
-Humans are natural explorers. Discovering new places refreshes and invigorates them.
-They are otherwise completely average.
+人类是天生的探索者。发现新的地方可以让他们焕然一新、充满活力。
+他们在其他方面完全是平均水平。
 %%%%
-Tengu
+天狗
 
-Tengu are bird-people who love to fight, both with weapons and spells. They are
-fragile but agile, and eventually learn to fly.
+天狗是热爱战斗的鸟人，他们使用武器和咒语。他们是
+脆弱但敏捷，最终学会飞翔。
 %%%%
-Kobold
+狗头人
 
-Kobolds are attuned to the shadows and can only see or be seen at a close range.
-They are small and a little fragile, and are talented in most skills.
+狗头人适应阴影，只能在近距离看到或被看到。
+他们身材矮小，有点脆弱，但在大多数技能上都有天赋。
 %%%%
-Merfolk
+人鱼
 
-Half fish, half human, Merfolk are citizens of both water and land. They are
-strong combatants, and adept at using magic to assist in battle.
+人鱼一半是鱼，一半是人类，是水和陆地的公民。他们是
+战斗力强，擅长使用魔法辅助战斗。
 %%%%
-Minotaur
+牛头怪
 
-Minotaurs are large muscular humans with bovine heads. They excel at all forms
-of close and ranged combat.
+牛头怪是有着牛头、肌肉发达的大型人类。他们在各种形式上都表现出色
+近距离和远程战斗。
 %%%%
-Mountain Dwarf
+山矮人
 
-Mountain Dwarves are strong melee fighters and capable heavy-armoured casters.
-They can use scrolls to enchant even some artefacts.
+山地矮人是强大的近战战士和能干的重甲施法者。
+他们甚至可以使用卷轴对某些文物进行附魔。
 %%%%
-Mummy
+木乃伊
 
-Compelled to walk by an ancient curse, Mummies have innate faith and are adept
-at Necromancy, but learn other skills very slowly. They cannot drink potions.
+木乃伊因古老的诅咒而被迫行走，他们拥有与生俱来的信仰并且擅长
+擅长死灵术，但学习其他技能的速度非常慢。他们不能喝药剂。
 %%%%
-Naga
+娜迦
 
-Nagas are hybrids: human from the waist up, with a snake-like tail instead of
-legs. They move very slowly but are naturally resilient.
+纳迦是混血儿：腰部以上是人类，但尾巴像蛇一样
+腿。它们移动非常缓慢，但天生具有弹性。
 %%%%
-Octopode
+章鱼
 
-Octopodes are a species of amphibious cephalopods. They can wear eight rings,
-but almost no armour fits them.
+章鱼是两栖头足类动物的一种。他们可以戴八枚戒指，
+但几乎没有盔甲适合他们。
 %%%%
-Oni
+鬼
 
-Large, robust, and extremely fond of drinking, Oni make capable brawlers and
-spellcasters and gain extra benefits from healing potions.
+鬼体型庞大，体格健壮，而且极其喜欢喝酒，是能干的斗士，
+施法者并从治疗药水中获得额外的好处。
 %%%%
-Poltergeist
+恶作剧鬼
 
-Formless ghosts who delight in hexing their enemies. They can equip many
-different hats, gloves, boots, or cloaks at once, but cannot wear body armour.
+无形的鬼魂，喜欢对敌人施咒。他们可以装备很多
+同时佩戴不同的帽子、手套、靴子或斗篷，但不能穿防弹衣。
 %%%%
-Revenant
+亡魂
 
-Revenants are skeletal undead who are strong at melee combat and can empower
-damage-dealing spells by consuming memories they harvest from their victims.
+亡灵是骷髅不死生物，他们在近战战斗中能力很强，并且可以赋予力量
+通过消耗从受害者身上获取的记忆来造成伤害的法术。
 %%%%
-Spriggan
+斯普里根
 
-Very small, very frail and very fast, Spriggans are highly competent stabbers
-and spellcasters.
+斯普里根人非常小，非常脆弱，速度非常快，是非常有能力的刺伤者
+和施法者。
 %%%%
-Troll
+巨魔
 
-Trolls are monstrous creatures with powerful claws. They regenerate health
-rapidly.
+巨魔是一种拥有强大利爪的怪物。他们恢复健康
+迅速。
 %%%%
-Vine Stalker
+藤蔓追猎者
 
-Frail symbionts, Vine Stalkers cannot regain health from potions. Their magical
-reserves absorb damage, and they pack a magic-restoring bite.
+藤蔓追猎者是脆弱的共生体，无法从药水中恢复生命值。他们神奇的
+储备吸收伤害，并且它们具有恢复魔法的咬合力。
 %%%%

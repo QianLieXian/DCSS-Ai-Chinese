@@ -1,33 +1,33 @@
 %%%%
-amulet
+护身符
 
-An amulet to be worn as jewellery around the neck, charged with arcane powers
-of unknown provenance.
+可以作为珠宝佩戴在脖子上的护身符，充满神秘力量
+出处不明。
 %%%%
-book
+书
 
-An arcane textbook containing magical spells of unknown origin.
+一本包含来历不明的魔法咒语的奥术教科书。
 %%%%
-potion
+药水
 
-An unlabelled flask containing a single dose of unknown liquid.
+一个未贴标签的烧瓶，里面装有单剂量的未知液体。
 %%%%
-ring
+环
 
-A ring charged with arcane forces of unknown provenance, to be worn as jewellery
-on a finger.
+一枚充满来历不明的神秘力量的戒指，可作为珠宝佩戴
+在手指上。
 %%%%
-scroll
+滚动
 
-A disposable arcane formula inscribed on parchment by a professional scribe or
-sorcerer. Anyone can evoke the power of the arcane formula by reading it out
-loud, but the nature of that power is not a priori apparent.
+由专业抄写员在羊皮纸上刻写的一次性神秘公式或
+巫师。任何人都可以通过读出它来唤起神秘公式的力量
+声音很大，但这种力量的本质并不是先验显而易见的。
 %%%%
-staff
+工作人员
 
-A staff improved with arcane powers of unknown nature.
+一根具有未知性质的奥术力量的法杖得到了改善。
 %%%%
-wand
+魔杖
 
-An unusually magical sort of stick.
+一种异常神奇的棍子。
 %%%%
