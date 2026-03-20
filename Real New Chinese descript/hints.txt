@@ -250,9 +250,9 @@ HINT_SEEN_SPBOOK
 通过 <w>$cmd[CMD_MEMORISE_SPELL]</w> 计算施放咒语，并使用
 <w>$cmd[CMD_CAST_SPELL]</w>。
 {{
-如果现在 you.god() == "Trog"
-return “不过，穴居人讨厌你记忆或学习魔法！”
-    结尾
+    if you.god() == "Trog" then
+        return "Trog hates it when you memorise or study magic, though!"
+    end
 }}
 %%%%
 HINT_SEEN_WEAPON
@@ -266,10 +266,10 @@ HINT_SEEN_WEAPON
 <w>右键单击</w>它</localtiles>。
 
 {{
-如果 scrap.hints_type() == "berserk" 现在
-return“你可能应该坚持使用轴。检查其他轴”
-               ..“不过，魔法是值得的！”
-    结尾
+    if crawl.hints_type() == "berserk" then
+        return "You should probably stick with axes. Checking other axes'"
+               .. " enchantments can be worthwhile, though!"
+    end
 }}
 %%%%
 HINT_SEEN_MISSILES
@@ -282,15 +282,15 @@ HINT_SEEN_MISSILES
 信息。
 
 {{
-如果 scrap.hints_type() == “ranger” 现在
-return“由于您已经接受过远程武器训练，所以实际上您并没有”
-               ..“需要另一种远程攻击。”
-elseif scrap.hints_type() == "magic" 现在
-return "然而，作为一名施法者，你并不真的需要其他类型"
-               ..“远程攻击。”
-    别的
-        返回 ””
-    结尾
+    if crawl.hints_type() == "ranger" then
+        return "As you're already trained in Ranged Weapons, you don't really "
+               .. "need another type of ranged attack."
+    elseif crawl.hints_type() == "magic" then
+        return "However, as a spellslinger, you don't really need another type"
+               .. " of ranged attack."
+    else
+        return ""
+    end
 }}
 %%%%
 HINT_SEEN_ARMOUR
@@ -304,11 +304,11 @@ HINT_SEEN_ARMOUR
 </nomouse>
 
 {{
-如果 you.get_base_mutation_level("horns") > 0 现在
-        返回“请注意，由于您的原因，您将无法佩戴”
-..“头盔。（按 <w>$cmd[CMD_DISPLAY_MUTATIONS]</w> 查看”
-               ..“你的突变和先天能力的列表。）”
-    结尾
+    if you.get_base_mutation_level("horns") > 0 then
+        return "Note that because of your horns you will be unable to wear"
+               .. " helmets. (Press <w>$cmd[CMD_DISPLAY_MUTATIONS]</w> to see"
+               .. " a list of your mutations and innate abilities.)"
+    end
 }}
 %%%%
 HINT_SEEN_JEWELLERY
@@ -433,11 +433,11 @@ HINT_SEEN_ALTAR
 确认。
 
 {{
-如果 you.god() == "No God" 并且crawl.hints_type() == "magic" 现在
-return “对于没有经验的魔术师来说，最简单的神可能是”
-..“Vehumet，尽管有许多其他神，如 Sif Muna，也可以”
-               ..“工作顺利。”
-    结尾
+    if you.god() == "No God" and crawl.hints_type() == "magic" then
+        return "The simplest god for an inexperienced conjurer is probably "
+               .. "Vehumet, though many other gods, like Sif Muna, can also "
+               .. "work well."
+    end
 }}
 %%%%
 HINT_SEEN_SHOP
@@ -470,9 +470,9 @@ HINT_KILLED_MONSTER
 恭喜，你的角色刚刚通过杀死这个怪物获得了经验！
 这会提高你的一些技能，让你更加致命。
 {{
-如果现在 you.god() == "Trog"
-return "另外，大部分的杀戮都会让你在穴居人眼中获得好感。"
-    结尾
+    if you.god() == "Trog" then
+        return "Also, most kills will grant you favour in the eyes of Trog."
+    end
 }}
 %%%%
 HINT_NEW_LEVEL
@@ -482,12 +482,12 @@ HINT_NEW_LEVEL
 力量、智力和灵巧。
 
 {{
-如果 scrap.hints_type() == "magic" 现在
-return “获得经验等级染色体让你学习起来更加困难”
-               ..“咒语。你可以用“记住第二个咒语”
-.. " <w>$cmd[CMD_MEMORISE_SPELL]</w><tiles> 或通过"
-..“<w>在记忆选项卡中点击</w>它</tiles>。”
-    结尾
+    if crawl.hints_type() == "magic" then
+        return "Gaining an experience level also lets you learn more difficult"
+               .. " spells. You can memorise a second spell with"
+               .. " <w>$cmd[CMD_MEMORISE_SPELL]</w><tiles> or by"
+               .. " <w>clicking</w> on it in the memorisation tab</tiles>."
+    end
 }}
 %%%%
 HINT_SKILL_RAISE
@@ -893,13 +893,13 @@ HINT_CAUGHT_IN_NET
 战斗。相反，你采取的任何动作都被视为试图挣脱束缚
 来自网络。
 {{
-如果 scrap.hints_type() == "magic" 现在
-return "请注意，施法仍然是很有可能的，因为"
-               ..“使用魔杖、卷轴和药剂。”
-    别的
-return "注意，使用魔杖、卷轴和药水还是很多"
-               .. “ 可能的。”
-    结尾
+    if crawl.hints_type() == "magic" then
+        return "Note that casting spells is still very much possible, as is"
+               .. " using wands, scrolls and potions."
+    else
+        return "Note that using wands, scrolls and potions is still very much"
+               .. " possible."
+    end
 }}
 %%%%
 HINT_YOU_SILENCE

@@ -113,14 +113,14 @@ Unarmed Combat
 Spellcasting
 
 {{
-    if you.race() == "吉尼" then
-        return "战略实施法会增加成功率和法术"..
-               "所有法术的力量。"
+    if you.race() == "Djinni" then
+        return "Being skilled in Spellcasting increases the success rate and spell "..
+               "power of all spells."
     else
-        return "巧妙施法会稍微提高成功率" ..
-                "所有法术的速率和法术强度，同时增加你的" ..
-                "魔法储备。施法训练还​​可以让你获得更多法术" ..
-                "用于购买新咒语的插槽。"
+        return "Being skilled in Spellcasting slightly increases the success " ..
+                "rate and spell power of all spells, along with increasing your " ..
+                "magical reserves. Training Spellcasting also gives you more spell " ..
+                "slots to spend on new spells."
     end
 }}
 %%%%
@@ -259,10 +259,10 @@ Invocations
 能力。
 
 {{
-    if you.race() ~= "吉尼" then
-        return"召唤技能卵子影响你的魔法储备，"..
-               "但程度低于施法技能。只有" ..
-               "使用更高的贡献。"
+    if you.race() ~= "Djinni" then
+        return "The Invocations skill also affects your magical reserves, " ..
+               "but to a lesser degree than the Spellcasting skill. Only the " ..
+               "higher contribution is used."
     end
 }}
 %%%%

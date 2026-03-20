@@ -193,7 +193,7 @@ Golden Breath ability
 寒冷的伤害，并在其尾迹中留下有毒的蒸气云。
 %%%%
 # Zin
-背诵能力
+Recite ability
 
 短时间内向附近的怪物宣讲辛的法则。后
 念完一次，短时间内不能重复。
@@ -231,7 +231,7 @@ Cure All Mutations ability
 治愈你所有的突变——但只能治愈一次。
 %%%%
 # The Shining One
-圣盾能力
+Divine Shield ability
 
 在用户面前显现出耀眼的明亮护盾。被高高举起
 光辉的力量，能够准确无误的挡住接下来的数次攻击。
@@ -285,7 +285,7 @@ Receive Forbidden Knowledge ability
 只能收到一次。
 %%%%
 # Yredelemnul
-召回亡灵收割能力
+Recall Undead Harvest ability
 
 将你的不死追随者从地牢中的任何地方召回到你的直接
 周围环境。
@@ -344,7 +344,7 @@ Fathomless Shackles ability
 旧的已经完全过期了。
 %%%%
 # Okawaru
-英雄主义能力
+Heroism ability
 
 暂时提高你所有的战斗技能，包括进攻和防守。
 持续时间因召唤技能而增加。
@@ -376,20 +376,20 @@ Receive Armour ability
 赎回一次。
 %%%%
 # Makhleb
-释放破坏能力
+Unleash Destruction ability
 
 引导一股地狱般的气流{{
-如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
-        返回“刺骨的火焰、熔岩（来自地狱的影响）、闪电或负能量”
-elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
-        返回“刺穿的冰（来自科塞特斯的影响）、寒冷、闪电或负能量”
-elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
-        返回“刺骨的火焰、寒冷、毁灭（来自塔耳塔洛斯的影响）或负能量”
-elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
-        返回“刺骨的火焰、寒冷、闪电、酸液或金属碎片（最后两个来自迪斯的影响）”
-    别的
-        返回“火、冷、闪电或负能量”
-    结尾
+    if you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "piercing fire, lava (from Gehenna's influence), lightning, or negative energy"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "piercing ice (from Cocytus' influence), cold, lightning, or negative energy"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "piercing fire, cold, devastation (from Tartarus' influence), or negative energy"
+    elseif you.get_base_mutation_level("Dis destruction") == 1 then
+        return "piercing fire, cold, lightning, acid, or metal splinters (the last two from Dis' influence)"
+    else
+        return "fire, cold, lightning, or negative energy"
+    end
 }} 针对目标生物。伤害和准确度通过调用而增加
 技能。
 %%%%
@@ -423,34 +423,34 @@ Infernal Legion ability
 Globe of Annihilation ability
 
 发射一个由 {{
-如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
-        返回“无尽的地狱之火”。
-elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
-        返回“科塞特斯的寒冷废土”。
-elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
-        返回“塔尔塔罗斯的哀嚎”。
-elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
-        返回“无情的迪斯”。
-    别的
-        返回“非常地狱本身”。
-    结尾
+    if you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "endless fires of Gehenna."
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "frigid wastes of Cocytus."
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "wailing grief of Tartarus."
+    elseif you.get_base_mutation_level("Dis destruction") == 1 then
+        return "ruthless spite of Dis."
+    else
+        return "very Hells themselves."
+    end
 }}
 
 这个球体在行进时会聚集力量，并会尝试追踪
 指定的目标，尽管它的移动和转动具有相当大的惯性。当它
 与生物或其他障碍物碰撞，它会剧烈爆炸
 爆炸{{
-如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
-        返回“火或熔岩”
-elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
-        返回“冷或冰”
-elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
-        返回“负能量或破坏”
-elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
-        返回“酸或金属碎片”
-    别的
-        返回“地狱能量”
-    结尾
+    if you.get_base_mutation_level("Gehenna destruction") == 1 then
+        return "fire or lava"
+    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
+        return "cold or ice"
+    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
+        return "negative energy or devastation"
+    elseif you.get_base_mutation_level("Dis destruction") == 1 then
+        return "acid or metal splinters"
+    else
+        return "hellish energy"
+    end
 }} 其半径取决于行进的距离。
 
 你自己就受到了保护，免受这次爆炸的影响。
@@ -488,7 +488,7 @@ Divine Exegesis ability
 高于法术本身相关技能的同等水平的训练。
 %%%%
 # Trog
-狂暴能力
+Berserk ability
 
 让用户陷入狂暴之中。狂暴会暂时增加生命值，
 速度和近战造成的伤害。在战斗之外它会很快超时，
@@ -507,7 +507,7 @@ Brothers in Arms ability
 召唤巨大的愤怒盟友来造成严重破坏。
 %%%%
 # Elyvilon
-净化能力
+Purification ability
 
 清除你体内的毒素、混乱、迟缓、石化、虚弱和
 疾病。任何耗尽的最大生命值也将完全恢复。
@@ -540,7 +540,7 @@ Divine Vigour ability
 按比例。
 %%%%
 # Lugonu
-离开深渊能力
+Depart the Abyss ability
 
 将你带出深渊，带你回到你出发的地方
 进入其中。
@@ -572,7 +572,7 @@ Brand Weapon With Distortion ability
 人工制品武器。
 %%%%
 # Nemelex Xobeh
-绘图能力
+Draw ability
 
 从一副力量牌中抽一张牌。
 %%%%
@@ -593,7 +593,7 @@ Stack Five ability
 重新使用此能力将丢弃当前堆栈。
 %%%%
 # Beogh
-重击能力
+Smiting ability
 
 [[重击法术]] 重击的强度会因召唤技能而增加。
 
@@ -635,7 +635,7 @@ Blood for Blood ability
 每次死亡最多一次。
 %%%%
 # Fedhas
-荆棘墙能力
+Wall of Briars ability
 
 在你周围长出短暂的石南斑块。攻击这些荆棘的怪物会
 被尖锐的荆棘损坏。召唤技能可以增加荆棘的生命值。
@@ -664,7 +664,7 @@ Grow Oklob ability
 喷洒酸的频率。
 %%%%
 # Cheibriados
-弯曲时间能力
+Bend Time ability
 
 试图减慢与您相邻的每个人的速度。高召唤技能使其成为可能
 更难以抗拒。
@@ -690,7 +690,7 @@ Step From Time ability
 很久以前，那些警觉的怪物们已经再次沉睡了。
 %%%%
 # Jiyva
-精简能力
+Slimify ability
 
 在挥舞的武器或拳头上涂上粘液，使下一个活人或
 有形不死怪物撞入中性粘液中。
@@ -701,7 +701,7 @@ Oozemancy ability
 取决于它们相邻的粘糊糊的墙壁的数量。
 %%%%
 # Ashenzari
-诅咒物品能力
+Curse Item ability
 
 诅咒选定的装备物品，将其绑定到佩戴者身上，直到诅咒发生
 并且该物品均已损坏。被诅咒的物品不能再被附魔或
@@ -712,7 +712,7 @@ Shatter The Chains ability
 摧毁选定的被诅咒的装备物品，解除佩戴者的诅咒。
 %%%%
 # Dithmenos
-影移能力
+Shadowslip ability
 
 立即与你的影子交换位置（只要它处于活动状态）并误导
 所有敌人都看到了这两个人中的哪一个。曾经的敌人
@@ -753,7 +753,7 @@ Primordial Nightfall ability
 召唤技能会增加效果的持续时间。
 %%%%
 # Gozag
-药水祈求能力
+Potion Petition ability
 
 请求戈扎格向你出售一套药剂的效果。 （这些影响将
 立即直接应用于申请人，而不是提供
@@ -776,7 +776,7 @@ Bribe Branch ability
 如果他们没有成为你的盟友则无所谓。
 %%%%
 # Qazlal
-剧变能力
+Upheaval ability
 
 呼吁自然力量用岩浆、冰、风来炸毁一小片区域，
 或瓦砾。这种爆炸永远不会伤害你或你所显现的任何元素。
@@ -794,7 +794,7 @@ Disaster Area ability
 技能会增加伤害和影响范围。
 %%%%
 # Ru
-抽出功率能力
+Draw Out Power ability
 
 挖掘你的内在力量来恢复健康和魔法，并释放你的
 身体和心灵免受外部约束，包括网、网、束缚、
@@ -883,9 +883,9 @@ Sacrifice Durability ability
 Sacrifice a Hand ability
 
 牺牲一只手，导致你失去使用盾牌的能力{{
-如果你.race() ~= 现在“Formicid”
-        返回“和双手武器”
-    结尾
+    if you.race() ~= "Formicid" then
+        return " and two-handed weapons"
+    end
 }}，并且能够少戴一枚戒指。
 %%%%
 Sacrifice Experience ability
@@ -917,7 +917,7 @@ Reject Sacrifices ability
 接受牺牲会将计时器重置为标准长度。
 %%%%
 # Uskayaw
-跺脚能力
+Stomp ability
 
 随着舞蹈节奏踩踏，发出冲击波
 所有相邻的生物。冲击波对每个生物造成一定程度的伤害

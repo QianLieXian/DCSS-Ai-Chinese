@@ -84,13 +84,13 @@ pain (pain) weapon ego
 
 它对生物造成与你的死灵法术成比例的额外伤害
 技能。{{
-如果现在 you.god() == "Trog"
-return " Trog 会阻止你释放这个效果。";
-    结尾
+    if you.god() == "Trog" then
+        return " Trog prevents you from unleashing this effect.";
+    end
 }}{{
-如果现在你.is_useless_skill("死灵术")
-return “你无法学习死灵术，因此无法充分利用这件武器的威力。”;
-    结尾
+    if you.is_useless_skill("necromancy") then
+        return " Your inability to study Necromancy prevents you from drawing on the full power of this weapon.";
+    end
 }}
 %%%%
 penetration (penet) weapon ego
