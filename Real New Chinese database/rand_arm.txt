@@ -1,1163 +1,1163 @@
 ######################################################
-# Randart Names
+# Randart 名称 
 # -------------
-# rand_arm.txt: keywords for randart ARMOUR
+# rand_arm.txt：randart ARMOR 
 #
-# This file contains the lists of keywords (and their
-# weights) for most of the keywords used for randart
-# armour. You will find others in rand_wpn.txt and
-# rand_all.txt, respectively.
+ 的关键字 # 此文件包含用于生成 
+ # 权重的关键字）适用于 randart 
+ # 装甲使用的大多数关键字。您将分别在 rand_wpn.txt 和 
+ # rand_all.txt 中找到其他内容。 
 #
-# See the explanation in the main file, randname.txt,
-# for more details.
+ # 请参阅主文件randname.txt中的说明，
+ # 了解更多详细信息。 
 ######################################################
 %%%%
-_armour_animal_
+ _armour_animal_ 
 
-# microorganisms
-Amoeba
+ # 微生物 
+ 变形虫 
 
-Tardigrade
+ 缓步动物 
 
-# insects
-Ant
+ # 昆虫 
+ 蚂蚁 
 
-Butterfly
+ 蝴蝶 
 
-Cicada
+ 蝉 
 
-Cockroach
+ 蟑螂 
 
-Cricket
+ 蟋蟀
 
-Ladybird
+ 瓢虫 
 
-Locust
+ 蝗虫 
 
-Louse
+ 虱子 
 
-Mantidfly
+ 螳螂 
 
-Tick
+ 蜱虫 
 
-# invertebrates
-Centipede
+ # 无脊椎动物 
+ 蜈蚣 
 
-Cuttlefish
+ 墨鱼 
 
-Gastropod
+ 腹足动物 
 
-Slug
+ 蛞蝓
 
-Snail
+ 蜗牛 
 
-Trilobite
+ 三叶虫 
 
-Worm
+ 蠕虫 
 
-# arachnids and clams
-Barnacle
+ # 蛛形纲动物和蛤 
+ 藤壶 
 
-Clam
+ 蛤 
 
-Lobster
+ 龙虾 
 
-Quahog
+ 圆蛤 
 
-Tarantula
+ 狼蛛 
 
-# amphibians and reptiles
-Frog
+ # 两栖动物和爬行动物
+ 青蛙 
 
-Komodo Dragon
+ 科莫多龙 
 
-Lizard
+ 蜥蜴 
 
-Salamander
+ 蝾螈 
 
-Serpent
+ 蛇 
 
-Turtle
+ 乌龟
 
-# fish
-Barracuda
+# 鱼 
+ 梭鱼 
 
-Catfish
+ 鲶鱼 
 
-Cichlid
+ 慈鲷 
 
-Mackerel
+ 鲭鱼 
 
-Marlin
+ 马林鱼 
 
-Salmon
+ 鲑鱼 
 
-Sturgeon
+ 鲟鱼 
 
-Sunfish
+ 翻车鱼 
 
-Trout
+ 鳟鱼 
 
-Tuna
+ 金枪鱼 
 
-# birds
-Albatross
+ # 鸟
+ 信天翁 
 
-Eagle
+ 鹰 
 
-Falcon
+ 猎鹰 
 
-Heron
+ 苍鹭 
 
-Meadowlark
+ 草地鹨 
 
-Nightingale
+ 夜莺 
 
-Raven
+ 乌鸦 
 
-Robin
+ 罗宾 
 
-Shrike
+ 伯劳 
 
-Sparrow
+ 麻雀 
 
-Swan
+ 天鹅 
 
-Turtledove
+ 斑鸠 
 
-# mammals
-Bull
+ #哺乳动物 
+ 公牛 
 
-Camelopard
+ 骆驼 
 
-Catamount
+ 鲶鱼 
 
-Dolphin
+ 海豚 
 
-Echidna
+ 针鼹 
 
-Elephant
+ 大象 
 
-Hart
+ 哈特 
 
-Hippo
+ 河马 
 
-Kangaroo
+ 袋鼠 
 
-Lion
+ 狮子 
 
-Monkey
+猴子 
 
-Okapi
+ 霍加皮 
 
-Stag
+ 雄鹿 
 
-Stallion
+ 种马 
 
-Zebra
+ 斑马 
 
-# not strictly an animal... :)
-Circus Animal
+ # 严格来说不是动物... :) 
+ 马戏团动物
 
-Monkey's Uncle
+猴子叔叔
 
-# classical mythical animals
-Centaur
+#古典神话动物
+半人马
 
-Cockatrice
+鸡蛇
 
-Chimera
+奇美拉
 
-Dragon
+龙
 
-Griffon
+狮鹫
 
-Hecatoncheires
+百臂马
 
-Hippogriff
+鹰头马身兽
 
-Kraken
+海妖
 
-Leogriff
+ 莱格里夫 
 
-Nuckelavee
+ Nuckelavee 
 
-Pooka
+ Pooka 
 
-Quinotaur
+ Quinotaur 
 
-Sea Goat
+ 海山羊 
 
-Skiapode
+ Skiapod 
 
-Unicorn
+ 独角兽 
 
-# Iapon
+ # Iapon 
 
-Akabeko
+ Akabeko 
 
-Baku
+ 巴库
 
-Byakko
+ 白虎 
 
-Ikuchi
+ 几口 
 
-Kappa
+ 河童 
 
-Kitsune
+ 狐常 
 
-Kodama
+ 儿玉 
 
-Oni
+ 鬼 
 
-Shishi
+ 狮子 
 
-Tsukumogami
+ 津云神 
 
-# South America
+ # 南美 
 
-Carbunclo
+ Carbunclo 
 
-Cherruve
+ Cherruve 
 
-Cuero
+ Cuero 
 
-Curupira
+ Curupira 
 
-Ebigane
+ Ebigane 
 
-Gasogonaga
+ Gasogonaga 
 
-Mpinguari
+ Mpinguari 
 
-Tapire-iauara
+ Tapire-iauara 
 
-# Africa
+ # 非洲 
 
-Biloko
+ Biloko 
 
-Guiamala
+ 圭亚马拉
 
-Impundulu
+Impundulu 
 
-Isitwalangcengce
+ Isitwalangcengce 
 
-Nkala
+ Nkala 
 
-Zankallala
+ Zankallala 
 
-# South East Asia
+ # 东南亚 
 
-Bakunawa
+ Bakunawa 
 
-Minokawa
+ Minokawa 
 
-# Unlikely hybrids
+ # 不太可能的杂交种 
 
-Giraffataur
+ 长颈鹿 
 
-Elephantaur
+ 大象
 
-Mertaur
+ Mertaur 
 
-Merwolf
+ Merwolf 
 
-Platytaur
+ Platytaur 
 
-Rhinotaur
+ Rhinotaur 
 
-Taurataur
+ Taurataur 
 
-Treeataur
+ Treeataur 
 
-Wereyak
+ Wereyak 
 
-Zebrataur
+ Zebrataur 
 
-# modern mythical animals
-Chupacabra
+ # 现代神话动物 
+ Chupacabra 
 
-Dropbear
+ Dropbear 
 
-Jackalope
+ 鹿角兔 
 
-Jersey Devil
+ 泽西恶魔 
 
-Skvader
+ Skvader 
 
-Snallygaster
+ Snallygaster 
 
-Tatzelwurm
+ Tatzelwurm 
 
-Wild Haggis
+ 野生羊杂碎 
 
-Yeti
+ Yeti 
 
 %%%%
-_flower_name_
-Daffodils
+ _flower_name_ 
+ 水仙花
 
-Daisies
+ 雏菊 
 
-Lilacs
+ 紫丁香 
 
-Periwinkles
+ 长春花 
 
-Purple Dead-Nettles
+ 紫色死荨麻 
 
-Tulips
+ 郁金香 
 
-Violets
+ 紫罗兰 
 
-the Garden
+ 花园 
 
-the Horehound
+ 夏猎犬 
 
-the Lily
+ 百合 
 
-the Lotus Blossom
+ 莲花
 
-the Rose
+Rose 
 
-the Thistle
+ Thistle 
 
 %%%%
-# non-Crawl critters
-_critter_name_
-Alphagorgon
+ # 非 Crawl 小动物 
+ _critter_name_ 
+ Alphagorgon 
 
-Slorg
+ Slorg 
 
-# from the crawl.akrasiac.org patch.
-Eight Boll Weevils
+ # 来自crawl.akrasiac.org 补丁。 
+ 八铃象鼻虫 
 
-Grue
+ 格鲁 
 
-Hot Ocelot
+ 热豹猫 
 
-Jabberwock
+ Jabberwock 
 
 w:1
-Were-rabbit
+ 兔子 
 
-Wumpus
+ Wumpus 
 %%%%
-_discomfort_and_inaction_
+ _discomfort_and_inaction_ 
 
-# discomfort
-Bad Feelings
+ # 不适 
+ 不良感觉
 
-Bitterness
+ 苦涩 
 
-Disappointment
+ 失望 
 
-Entitlement
+ 权利 
 
-Failure
+ 失败 
 
-Insecurity
+ 不安全感 
 
-Minor Irritation
+ 轻微恼怒 
 
-Negation
+ 否定 
 
-Servitude
+ 奴役 
 
-Submission
+ 提交 
 
-Vexation
+ 烦恼 
 
-# inaction
-Apathy
+ #无为 
+ 冷漠 
 
-Boredom
+ 无聊 
 
-Ennui
+ 倦怠 
 
-Inaction
+ 无为 
 
-Lethargy
+ 昏昏欲睡 
 
-Lifelessness
+ 毫无生气 
 
-Negligence
+ 疏忽 
 
-Oblivion
+ 遗忘 
 
-Omission
+ 疏忽 
 
-Restlessness
+ 躁动 
 
-the Doldrums
-
-%%%%
-_good_or_divine_
-
-# good things
-Amelioration
-
-Awe
-
-Beauty
-
-Birdsong
-
-Cleverness
-
-Contentment
-
-Creativity
-
-Curiosity
-
-Freedom
-
-Fun
-
-Happiness
-
-Joy
-
-Knowledge
-
-Leaves
-
-Liberty
-
-Life
-
-Lucidity
-
-Mirth
-
-Music
-
-New Discoveries
-
-Satisfaction
-
-Surprise
-
-Tender Moments
-
-Wonder
-
-the Good
-
-the Leaf
-
-# divine events
-Divine Compulsion
-
-Divine Intervention
-
-Intercession
-
-Miracles
-
-Salvation
-
-the Invisible Hand
-
-the Will of the Gods
+低潮 
 
 %%%%
-# in contrast to "_wacky_armour_name_" these do have some
-# connection to armour and protection
-_armour_name_shielding_
-Complete Protection
+ _good_or_divine_ 
 
-Death's Door
+ # 好东西
+改善 
 
-Defence
+ 敬畏 
 
-Exclusion
+ 美丽 
 
-Fortification
+ 鸟鸣 
 
-Impermeability
+ 聪明 
 
-Inviolability
+ 知足 
 
-Refuge
+ 创造力 
 
-Repulsion
+ 好奇心 
 
-Shielding
+ 自由 
 
-the Armoured One
+ 乐趣 
 
-the Bulwark
+ 幸福 
 
-the Gate
+ 欢乐
 
-the Saviour
+ 知识 
 
-the Stone Wall
+ 离开 
 
-the Unbroken
+ 自由 
 
-the Untouchables
+ 生活 
 
-the Ward
+ 清醒 
 
-%%%%
-# other armour properties (beside protection)
-_armour_property_name_
-Death Resistance
+ 欢乐 
 
-Disguise
+ 音乐 
 
-Fashionability
+ 新发现 
 
-Fullness
+ 满足 
 
-Grace
+ 惊喜 
 
-Gravitas
+ 温柔时刻
 
-Impressiveness
+ 奇迹 
 
-Least Resistance
+ 好人 
 
-Polish
+ 叶子 
 
-Privacy
+ # 神圣事件 
+ 神圣强制 
 
-Protective Custody
+ 神圣干预 
 
-Resilience
+ 代祷 
 
-Shadows and Fog
+ 奇迹 
 
-Supple Strength
+ 救赎 
 
-Weightlessness
+ 看不见的手 
+
+众神的意志 
 
 %%%%
-_wacky_armour_name_
-Absence
+ # 与“_wacky_armour_name_”相比，它们确实有一些 
+ # 与装甲和保护的联系 
+ _armour_name_shielding_ 
+ 完全保护 
 
-Anaesthesia
+ 死亡之门 
 
-Baldness
+ 防御
 
-Compression
+排斥 
 
-Decompression
+ 防御工事 
 
-Dramatic Exits
+ 防渗 
 
-Duck's Teeth
+ 不可侵犯 
 
-Forking Paths
+ 避难所 
 
-Good Intentions
+ 排斥 
 
-Hadjma
+ 屏蔽 
 
-Hairiness
+ 装甲一号 
 
-Hedging
+ 壁垒 
 
-Hubris
+ 大门 
 
-Incorporation
+救世主 
 
-Indecent Exposure
+ 石墙 
 
-Indemnity
+ 坚不可摧 
 
-Limited Liability
+ 不可触碰 
 
-Loss
-
-Love and Death
-
-Mezcal
-
-Pathos
-
-Philately
-
-Plasticity
-
-Poor Excuses
-
-Precision Catastrophes
-
-Space
-
-Terror
-
-Thrice Damned Blessings
-
-Too Many Cooks
-
-Untold Secrets
-
-Vlad
-
-Weirdness
-
-the Arcane
-
-the Armadillo
-
-the Blind Marksman
-
-the Earth
-
-the Eternal Fruit
-
-the Loofah
-
-the Old and Reckless
-
-the Onion
-
-the Pink Corner
-
-# Schlock Mercenary, March 5, 2010
-the Plethaurus
-
-the Road Less Travelled
-
-the True Pharaoh
-
-the Unemployed Unperson
-
-the Vacuum
+ 守卫 
 
 %%%%
-# Lemuel's suggestions
-_celestial_bodies_
+ # 其他装甲属性（除了防护） 
+ _armour_property_name_ 
+ 死亡抵抗 
+
+ 伪装 
+
+ 时尚
+
+ 丰满 
+
+格雷斯
+
+ 庄严 
+
+ 印象深刻 
+
+ 最小阻力 
+
+ 抛光 
+
+ 隐私 
+
+ 保护性保管 
+
+ 弹性 
+
+ 阴影和雾气 
+
+ 柔软力量 
+
+失重 
+
+%%%%
+ _wacky_armour_name_ 
+ 缺席 
+
+ 麻醉 
+
+ 秃头 
+
+ 压缩 
+
+ 减压 
+
+ 戏剧性退出 
+
+ 鸭牙 
+
+ 分叉路径
+
+善意 
+
+ Hadjma 
+
+ 毛羽 
+
+ 对冲 
+
+ 傲慢 
+
+ 公司 
+
+ 不雅暴露 
+
+ 赔偿 
+
+ 有限责任 
+
+ 损失 
+
+ 爱与死亡
+
+ 梅斯卡尔 
+
+ 悲情 
+
+ 集邮 
+
+ 可塑性 
+
+ 糟糕的借口 
+
+ 精确的灾难 
+
+ 太空 
+
+ 恐怖 
+
+ 三次该死的祝福 
+
+ 太多厨师
+
+ 不为人知的秘密 
+
+ 弗拉德 
+
+ 怪异 
+
+ 奥术 
+
+ 犰狳 
+
+ 盲神射手 
+
+ 地球 
+
+ 永恒之果 
+
+ 丝瓜 
+
+ 老和鲁莽 
+
+ 洋葱 
+
+ 粉红角落 
+
+ # Schlock 雇佣兵，2010 年 3 月 5 日 
+ 普勒特乌鲁斯 
+
+ 少有人走的路 
+
+ 真正的法老 
+
+ 失业者 
+
+ 真空
+
+%%%%
+ # Lemuel 的建议
+_celestial_bodies_ 
 w:5
-Blue Moon
+ 蓝月亮 
 
-Comet
+ 彗星 
 
-Constellations
+ 星座 
 
-Evening Star
-
-w:5
-Harvest Moon
+ 晚星 
 
 w:5
-Midnight Sun
-
-Moon
-
-Morning Star
-
-Northern Lights
-
-Planets
-
-Pleiades
-
-Stars
-
-Sun
-
-# astrological
-Black Moon
-%%%%
-_instrument_name_
-Chimes
-
-Pan-Flutes
-
-Trumpets
-
-the Accordion
-
-the Bagpipe
-
-the Bells
-
-the Fiddle
-
-the Fife
-
-the Flute
-
-the Gusle
-
-the Harp
-
-the Kazoo
-
-the Kettle-Drum
-
-the Lute
-
-the Trombone
-
-%%%%
-_evil_being_
-Demons
-
-Greater Demons
-
-Lesser Demons
-
-Tempters
-
-Vampiric Thralls
+ 丰收月亮 
 
 w:5
-the Archfiend
+ 午夜太阳 
 
-the Demon Prince
+ 月亮 
 
-the Devil
+ 晨星 
 
-the Devil's Advocate
+ 北极光 
 
-the Devil's Team
+ 行星 
 
-the Evil One
+ 昴宿星
 
-the Fiend
+ 星星
 
-the Furies
+ 太阳 
 
-the Imp
+ # 占星 
+ 黑月 
+%%%%
+ _instrument_name_ 
+ 编钟 
 
-the Iron Devil
+ 排笛 
 
-the Lich-sworn
+ 小号 
 
-the Little Devil
+ 手风琴 
 
-the Prince of Darkness
+ 风笛 
 
-the Tormentor
+ 钟声
 
-the Villain
+ 小提琴 
+
+ 横笛 
+
+ 长笛 
+
+ 古斯勒 
+
+ 竖琴 
+
+ 卡祖笛 
+
+ 壶鼓 
+
+ 琵琶 
+
+ 长号 
 
 %%%%
-_weather_name_
-Blue Skies
+ _evil_being_ 
+ 恶魔 
 
-Boiling Hail
+ 大恶魔 
 
-Chill Winds
+ 小恶魔 
 
-Cloud Cover
+ 诱惑者 
 
-Dust Devils
-
-Howling Wind
-
-Lightning Storm
-
-Perpetual Drought
-
-Pleasant Breezes
-
-Quiet Fog
-
-Soft Rains
-
-Spring Thaw
-
-the Blizzard
-
-the First Snow
-
-the Hurricane
-
-the Thunderstorm
-
-%%%%
-_profession_name_
-Apprentice
-
-Apothecary
-
-Baker
-
-Barber Surgeon
-
-Bard
-
-Beekeeper
-
-Beggar
-
-Blacksmith
-
-Buccaneer
-
-Butcher
-
-Candlemaker
-
-Carpenter
-
-Cartwright
-
-Cobbler
-
-Cooper
-
-Ditch-Digger
-
-Engineer
-
-Farmer
-
-Farrier
-
-Fisher
-
-Fletcher
-
-Furrier
-
-Gardener
-
-Goldsmith
-
-Gravedigger
-
-Guardian
-
-Guild-Master
-
-Guilds
-
-Hunter
-
-Journeyman
-
-Learner
-
-Merchant
-
-Miller
-
-Minstrel
-
-Moneychanger
-
-Monk
-
-Pirate
-
-Playwright
-
-Sailor
-
-Scribe
-
-Silversmith
-
-Soldier
-
-Stonemason
-
-Tanner
-
-Teacher
-
-Thinker
-
-Undertaker
-
-Watchman
-
-Weaver
-
-Wheelwright
-
-%%%%
-# something for Xom
-_game_name_
-
-# general games
-Dice, Bag, and Bottle
-
-Fun and Games
-
-Parlour Games
-
-the Game Afoot
-
-the Game of Kings
-
-the Great Game
-
-# children's games
-Follow the Leader
-
-Hide-and-Seek
-
-Hopscotch
-
-Leapfrog
-
-Mumblety Peg
-
-Peek-a-Boo
-
-the King of the Hill
-
-# board games etc.
-Card Tricks
-
-Hangman
-
-Jigsaw
-
-Marbles
-
-Noughts and Crosses
-
-Snakes and Ladders
-
-Whack-A-Mole
-
-the Dice
-
-the Game of Life
-
-%%%%
-_politics_name_armour_
-Coronation
-
-Democracy
-
-Nobility
-
-Royalty
-
-Sovereignty
-
-the Ban
-
-the Burgomaster
-
-the Cast Vote
-
-the Castellan
-
-the City
-
-the Commoners
-
-the Country
-
-the Crown
-
-the Doge
-
-the Duchess
-
-the Duke
-
-the Empire
-
-the Failed Coup
-
-the Greedy
-
-the King
-
-the Komtur
-
-the Mutiny
-
-the Oligarchy
-
-the Peasants
-
-the Prince
-
-the Princeling
-
-the Princess
-
-the Queen
-
-the Rabble
-
-the Republic
-
-the Suburbs
-
-the Townfolk
-
-the Voivode
-
-%%%%
-_other_armour_name_
-
-#unpleasantness
-Filth
+ 吸血鬼奴隶 
 
 w:5
-Grot
+ 大恶魔 
+
+ 恶魔王子 
+
+ 恶魔 
+
+ 恶魔代言者 
+
+ 恶魔团队
+
+邪恶者 
+
+ 恶魔 
+
+ 复仇女神 
+
+ 小恶魔 
+
+ 铁魔 
+
+ 巫妖誓言者 
+
+ 小恶魔 
+
+ 黑暗王子 
+
+ 折磨者 
+
+ 恶棍 
+
+%%%%
+ _weather_name_ 
+ 蓝天 
+
+ 沸腾冰雹 
+
+ 寒风 
+
+ 云层 
+
+ 尘暴 
+
+ 呼啸风 
+
+ 闪电风暴 
+
+ 永久干旱 
+
+ 宜人微风
+
+ 静雾 
+
+ 软雨 
+
+ 春天解冻 
+
+ 暴风雪 
+
+ 第一场雪 
+
+ 飓风 
+
+ 雷暴 
+
+%%%%
+ _profession_name_ 
+ 学徒 
+
+药剂师 
+
+ 面包师 
+
+ 理发师 外科医生 
+
+ 吟游诗人 
+
+ 养蜂人 
+
+ 乞丐 
+
+ 铁匠 
+
+ 海盗 
+
+ 屠夫 
+
+ 蜡烛匠 
+
+ 木匠
+
+Cartwright 
+
+ 补鞋匠 
+
+ 库珀 
+
+ 挖沟工 
+
+ 工程师 
+
+ 农民 
+
+ 蹄铁匠 
+
+ 费舍尔 
+
+ 弗莱彻 
+
+ 毛皮匠 
+
+ 园丁 
+
+ 金匠
+
+ 掘墓者 
+
+ 守护者 
+
+ 公会大师 
+
+ 公会 
+
+ 猎人 
+
+ 熟练工 
+
+ 学习者 
+
+ 商人 
+
+ 米勒 
+
+ 吟游诗人 
+
+ 货币兑换商
+
+ 僧侣 
+
+ 海盗 
+
+ 剧作家 
+
+ 水手 
+
+ 抄写员 
+
+ 银匠 
+
+ 士兵 
+
+ 石匠 
+
+ 制革者 
+
+ 老师 
+
+ 思想家
+
+ 送葬者 
+
+ 守望者 
+
+ 编织者 
+
+ 轮匠 
+
+%%%%
+ # 给 Xom 
+ _game_name_ 的东西
+
+# 一般游戏 
+ 骰子、袋子和瓶子 
+
+ 趣味游戏 
+
+ 客厅游戏 
+
+ 游戏进行中 
+
+ 国王游戏 
+
+ 伟大游戏 
+
+ # 儿童游戏 
+ 跟随领导者 
+
+ 捉迷藏
+
+ 跳房子 
+
+ 青蛙 
+
+ 闷闷不乐的钉子 
+
+ 躲猫猫 
+
+ 山丘之王 
+
+ # 棋盘游戏等 
+ 纸牌技巧 
+
+ 刽子手 
+
+ 拼图
+
+ 弹珠 
+
+ 圈与十字 
+
+ 蛇梯 
+
+ 打地鼠 
+
+ 骰子 
+
+ 生命游戏 
+
+%%%%
+ _politics_name_armour_ 
+ 加冕 
+
+民主 
+
+ 贵族 
+
+ 皇室 
+
+ 主权 
+
+ 禁令 
+
+ 市长 
+
+ 演员投票 
+
+ 城主 
+
+ 城市 
+
+ 平民 
+
+ 国家
+
+ 皇冠 
+
+ 总督
+
+公爵夫人 
+
+ 公爵 
+
+ 帝国 
+
+ 政变失败 
+
+ 贪婪 
+
+ 国王 
+
+ 库姆图尔 
+
+ 叛变 
+
+ 寡头政治 
+
+ 农民 
+
+王子 
+
+ 太子党 
+
+ 公主 
+
+ 女王 
+
+ 乌合之众 
+
+ 共和国 
+
+ 郊区 
+
+ 城镇居民 
+
+ 总督 
+
+%%%%
+ _other_armour_name_ 
+
+ #不愉快 
+ 肮脏 
 
 w:5
-Grottiness
+ 肮脏 
 
-Slovenliness
+w:5
+ 肮脏 
 
-# magic
-Bedevilment
+ 懒惰 
 
-Broken Taboos
+ # 魔法 
+ 邪恶 
 
-Gestures
+ 打破禁忌 
 
-Magic
+ 手势 
 
-Muttered Phrases
+ 魔法 
 
-Sorcery
+ 低语短语 
 
-Words of Power
+ 巫术 
 
-the Arcane
+ 力量之言 
 
-# other
-Crawling
+ 奥术 
 
-Disaster
+ # 其他 
+ 爬行 
 
-Dogmatism
+ 灾难
 
-Feasting
+ 教条主义 
 
-Going Fast
+ 盛宴 
 
-Happy Babbling
+ 快速前进 
 
-Hedge Wizardry
+ 快乐胡言乱语
 
-Imperfection
+对冲魔法 
 
-Inevitability
+ 不完美 
 
-Insatiable Hunger
+ 必然性 
 
-Insurance
+ 永不满足的饥饿 
 
-Misanthropy
+ 保险 
 
-Perfidy
+ 厌世 
 
-Time Monsters
+ 背信弃义 
 
-Trial and Error
+ 时间怪物 
 
-Unambiguity
+ 试错 
 
-Undesirable Species
+ 明确性
 
-Wasted Space
+ 不良物种 
 
-Wrong Decisions
+ 浪费空间 
 
-the @_card_@ of @_suit_@
+ 错误决定 
 
-the Hanged Man
+ @_suit_@ 的 @_card_@ 
 
-the Lost Path
+ 倒吊人 
 
-the Moon Troll
+ 失落之路 
 
-the Orb
+ 月亮巨魔 
 
-the Orb Guardian
+ 宝珠 
 
-the Other World
+ 宝珠守护者 
 
-the Sacrificial Victim
+ 另一个世界
 
-the Slightly Bent
+ 牺牲者 
 
-the Storm King
+ 轻微弯曲 
 
-#pasta
-Ravioli
+ 风暴之王 
 
-Spaghetti
+ #意大利面 
+ 馄饨 
 
-Tortelloni
+ 意大利面条 
 
-Farfalle
+ 饺子 
 
-Rotini
+ Farfalle 
 
-Vermicelli
+ 罗蒂尼 
 
-Macaroni
+ 粉丝
 
-Strozzapreti
+ 通心粉 
+
+ Strozzapreti 
 
 w:1
-the Pastamancer
+ 意大利面食者 
 
-# sometimes pasta-adjacent
-Meatballs
+ # 有时与面食相邻 
+ 肉丸 
 %%%%
-_card_
+ _card_ 
 
-Two
+ 两支 
 
-Three
+ 三 
 
-Four
+ 四 
 
-Five
+ 五 
 
-Six
+ 六
 
-Seven
+ 七
 
-Eight
+八个 
 
-Nine
+ 九个 
 
-Ten
+ 十张 
 
-Page
+ 页 
 
-Knight
+ 骑士 
 
-Queen
+ 王后 
 
-King
+国王
 
-Ace
+ 王牌 
 %%%%
-_suit_
+ _suit_ 
 
-Cups
+ 圣杯 
 
-Pentacles
+ 五角星 
 
-Swords
+ 剑 
 
-Wands
+ 权杖 
 %%%%
-# "something" rather than of Something
-_plain_armour_name_
-Damnable Contraption
+ # “某物”而不是某物
+ _plain_armour_name_ 
+ 可恶的装置 
 
-Earthly Heaven
+ 人间天堂 
 
-Forget-Me-Not
+ 勿忘我 
 
-Hero's Friend
+ 英雄的朋友 
 
-Put-Me-On
+ 让我穿上 
 
-Trusted Companion
+ 值得信赖的伴侣
 
 %%%%

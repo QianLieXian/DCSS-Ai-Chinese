@@ -1,349 +1,349 @@
 ###############################################################################
-# Monster titles.
-# Displayed when they first come into view and on their description screen.
+# 怪物称号。 
+ # 当它们第一次出现在其描述屏幕上时显示。 
 #########
 %%%%
-Agnes title
+ 艾格尼丝 称号 
 
-Agnes the Wanderer
+ 流浪者阿格尼丝 
 %%%%
-Aizul title
+ 艾祖尔 称号 
 
-Aizul the Neglectful Guardian
+ 艾祖尔 疏忽的守护者 
 %%%%
-Amaemon title
+ 阿玛兽 称号 
 
-Amaemon the Diabolical Poisoner
+ 恶魔毒药阿玛兽 
 %%%%
-Antaeus title
+ 安泰乌斯 称号 
 
-Antaeus, Guardian of Cocytus
+ 安泰乌斯，科塞特斯的守护者
 %%%%
-Arachne title
+ 阿拉克涅称号 
 
-Arachne the Outcast
+ 被放逐者阿拉克涅 
 %%%%
-Asmodeus title
+ 阿斯莫蒂乌斯称号 
 
-Asmodeus, Prince of Gehenna
+ 地狱王子阿斯莫蒂乌斯 
 %%%%
-Asterion title
+ 阿斯特里昂称号 
 
-Asterion the Fallen King
+ 堕落之王阿斯特里昂 
 %%%%
-Azrael title
+ 阿兹瑞尔称号 
 
-Azrael the Boundless Flame
+ 无边火焰阿兹瑞尔
 %%%%
-Bai Suzhen title
+ 白素贞称号 
 
-Bai Suzhen, Madame White Snake
+ 白素贞白娘子 
 %%%%
-Boris title
+ 鲍里斯称号 
 
-Boris, Master of Life and Death
+ 生死大师鲍里斯 
 %%%%
-Cassandra title
+ 卡珊德拉称号 
 
-Cassandra the Doomed Oracle
+ 命中注定的卡珊德拉 
 %%%%
-Cerebov title
+ 塞雷波夫称号 
 
-Cerebov, Demon Lord of Fire and Steel
+ 火与钢魔王塞雷波夫
 %%%%
-Chuck title
+ Chuck 头衔 
 
-Chuck the Collector
+ Chuck the Collector 
 %%%%
-Crazy Yiuf title
+ Crazy Yiuf 头衔 
 
-Crazy Yiuf the Enlightened
+ Crazy Yiuf the Enlightened 
 %%%%
-Dispater title
+ Dispater 头衔 
 
-Dispater, Lord of the Iron City
+ Dispater，铁城之主 
 %%%%
-Dissolution title
+ Dissolution 头衔 
 
-Dissolution, High Priest of Jiyva
+ Dissolution，Jiyva 大祭司
 %%%%
-Donald title
+ 唐纳德头衔 
 
-Donald the Adventurer
+ 冒险家唐纳德 
 %%%%
-Dowan title
+ Dowan 头衔 
 
-Dowan, Brother of Duvessa
+ Dowan，杜维萨的兄弟 
 %%%%
-Duvessa title
+ 杜维萨头衔 
 
-Duvessa, Sister of Dowan
+ 杜维萨，Dowan 的妹妹
 %%%%
-Edmund title
+艾德蒙 称号 
 
-Edmund the Younger
+ 小埃德蒙 
 %%%%
-Ereshkigal title
+ 埃列什基伽 称号 
 
-Ereshkigal, Queen of Tartarus
+ 塔尔塔罗斯女王埃列什基伽 
 %%%%
-Erica title
+ 艾丽卡 称号 
 
-Erica the Fiery-Tempered
+ 暴躁的艾丽卡 
 %%%%
-Erolcha title
+ 埃罗查 称号 
 
-Erolcha the Cunning
+ 狡猾的埃罗查 
 %%%%
-Eustachio title
+ 尤斯塔奇奥 称号
 
-Eustachio the Magnificent
+ 伟大的尤斯塔西奥 
 %%%%
-Fannar title
+ 范纳尔头衔 
 
-Fannar the Cold-Hearted
+ 冷心的范纳尔 
 %%%%
-Frances title
+ 弗朗西斯头衔 
 
-Frances, Duchess of Pandemonium
+ 魔界公爵夫人弗朗西斯 
 %%%%
-Frederick title
+ 弗雷德里克头衔 
 
-Frederick the Flawless
+ 无瑕的弗雷德里克 
 %%%%
-Gastronok title
+ Gastronok 头衔
 
-Gastronok the Ponderous
+ 笨重的加斯特罗克 
 %%%%
-Geryon title
+ 杰里昂称号 
 
-Geryon, Gatekeeper of Hell
+ 地狱守门人杰里昂 
 %%%%
-Gloorx Vloq title
+ 格洛克斯 Vloq 称号 
 
-Gloorx Vloq, Demon Lord of Darkness
+ 黑暗魔王格洛克斯 Vloq 
 %%%%
-Grum title
+ 格鲁姆称号 
 
-Grum the Hunter
+ 猎人格鲁姆 
 %%%%
-Grunn title
+ 格鲁恩称号
 
-Grunn the Punished
+ 受罚者格伦 
 %%%%
-Harold title
+ 哈罗德称号 
 
-Harold the Weathered
+ 风化哈罗德 
 %%%%
-Ignacio title
+ 伊格纳西奥称号 
 
-Ignacio, Master of Excruciating Pain
+ 剧痛大师伊格纳西奥 
 %%%%
-Ilsuiw title
+ 伊尔苏称号 
 
-Ilsuiw, Witch of the Tides
+ 潮汐魔女伊尔苏 
 %%%%
-Ijyb title
+ Ijyb 称号
 
-Ijyb the Inquisitive
+ 好奇者伊吉布 
 %%%%
-Jessica title
+ 杰西卡标题 
 
-Jessica the Apprentice Sorceress
+ 学徒女巫杰西卡 
 %%%%
-Jeremiah title
+ 耶利米标题 
 
-Jeremiah, Barachi Dreamer
+ 耶利米，巴拉奇梦想家 
 %%%%
-Jorgrun title
+ 乔格伦标题 
 
-Jorgrun Earthshaker
+ 乔格伦撼地者
 %%%%
-Jory title
+乔里头衔 
 
-Jory the Bloodstained Count
+ 血污伯爵乔里 
 %%%%
-Joseph title
+ 约瑟夫头衔 
 
-Joseph, a Mercenary
+ 雇佣兵约瑟夫 
 %%%%
-Josephina title
+ 约瑟芬娜头衔 
 
-Josephina the Ice-Lich
+ 冰巫妖约瑟芬娜 
 %%%%
-Josephine title
+ 约瑟芬头衔 
 
-Josephine the Decaying Necromancer
+ 腐烂死灵法师约瑟芬 
 %%%%
-Khufu title
+ 胡夫头衔 
 
-Khufu the Undying Pharaoh
+不朽法老胡夫 
 %%%%
-Kirke title
+ 柯克称号 
 
-Kirke, Weaver of Myths
+ 神话编织者柯克 
 %%%%
-Lodul title
+ 洛杜尔称号 
 
-Lodul the Thunderous
+ 雷霆洛杜尔 
 %%%%
-Lom Lobon title
+ 洛姆·洛邦 称号 
 
-Lom Lobon, Demon Lord of Forbidden Knowledge
+ 禁忌知识的恶魔领主洛姆·洛邦 
 %%%%
-Louise title
+ 路易丝 称号 
 
-Louise the Corrupted
+ 路易丝堕落者 
 %%%%
-Maggie title
+ 玛吉 标题 
 
-Maggie the Vainglorious
+ 虚荣的玛吉 
 %%%%
-Mara title
+ 玛拉 标题 
 
-Mara, Lord of Illusions
+ 幻象之王玛拉 
 %%%%
-Margery title
+ 玛吉 标题 
 
-Margery the Dragonslayer
+ 屠龙者玛吉 
 %%%%
-Maurice title
+ 莫里斯 标题 
 
-Maurice the Thief
+ 莫里斯 小偷
 %%%%
-Menkaure title
+ Menkaure 头衔 
 
-Menkaure, Prince of Dust
+ Menkaure，尘埃王子 
 %%%%
-Mennas title
+ Mennas 头衔 
 
-Mennas, the Voice of Zin
+ Mennas，辛之声 
 %%%%
-Mlioglotl title
+ Mlioglotl 头衔 
 
-Mlioglotl, the Unformed Horror
+ Mlioglotl，未成形的恐怖者 
 %%%%
-Mnoleg title
+ Mnoleg 头衔 
 
-Mnoleg, Demon Lord of Chaos
+ Mnoleg，混沌恶魔领主
 %%%%
-Murray title
+ 默里头衔 
 
-Murray the Demonic Talking Skull
+ 恶魔骷髅默里 
 %%%%
-Natasha title
+ 娜塔莎头衔 
 
-Natasha, Servant of Life and Death
+ 娜塔莎，生死仆人 
 %%%%
-Nellie title
+ 内莉头衔 
 
-Nellie, Star of the Show
+ 内莉，表演之星
 %%%%
-Nergalle title
+Nergalle 称号 
 
-Nergalle, Lorekeeper of the Fallen
+ Nergalle，堕落者的博学者 
 %%%%
-Nessos title
+ Nessos 称号 
 
-Nessos the Markscentaur
+ Nessos the Markscentaur 
 %%%%
-Nikola title
+ Nikola 称号 
 
-Nikola the Mad Inventor
+ Nikola 疯狂发明家 
 %%%%
-Nobody title
+ 无人称号 
 
-Nobody, Grudge of the Unmourned
+ 无人，无名之怨
 %%%%
-Norris title
+ 诺里斯 头衔 
 
-Norris the Philosopher
+ 哲学家诺里斯 
 %%%%
-Parghit title
+ 帕吉特 头衔 
 
-Parghit the Mighty
+ 强大的帕吉特 
 %%%%
-Pargi title
+ 帕吉 头衔 
 
-Pargi the Meek
+ 温顺的帕吉 
 %%%%
-Pikel title
+ 皮克尔 头衔 
 
-Pikel, Merchant of Souls
+ 灵魂商人 皮克尔 
 %%%%
-Polyphemus title
+ 波吕斐摩斯 头衔
 
-Polyphemus the Watchful Shepherd
+ 警惕的牧羊人波吕斐摩斯 
 %%%%
-Robin title
+ 罗宾头衔 
 
-Robin of the Strong Arm
+ 强臂罗宾 
 %%%%
-Roxanne title
+ 罗克珊 头衔 
 
-Roxanne, Geomancer Emeritus
+ 罗克珊，名誉风水师 
 %%%%
-Rupert title
+ 鲁珀特 头衔 
 
-Rupert the Wild
+ 狂野鲁珀特 
 %%%%
-Saint Roka title
+ 圣罗卡 头衔 
 
-Saint Roka the Messiah
+ 圣罗卡弥赛亚 
 %%%%
-Sigmund title
+ 西格蒙德 头衔 
 
-Sigmund the Dreaded
+ 可怕的西格蒙德 
 %%%%
-Snorg title
+ Snorg 头衔 
 
-Snorg the Insatiable
+ 贪得无厌的 Snorg 
 %%%%
-Sojobo title
+ Sojobo 头衔 
 
-Sojobo, Queen of Tengu
+ Sojobo，天狗女王 
 %%%%
-Sonja title
+ Sonja 头衔 
 
-Sonja, the Graceful Assassin
+ 优雅刺客 Sonja 
 %%%%
-Sprozz title
+ Sprozz 头衔 
 
-Sprozz, Inventive Apiarist
+ Sprozz，发明养蜂师 
 %%%%
-Terence title
+ Terence 头衔 
 
-Terence the Veteran
+ 特伦斯退伍军人 
 %%%%
-Tiamat title
+ Tiamat 头衔 
 
-Tiamat, Avatar of the Dragonlord
+ Tiamat，龙王的化身
 %%%%
-Urug title
+乌鲁格头衔 
 
-Urug the Orcish Ballista
+ 兽人弩炮乌鲁格 
 %%%%
-Wiglaf title
+ 威格拉夫 头衔 
 
-Wiglaf the Gunnerdwarf
+ 枪手矮人威格拉夫 
 %%%%
-Vashnia title
+ 瓦什尼亚 头衔 
 
-Vashnia the Elite Marksnaga
+ 精英瓦什尼亚 马克斯纳加 
 %%%%
-Vv title
+ Vv 头衔 
 
-Vv the Exile
+ Vv 流亡者 
 %%%%
-Xak'krixis title
+ Xak'krixis 头衔
 
-Xak'krixis, Royal Expeditionary Alchemist
+ Xak'krixis，皇家远征炼金术士 
 %%%%
-Xtahua title
+ Xtahua 称号 
 
-Xtahua the Ancient
+ Xtahua 远古者 
 %%%%
-Zenata title
+ Zenata 称号 
 
-Zenata, Seeker of Sheza
+ Zenata，Sheza 探索者
 %%%%

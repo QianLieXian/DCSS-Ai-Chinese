@@ -1,572 +1,572 @@
 ###############################################################################
-# Randart Names
+# Randart 名称 
 # -------------
-# randname.txt: lookup randart type
+# randname.txt：查找randart类型
 #
-# This file contains the lists of keywords (and their weights) for some lookup
-# phrases of randart type, namely "weapon", "armour" and "jewellery" as well
-# as in combination with those gods that occasionally gift randarts, i.e.
-# "Trog weapon", "Okawaru weapon", "Okawaru armour", "Xom weapon", "Xom armour"
-# and "Xom jewellery". Ashenzari names cursed items; these names don't depend
-# on type and are found under the keyword "Ashenzari". Incidentally, they
-# are listed in precisely that order. At the end of the file you will also
-# find a few lists of adjectives used for unidentified randart appearances.
+ #此文件包含一些查找
+的关键字列表（及其权重） #randart类型的短语，即“武器”，“盔甲”和“珠宝”以及
+ #与那些偶尔赠送randart的神结合，即
+ #“Trog”武器”、“大卡瓦鲁武器”、“大卡瓦鲁盔甲”、“Xom 武器”、“Xom 盔甲”
+ # 和“Xom 珠宝”。阿什扎里命名了被诅咒的物品；这些名称不依赖于 
+ # 类型，可以在关键字“Ashenzari”下找到。顺便说一句，它们 
+# 正是按照该顺序列出的。在文件的末尾，您还将 
+ # 找到一些用于未识别的 randart 外观的形容词列表。 
 #
-# The syntax for keywords is the same as that of monster speech (details are in
-# docs/develop/monster_speech.txt). Any phrase encased in '@' symbols is one
-# the database will recognise as a keyword that needs to be replaced.
-# Definitions of such keywords can be found in 4 different places:
+ # 关键字的语法与怪物语音相同（详细信息参见 
+ # docs/develop/monster_speech.txt）。任何包含在“@”符号中的短语都是一个 
+ #，数据库将识别为需要替换的关键字。 
+ # 此类关键字的定义可以在 4 个不同的地方找到： 
 #
-#  o  rand_wpn.txt  - keywords used mainly for weapons
-#  o  rand_arm.txt  - keywords used mainly for armour
-#  o  rand_all.txt  - keywords used for jewellery
-#                     as well as for all three types
-#  o  randbook.txt  - keywords used for randart books
-#  o  hardcoded (e.g. artefact.cc)
+ # o rand_wpn.txt - 主要用于武器的关键字 
+ # o rand_arm.txt - 主要用于盔甲的关键字 
+ # o rand_all.txt - 用于珠宝的关键字 
+ # 以及所有三种类型 
+ # o randbook.txt - 用于 randart 书籍的关键字 
+ # o 硬编码（例如 artefact.cc） 
 #
-# The latter allows the use of phrases elsewhere defined in Crawl. The list of
-# hardcoded keywords is as follows:
+ # 后者允许使用 Crawl 中其他地方定义的短语。 
+ # 硬编码关键字列表如下： 
 #
-#  * player_name     - player-chosen character name
-#  * player_species  - species of the character
-#  * branch_name     - name of a random Crawl branch
-#  * god_name        - name of a random Crawl god
-#  * xom_name        - one of Xom's long names
+ # *player_name - 玩家选择的角色名称 
+ # *player_species - 角色的种类 
+ # *branch_name - 随机爬行分支的名称 
+ # * god_name - 随机爬行神的名称 
+ # * xom_name - Xom 的长名称之一 
 #
-# In the case of god_name this actually allows some more refined handling. In
-# fact, the god will not be picked entirely at random as there are some
-# restrictions to make sure that e.g. no good god is chosen for evil weapons,
-# or that Zin doesn't get picked for randarts with mutagenic properties. Also,
-# if this keyword appears on a divine item gift it will always be replaced by
-# the god doing the gifting.
+ # 在 god_name 的情况下，这实际上允许一些更精细的处理。在 
+ # 事实上，神不会完全随机选择，因为有一些 
+ # 限制来确保例如没有善神被选为邪恶武器，
+ # 或者 Zin 不会被选为具有诱变特性的 randart。另外，
+ # 如果这个关键字出现在神圣物品礼物上，它总是会被 
+ # 送礼的神所取代。 
 #
-# Randart names may only have a maximum length of 25 symbols (spaces included).
-# This comparison takes place after all replacements have been taken care of,
-# and the name is thus complete. If a name turns out to be longer than this
-# threshold, the game will roll another one.
+ # Randart 名称的最大长度只能为 25 个符号（包括空格）。 
+ # 此比较在所有替换完成后进行，
+ # 名称因此完整。如果一个名字的长度超过了这个 
+ # 阈值，游戏将滚动另一个名字。 
 #
-# Note that weapons and armour use database names for only half of all randarts
-# created (the others are entirely random names), for jewellery this is only
-# the case for one in five randarts. These chances are hardcoded.
+ # 请注意，武器和盔甲仅使用 
+ # 创建的所有兰特的一半的数据库名称（其他完全是随机名称），对于珠宝来说，这只是 
+ # 五分之一的兰特的情况。这些机会是硬编码的。 
 #
-# Feel free to play around with the keywords or their weights. The default
-# weight of an entry is w:10, and an entry is picked with a chance of its
-# weight out of the sum of all weights for entries in a group. Consequently if
-# you set the weight of a keyword to a really high value (say, 10,000) you can
-# test how it looks in the game. Even better, if you have wizard mode compiled
-# in (check in-game '?V' version information) you can use the wizard command
-# '&o' to create objects and '&+' to turn an ordinary object into a randart.
+ # 随意调整关键字或其权重。默认
+# 条目的权重为 w:10，并且条目的选择权重为 
+ # 组中条目的所有权重的总和。因此，如果 
+ # 将关键字的权重设置为非常高的值（例如 10,000），您可以 
+ # 测试它在游戏中的外观。更好的是，如果您在向导模式下编译了 
+ #（检查游戏中的 '?V' 版本信息），您可以使用向导命令 
+ # '&o' 来创建对象，使用 '&+' 将普通对象变成随机对象。 
 #
-# Have fun!
+ # 玩得开心！ 
 ######################################################
 %%%%
 ######################################################
-# 1. WEAPONS
+ # 1. 武器 
 ######################################################
-weapon
+ 武器 
 
-# weapon specific keywords (see rand_wpn.txt)
-of @_power_or_anger_@
+ # 武器特定关键字（参见 rand_wpn.txt） 
+ of @_power_or_anger_@ 
 
-of @_battle_or_war_@
+ of @_battle_or_war_@ 
 
 w:1
-of @player_doom@
+ of @player_doom@ 
 
 w:8
-of @death_or_doom@
+ of @death_or_doom@ 
 
 w:1
-of @_verbing_@ @death_or_doom@
+ of @_verbing_@ @death_or_doom@ 
 
 w:6
-of @_adjective_@ @_strategy_or_justice_@
+ @_adjective_@ @_strategy_or_justice_@ 
 
-of @_strategy_or_justice_@
-
-w:3
-of the @_verbing_@ @_people_name_@
+ @_strategy_or_justice_@ @_strategy_or_justice_@ PHX1ZZ 的 
 
 w:3
-of the @_people_name_@
+ @_verbing_@ 的 
+
+w:3
+ @_people_name_@ 的 
 
 w:2
-of the @_verbing_@ @_diviner_name_@
+ @_diviner_name_@ 
 
 w:5
-of the @_verbing_@ @_weapon_animal_@
+ @_verbing_@ @_weapon_animal_@ 
 
 w:5
-of the @_weapon_animal_@
+ @_weapon_animal_@ @_weapon_animal_@ 
 
 w:2
-of the @_plant_name_@
+ @_plant_name_@ 
 
 w:7
-of @_evil_stuff_@
+ @_evil_stuff_@ 
 
 w:5
-of @_catastrophe_name_@
+ @_catastrophe_name_@ 
 
 w:8
-of @_chaos_name_@
+ @_chaos_name_@ 
 
 w:8
-of @_balance_or_order_@
+ @_balance_or_order_@ 
 
-of @_economics_or_politics_@
+ @_economics_or_politics_@ 的 @_economics_or_politics_@ 
 
 w:8
-of @branch_name@
+ @branch_name@ 的 
 
 w:7
-of @_place_name_@
+ @_place_name_@ 的 
 
 w:5
-of @_discomfort_weapon_@
+ @_discomfort_weapon_@ 的 
 
 w:4
-of the @_item_name_@
+ @_item_name_@ 的 
 
 w:1
-of @_magic_name_@
+ @_magic_name_@ 的 
 
 w:5
-of @_substance_name_@
+ @_substance_name_@ 的 
 
 w:7
-of @_science_name_@
+ 
 
 w:5
-of @other_weapon_name@
+ of @other_weapon_name@ 
 
 w:30
-"@_plain_weapon_name_@"
+ "@_plain_weapon_name_@" 
 
-# general keywords (see rand_all.txt)
+ # 通用关键字（参见 rand_all.txt） 
 w:5
-of @_time_name_@
+ of @_time_name_@ 
 
 w:5
-of @_sky_or_light_@
+ of @_sky_or_light_@
 
 w:18
-of @_virtue_or_vice_@
+@_virtue_or_vice_@ 的
 
-of @_number_or_qualifier_@ @_thing_names_@
+@_number_or_qualifier_@ 的 @_thing_names_@
 
 w:5
-of @_destiny_name_@
+@_destiny_name_@ 的
 
 w:9
-of @god_name_possessive@ @divine_esteem@
+@god_name_possessive@ 的 @divine_esteem@
 
 w:4
-of the @_verbing_@ Gods
+@_verbing_@ 诸神的
 
 w:4
-of the @_adjective_@ God
+@_adjective_@ 神的
 
 w:2
-of @god_name@, @_verbing_@
+@god_name@、@_verbing_@ 的
 
-# hardcoded keywords
+# 硬编码关键字
 w:1
-of @god_name@
+@god_name@ 的
 %%%%
 ######################################################
-# 2. ARMOUR
+#2. 装甲
 ######################################################
 %%%%
-talisman
+护符
 
-# TODO?
+# 待办事项？
 @armour@
 %%%%
-armour
+盔甲
 
-# armour specific keywords (see rand_arm.txt)
-of @_armour_name_shielding_@
+# 盔甲特定关键字（参见 rand_arm.txt）
+@_armour_name_shielding_@ 的
 
 w:8
-of @_armour_property_name_@
+@_armour_property_name_@ 的
 
 w:20
-of @_wacky_armour_name_@
+@_wacky_armour_name_@ 的
 
-of the @_profession_name_@
+@_profession_name_@ 的
 
 w:5
-of the @_adjective_@ @_profession_name_@
-of @_politics_name_armour_@
+@_adjective_@ @_profession_name_@ 的
+@_politics_name_armour_@ 的
 
 w:3
-of @_weather_name_@
+@_weather_name_@ 的
 
 w:9
-of @_good_or_divine_@
+@_good_or_divine_@ 的
 
 w:9
-of @_adjective_@ @_good_or_divine_@
+@_adjective_@ 的 @_good_or_divine_@
 
 w:5
-of the @_celestial_bodies_@
+@_celestial_bodies_@ 的
 
 w:5
-of @_instrument_name_@
+@_instrument_name_@ 的
 
 w:20
-of the @_armour_animal_@
+@_armour_animal_@ 的
 
 w:1
-of the @_adjective_@ @_armour_animal_@
+@_adjective_@ @_armour_animal_@ 的
 
 w:3
-of @_flower_name_@
+@_flower_name_@ 的
 
 w:1
-of the @_fruit_name_@
+@_fruit_name_@ 的
 
 w:2
-of the @_critter_name_@
+@_critter_name_@ 的
 
 w:1
-of the @_adjective_@ @_critter_name_@
+@_adjective_@ @_critter_name_@ 的
 
 w:5
-of @_evil_being_@
+@_evil_being_@ 的
 
-of @_discomfort_and_inaction_@
+@_discomfort_and_inaction_@ 的
 
-of @_game_name_@
+@_game_name_@ 的
 
 w:15
-of @_other_armour_name_@
+@_other_armour_name_@ 的
 
 w:2
-"@_plain_armour_name_@"
+“@_plain_armour_name_@”
 
-# weapon specific keywords (see rand_arm.txt)
+# 武器特定关键字（参见 rand_arm.txt）
 w:25
-of @_philosophy_or_science_@
+@_philosophy_or_science_@ 的
 
 w:15
-of @_place_name_@
+@_place_name_@ 的
 
-# general keywords (see rand_all.txt)
-of @_time_name_@
+# 一般关键字（参见 rand_all.txt） 
+ of @_time_name_@ 
 
 w:8
-of @_sky_or_light_@
+ of @_sky_or_light_@ 
 
 w:30
-of @_virtue_or_vice_@
+ of @_virtue_or_vice_@ 
 
 w:6
-of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+ of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@ 
 
-of @_number_or_qualifier_@ @_thing_names_@
+ of @_number_or_qualifier_@ @_thing_names_@ 
 
 w:20
-of @god_name_possessive@ @divine_esteem@
+ of @god_name_possessive@ @divine_esteem@ 
 
 w:4
-of the @_verbing_@ Gods
+ of the @_verbing_@ Gods 
 
 w:4
-of the @_adjective_@ God
+ of the @_adjective_@ God 
 
 w:2
-of @god_name@, @_verbing_@
+ of @god_name@, @_verbing_@ 
 
-# hardcoded keywords
+ # 硬编码关键字 
 w:1
-of @god_name@
+ of @god_name@ 
 
 w:15
-of @branch_name@
+ of @branch_name@ 
 %%%%
 ######################################################
-# 3. JEWELLERY
+ # 3. 珠宝 
 ######################################################
-jewellery
+ 珠宝 
 
-# jewellery specials (see rand_all.txt)
+ # 珠宝特价（参见 rand_all.txt） 
 w:3
-of the @_jewellery_animal_@
+ of the @_jewellery_animal_@ 
 
-of @_jewellery_special_name_@
+ of @_jewellery_special_name_@ 
 
-of @_suspicion_name_@
+ of @_suspicion_name_@ 
 
-# as defined for weapons (see rand_wpn.txt)
-of the @_people_name_@
+ # 为武器定义（参见rand_wpn.txt) 
+ of the @_people_name_@ 
 
 w:5
-of the @_verbing_@ @_people_name_@
+ of the @_verbing_@ @_people_name_@ 
 
 w:17
-of @_balance_or_order_@
+ of @_balance_or_order_@ 
 
 w:14
-of @_philosophy_name_@
+ of @_philosophy_name_@ 
 
-of @other_weapon_name@
+ of @other_weapon_name@ 
 
-# as defined for armour (see rand_arm.txt)
+ # 为装甲定义（参见 rand_arm.txt） PHX0ZZ 的 
 w:20
-of the @_armour_animal_@
+ @_armour_animal_@ 的 
 
 w:3
-of @_flower_name_@
+ @_flower_name_@ 的 
 
 w:3
-of the @_adjective_@ @_fruit_name_@
+ @_fruit_name_@ @_adjective_@ 的 
 
 w:5
-of @_evil_being_@
+ @_evil_being_@ 的 
 
 w:20
-of @_good_or_divine_@
+ @_good_or_divine_@ 的 
 
 w:12
-of @_politics_name_armour_@
+ 
 
 w:2
-"@_plain_armour_name_@"
+ "@_plain_armour_name_@" 
 
-# same for all three types (see rand_all.txt)
+ # 对于所有三种类型都相同（参见 rand_all.txt） 
 w:13
-of @_time_name_@
+ of @_time_name_@ 
 
-of @_sky_or_light_@
+ of @_sky_or_light_@ 
 
 w:20
-of @god_name_possessive@ @divine_esteem@
+ of @god_name_possessive@ @divine_esteem@ 
 
 w:4
-of the @_verbing_@ Gods
+ of the @_verbing_@ Gods 
 
 w:4
-of the @_adjective_@ God
+ of the @_adjective_@ God 
 
 w:2
-of @god_name@, @_verbing_@
+ of @god_name@、@_verbing_@
 
-of Xom's @_xom_esteem_@
+Xom 的 @_xom_esteem_@ 
 
 w:7
-of @_virtue_name_@
+ 的 @_virtue_name_@ 
 
 w:13
-of @_vice_name_@
+ 的 @_vice_name_@ 
 
-of @_number_or_qualifier_@ @_thing_names_@
+ 的 @_number_or_qualifier_@ @_thing_names_@ 
 
-of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+ 的 @_number_or_qualifier_@ @_verbing_@ @_thing_names_@ 
 %%%%
 ######################################################
-# GOD GIFT specials
+ # GOD GIFT 特价 
 ######################################################
-# TROG (weapons only)
+ # TROG （仅限武器） 
 ######################################################
-Trog weapon
+ Trog 武器 
 
-# names containing battle and death are more likely
+ # 包含战斗和死亡的名称更有可能 
 w:20
-of @_power_or_anger_@
+ of @_power_or_anger_@ 
 
 w:5
-of @_adjective_@ @_power_or_anger_@
+ of @_adjective_@ @_power_or_anger_@ 
 
 w:20
-of @_battle_or_war_@
+ of @_battle_or_war_@ 
 
 w:5
-of the @_verbing_@ @_battle_or_war_@
+ of the @_verbing_@ @_battle_or_war_@ 
 
 w:20
-of @death_or_doom@
+ of @death_or_doom@ 的 @death_or_doom@ 
 
 w:5
-of @_adjective_@ @death_or_doom@
+ @_adjective_@ @death_or_doom@ @_adjective_@ 的 
 
 w:7
-of @_strategy_name_@
+ @_strategy_name_@ 的 
 
 w:15
-of @_justice_name_@
+ @_justice_name_@ 的 
 
 w:30
-of @_virtue_or_vice_@
+ Trog 的 
 
 w:1
-of Trog
+ Trog 的 
 
 w:20
-of Trog's @divine_esteem@
+ Trog 的 @divine_esteem@ 
 
-of Trog's @_anger_quality_@
-
-w:15
-of the @_weapon_animal_@
+ @_anger_quality_@ 的 @_anger_quality_@ 
 
 w:15
-of @_evil_stuff_@
-
-of @_catastrophe_name_@
+ @_weapon_animal_@ 的 
 
 w:15
-of @_chaos_name_@
+ @_evil_stuff_@ 的 
+
+ @_catastrophe_name_@ 的 
+
+w:15
+ @_chaos_name_@ 的 
 
 w:20
-of @_balance_or_order_@
+ @_balance_or_order_@ 的 
 
 w:20
-of @_economics_or_politics_@
+ @_economics_or_politics_@ 的 
 
 w:15
-of @branch_name@
+ @branch_name@ 的 
 
 w:15
-of @_place_name_@
+ @_place_name_@ 的 
 
 w:15
-of @_time_name_@
+ @_time_name_@ 的 
 
-of @_sky_or_light_@
+ @_sky_or_light_@ 的 
 
 w:20
-of @_number_or_qualifier_@ @_thing_names_@
+ @_thing_names_@ @_number_or_qualifier_@ 的 
 
-of @_discomfort_weapon_@
+ @_discomfort_weapon_@ 的 
 
-of the @_item_name_@
+ @_item_name_@ 的 
 
 w:15
-of @_philosophy_name_@
+ @_philosophy_name_@ 的 
 
-of @_science_name_@
+ @_science_name_@ 的 
 
-of @other_weapon_name@
+ @other_weapon_name@PHX1ZZ 的 
 
-of @_monster_name_@@killer_name@
+ 
 
 w:30
-"@_plain_weapon_name_@"
+ "@_plain_weapon_name_@" 
 
-"@_adjective_@ @_plain_weapon_name_@"
+ "@_adjective_@ @_plain_weapon_name_@"
 %%%%
 ######################################################
-# OKAWARU weapon
+# OKAWARU武器
 ######################################################
-Okawaru weapon
+ Okawaru武器
 
-# basically use normal set
+ #基本上使用普通套装
 w:400
-@weapon@
+ @weapon@ 
 
-# with a few special cases
+ #有一些特殊情况
 w:2
-of @player_name_possessive@ @_valour_name_@
+ of @player_name_possessive@ @_valour_name_@ 
 
 w:3
-of Okawaru's @divine_esteem@
+ of Okawaru的@divine_esteem@ 
 
 w:1
-of Okawaru, @_verbing_@
+ of Okawaru， @_verbing_@ 
 
-# and bonus probability for some of the more harmless themes
-of @_strategy_or_justice_@
+ # 以及一些更无害主题的奖励概率 
+ of @_strategy_or_justice_@ 
 
 w:5
-of @_philosophy_name_@
+ of @_philosophy_name_@ 
 
 w:3
-of @_balance_or_order_@
+ of @_balance_or_order_@ 
 
 w:5
-of @_power_name_@
+ of @_power_name_@ 
 
 w:2
-of @_virtue_name_@
+ of @_virtue_name_@ 
 
 w:1
-of the @_diviner_name_@
+ of the @_diviner_name_@ @_diviner_name_@ 
 
 w:5
-of the @_weapon_animal_@
+ @_weapon_animal_@ 
 
 w:5
-of @_place_name_@
+ @_place_name_@ 
 
 w:2
-of @_item_name_@
+ 
 %%%%
 ######################################################
-# OKAWARU armour
+ #OKAWARU 铠甲 
 ######################################################
-Okawaru robe
+ 大川铠衣 
 
-@Okawaru armour@
+ @Okawaru armour@ 
 %%%%
-Okawaru body armour
+ 大川铠甲 
 
-@Okawaru armour@
+ @Okawaru armour@ 
 %%%%
-Okawaru armour
+ Okawaru 盔甲 
 
-# again use normal chances with a few exceptions
+ # 再次使用正常机会，但有少数例外 
 w:400
-@armour@
+ @armour@ @armour@ PHX1ZZ 的 
 
 w:2
-of @player_name_possessive@ @_valour_name_@
+ Okawaru 的 @player_name_possessive@ 的 
 
 w:2
-of Okawaru's @divine_esteem@
+ @divine_esteem@ 的 
 
 w:2
-of the @_armour_animal_@
+ @_armour_animal_@ 的 
 
 w:1
-of @_good_or_divine_@
+ @_good_or_divine_@ 的 
 
 w:2
-of @_armour_name_shielding_@
+ @_armour_name_shielding_@ 的 
 
 w:1
-of @_armour_property_name_@
+ @_armour_property_name_@ 的 
 
 w:1
-of @_wacky_armour_name_@
+ @_wacky_armour_name_@ 的 
 
 w:2
-of @_politics_name_armour_@
+ 
 %%%%
 ######################################################
-# XOM weapon
+ # XOM 武器 
 ######################################################
-# Xom will basically allow everything
-Xom weapon
+ # Xom 基本上会允许一切 
+ Xom 武器 
 
-# increased chances (obviously!)
+# 增加的机会（显然！）
 w:5
-of @_chaos_name_@
+ of @_chaos_name_@ Xom 的 @_chaos_name_@ 的 
 
 w:5
-of Xom's @_xom_esteem_@
+ Xom 的 @_xom_esteem_@ 的 
 
 w:2
-of Xom's @divine_esteem@
+
 
 w:2
-"Xom, @_verbing_@ and @_verbing_@"
+"Xom, @_verbing_@ 和 @_verbing_@"
 
 w:2
 of the @_verbing_@ @_fruit_name_@
 
-# uses the long name
+# 使用长名称
 w:1
 of @xom_name@
 
@@ -576,30 +576,30 @@ of @_game_name_@
 w:400
 @weapon@
 
-# and why not some of the other names?
+# 为什么不使用其他一些名称？
 @jewellery@
 
 @armour@
 %%%%
 ######################################################
-# XOM armour
+# XOM 装甲
 ######################################################
-Xom robe
+ Xom 长袍
 
 @Xom armour@
 %%%%
-Xom body armour
+Xom 防弹衣
 
 @Xom armour@
 %%%%
-Xom armour
+Xom 装甲
 
-# increased chances (obviously!)
+# 增加的机会（显然！）
 w:5
-of @_chaos_name_@
+@_chaos_name_@
 
 w:5
-of Xom's @_xom_esteem_@
+Xom's @_xom_esteem_@
 
 w:2
 of Xom's @divine_esteem@
@@ -607,7 +607,7 @@ of Xom's @divine_esteem@
 w:2
 "@_adjective_@ Xom"
 
-# uses the long name
+# 使用长名称
 w:1
 of @xom_name@
 
@@ -620,16 +620,16 @@ of @player_death@
 w:400
 @armour@
 
-# why not some other names?
-# (sadly, some weapon names don't make sense even for Xom)
+#为什么不是其他名字呢？
+#（遗憾的是，有些武器名称即使对于 Xom 来说也没有意义）
 @jewellery@
 %%%%
 ######################################################
-# XOM jewellery
+# XOM 珠宝
 ######################################################
-Xom jewellery
+Xom 珠宝
 
-# increased chances (obviously!)
+# 增加的机会（显然！）
 w:5
 of @_chaos_name_@
 
@@ -642,7 +642,7 @@ of Xom's @divine_esteem@
 w:2
 of @_verbing_@ Xom
 
-# uses the long name
+# 使用长名称
 w:1
 of @xom_name@
 
@@ -658,729 +658,729 @@ of @player_doom@
 w:300
 @jewellery@
 
-# why not some other names?
-# (sadly, some weapon names don't make sense even for Xom)
+# 为什么不使用其他名称呢？
+#（遗憾的是，有些武器名称即使对于 Xom 来说也没有意义）
 @armour@
 %%%%
 ######################################################
-# ASHENZARI
-# All types of curses
+#阿什扎里
+# 所有类型的诅咒
 ######################################################
-Ashenzari
+阿申扎里
 
 w:100
-of the @_ashenzari_adjective_@ @_ashenzari_object_@
+@_ashenzari_adjective_@ @_ashenzari_object_@ 的
 
 w:100
-of @god_name_possessive@ @_ashenzari_object_@
+@god_name_possessive@ 的 @_ashenzari_object_@
 
 w:100
-"@_ashenzari_adjective_@ @_ashenzari_object_@"
+“@_ashenzari_adjective_@ @_ashenzari_object_@”
 
 w:50
-"@_ashenzari_object_@ of @god_name@"
+“@god_name@ 的 @_ashenzari_object_@”
 
 w:100
-"@_ashenzari_object_@ of the @_ashenzari_epithet_@"
+“@_ashenzari_epithet_@ 的 @_ashenzari_object_@”
 
 w:20
-"@_celestial_bodies_@ of the @_ashenzari_epithet_@"
+“@_ashenzari_epithet_@ 的 @_celestial_bodies_@”
 
 w:20
-of the @_ashenzari_epithet_@
+@_ashenzari_epithet_@ 的
 
 w:20
-of the @_ashenzari_bound_adjective_@ @_celestial_bodies_@
+@_ashenzari_bound_adjective_@ @_celestial_bodies_@ 的
 
 w:20
-of the @_ashenzari_knowledge_adjective_@ @_celestial_bodies_@
+@_ashenzari_knowledge_adjective_@ @_celestial_bodies_@ 的
 
 w:20
-of @god_name_possessive@ @_celestial_bodies_@
+@god_name_possessive@ 的 @_celestial_bodies_@
 
 w:20
-"Share My @_ashenzari_object_@"
+“分享我的 @_ashenzari_object_@”
 
 w:20
-"@_ashenzari_bound_adjective_@ With Me"
+“@_ashenzari_bound_adjective_@ 和我在一起”
 
 w:20
-"@_ashenzari_bound_adjective_@ Together"
+《@_ashenzari_bound_adjective_@在一起》
 
-of the @_ashenzari_bound_adjective_@ @_ashenzari_heavens_@
+@_ashenzari_bound_adjective_@ @_ashenzari_heavens_@ 的
 
-of the @_ashenzari_knowledge_adjective_@ @_ashenzari_heavens_@
+@_ashenzari_knowledge_adjective_@ @_ashenzari_heavens_@ 的
 
-of the Fated @_ashenzari_object_@
-
-w:5
-of Apeoromancy
+命运的 @_ashenzari_object_@
 
 w:5
-"At What Cost Knowledge?"
+占卜学
 
 w:5
-"Behold Eternity"
+“知识要付出什么代价？”
 
 w:5
-of Cremastomancy
+《看永恒》
 
 w:5
-of Curses and Power
+火葬术
 
 w:5
-of Desmomancy
+诅咒与力量
 
 w:5
-of the Eye in the Sky
+锁术术
 
 w:5
-"Gaze Upon Infinity"
+天空之眼
 
 w:5
-"I Knew You'd Do That"
+《凝视无限》
 
 w:5
-"I Foresaw This"
+“我就知道你会这么做”
 
 w:5
-of Ouranomancy
+“我预见到了这一点”
 
 w:5
-"Overhang to Understand"
+欧拉诺曼斯
 
 w:5
-"Per Aspera Ad Scientiam"
+“悬而未决”
 
 w:5
-of Panopticon
+“Per Aspera Ad Scientiam”
 
 w:5
-of Star-Bound Wisdom
+全景敞视监狱
 
 w:5
-of Supernal Gnosis
+星辰智慧
 
 w:5
-of Supernal Knowledge
+超灵灵知
 
 w:5
-of Supernal Understanding
+超自然知识
 
 w:5
-of Supernal Wisdom
+超凡理解力
 
 w:5
-"Thunder Perfect Mind"
+超凡智慧
 
 w:5
-of Toth-Mos' Legacy
+《雷霆完美心灵》
 
 w:5
-of the Unyielding Gaze
+托特莫斯的遗产 
 
 w:5
-of the Wild Blue Yonder
+ 不屈凝视的 
+
+w:5
+ 狂野蓝色彼岸的 
 
 w:1
-"Oscillating Fan"
+ “摇扇” 
 %%%%
-_ashenzari_object_
+ _ashenzari_object_ 
 
-Adversity
+ 逆境 
 
-Affliction
+ 苦难 
 
-Burden
+ 负担 
 
-Fetters
+ 羁绊
 
-Gnosis
+ 灵知 
 
-Loss
+ 损失 
 
-Omen
+ 预兆 
 
-Ordeal
+ 磨难 
 
-Portent
+ 预兆 
 
-Prison
+ 监狱 
 
-Regret
+ 遗憾 
 
-Repose
+ 休息 
 
-Ressentiment
+ 怨恨 
 
-Sorrow
+ 悲伤 
 
-Vision
+ 愿景 
 
-Yoke
+ 轭 
 
 w:100
-@_diviner_name_@
+ @_diviner_name_@ 
 
 w:150
-@_discomfort_weapon_@
+ @_discomfort_weapon_@ 
 
 w:100
-@_philosophy_name_@
+ @_philosophy_name_@ 
 
 w:100
-@_discomfort_and_inaction_@
+ @_discomfort_and_inaction_@ 
 
 w:100
-@_suspicion_no_conflict_name_@
+ @_suspicion_no_conflict_name_@ 
 %%%%
-_ashenzari_adjective_
+ _ashenzari_adjective_ 
 
 w:50
-@_ashenzari_bound_adjective_@
+ @_ashenzari_bound_adjective_@ 
 
 w:50
-@_ashenzari_knowledge_adjective_@
+ @_ashenzari_knowledge_adjective_@ 
 
-@_ashenzari_celestial_adjective_@
+ @_ashenzari_celestial_adjective_@ 
 %%%%
-_ashenzari_bound_adjective_
+ _ashenzari_bound_adjective_ 
 
-Bound
+ 束缚
 
-Chained
+ 链式 
 
-Circumscribed
+ 限制式 
 
-Cursed
+ 诅咒 
 
-Ensconced
+ 镶嵌式 
 
-Eternal
+ 永恒式 
 
-Lashed
+ 捆绑式
 
-Restrained
+ 束缚 
 
-Ruined
+ 毁坏 
 
-Shackled
+ 束缚 
 
-Shattered
+ 破碎 
 
-Tethered
+ 束缚 
 %%%%
-_ashenzari_celestial_adjective_
+ _ashenzari_celestial_adjective_ 
 
-Astral
+ 星体 
 
-Celestial
+ 天体 
 
-Cosmic
+ 宇宙
 
-Distant
+ 遥远 
 
-Elysian
+ 极乐世界 
 
-Sidereal
+ 恒星
 
-Stellar
+恒星 
 
-Sublime
+ 崇高 
 %%%%
-_ashenzari_knowledge_adjective_
+ _ashenzari_knowledge_adjective_ 
 
-All-seeing
+ 全视 
 
-Astrological
+ 占星 
 
-Clairvoyant
+ 千里眼 
 
-Cryptic
+ Cryptic 
 
-Enlightened
+ 开明 
 
-Enigmatic
+ 神秘 
 
-Esoteric
+ 深奥 
 
-Gnostic
+ 诺斯替教 
 
-Manifest
+ 显化 
 
-Mantic
+ 曼蒂克
 
-Omniscient
+ 全知 
 
-Oracular
+ 神谕 
 
-Pangnostic
+ 忧虑 
 
-Perceptive
+ 洞察 
 
-Prescient
+ 有先见之明 
 
-Profound
+ 深刻 
 
-Prophetic
+ 预言 
 
-Revealing
+ 揭示 
 
-Sibylline
+ 女巫 
 
-Unveiling
+ 揭秘 
 
-Visionary
+ 有远见的 
 %%%%
-_ashenzari_epithet_
+ _ashenzari_epithet_ 
 
 w:100
-@_ashenzari_adjective_@ God
+ @_ashenzari_adjective_@ 神 
 
 w:50
-@_ashenzari_bound_adjective_@ Augur
+ @_ashenzari_bound_adjective_@ 占卜者 
 
 w:50
-@_ashenzari_celestial_adjective_@ Augur
+ @_ashenzari_celestial_adjective_@ 占卜者 
 
 w:50
-@_ashenzari_bound_adjective_@ Sage
+ @_ashenzari_bound_adjective_@ 贤者 
 
 w:50
-@_ashenzari_celestial_adjective_@ Sage
+ @_ashenzari_celestial_adjective_@ 贤者 
 
 w:50
-@_ashenzari_bound_adjective_@ Seer
+ @_ashenzari_bound_adjective_@ 先知 
 
 w:50
-@_ashenzari_celestial_adjective_@ Seer
+ @_ashenzari_celestial_adjective_@ 先知 
 
-All-Knowing
+ 全知 
 
-Curse-Bearer
+ 诅咒者 
 
-Soothsayer
+ 占卜者 
 
-Unmoving One
+ 不动一 
 %%%%
-_ashenzari_heavens_
+ _ashenzari_heavens_ 
 
-Cosmos
+ 宇宙 
 
-Empyrean
+ 九天 
 
-Ether
+ 以太 
 
-Firmament
+ 苍穹 
 
-Heavens
+ 天堂 
 
 w:40
-Sky
+天空 
 
-Sphere
+ 球体 
 
-Welkin
+ Welkin 
 %%%%
 ######################################################
-# Library of randart APPEARANCE (un-identified).
+ # randart 外观库（未识别）。 
 ######################################################
-# common to all three types of randarts
-general appearance
+ # 所有三种类型的 randart 共有的
+普通外观 
 
-brightly glowing
+ 明亮发光 
 
-smoking
+ 吸烟 
 
-scorched
+ 烧焦 
 
-twisted
+ 扭曲
 
-shimmering
+ 闪烁
 
-warped
+ 扭曲 
 
-transparent
+ 透明 
 
-translucent
+ 半透明 
 
-encrusted
+ 镶嵌 
 
-pitted
+ 有坑 
 
-slimy
+ 粘糊状 
 
-polished
+ 抛光 
 
-fine
+ 精细 
 
-incandescent
+ 白炽
 
-ancient
+ 古代 
 
-faintly glowing
+ 微光发光 
 
-steaming
+ 热气腾腾 
 
-dazzling
+ 耀眼 
 
-masterwork
+ 杰作 
 
 w:2
-smouldering
+ 阴燃 
 
 w:5
-glimmering
+ 微光闪烁 
 
 w:2
-buzzing
+ 嗡嗡声 
 
 w:5
-fading
+ 褪色 
 
 w:2
-blackened
+ 黑色
 %%%%
-weapon appearance
+ 武器外观 
 
-iridescent
+ 虹彩 
 
-bloodstained
+ 血染 
 
-crystal
+ 水晶
 
-jewelled
+ 宝石 
 
-ichor-stained
-
-w:3
-ivory
+ 脓液染色 
 
 w:3
-bone
+ 象牙 
+
+w:3
+ 骨头 
 
 w:1
-sapphire
+ 蓝宝石
 
 w:3
-ebony
+ 乌木色 
 
-# currently 16 entries, so their overall weight amounts 180
+ # 目前有 16 个条目，因此它们的总重量为 180 
 w:180
-@general appearance@
+ @general appearance@ 
 %%%%
-robe appearance
+ 长袍外观 
 
-fabulously ornate
+ 华丽华丽 
 
-dull
+ 暗淡 
 
-sheer
+ 纯粹
 
-thick
+ 粗 
 
-heavy
+ 重 
 
-wizard
+ 巫师 
 
-ominously black
+ 不祥黑 
 
-brightly glowing
+ 亮发光 
 
-smoking
+ 吸烟 
 
-twisted
+ 扭曲
 
-shimmering
+ 闪烁
 
-warped
+ 扭曲 
 
-transparent
+ 透明 
 
-slimy
+ 粘稠 
 
-fine
+ 细
 
-luminous
+ 发光
 
-ripped
+撕裂的 
 
-colourful
+ 多彩 
 
-creamy pearl
+ 奶油珍珠色 
 
-opalescent
+ 乳白色 
 
-ancient
+ 古代 
 
-faintly glowing
+ 微弱发光 
 
-steaming
+ 热气腾腾 
 
-faintly humming
+ 微弱嗡嗡声 
 
-bloodstained
+ 沾满血迹的 
 
-heavily jewelled
+ 镶满宝石的 
 
-ichor-stained
+ 沾满脓水的 
 
-distressingly furry
+ 令人心疼的毛茸茸的 
 
-tattered
+ 破烂 
 
-silken
+ 丝质的
 
-shadowed
+ 暗影 
 %%%%
-body armour appearance
+ 防弹衣外观 
 
 w:3
-smelly
+ 臭味 
 
 w:3
-bronze
+ 青铜色 
 
 w:2
-@_gemstone_@-studded
+ @_gemstone_@ 镶满 
 
-@_gemstone_@-encrusted
+ @_gemstone_@ 镶满 
 
 w:200
-@armour appearance@
+ @armour appearance@ 
 %%%%
-armour appearance
+ 铠甲外观 
 
-faintly humming
+ 隐隐哼唱 
 
-bloodstained
+ 血迹
 
-heavily runed
+ 重纹 
 
-jewelled
+ 宝石 
 
-ichor-stained
+ 脓液染色 
 
-distressingly furry
+ 毛茸茸的 
 
-spiked
+ 尖刺 
 
 w:160
-@general appearance@
+ @general appearance@ 
 %%%%
-_gemstone_
+ _gemstone_ 
 
-diamond
+ 钻石 
 
-ruby
+ 红宝石色 
 
-jacinth
+ 紫红色 
 
-sapphire
+ 蓝宝石
 
-black opal
+ 黑蛋白石
 
-emerald
+ 翠绿 
 
-turquoise
+ 绿松石色 
 
-citrine
+ 黄水晶 
 
-aquamarine
+ 海蓝宝石 
 
-amber
+ 琥珀色 
 
-topaz
+ 黄玉
 
-jet
+ 墨玉 
 
-opal
+ 蛋白石 
 
-garnet
+ 石榴石
 
-amethyst
+ 紫水晶 
 
-jasper
+ 碧玉 
 
-obsidian
+ 黑曜石 
 
-agate
+ 玛瑙 
 
-jade
+ 玉色
 
-pearl
+ 珍珠 
 
-tiger eye
+ 虎眼 
 
-ametrine
+紫黄晶 
 %%%%
 ######################################################
-# Jewellery appearance
+ # 珠宝外观 
 ######################################################
 #
-# While for the appearance of randart weapons and armour you can just stick an
-# adjective in front of the object type name ("bloodstained dagger"),
-# unidentified non-artefact jewellery is described with both an adjective and
-# material ("runed wooden ring"), making a description like "runed ring" a bit
-# weird. So give randart jewellery an adjective that no non-artefact jewellery
-# would have, plus a material that a non-artefact might or might not have.
-_jewellery appearance_
+ # 而对于 randart 武器和盔甲的外观，你可以粘贴 
+ #对象类型名称前面的形容词（“血迹斑斑的匕首”），
+# 身份不明的非人工珠宝同时用形容词和 
+ # 材料（“符文木环”）来描述，使得像“符文戒指”这样的描述有​​点 
+ # 奇怪。因此，给 randart 珠宝一个非人工珠宝 
+ # 不会有的形容词，加上非人工珠宝可能有或可能没有的材料。 
+_珠宝外观_ 
 
-scintillating
+ 闪烁 
 
-sparkling
+ 闪闪发光 
 
-flickering
+ 闪烁 
 
-glittering
+ 闪闪发光 
 
-smoking
+ 冒烟 
 
-scorched
+ 烧焦 
 
-shimmering
+ 闪烁
 
-wavering
+ 摇摆 
 
-warped
+ 扭曲 
 
-transparent
+ 透明 
 
-translucent
+ 半透明 
 
-pitted
+ 有麻点
 
-slimy
+ 粘稠 
 
-fine
+ 细 
 
-radiant
+ 辐射 
 
-ancient
+ 古代 
 
-brightly glowing
+ 明亮发光 
 
-faintly glowing
+ 微弱发光 
 
-steaming
+ 蒸汽 
 
-heavily runed
+ 重纹 
 
-vibrating
+ 振动的 
 
-twitching
+ 抽搐 
 
-coiled
+ 盘绕 
 
-bound
+ 束缚 
 
-clouded
-
-w:2
-serpentine
-%%%%
-_ring material_
-
-wooden
-
-ivory
-
-bone
-
-amber
-
-silver
-
-golden
-
-platinum
-
-iron
-
-steel
-
-bronze
-
-brass
-
-copper
-
-tin
-
-lead
-
-pewter
-
-granite
-
-marble
-
-jade
-
-turquoise
-
-lapis lazuli
-
-glass
-
-carnelian
+ 云状 
 
 w:2
-gossamer
+ 蛇纹石
 %%%%
-_amulet material_
+_戒指材质_ 
 
-ivory
+ 木质 
 
-bone
+ 象牙 
 
-graven
+ 骨质 
 
-silver
+ 琥珀色 
 
-golden
+ 银色 
 
-platinum
+ 金色 
 
-iron
+ 白金 
 
-steel
+ 铁 
 
-bronze
+ 钢 
 
-brass
+ 青铜色 
 
-copper
+ 黄铜 
 
-tin
+ 铜
 
-lead
+ 锡 
 
-pewter
+ 铅 
 
-zirconium
+ 锡镴 
 
-sapphire
+ 花岗岩
 
-emerald
+ 大理石 
 
-garnet
+ 玉色
 
-ruby
+ 绿松石色 
 
-jade
+青金石 
 
-crystal
+ 玻璃 
 
-diamond
+ 红玉髓
 
-amethyst
+w:2
+ 游丝
 %%%%
-ring appearance
+_护身符材质_ 
 
-@_jewellery appearance_@ @_ring material_@
+ 象牙 
+
+ 骨 
+
+ 雕刻 
+
+ 银色 
+
+ 黄金 
+
+ 白金 
+
+ 铁 
+
+ 钢 
+
+ 青铜色 
+
+ 黄铜 
+
+ 铜
+
+ 锡 
+
+ 铅 
+
+ 锡镴 
+
+ 锆 
+
+ 蓝宝石
+
+ 翠绿 
+
+ 石榴石
+
+ 红宝石色 
+
+ 玉色
+
+ 水晶
+
+ 钻石 
+
+ 紫水晶 
 %%%%
-amulet appearance
+ 戒指外观 
 
-@_jewellery appearance_@ @_amulet material_@
+ @_jewellery appearance_@ @_ring material_@ 
+%%%%
+ 护身符外观 
+
+ @_jewellery appearance_@ @_amulet material_@
 %%%%

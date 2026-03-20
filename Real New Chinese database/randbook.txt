@@ -1,174 +1,174 @@
 ######################################################
-# Randart Names
+# Randart 名称 
 # -------------
-# randbook.txt: keywords for randart BOOKS
+# randbook.txt：randart BOOKS 
 #
-# This file contains the lists of keywords (and their
-# weights) for most of the keywords used for randart
-# books.
-# There are two types of randart books:
-#  - fixed theme, varying level (Conjurations, Summoning/Earth, ...)
-#  - fixed level, varying theme (level 2 spells etc.)
+ 的关键字 # 此文件包含用于生成 
+ # 权重的关键字）适用于 randart 
+ # 书籍的关键字。 
+ # 有两种类型的 randart 书籍： 
+ # - 固定主题，不同级别（召唤，召唤/地球，...） 
+ # - 固定级别，不同主题（2 级法术等） 
 #
-# The books are filled with spells matching their type in randbook.cc,
-# either build_themed_book() or make_book_level_randart().
-# The name should likewise take into account the book's type.
+ # 书籍中充满了与其在 randbook.cc 中的类型相匹配的法术，
+ # 或者build_themed_book() 或 make_book_level_randart()。 
+ # 名称同样应该考虑到书籍的类型。 
 #
-# Themed books use one of the following two naming schemes:
-#   a) @book_name@ @<secondary school> adj@ @<primary school>@
-#   b) @book_name@ @<primary school>@ and @<secondary school>@
+ # 主题书籍使用以下两种命名方案之一： 
+ # a) @book_name@ @<secondary school> adj@ @<primary school>@ 
+ # b) @book_name@ @<primary school>@ 和 @<secondary school>@ 
 #
-# or, if there is no (obvious) secondary school, simply:
+ # 或者，如果没有（明显的）中学，只需： 
 #
-#   @book_name@ @<primary school>@
+ # @book_name@ @<primary school>@ 
 #
-# Fixed level books are categorised into "starting" (level 1),
-# "easy" (level 2-4), "moderate" (level 4-6) and "difficult" (level 7-9),
-# a keyword that is used as a prefix for "level book".
-# @level@ is parsed to the word describing the spell level.
+ # 固定级别的书籍分为“入门”（1级），
+ #“简单”（2-4级），“中等”（4-6级）和“困难”（7-9级），
+ #用作“级别书”前缀的关键字。 
+ # @level@ 被解析为描述法术等级的单词。 
 #
-# Books also may get previous "owners" (or authors) that may be the gifting
-# god (if gifted), a name depending on school(s) as defined in this file,
-# a random name, or an appropriate god (if not a god gift).
-# The school dependent names consist of uniques or spell names that have a
-# strong connection to one or more schools. Pandemonium or hell lords' names
-# may only get used if a book is "highlevel", i.e. contains at least one
-# spell of level 6 or higher.
-# If the first and second school are different the two names are tested in
-# combination, in alphabetical order. If this is not the case or nothing is
-# found (or "__NONE" == the empty string was returned) and all spells match
-# the primary school try again with only that one.
+ # 书籍也可能会得到以前的“所有者”（或作者），可能是礼物 
+ # 上帝（如果有礼物），一个名称取决于此文件中定义的学校，
+ # 一个随机名称，或一个适当的上帝（如果不是上帝的礼物）。 
+ # 学校相关名称由与一所或多所学校有 
+ # 强联系的唯一名称或拼写名称组成。混乱或地狱领主的名字 
+ # 仅当一本书是“高级”时才可以使用，即包含至少一个 6 级或更高级别的 
+ # 法术。 
+ # 如果第一和第二学校不同，则以 
+ # 组合测试两个名称，按字母顺序排列。如果情况并非如此，或者 
+ # 没有找到任何内容（或“__NONE”==返回空字符串）并且所有拼写都匹配 
+ # 小学仅使用该拼写重试。 
 #
-# See the explanation in the main file, randname.txt, for more general
-# information on randart naming.
+ # 有关 randart 命名的更多常规 
+ # 信息，请参阅主文件 randname.txt 中的说明。 
 ######################################################
-# Book name should be set in make_book_level_randart() or
-# build_themed_book(), so if this gets picked there's a bug.
-book
+ # 书名应该在 make_book_level_randart() 或 
+ # build_themed_book() 中设置，所以如果选择了这个，就会出现错误。 
+ 书 
 
-Book of Bugginess
+ 巴吉之书 
 %%%%
-book appearance
+ 书外观 
 
-@_book_adjective_@
+ @_book_adjective_@ 
 %%%%
-book_noun
+ book_noun 
 
-Almanac
+ 年鉴 
 
-Anthology
+ 选集 
 
-Atlas
+ 图集
 
-Book
+书籍 
 
-Catalogue
+ 目录 
 
-Codex
+ 法典 
 
-Compendium
+ 纲要 
 
-Compilation
+ 汇编 
 
-Cyclopedia
+ 百科全书 
 
-Directory
+ 目录 
 
-Elucidation
+ 阐释 
 
-Encyclopedia
+ 百科全书 
 
-Folio
+ 开本 
 
-Grimoire
+ 魔书 
 
-Handbook
+手册 
 
-Incunable
+ Incunable 
 
-Incunabulum
+ Incunabulum 
 
-Octavo
+ Octavo 
 
-Omnibus
+ Omnibus 
 
-Papyrus
+ Papyrus 
 
-Precepts
+ 戒律 
 
-Quarto
+ 四开本 
 
-Secrets
+ 秘密 
 
-Spellbook
+ 法术书 
 
-Tome
+ Tome 
 
-Vellum
+ 牛皮纸
 
-Volume
+ 卷 
 %%%%
-_book_noun_on_
+ _book_noun_on_ 
 
-Annotations
+ 注释 
 
-Collected Works
+ 全集 
 
-Commentary
+ 评论 
 
-Discourse
+ 论述 
 
-Discursus
+ 讨论 
 
-Disquisition
+ 专题讨论 
 
-Dissertation
+ 论文 
 
-Enchiridion
+ 百科全书
 
-Essays
+ 散文 
 
-Excursus
+ 附记 
 
-Exposition
+ 阐述 
 
-Guide
+ 指南 
 
-Guidebook
+ 指南 
 
-Information
+ 信息 
 
-Lectures
+ 讲座 
 
-Lessons
+ 课程
 
-Meditations
+沉思篇
 
-Monograph
+专着
 
-Notes
+笔记
 
-Opusculum
+作品
 
-Reference Book
+参考书
 
-Teachings
+教学
 
-Textbook
+教科书
 
-Thoughts
+思想
 
-Tractate
+论文
 
-Treatise
+论文
 
 Vademecum
 
 Verses
 
-Writings
+著作
 %%%%
-# C++: discipline books, including Kiku's gifts
+# C++：纪律书籍，包括 Kiku 的礼物
 book_name
 
 w:9
@@ -178,17 +178,17 @@ w:4
 @_book_noun_on_@ on
 %%%%
 # @book_noun@ of ...
-# C++: "totally random" books
+# C++：“完全随机”书籍
 random_book_title
 
 w:15
-the @_book_plant_animal_@
+@_book_plant_animal_@
 
 w:20
 @_number_or_qualifier_@ @_thing_names_@
 
 w:4
-the @_profession_name_@
+@_profession_name_@
 
 w:13
 @_philosophy_or_science_@
@@ -209,7 +209,7 @@ w:4
 @_substance_name_@
 
 w:2
-@_power_name_@
+ @_power_name_@ 
 %%%%
 _book_plant_animal_
 
@@ -227,3299 +227,3299 @@ w:6
 
 @_armour_animal_@
 %%%%
-# C++: Xom (duh!)
+# C++: Xom (废话！)
 Xom_book_title
 
 w:30
 @random_book_title@
 
-# increased chances (obviously!)
+# 增加的机会（显然！）
 @_chaos_name_@
 
 w:1
-@_game_name_@
+@_game_name_@ 
 
 w:2
-@player_death@
+ @player_death@ 
 
 w:8
-@_wacky_armour_name_@
+ @_wacky_armour_name_@ 
 
 w:1
-@_politics_name_armour_@
+ @_politics_name_armour_@ 
 
 w:5
-@_power_name_@
+ @_power_name_@ 
 
 w:3
-@_discomfort_and_inaction_@
+ @_discomfort_and_inaction_@ 
 
 w:3
-@_discomfort_weapon_@
+ @_discomfort_weapon_@ 
 %%%%
-_book_adjective_
+ _book_adjective_ 
 
-ancient
+ 古代 
 
-antique
+ 古董 
 
-backwards
+ 向后 
 
-black
+ 黑色 
 
-blackened
+ 黑色
 
-clothbound
+ 布装 
 
-colourful
+ 多彩 
 
-conspicuous
+ 显眼 
 
-curious
+ 好奇 
 
-curling
+ 卷边 
 
-decrepit
+ 破旧 
 
-disorganised
+ 杂乱 
 
-dog-eared
+ 折角 
 
-droning
+ 嗡嗡声 
 
-dusty
+ 尘土飞扬 
 
-embossed
+ 浮雕 
 
-engraved
+雕刻 
 
-exquisite
+ 精美 
 
-faded
+ 褪色 
 
-foxed
+ 狐臭 
 
-fuliginous
+ 黑色 
 
-fusty
+ 发霉 
 
-gaudy
+ 华丽 
 
-glistering
+ 闪闪发光 
 
-glossy
+ 有光泽 
 
-graven
+ 雕刻 
 
-grimy
+ 肮脏 
 
-humming
+ 嗡嗡声 
 
-illuminated
+发光 
 
-inconspicuous
+ 不显眼 
 
-innocuous
+ 无害 
 
-leatherbound
+ 皮装 
 
-levitating
+ 悬浮 
 
-lithographed
+ 平版印刷 
 
-loosely-bound
+ 松装 
 
-moth-eaten
+ 虫蛀 
 
-mouldy
+ 发霉
 
-mumbling
+呢喃 
 
-murmuring
+ 呢喃 
 
-musty
+ 发霉的 
 
-odd
+ 奇怪 
 
-peculiar
+ 奇特 
 
-plain
+ 平淡 
 
-quavering
+ 颤抖 
 
-quivering
+ 颤抖 
 
-ragged
+ 衣衫褴褛 
 
-rare
+ 稀有 
 
-remarkable
+ 显着 
 
-resplendent
+ 灿烂 
 
-shimmering
+ 闪烁
 
-shiny
+ 闪亮
 
-simple
+ 简单 
 
-sooty
+ 乌黑 
 
-sparkling
+ 闪闪发光 
 
-stained
+ 染色 
 
-sticky
+ 粘性
 
-strange
+ 奇怪 
 
-suspect
+ 可疑 
 
-suspicious
+ 可疑 
 
-tattered
+ 破烂 
 
-thrumming
+ 颤动 
 
-timeworn
+ 陈旧 
 
-torn
+ 撕裂 
 
-trembling
+颤抖的 
 
-uncut
+ 未切割的 
 
-unremarkable
+ 不起眼的 
 
-unusual
+ 不寻常的 
 
-upside-down
+ 倒置的 
 
-vellum
+ 牛皮纸 
 
-vibrant
+ 充满活力的 
 
-vibrating
+ 振动的 
 
-water-damaged
+ 水损坏的 
 
-weird
+ 怪异的 
 
-well-preserved
+ 保存完好
 
-whispering
+ 窃窃私语 
 
-worn
+ 磨损 
 
-wrinkled
+ 起皱 
 
-yellowed
+ 泛黄 
 %%%%
-_the_book_magic_
+ _the_book_magic_ 
 
-the @_occult_adjective_@ Arts
+ @_occult_adjective_@ 艺术
 
-the @_occult_adjective_@ Practices
+@_occult_adjective_@ 实践 
 
-the @_occult_adjective_@ Rites
+ @_occult_adjective_@ 仪式 
 
-the @_occult_adjective_@ Traditions
+ @_occult_adjective_@ 传统 
 
-the @_occult_adjective_@ Truths
+ @_occult_adjective_@ 真理 
 
-the Hermit's Heritage
+ 隐士的遗产 
 
-the Histories of Mysteries
+ 神秘的历史 
 
-the Magician's Craft
+ 魔术师的手艺 
 
-the Mind of the Magus
+ 心灵魔法师 
 
-the Power of Words
+ 言语的力量 
 
-the Rites and Rhymes
+ 仪式和韵律 
 
-the Sigils and Symbols
+ 印记和符号 
 
-the Wisdom of the Ancients
+ 远古智慧 
 
-the Wizard's Wisdom
+ 巫师的智慧 
 
-the Words of Power
+ 力量言语 
 
 w:300
-@_book_magic_@
+ @_book_magic_@ 
 %%%%
-_book_magic_
+ _book_magic_ 
 
-@_occult_adjective_@ Insight
+ @_occult_adjective_@ 洞察 
 
-@_occult_adjective_@ Knowledge
+ @_occult_adjective_@ 知识 
 
-@_occult_adjective_@ Power
+ @_occult_adjective_@ 力量 
 
-@_occult_adjective_@ Understanding
+ @_occult_adjective_@ 理解 
 
-@_occult_adjective_@ Wisdom
+ @_occult_adjective_@ 智慧 
 
-Casting
+ 铸造 
 
-Gnosis
+ 灵知 
 
-Hermeneutics
+ 诠释学
 
-Hermetics
+ 赫尔墨斯学 
 
 w:2
-Hocus-Pocus
+ 魔术术 
 
-Incantation
+ 咒语 
 
-Magic
+ 魔法 
 
-Magical Power
+ 魔法力量 
 
-Mysticism
+ 神秘主义 
 
-Occultism
+ 神秘学 
 
-Sorcery
+ 巫术 
 
-Sortilege
+ 分类术 
 
-Spellcasting
+ 施法 
 
-Spellcraft
+ 法术辨识 
 
-Spellweaving
+ 法术编织 
 
-Spellwork
+ 法术
 
-Thaumaturgy
+ 奇术 
 
-Theurgy
+ 神术 
 
-Willworking
+ 意志工作 
 
-Witchcraft
+ 巫术 
 
-Witchery
+ 巫术 
 
-Wizarding
+ 巫师 
 
-Wizardry
+ 巫术
 %%%%
-_occult_adjective_
+_ocult_adjective_ 
 
-Abstruse
+ 深奥 
 
-# putting this on a book is technically an oxymoron but that makes it funny
-Acroamatic
+ # 将其放在书上从技术上讲是一种矛盾修辞，但这使它变得有趣 
+ Acroamatic 
 
-Arcane
+ Arcane 
 
-Awakened
+ Awakened 
 
-Concealed
+ Concealed 
 
-Cryptic
+ Cryptic 
 
-Deep
+ Deep 
 
-Esoteric
+ 深奥 
 
-Forbidden
+ 禁止 
 
-Gnostic
+ 诺斯替教 
 
-Hermetic
+ 密封 
 
-Hidden
+ 隐藏 
 
-Lost
+ 迷失 
 
-Magical
+ 魔法 
 
-Mysterious
+ 神秘 
 
-Mystic
+ 神秘 
 
-Mystical
+ 神秘 
 
-Occult
+神秘 
 
-Orphic
+ 奥秘 
 
-Recondite
+ 深奥 
 
-Revealed
+ 揭示 
 
-Ritual
+ 仪式 
 
-Sealed
+ 密封 
 
-Secret
+ 秘密 
 
-Sibylline
+ 女巫 
 
-Transmundane
+ 超凡 
 
-Veiled
+ 面纱 
 %%%%
-_beginners_
+ _初学者_ 
 
-Beginners
+ 初学者 
 
-Initiates
+ 初学者 
 
-Apprentices
+ 学徒 
 
-Learners
+ 学习者 
 
-Neophytes
+ 新手 
 
-Novices
-
-w:5
-Amateurs
+ 新手 
 
 w:5
-Rookies
+ 业余 
 
 w:5
-Absolute Beginners
+ 新秀 
+
+w:5
+ 绝对初学者 
 
 w:1
-Ex-Berserkers
+ 前狂战士
 
 w:1
-Dummies
+假人
 %%%%
 ##################
-# level 1
-starting level book
+# 1 级
+起始级别书
 
 w:2
 @_the_book_magic_@ 101
 
-@_the_book_magic_@ for @_beginners_@
+@_the_book_magic_@ 适用于 @_beginners_@
 
-@_the_book_magic_@, Part @level@
+@_the_book_magic_@，部分 @level@
 
-@_the_book_magic_@, Volume @level@
+@_the_book_magic_@，卷 @level@
 
-A @book_name@ Starting Spells
+@book_name@ 起始咒语
 
-A Beginning Course on @_the_book_magic_@
+@_the_book_magic_@ 入门课程
 
-A Prolegomenon to @_the_book_magic_@
+@_the_book_magic_@ 序言
 
-A Tutorial on @_the_book_magic_@
+@_the_book_magic_@ 教程
 
-An Exordium to @_the_book_magic_@
+@_the_book_magic_@ 序言
 
-An Initiation into @_the_book_magic_@
+@_the_book_magic_@ 入门
 
-An Induction into @_the_book_magic_@
+入门@_the_book_magic_@
 
-An Introduction to @_the_book_magic_@
-
-w:2
-Anyone Can Learn @_the_book_magic_@
-
-Beginning @_the_book_magic_@
-
-Commencing @_the_book_magic_@
-
-Dabbling in @_the_book_magic_@
-
-Elementary @_book_magic_@
+@_the_book_magic_@
 
 w:2
-Even @_beginners_@ Can Learn @_the_book_magic_@!
+简介 任何人都可以学习 @_the_book_magic_@
 
-First Steps in @_the_book_magic_@
+入门 @_the_book_magic_@
 
-Practicing @_the_book_magic_@
+开始 @_the_book_magic_@
 
-Preliminaries of @_the_book_magic_@
+涉足 @_the_book_magic_@
 
-Simple @_book_magic_@
+初级 @_book_magic_@
 
 w:2
-So You Want to Learn @_the_book_magic_@
+甚至@_beginners_@ 可以学习 @_the_book_magic_@！
 
-Starting @_the_book_magic_@
+@_the_book_magic_@ 的第一步
 
-The Basics of @_the_book_magic_@
+练习 @_the_book_magic_@
+
+@_the_book_magic_@ 的预备
+
+简单 @_book_magic_@
+
+w:2
+所以你想学习 @_the_book_magic_@
+
+开始 @_the_book_magic_@
+
+的基础知识@_the_book_magic_@
 %%%%
 ##################
-# level 2-4
-easy level book
+# 2-4 级
+简易级别书
 
-@_book_magic_@ and How To Use It
+@_book_magic_@ 以及如何使用它
 
-@_the_book_magic_@ and You
+@_the_book_magic_@ 和你
 
-@_the_book_magic_@ Continued
+@_the_book_magic_@ 简单步骤续
 
-@_the_book_magic_@ in Simple Steps
+@_the_book_magic_@
 
-@_the_book_magic_@, Part @level@
+@_the_book_magic_@，部分@level@
 
-@_the_book_magic_@, Volume @level@
+@_the_book_magic_@，卷 @level@
 
-A @book_name@ Supplementary Spells
+A @book_name@ 补充法术
 
-A Primer on @_the_book_magic_@
+@_the_book_magic_@ 入门
 
-An Early Guide to @_the_book_magic_@
+@_the_book_magic_@ 早期指南
 
-Continuing @_the_book_magic_@
+继续 @_the_book_magic_@
 
-Easy @_book_magic_@
+简单 @_book_magic_@ 
 
-Everyday @_book_magic_@
+ 日常 @_book_magic_@ 
 
-More @_book_magic_@
+ 更多 @_book_magic_@ 
 
-More Studies in @_the_book_magic_@
+ 更多 @_the_book_magic_@ 研究 
 
-Performing Successful @_book_magic_@
+ 表演成功 @_book_magic_@ 
 
-Quotidian @_book_magic_@
-
-w:2
-The Antepenultimate Guide to @_the_book_magic_@
-
-The Foundations of @_the_book_magic_@
-
-The Fundamentals of @_the_book_magic_@
+ 日常 @_book_magic_@ 
 
 w:2
-The Joy of @_book_magic_@
+ @_the_book_magic_@ 倒数第二指南
 
-The Keys to @_the_book_magic_@
+ @_the_book_magic_@ 的基础 
+
+ @_the_book_magic_@ 的基础知识 
+
+w:2
+ @_book_magic_@ 的乐趣 
+
+ @_the_book_magic_@ 的关键 
 %%%%
 ##################
-# level 4-6
-moderate level book
+ # 4-6 级 
+ 中等水平书籍 
 
-@_the_book_magic_@, Part @level@
+ @_the_book_magic_@，部分@level@ 
 
-@_the_book_magic_@, Volume @level@
+ @_the_book_magic_@，卷 @level@ 
 
-A @book_name@ Spells
+ A @book_name@ 拼写 
 
-Advanced @_book_magic_@
+ 高级 @_book_magic_@ 
 
-Advanced Steps in @_the_book_magic_@
+ @_the_book_magic_@ 的高级步骤 
 
-Even More @_book_magic_@
+ 更多 @_book_magic_@ 
 
-Experienced @_book_magic_@
+ 经验丰富的 @_book_magic_@ 
 
-Further Progress in @_the_book_magic_@
+ @_the_book_magic_@ 的进一步进展 
 
-Further Steps in @_the_book_magic_@
+ @_the_book_magic_@ 的进一步步骤 
 
-Improving Your @_book_magic_@
+ 改进您的 @_book_magic_@ 
 
-Practical @_book_magic_@
+ 实用 @_book_magic_@ 
 
-Progressing With @_book_magic_@
+ 与 @_book_magic_@ 一起进步 
 
-Sophisticated @_book_magic_@
+ 复杂的 @_book_magic_@ 
 
-The Advanced Guide to @_the_book_magic_@
+ 高级指南@_the_book_magic_@ 
 
-The Path to @_the_book_magic_@
-
-w:2
-The Penultimate Guide to @_the_book_magic_@
-
-The Second Course in @_book_magic_@
-
-Useful @_book_magic_@
+ 通向 @_the_book_magic_@ 之路 
 
 w:2
-Yet Another @book_noun@ About @_the_book_magic_@
+ @_the_book_magic_@ 倒数第二本指南 
+
+ @_book_magic_@ 的第二门课程 
+
+ 有用的 @_book_magic_@ 
+
+w:2
+ 另一个 @book_noun@ 关于 @_the_book_magic_@ 
 %%%%
 ##############################################
-# powerful casters, used for high level books
-_powerful_caster_
+ # 强大的脚轮，用于高级书籍
+ _powerful_caster_ 
 
-# Generic powerful-sounding names
-Archmage
+ # 听起来很强大的通用名称 
+ 大法师 
 
-Archmaster
+ 大大师 
 
-Hierophant
+ 圣者 
 
-Luminary
+ 发光体 
 
-Mystagogue
+ 神秘者
 
-Prophet
+先知 
 
-Sage
+ 贤者 
 
-Warlock
+ 术士 
 
-# Specific references to in-game lore
+ # 游戏中传说的具体参考 
 w:5
-Deep Elf Lorekeeper
-
-w:5
-Genius of the Arcane
-
-# Their hat may be gone, but they're not forgotten...
-w:5
-High Council
+ 深精灵博学者 
 
 w:5
-Lorekeeper
+ 奥术天才 
+
+ # 他们的帽子可能消失了，但他们没有被遗忘... 
+w:5
+ 高级议会 
 
 w:5
-Loreminder
+ 博学者
 
-# Specific references to DCSS memes, out-of-game lore, or misc.
-w:1
-Blind Seer
+w:5
+ Loreminder 
 
+ # 对 DCSS 模因、游戏外传说或杂项的具体引用。 
 w:1
-Consilium Hierarch
-
-w:1
-Grand Magus
+ 盲眼先知 
 
 w:1
-Greatest Mummy
+ 康斯利姆教主 
 
 w:1
-Primeval Lich
+ 大魔法师 
 
 w:1
-Sorcerer Supreme
+ 最伟大的木乃伊 
 
 w:1
-Ultimate Wizard
+ 原始巫妖 
 
 w:1
-Weird Sisters
+ 至尊魔法师 
 
 w:1
-Wizard of Zot
+ 终极巫师 
+
+w:1
+ 怪异姐妹 
+
+w:1
+ 佐特巫师
 %%%%
-_the_powerful_caster_
+ _the_powerful_caster_ 
 
 w:100
-the @_powerful_caster_@
+ the @_powerful_caster_@ 
 
 w:30
 Boris
 
-Sif Muna
+ Sif Muna 
 
-# Various wizards/mages/alchemists from real-world history/folklore
-# I avoided modern/pop-culture figures
+ # 现实世界历史/民间传说中的各种巫师/法师/炼金术士 
+ # 我避开现代/流行文化人物 
 w:1
-Faust
-
-w:1
-Geber
+ Faust 
 
 w:1
-Hermes Trismegistus
+ Geber 
 
 w:1
-Jabir
+ Hermes Trismegistus 
 
 w:1
-Merlin
+ 贾比尔 
 
 w:1
-Morgana le Fay
+ 梅林 
 
 w:1
-Nicolae
+ 摩根娜·勒菲 
 
 w:1
-Ostanes
+ 尼古拉 
 
 w:1
-Paracelsus
+ 奥斯坦尼斯 
 
 w:1
-Prospero
+ 帕拉塞尔苏斯 
 
 w:1
-Solomon
+ 普洛斯彼罗 
+
+w:1
+ 所罗门 
 %%%%
-_last_or_lost_
+ _last_or_lost_ 
 
-Last
+ 最后
 
-Lost
+ 丢失 
 %%%%
-_testament_noun_
+ _testament_noun_ 
 
-Archive
+ 存档
 
-Chronicle
+编年史
 
-History
+历史
 
-Journal
+日记
 
-Memoir
+回忆录
 
-Record
+记录
 
-Testament
+遗嘱
 
-Testimony
+证言
 
-Wisdom
+ 智慧 
 
-Writings
+著作
 %%%%
 ##################
-# level 7-9, books in the form of "XYZ's <bookname>"
-# Prefixed articles will be filtered out.
-_difficult level book owner_
+# 7-9 级，“XYZ 的 <bookname>”形式的书籍
+# 前缀文章将会被过滤掉。
+_困难级别书主_
 
-@_the_book_magic_@, Part @level@
+@_the_book_magic_@，部分 @level@
 
-@_the_book_magic_@, Volume @level@
+@_the_book_magic_@，卷 @level@
 
-A @book_name@ Superlative Spells
+@book_name@ 最高级咒语
 
-A Thorough Guide to @_the_book_magic_@
+@_the_book_magic_@
 
-Mastering @_the_book_magic_@
+掌握的全面指南@_the_book_magic_@
 
-Mastery of @_the_book_magic_@
+掌握 @_the_book_magic_@
 
-The Final @book_noun@ of @_the_book_magic_@
+@_the_book_magic_@ 的最终 @book_noun@
 
-The Final @_book_noun_on_@ on @_the_book_magic_@
+@_the_book_magic_@ 上的最终 @_book_noun_on_@
 
-The @_last_or_lost_@ Secrets of @_the_book_magic_@
+@_last_or_lost_@ @_the_book_magic_@ 的秘密
 
-The @book_noun@ of Greatest Risks and Utility
+最大风险和实用性的 @book_noun@
 
-The Arcane Secrets of @_book_magic_@
+@_book_magic_@ 的神秘秘密
 
-The Highest Levels of @_the_book_magic_@
+@_the_book_magic_@ 的最高级别
 
-The Intricacies of @_the_book_magic_@
+@_the_book_magic_@ 的复杂性
 
-The Ultimate Guide to @_the_book_magic_@
+@_the_book_magic_@ 的终极指南
 
-Total Understanding of @_the_book_magic_@
+@_the_book_magic_@ 的全面理解
 %%%%
-# level 7-9, books without being named after their owner/author
-difficult level book
+# 7-9 级，未以其名称命名的书籍所有者/作者
+难度级别书
 
 w:50
 @_difficult level book owner_@
 
-The @_last_or_lost_@ @book_noun@ of @_the_powerful_caster_@
+@_the_powerful_caster_@ 的 @_last_or_lost_@ @book_noun@
 
 w:5
-@_the_book_magic_@ of @_the_powerful_caster_@
+@_the_powerful_caster_@ 的 @_the_book_magic_@
 
 w:5
-The @_last_or_lost_@ @_testament_noun_@ of @_the_powerful_caster_@
+@_the_powerful_caster_@ 的 @_last_or_lost_@ @_testament_noun_@
 
 w:5
-The @_occult_adjective_@ @_testament_noun_@ of @_the_powerful_caster_@
+@_occult_adjective_@ @_testament_noun_@ 的 @_the_powerful_caster_@
 
-# they wrote it just for you!
+# 他们专门为你写的！
 w:1
-A @book_noun@ from @_the_powerful_caster_@ to @player_name@
+A @book_noun@ 从 @_the_powerful_caster_@ 到 @player_name@
 %%%%
 ##############################################
-# synonyms for predominant spell schools
-# variants starting with the definite article will get "the" prepended
-# to the adjective version
+# 主要法术学校的同义词
+# 以定冠词开头的变体将在形容词版本中添加“the”
+# 形容词版本
 Air
 
 Aeromancy
 
-Air
+空气 
 
-Anemomancy
+ 风占卜 
 
-Astrapomancy
+ 占卜 
 
-Austromancy
+ 占卜 
 
-Breath
+ 呼吸 
 
-Ceraunoscopy
+ 胸腔镜 
 
-Clouds
+ 云 
 
-Conduction
+ 传导 
 
-Electricity
+ 电 
 
-Electrocution
+ 电死 
 
-Exhalation
+ 呼气
 
-Feathers
+ 羽毛 
 
-Fog
+ 雾 
 
-Fumes
+ 烟雾 
 
-Gases
+ 气体 
 
-Gusts
+ 阵风 
 
-Haze
+ 阴霾 
 
-Inhalation
+ 吸入 
 
-Lightning
+ 闪电 
 
-Nephomancy
+ 阴灵术 
 
-Ouranomancy
+ 乌灵术 
 
-Ozone
+ 臭氧
 
-Thunder
+ 雷声 
 
-Turbulence
+ 湍流 
 
-Weather
+ 天气 
 
-Vapour
+ 蒸气 
 
-Voltage
+ 电压 
 
-the Atmosphere
+ 大气 
 
-the Birds
+ 鸟类 
 
-the Brume
+ 布鲁姆 
 
-the Cumulonimbus
+ 积雨云 
 
-the Lungs
+ 肺 
 
-the Nimbus
+ Nimbus 
 
-the Sixfirhy
+ Sixfirhy 
 
-the Sky
+ 天空 
 
-the Squall
+ Squall 
 
-the Storm
+ 风暴 
 
-the Tempest
+ 暴风雨 
 
-the Welkin
+ Welkin 
 
-the Wind
+ 风 
 
-the Zephyr
+ Zephyr 
 %%%%
-Conjuration
+ 咒语
 
-Arcane Combat
+奥术战斗 
 
-Arcane Weapons
+ 奥术武器 
 
-Assaults
+ 突击 
 
-Attacks
+ 攻击 
 
-Battle Magic
+ 战斗魔法 
 
-Battling
+ 战斗 
 
-Blasting
+ 爆炸 
 
-Blasts
+ 爆炸 
 
-Blows
+ 爆炸 
 
-Bolts
+ 螺栓 
 
-Bombardment
+ 轰炸
 
-Bruises
+ 瘀伤 
 
-Combat Magic
+ 战斗魔法 
 
-Collision
+ 碰撞 
 
-Conflict
+ 冲突 
 
-Confrontation
+ 对抗 
 
-Conjuration
+ 召唤 
 
-Conjuring
+召唤 
 
-Conjury
+ 召唤 
 
-Damage
+ 伤害 
 
-Destruction
+ 毁灭 
 
-Energy
+ 能量 
 
-Force
+ 力量 
 
-Forces
+ 力量 
 
-Fulmination
+ 暴怒
 
-Hurting
+ 伤害 
 
-Impulse
+ 冲击 
 
-Injury
+ 伤害 
 
-Kinetic Energy
+ 动能 
 
-Momentum
+ 动能 
 
-Outbursts
+ 爆发 
 
-Percussion
+ 打击 
 
-Power
+ 力量 
 
-Striking
+ 打击 
 
-Trauma
+ 创伤
 
 w:2
-Traumaturgy
+ 创伤 
 
-Violence
+ 暴力 
 
-Wounds
+伤害 
 
-the Barrage
+ 弹幕 
 
-the Discharge
+ 放电 
 
-# Lore callback to the Mad Mage's Maulers
-the Fifth Circle
+ # 传说回调至疯狂法师的重锤 
+ 第五圈 
 
-the Impact
+ 冲击 
 
-the Missiles
+ 导弹 
 
-the Salvo
+ 齐射
 
-the Shot
+射击 
 
-the Volley
+ 齐射 
 %%%%
-Earth
+ 地球 
 
-Amathomancy
+ 数学 
 
-Bedrock
+ 基岩 
 
-Breccia
+ 角砾岩 
 
-Clay
+ 粘土 
 
-Cleavage
+ 解理 
 
-Detritus
+ 碎石 
 
-Earth
+ 地球 
 
-Erosion
+ 侵蚀 
 
-Excavation
+开挖 
 
-Geology
+ 地质学 
 
-Geomancy
+ 风水学 
 
-Grit
+ 砂砾学 
 
-Lithomancy
+ 岩学学 
 
-Metal
+ 金属学 
 
-Minerals
+ 矿物学 
 
-Mud
+ 泥浆学 
 
-Orogeny
+ 造山学学 
 
-Oromancy
+ 造岩学学 
 
-Quicksand
+ 流沙学 
 
-Scree
+碎石 
 
-Silt
+ 淤泥 
 
-Spelunking
+ 洞穴探险 
 
-Stones
+ 石头 
 
-Talus
+ 距骨 
 
-Tephra
+ 土普拉 
 
-Terra Firma
+ 陆地 
 
-Terrain
+ 地形 
 
-Topography
+ 地形 
 
-Topomancy
+ 地势 
 
-the Anticline
+ 背斜
 
-the Boulder
+ 巨石 
 
-the Caves
+ 洞穴 
 
-the Crater
+ 火山口 
 
-# it's from Welsh
-the Cwm
+ # 来自威尔士 
+ Cwm 
 
-the Fault
+ 断层 
 
-the Fjord
+ 峡湾
 
-the Gargoyle
+石像鬼 
 
-the Geologist
+ 地质学家 
 
-the Ground
+ 地面 
 
-the Lithosphere
+ 岩石圈 
 
-the Mantle
+ 地幔 
 
-the Mesa
+ 台地 
 
-the Mountains
+ 山脉 
 
-the Plateau
+ 高原 
 
-the Quake
+ 地震 
 
-the Quarry
+ 采石场 
 
-the Rocks
+ 岩石
 
-the Syncline
+ 向斜线 
 
-the Tektite
+ 玻璃陨石 
 
-the Valley
+ 山谷
 
-the Volcano
+ 火山
 
-the Xenolith
+ 捕猎石 
 %%%%
-Fire
+ 火 
 
-Accelerants
+ 促进剂 
 
-Anthracomancy
+ 炭巫术 
 
-Arson
+ 纵火 
 
-Ashes
+ 灰烬 
 
-Burning
+ 燃烧 
 
-Calefaction
+ 火化 
 
-Causimancy
+ 因果术 
 
-Cinders
+ 灰渣
 
-Combustion
+ 燃烧 
 
-Conflagration
+ 大火 
 
-Embers
+ 余烬 
 
-Fever
+ 发烧 
 
-Fire
+ 火 
 
-Flame
+ 火焰 
 
-Flames
+ 火焰 
 
-Heat
+ 热 
 
-Hyperthermia
+ 高温 
 
-Ignition
+ 点火 
 
-Immolation
+ 献祭 
 
-Incandescence
+ 白炽
 
-Incineration
+ 焚烧 
 
-Kindling
+ 火种 
 
-Lava
+ 熔岩 
 
-Oxidation
+ 氧化 
 
-Phlogiston
+ 燃素 
 
-Pyromancy
+ 烈火 
 
-Pyromania
+ 纵火 
 
-Soot
+ 烟灰
 
-Sparks
+火花 
 
-# Credit to Megadeth for misremembering the word "thaumatology" in "Five Magics"
+ # 感谢 Megadeth 记错了“五种魔法”中的“奇术”一词 
 w:2
-Thermatology
+ 热学 
 
-Wildfire
+ 野火 
 
-the Arsonist
+ 纵火犯 
 
-the Blaze
+ 火焰 
 
-the Bonfire
+ 篝火 
 
-the Burn
+ 燃烧 
 
-the Coals
+ 煤炭
 
-the Dragon
+ 龙 
 
-the Inferno
+ 地狱 
 
-the Pyre
+ 柴堆 
 
-the Pyromaniac
+ 纵火狂 
 
-the Salamander
+ 火蜥蜴 
 
-the Summer
+ 夏天 
 
-the Sun
+ 太阳 
 
-the Torch
+ 火炬 
 
-the Tropics
+ 热带 
 
-the Volcano
+ 火山
 %%%%
-Hexes
+ 六角形 
 
-Ambsace
+ 安布萨斯 
 
-Anathema
+ 诅咒
 
-Bad Luck
+ 厄运 
 
-Beguiling
+ 迷惑 
 
-Bewitchment
+ 迷惑 
 
-Charms
+ 魅力 
 
-Curses
+ 诅咒 
 
-Destiny
+ 命运 
 
-Doom
+ 末日 
 
-Enchantment
+ 结界 
 
-Ensorcelling
+ 迷惑 
 
-Execration
+ 诅咒 
 
-Fascination
+ 迷恋 
 
-Fate
+ 命运 
 
-Glamour
+ 魅力 
 
-Guile
+诡诈 
 
-Hexes
+ 六角形
 
-Hexing
+ 合兴 
 
-Ill Luck
+ 厄运 
 
-Imprecation
+ 咒骂 
 
-Interference
+ 干扰 
 
-Jinxing
+ 金星 
 
-Malediction
+ 咒骂 
 
-Maleficia
+ 凶煞 
 
-Malisons
+ 恶兆 
 
-Mischance
+ 祸害 
 
-Misfortune
+ 祸害 
 
-Obstruction
+障碍
 
-Omens
+预兆 
 
-Portents
+ 预兆 
 
-Signs
+ 征兆 
 
-Spellbinding
+ 咒语 
 
-the Curse
+ 诅咒 
 
-the Evil Eye
+ 邪眼 
 
-the Faeries
+ 仙灵 
 
-the Fairies
+ 仙女 
 
-the Fair Folk
+ 公平民间 
 
-the Jinx
+ 金克斯 
 
-the Maleficium
+ 凶星 
 
-the Oath
+ 誓言 
 
-the Sphinx
+ 狮身人面像
 
 w:2
-the Whammy
+ 猛击 
 
-the Wyrd
+ 神灵 
 %%%%
-Ice
+ 冰 
 
-Algor
+ 阿尔戈尔 
 
-Chilblains
+ 冻疮 
 
-Cold
+ 寒冷 
 
-Congelation
+ 凝结 
 
-Cryomancy
+ 冷冻术 
 
-Firn
+ 冰霜 
 
-Freezing
+ 冷冻 
 
-Frost
+ 霜冻 
 
-Frostbite
+ 冻伤
 
-Glaciation
+ 冰川 
 
-Graupel
+ 霰 
 
-Hail
+ 冰雹 
 
-Hoarfrost
+ 白霜 
 
-Hypothermia
+ 低温 
 
-Ice
+ 冰 
 
-Refrigeration
+ 制冷 
 
-Rime
+ 雾凇 
 
-Snow
+ 雪 
 
-the Blizzard
+ 暴风雪 
 
-the Chill
+ 寒冷 
 
-the Crevasse
+ 裂缝 
 
-the Deep Freeze
+冰冻 
 
-the Glacier
+ 冰川 
 
-the Iceberg
+ 冰山 
 
-the Icicle
+ 冰柱 
 
-the Serac
+ 冰塔 
 
-the Snowflakes
+ 雪花 
 
-the Tundra
+ 苔原 
 
-the Wendigo
+ 温迪戈 
 
-the Winter
+ 冬天
 %%%%
-Necromancy
+死灵术 
 
-Bodies
+ 尸体 
 
-Bones
+ 骨头 
 
-Cadavers
+ 尸体 
 
-Carcasses
+ 尸体 
 
-Carrion
+ 腐肉 
 
-Caskets
+ 棺材 
 
-Coffins
+ 棺材 
 
-Corpses
+ 尸体 
 
-Darkness
+ 黑暗 
 
-Death
+ 死亡 
 
-Desecration
+ 亵渎 
 
-Despair
+ 绝望 
 
-Diablerie
+ 恶魔 
 
-Ectoplasm
+ 灵质
 
-Evil
+ 邪恶 
 
-Exhumation
+ 掘尸 
 
-Finality
+ 最终结果 
 
-Gloom
+ 忧郁 
 
-Lamentation
+ 哀悼 
 
-Last Rites
+ 最后的仪式 
 
-Misery
+ 痛苦
 
-Mortality
+ 死亡 
 
-Mortification
+ 屈辱 
 
-Necromancy
+ 死灵术 
 
-Nightshade
+ 夜影 
 
-Open Graves
+ 露天坟墓 
 
-Remains
+ 遗骸 
 
-Rot
+ 腐烂 
 
-Resurrection
+ 复活
 
-Sciomancy
+ 占卜术 
 
-Shades
+ 阴影 
 
-Shadows
+ 阴影 
 
-Skeletons
+ 骷髅 
 
-Spectres
+ 幽灵 
 
-Stolen Souls
+ 被盗灵魂 
 
-Zombies
+ 僵尸 
 
-the Autopsy
+ 尸检 
 
-the Catacomb
+ 地下墓穴 
 
-the Cemetery
+ 墓地
 
-the Charnel House
+ 停尸房 
 
-the Crypt
+ 地穴 
 
-the Damned
+ 被诅咒者 
 
-the Dead
+ 死者 
 
-the Departed
+ 离去者 
 
-the End
+ 结束 
 
-the Grave
+ 坟墓 
 
-the Graveyard
+ 墓地 
 
-the Mausoleum
+ 陵墓 
 
-the Morgue
+ 太平间 
 
-the Mortuary
+ 太平间 
 
-the Necropsy
+ 尸检
 
-the Ossuary
+藏骨堂 
 
-the Sarcophagus
+ 石棺 
 
-the Tomb
+ 坟墓 
 
-the Undead
+ 亡灵 
 
 w:200
-@_Evil_adjective_@ @_Evil_noun_@
+ @_Evil_adjective_@ @_Evil_noun_@ 
 %%%%
-# for necromantic books
-_Evil_adjective_
+ # 死灵书籍 
+ _Evil_adjective_ 
 
-Abhorrent
+ 可恶的 
 
-Abominable
+ 可憎的 
 
-Black
+ 黑色 
 
-Blasphemous
+ 亵渎的
 
-Dark
+ 黑暗 
 
-Debased
+ 卑鄙 
 
-Defiled
+ 玷污 
 
-Despicable
+ 卑鄙 
 
-Evil
+ 邪恶 
 
-Iniquitous
+ 邪恶 
 
-Left-handed
+ 左手 
 
-Maleficent
+ 恶毒 
 
-Malevolent
+ 恶毒 
 
-Malignant
+ 恶毒 
 
-Necromantic
+ 死灵
 
-Profane
+ 亵渎 
 
-Sinister
+ 险恶 
 
 w:2
-Spooky
+ 幽灵 
 
-Unhallowed
+ 不神圣的 
 
-Unholy
+邪恶
 
-Unspeakable
+ 不可言说的 
 
-Vitiated
+ 污蔑 
 
-Wicked
+ 邪恶 
 %%%%
-# also for necromantic books
-_Evil_noun_
+ # 也适用于死灵书籍 
+ _邪恶_名词_ 
 
-Acts
+ 行为 
 
-Arts
+ 艺术
 
-Ceremonies
+ 仪式 
 
-Deeds
+ 行为 
 
-Liturgies
+ 礼拜仪式 
 
-Magic
+ 魔法 
 
-Magicks
+ 魔法 
 
-Mysteries
+ 神秘 
 
-Rites
+ 仪式 
 
-Rituals
+ 仪式 
 
-Secrets
+ 秘密 
 
-Spells
+ 咒语 
 
-Words
+ 言语 
 %%%%
-Alchemy
+ 炼金术 
 
-Albedo
+反照率
 
-Alchemy
+炼金术 
 
-Alteration
+ 蚀变 
 
-Argyropoeia
+ 银藻 
 
-Azoth
+ 偶氮 
 
-Calcination
+ 煅烧 
 
-Ceration
+ 铈化 
 
-Chemistry
+ 化学 
 
-Chrysopoeia
+ 金藻 
 
-Citrinitas
+ 柑橘 
 
-Cohobation
+ 共煮 
 
-Composition
+ 成分
 
-Compounds
+ 化合物 
 
-Concoctions
+ 混合物 
 
-Congelation
+ 凝结 
 
-Contamination
+ 污染 
 
-Crysopoeia
+ Crysopoeia 
 
-Decantation
+ 倾析 
 
-Decomposition
+ 分解 
 
-Degeneration
+ 变性 
 
-Distillation
+ 蒸馏 
 
-Effluvium
+ 臭气
 
-Esoterica
+ Esoterica 
 
-Essence
+ 精华 
 
-Fermentation
+ 发酵 
 
-Flux
+ Flux 
 
-Formulae
+ 配方 
 
-Hermetica
+ Hermetica 
 
-Impurities
+ 杂质 
 
-Intoxication
+ 中毒 
 
-Iosis
+ Iosis 
 
-Leucosis
+ Leucosis 
 
-Litharge
+ Litharge 
 
-Melanosis
+ 黑色素 
 
-Nigredo
+ Nigredo 
 
-Pollution
+ 污染 
 
-Prima Materia
+ 原始材料 
 
-Projection
+ 投影 
 
-Quintessence
+ Quintessence 
 
-Reagents
+ 试剂 
 
-Reconfiguration
+ 重新配置
 
-Reformation
+重整 
 
-Rubedo
+ Rubedo 
 
-Solvents
+ 溶剂 
 
-Spagyria
+ Spagyria 
 
-Sublimation
+ 升华 
 
-Substances
+ 物质 
 
-Synthesis
+ 合成 
 
-Takwin
+ Takwin 
 
-Tinctures
+ 酊剂 
 
-Toxicants
+ 毒物 
 
-Toxicity
+ 毒性
 
-Toxicology
+ 毒理学 
 
-Toxins
+ 毒素 
 
-Transfiguration
+ 变形 
 
-Transformation
+ 转化 
 
-Transmogrification
+ 变形 
 
-Transmutation
+ 嬗变 
 
-Venin
+ 静脉 
 
-Venom
+ 毒液 
 
-Virulence
+ 毒力 
 
-Vitriol
+ 硫酸
 
-Xanthosis
+ Xanthosis 
 
-the Adder
+ 加法器 
 
-the Alembic
+ Alembic 
 
-the Alkahest
+ Alkahest 
 
-the Athanor
+ Athanor 
 
-the Beaker
+ 烧杯 
 
-the Catalyst
+ 催化剂 
 
-the Crucible
+ 坩埚 
 
-the Cucurbite
+ Cucurbite 
 
-the Decanter
+ Decanter 
 
-the Elixir
+ Elixir 
 
-# Bilingual joke; "Gift" means "poison" in German
-the Gift
+ # 双语笑话； “礼物”在德语中的意思是“毒药” 
+ 礼物 
 
-the Great Work
+ 伟大的作品 
 
-the Hornet
+ 大黄蜂 
 
-the Iliaster
+ 伊利亚斯特 
 
-the Magnum Opus
+ 巨著 
 
-the Mortar
+ 迫击炮 
 
-the Ouroboros
+ 衔尾蛇
 
-the Panacea
+万灵药 
 
-the Pestle
+ 杵 
 
-the Prime Material
+ 主要材料 
 
-the Queen Bee
+ 蜂王 
 
-the Rebis
+ 雷比斯 
 
-the Scorpion
+ 蝎子 
 
-the Snake
+ 蛇 
 
-the Solution
+ 溶液 
 
-the Tincture
+ 酊剂 
 
-the Yliaster
+ Yliaster 
 
 %%%%
-Summoning
+ 召唤 
 
-Accompaniment
+伴奏 
 
-Accomplices
+ 共犯 
 
-Adjuration
+ 裁决 
 
-Allies
+ 盟友 
 
-Apparitions
+ 显现 
 
-Arrival
+ 到达 
 
-Assembling
+ 集合 
 
-Attendants
+ 随从 
 
-Beckoning
+ 召唤 
 
-Bringing Forth
+ 召唤 
 
-Calling
+ 召唤 
 
-Command
+ 命令 
 
-Companions
+ 同伴
 
-Company
+ 公司 
 
-Convocation
+ 召集 
 
-Creation
+ 创造 
 
-Formation
+ 形成 
 
-Generation
+ 生成 
 
-Illusion
+ 幻觉 
 
-Invitation
+ 邀请 
 
-Leadership
+ 领导力 
 
-Mustering
+ 集合 
 
-Phantasms
+ 幻象 
 
-Production
+ 生产
 
-Rallying
+ 集会 
 
-Sidekicks
+ 助手 
 
-Summoning
+ 召唤 
 
-Support
+ 支持 
 
-the Band
+ 乐队 
 
-the Boggart
+ 博格特 
 
-the Comitatus
+ 委员会 
 
-the Commander
+ 指挥官 
 
-the Congregation
+ 会众
 
-the Entourage
+随从 
 
-the Escort
+ 护卫 
 
-the Familiar
+ 熟悉 
 
-the Flock
+ 羊群 
 
-the Gang
+ 帮派 
 
-the Gathering
+ 聚会 
 
-the Legion
+ 军团 
 
-the Mirage
+ 幻影 
 
-the Mob
+ 暴民 
 
-the Retinue
+ 随从 
 
-the Swarm
+群体 
 
-the Throng
+ 群体 
 
-the Union
+ 联盟 
 %%%%
-Translocation
+ 易位 
 
-Angles
+ 角度 
 
-Coordinates
+ 坐标 
 
-Correspondence
+ 对应 
 
-Direction
+ 方向 
 
-Dislocation
+ 错位 
 
-Displacement
+ 位移 
 
-Distance
+ 距离 
 
-Elsewhere
+ 其他地方
 
-Geometries
+ 几何图形 
 
-Geometry
+ 几何图形 
 
-Locality
+ 局部性 
 
-Location
+ 位置 
 
-Movement
+ 运动 
 
-Nonlocality
+ 非局部性 
 
-Orientation
+ 方向 
 
-Peregrination
+ 游移 
 
-Places
+ 地点 
 
-Points
+ 点 
 
-Portals
+ 传送门 
 
-Position
+ 位置 
 
-Relocation
+ 重定位
 
-Shifting
+ 移动
 
-Space
+ 太空 
 
 w:2
-Spooky Action
+ 幽灵行动 
 
-Subspace
+ 子空间 
 
-Superposition
+ 叠加 
 
-Topology
+ 拓扑 
 
-Translocation
+ 易位 
 
-Transportation
+ 运输 
 
-Transposition
+ 转置
 
-Wanderlust
+漫游癖 
 
-the Blink Frog
+ 眨眼青蛙 
 
-the Compass
+ 指南针 
 
-the Door
+ 门 
 
-the Excursion
+ 短途旅行 
 
-the Geodesic
+ 测地线 
 
-# Longer than you think!
-the Jaunt
+ # 比你想象的还要长！ 
+ 短途旅行 
 
-the Manifold
+ 流形
 
-the Map
+ 地图 
 
-the Singularity
+ 奇点 
 
-the Tesseract
+ 宇宙立方 
 
-the Traveller
+ 旅行者 
 
-the Vector
+ 向量 
 
-the Vertex
+ 顶点 
 
-the Voyage
+ 航程 
 
-the Wayfarer
+ 徒步者 
 %%%%
-Forgecraft
+ 锻造工艺
 
-Artifice
+ 技巧 
 
-Assemblage
+ 装配 
 
-Assembly
+ 装配 
 
-Automation
+ 自动化 
 
-Blueprints
+ 蓝图 
 
-Clockwork
+ 发条 
 
-Cogs
+ 齿轮 
 
-Composition
+ 组合 
 
-Construction
+ 构造 
 
-Crafting
+ 制作 
 
-Design
+ 设计 
 
-Diagrams
+ 图表
 
-Drafting
+ 起草 
 
-Fabrication
+ 制造 
 
-Forgecraft
+ 锻造 
 
-Frameworks
+ 框架 
 
-Gears
+ 齿轮 
 
-Industry
+ 工业 
 
-Infrastructure
+ 基础设施 
 
-Instantiation
+ 实例化 
 
-Invention
+ 发明 
 
-Levers
+ 杠杆 
 
-Linkages
+ 连杆 
 
-Machinery
+ 机械
 
-Machining
+机械加工 
 
-Mechanics
+ 力学 
 
-Mechanisms
+ 机构 
 
-Mechanomancy
+ 力学 
 
-Metallurgy
+ 冶金 
 
-Metalwork
+ 金属加工 
 
-Metalworking
+ 金属加工 
 
-Overdrive
+ 超速 
 
-Realisation
+ 实现 
 
-Reification
+ 精细化 
 
-Schematics
+ 原理图
 
-Spellforging
+ 法术锻造 
 
-Spellsmithing
+ 法术锻造 
 
-Springs
+ 弹簧 
 
-Sprockets
+ 链轮 
 
-Steel
+ 钢 
 
-Structure
+ 结构 
 
-Technology
+ 技术 
 
-Technomancy
+ 技术 
 
-Tools
+ 工具 
 
-Torque
+ 扭矩 
 
-the Anvil
+ 铁砧
 
-the Architect
+ 建筑师 
 
-the Artificer
+ 工匠 
 
-the Automaton
+ 自动机 
 
-the Blacksmith
+ 铁匠 
 
-the Configuration
+ 配置 
 
-the Construct
+ 构造 
 
-the Contraption
+ 装置 
 
-the Edifice
+ 大厦 
 
-the Engine
+ 引擎 
 
-the Engineer
+ 工程师
 
-the Escapement
+ 擒纵机构 
 
-the Factory
+ 工厂 
 
-the Flywheel
+ 飞轮 
 
-the Forge
+ 锻造厂 
 
-the Forgewright
+ 锻造者 
 
-the Foundry
+ 铸造厂 
 
-the Hammer
+ 锤子 
 
-the Inventor
+ 发明家
 
-the Ironworks
+炼铁厂 
 
-the Linchpin
+ 关键销 
 
-the Machine
+ 机器 
 
-the Machinist
+ 机械师 
 
-the Mainspring
+ 主发条 
 
-the Maker
+ 制造商 
 
-the Mallet
+ 木槌 
 
-the Masterpiece
+ 杰作 
 
-the Masterwork
+ 杰作 
 
-the Mechanist
+ 机械师 
 
-the Pendulum
+ 摆锤
 
-the Pinion
+ 小齿轮 
 
-the Ratchet
+ 棘轮 
 
-the Rivet
+ 铆钉 
 
-the Servo
+ 伺服机构 
 
-the Sledgehammer
+ 大锤 
 
-the Smith
+ 史密斯 
 
-the Smithy
+ 铁匠铺 
 
-the Spellforge
+ 法术铸造 
 
-the Spellsmith
+ 法术工匠 
 
-the Tinker
+ 修补匠
 
-the Tinkerer
+ 修补匠 
 
-the Watchmaker
+ 钟表匠 
 
-the Workbench
+ 工作台 
 %%%%
 ##############################################
-# adjectives for secondary spell school
-Air adj
+ # 中学法术学校的形容词 
+ 空气形容词 
 
-Aerial
+ 空中 
 
-Airborne
+ 机载 
 
-Airy
+ 空气 
 
-Atmospheric
+ 大气 
 
-Blustery
+ 狂风
 
-Breezy
+ 微风 
 
-Brumous
+ 狂野 
 
-Charged
+ 带电 
 
-Cloudy
+ 多云 
 
-Electric
+ 电动 
 
-Feathery
+ 羽毛 
 
-Floating
+ 漂浮 
 
-Flying
+ 飞行 
 
-Foggy
+ 雾气 
 
-Fulgurant
+ 灼热
 
-Fulgurous
+炽热 
 
-Fuming
+ 发烟 
 
-Galvanic
+ 电击 
 
-Gaseous
+ 气体 
 
-Gusty
+ 阵风 
 
-Hazy
+ 朦胧 
 
-Inclement
+ 恶劣 
 
-Lofty
+ 崇高 
 
-Meteoric
+ 流星 
 
-Misty
+ 薄雾 
 
-Nebulous
+ 模糊
 
-Overcast
+ 阴云 
 
-Overhead
+ 顶空 
 
-Pneumatic
+ 气动 
 
-Shocking
+ 震撼 
 
-Stormy
+ 暴风雨 
 
-Tempestuous
+ 狂暴 
 
-Turbulent
+ 湍流 
 
-Vapourous
+ 水汽 
 
-Voltaic
+ 伏打 
 
-Weathered
+ 风化 
 
-Windswept
+风扫 
 
-Windy
+ 风吹 
 
-Wispy
+ 纤细 
 %%%%
-Conjuration adj
+ 召唤调整 
 
-Actinic
+ 光化 
 
-Beaming
+ 喜气洋洋 
 
-Blasted
+ 爆破 
 
-Bright
+ 明亮 
 
-Brilliant
+ 辉煌 
 
-Combative
+ 好战 
 
-Conjured
+ 召唤 
 
-Coruscating
+ 光彩
 
-Damaging
+ 破坏性 
 
-Destructive
+ 破坏性 
 
-Dynamic
+ 动态 
 
-Effulgent
+ 光芒四射 
 
-Energetic
+ 精力充沛 
 
-Excruciating
+ 痛苦 
 
-Flashy
+ 华丽 
 
-Forceful
+ 有力
 
-Fulgent
+炽热 
 
-Glowing
+ 发光 
 
-Harmful
+ 有害 
 
-Hurtful
+ 有害 
 
-Injurious
+ 有害 
 
-Intense
+ 激烈 
 
-Lethal
+ 致命 
 
-Limned
+ 有限 
 
-Lucent
+ 明亮 
 
-Luminous
+ 发光 
 
-Kinetic
+ 动能 
 
-Mighty
+ 强大 
 
-Nocuous
+ 有害
 
-Potent
+ 强效 
 
-Powerful
+ 强大 
 
-Profulgent
+ 辉煌 
 
-Puissant
+ 强劲 
 
-Radiant
+ 光芒四射 
 
-Refulgent
+ 辉煌 
 
-Resplendent
+ 辉煌 
 
-Ruinous
+ 毁灭 
 
-Scintillating
+ 闪烁 
 
-Shining
+ 闪耀 
 
-Vehement
+ 猛烈 
 
-Vibrant
+活力 
 
-Violent
+ 暴力 
 
-Vivid
+ 生动 
 
-Wild
+ 狂野 
 %%%%
-Earth adj
+ 土色 
 
-Arenous
+ 灰质 
 
-Ashen
+ 灰暗 
 
-Chthonic
+ 阴暗 
 
-Coarse
+ 粗糙 
 
-Crystalline
+ 结晶 
 
-Dense
+ 密集 
 
-Dusty
+ 尘土飞扬
 
-Earthen
+ 土质 
 
-Felsic
+ 长晶 
 
-Flinty
+ 燧石 
 
-Geological
+ 地质 
 
-# as in the draconians
-Grey
+ # 与龙人一样 
+ 灰色 
 
-Gritty
+ 坚韧 
 
-Grounded
+ 接地
 
-Heavy
+重质 
 
-Indurated
+ 坚硬 
 
-Iron
+ 铁 
 
-Ironbound
+ 铁质 
 
-Lapidarian
+ 宝石矿 
 
-Lapidary
+ 宝石矿 
 
-Leaden
+ 铅矿 
 
-Lithic
+ 石质 
 
-Metallic
+ 金属矿 
 
-Petrified
+ 石化矿 
 
-Petrous
+ 岩矿矿 
 
-Plutonic
+ 深矿矿 
 
-Rocky
+ 岩石矿
 
-Rough
+ 粗糙 
 
-Sandy
+ 桑迪 
 
-Seismic
+ 地震 
 
-Solid
+ 固体 
 
-Subterranean
+ 地下 
 
-Stony
+ 石质 
 
-Tectonic
+ 构造 
 
-Telluric
+ 大地 
 
-Terrestrial
+ 陆地 
 
-Underground
+ 地下 
 
-Volcanic
+ 火山 
 %%%%
-Fire adj
+ 火灾调整
 
-Blazing
+ 炽热 
 
-Blistering
+ 起泡 
 
-Burning
+ 燃烧 
 
-Burnt
+ 烧焦 
 
-Calescent
+ 低温 
 
-Calid
+ 高温 
 
-Calorific
+ 发热 
 
-Charred
+ 烧焦 
 
-Combustive
+ 燃烧 
 
-Comburant
+ 助燃 
 
-Conflagrant
+ 助燃 
 
-Decalescent
+ 消热 
 
-Exothermic
+ 放热 
 
-Fiery
+ 火热
 
-Flaming
+ 火焰 
 
-Flammable
+ 易燃 
 
-Flamy
+ 火焰 
 
-Glowing
+ 发光 
 
-Heated
+ 加热 
 
-Hot
+ 热 
 
-Igneous
+ 火成岩
 
-Incandescent
+白炽 
 
-Incendiary
+ 燃烧 
 
-Incinerated
+ 焚烧 
 
-Inflammable
+ 易燃 
 
-Kindled
+ 点燃 
 
-Molten
+ 熔化 
 
-Red
+ 红色 
 
-Red-hot
+ 炽热 
 
-Roasted
+ 烘烤 
 
-Searing
+ 灼烧 
 
-Scalding
+ 烫伤 
 
-Scorched
+ 烧焦
 
-Scorching
+ 灼烧 
 
-Singed
+ 烧焦 
 
-Sizzling
+ 灼热 
 
-Smoking
+ 吸烟 
 
-Smouldering
+ 阴燃 
 
 w:2
-Spicy
+ 辛辣 
 
-Sulphurous
+ 含硫 
 
-Sweltering
+ 闷热 
 
-Torrefying
+ 烘烤 
 
-Torrid
+ 炎热 
 
-Tropical
+ 热带 
 
-Volatile
+ 挥发性
 
 w:2
-Well-done
+ 干得好 
 %%%%
-Hexes adj
+ 六角形 adj 
 
-Alluring
+ 诱人 
 
-Baleful
+ 恶毒 
 
-Becharmed
+ 着迷 
 
-Becharming
+ 迷人 
 
-Beguiled
+ 迷惑 
 
-Beguiling
+ 迷惑 
 
-Bewitched
+ 着迷 
 
-Bewitching
+ 迷惑 
 
-Bound
+ 束缚
 
-Captivating
+ 迷人 
 
-Charmed
+ 迷人 
 
-Charming
+ 迷人 
 
-Cunning
+ 狡猾 
 
-Cursed
+ 诅咒 
 
-Destined
+ 注定 
 
-Dire
+ 可怕 
 
-Doomed
+ 注定 
 
-Enchanted
+ 附魔 
 
-Enchanting
+ 附魔 
 
-Ensnaring
+ 诱捕 
 
-Enthralled
+ 着迷 
 
-Enthralling
+ 迷人
 
-Entranced
+着迷 
 
-Entrancing
+ 着迷 
 
-Fascinating
+ 迷人 
 
-Fateful
+ 宿命 
 
-Fetching
+ 迷人 
 
-Fettered
+ 束缚 
 
-Fey
+ 妖精 
 
-Glamourous
+ 迷人 
 
-Hapless
+ 倒霉 
 
-Hexed
+ 妖术 
 
-Hexing
+ 妖术
 
-Hindering
+ 阻碍 
 
-Hopeless
+ 无望 
 
-Ill-boding
+ 不吉利 
 
-Ill-fated
+ 厄运 
 
-Ill-omened
+ 凶兆 
 
-Ill-starred
+ 凶星 
 
-Inauspicious
+ 不祥 
 
-Jinxed
+ 倒霉 
 
-Lost
+ 失落 
 
-Maledictive
+ 凶兆
 
-Portentous
+ 凶兆 
 
-Predestined
+ 命中注定 
 
-Spellbinding
+ 咒语 
 
-Star-crossed
+ 命运多舛 
 
-Tragic
+ 悲剧 
 
-Twinkling
+ 闪烁 
 
-Unfortunate
+ 不幸 
 
-Unlucky
+ 不幸 
 
-Vexatious
+ 烦人 
 
-Vexing
+ 恼人
 
-Weird
+ 奇怪的 
 %%%%
-Ice adj
+ 冰 adj 
 
-Algid
+ Algid 
 
-Alpine
+ Alpine 
 
-Arctic
+ Arctic 
 
-# Like the infamous jellies
-Azure
+ # 像臭名昭著的果冻 
+ Azure 
 
-Bitter
+ Bitter 
 
-Bleak
+ Bleak
 
-Boreal
+北方 
 
-Brumal
+ 布鲁马尔 
 
-Chilled
+ 冷冻 
 
-Chilling
+ 冷冻 
 
-Chilly
+ 寒冷 
 
-Cold
+ 寒冷 
 
-Congealing
+ 凝结 
 
-Crystallised
+ 结晶 
 
-Freezing
+ 冷冻 
 
-Frigid
+ 寒冷 
 
-Frigorific
+ 寒冷 
 
-Frore
+ 冷冻
 
-Frostbitten
+ 霜冻 
 
-Frostbound
+ 霜冻 
 
-Frosty
+ 霜冻 
 
-Frozen
+ 冰冻 
 
-Gelid
+ 凝胶 
 
-Glacial
+ 冰冻 
 
-Hiemal
+ 冰冻 
 
-Hyperborean
+ 寒带 
 
-Hypothermic
+ 低温 
 
-Icebound
+ 冰封
 
-Iced
+ 冰冷 
 
-Icy
+ 冰冷 
 
-Nival
+ 冰雪 
 
-Niveous
+ 冰雪 
 
-Numb
+ 麻木 
 
-Polar
+ 极地 
 
-Shivering
+ 颤抖 
 
-Snowing
+ 下雪 
 
-Snowy
+ 下雪 
 
-Snow-white
+ 雪白 
 
-Subzero
+ 零度以下
 
-# as in the draconians
-White
+ # 如龙人中的 
+ 白色 
 
-Wintry
+ 寒冷 
 %%%%
-Necromancy adj
+ 死灵 adj 
 
-Bloodied
+ 血腥 
 
-Bloody
+ 血腥 
 
-Caliginous
+ 嗜血 
 
-Charnel
+ 埋葬处
 
-Creeping
+爬行 
 
 w:2
-Creepy
+ 令人毛骨悚然 
 
-Cruentate
+ 十字形 
 
-Dark
+ 黑暗 
 
-Dead
+ 死亡 
 
-Deathly
+ 死亡 
 
-Decaying
+ 腐烂 
 
-Dismal
+ 阴沉 
 
-Doomed
+ 注定 
 
-Evil
+ 邪恶 
 
-Fatal
+ 致命 
 
-Funereal
+ 葬礼 
 
-Ghastly
+ 阴森 
 
-Ghoulish
+ 食尸鬼 
 
-Gloomy
+ 阴沉
 
-Grave
+ 坟墓 
 
-Grim
+ 冷酷 
 
-Grisly
+ 恐怖 
 
-Horrible
+ 恐怖 
 
-Horrid
+ 恐怖 
 
-Imbrued
+ 沾染 
 
-Lethal
+ 致命 
 
-Lifeless
+ 死气沉沉 
 
-Loathsome
+ 令人厌恶 
 
-Macabre
+ 令人毛骨悚然 
 
-Malignant
+ 恶性 
 
-Morbid
+ 病态
 
-Mortal
+ 凡人 
 
-Mortuary
+ 太平间 
 
-Necrotic
+ 坏死 
 
-Posthumous
+ 死后 
 
-Postmortem
+ 死后 
 
-Rotting
+ 腐烂 
 
-# in the old sense of "quicken", "to bring to life"
-Quickened
+ # 旧意义上的“加速”、“赋予生命”
+ 加速 
 
-Sanguinary
+ 血腥
 
-Sanguinolent
+ 血色 
 
-Saturnine
+ 土星 
 
-Sepulchral
+ 坟墓 
 
-Shadowy
+ 阴暗 
 
-Sinister
+ 险恶 
 
-Somber
+ 阴沉 
 
 w:2
-Spooky
+ 幽灵 
 
-Spectral
+ 光谱
 
-Stygian
+冥河 
 
-Tenebrous
+ 阴暗 
 
-Twisted
+ 扭曲 
 
-Undead
+ 不死 
 
-Unholy
+邪恶
 
-Vile
+ 邪恶 
 
-Wicked
+ 邪恶 
 %%%%
-Alchemy adj
+ 炼金术 adj 
 
-Alchemical
+ 炼金术 
 
-Altered
+ 改变 
 
-Amorphous
+ 无定形 
 
-Arsenical
+ 砷 
 
-Baneful
+ 邪恶
 
-Caustic
+ 腐蚀性 
 
-Changed
+ 已更改 
 
-Changing
+ 改变 
 
-Chemical
+ 化学 
 
-Contaminated
+ 污染 
 
-Differential
+ 差异 
 
-Feculent
+ 污秽 
 
-Fetid
+ 恶臭 
 
-Fluctuating
+ 波动 
 
-Glowing
+ 发光 
 
-Green
+ 绿色 
 
-Hyletic
+ Hyletic 
 
-Hylic
+ Hylic 
 
-Impure
+ 不纯 
 
-Iotic
+ Iotic 
 
-Leucotic
+ 白细胞 
 
-Magnum
+ Magnum 
 
-Melanotic
+ 黑细胞 
 
-Mercurial
+ 汞 
 
-Metamorphic
+ 变态 
 
-Mutable
+ 突变 
 
-Mutagenic
+ 突变 
 
-Mutated
+ 突变 
 
-Nocuous
+ 有毒 
 
-Noxious
+ 有毒型 
 
-Poisonous
+ 有毒 
 
-Polluted
+污染的 
 
-Prime
+ Prime 
 
-Promethean
+ Promethean 
 
-Protean
+ Protean 
 
-Reconfigured
+ 重新配置的 
 
-Refined
+ 精炼的 
 
-Reshaped
+ 重塑的 
 
-Septic
+ 化粪池
 
-Spagyric
+Spagyric 
 
-Synthesised
+ 合成 
 
-Toxic
+ 有毒 
 
-Transformed
+ 变形 
 
-Transforming
+ 变形 
 
-Transmuted
+ 变形 
 
-Unrefined
+ 未精炼 
 
-Unstable
+ 不稳定 
 
-Variable
+ 可变 
 
-Venomous
+ 有毒 
 
-Viperous
+ 毒蛇
 
-Viridian
+ 翠绿 
 
-Virous
+ 病毒 
 
-Virulent
+ 剧毒 
 
-Vitriolic
+ 硫酸 
 
-Xanthotic
+ 黄色 
 %%%%
-Summoning adj
+ 召唤 adj 
 
-Aggregated
+ 聚集 
 
-Allied
+ 同盟 
 
-Amalgamated
+ 合并 
 
-Amassed
+ 聚集
 
-Assembled
+ 集合型 
 
-Associated
+ 关联型 
 
-Assistive
+ 辅助型 
 
-Called
+ 称为 
 
-Collected
+ 集合型 
 
-Collective
+ 集体型 
 
-Combined
+ 组合型 
 
-Concerted
+ 协调型 
 
-Congregated
+ 聚合型 
 
-Consolidated
+ 联合型 
 
-Cooperative
+ 合作型
 
-Created
+ 创建 
 
-Creative
+ 创意 
 
-Familiar
+ 熟悉 
 
-Friendly
+ 友好 
 
-Gathered
+ 收集 
 
-Generated
+ 生成 
 
-Generative
+ 生成 
 
-Helpful
+ 有用
 
-Illusory
+虚幻 
 
-Marshalled
+ 集结 
 
-Massed
+ 聚集 
 
-Mustered
+ 聚集 
 
-Mutual
+ 相互 
 
-Phantasmal
+ 幻影 
 
-Productive
+ 生产力 
 
-Rallied
+ 集结 
 
-Shared
+ 共享 
 
-Spawned
+ 生成 
 
-Summoned
+ 召唤
 
-Supportive
+ 支持 
 
-Sympathetic
+ 同情 
 
-Syndicated
+ 联合 
 
-Unified
+ 统一 
 
-United
+ 联合 
 %%%%
-Translocation adj
+ 易位 adj 
 
-# A reference to the removed Akashic Record spellbook,
-# which contained powerful Translocations spells.
-Akashic
+ # 参考已删除的阿卡什记录法术书，
+ # 其中包含强大的易位法术。 
+ 阿卡什 
 
-Angular
+ 角度 
 
-Blinking
+ 闪烁 
 
-Corresponding
+ 对应 
 
-Deviated
+ 偏离 
 
-Dimensional
+ 维度 
 
-Discontinuous
+ 不连续 
 
-Disjunct
+ 分离 
 
-Dislocated
+ 脱位 
 
-Displaced
+ 移位 
 
-Distorted
+扭曲 
 
-Elliptic
+ 椭圆 
 
-Geometric
+ 几何 
 
-Hyperbolic
+ 双曲线 
 
-Isometric
+ 等距 
 
-Liminal
+ 阈值 
 
-Linear
+ 线性 
 
-Manifold
+ 流形 
 
-Moving
+ 移动 
 
-Non-Euclidean
+ 非欧几里德 
 
-Non-linear
+ 非线性
 
-Parabolic
+抛物线 
 
-Parallel
+ 平行 
 
-Planar
+ 平面 
 
-Projective
+ 射影 
 
-Quantum
+ 量子 
 
-Relocated
+ 重定位 
 
-Shifting
+ 移动
 
-Spatial
+ 空间 
 
-Topological
+ 拓扑 
 
-Translocated
+ 易位 
 
-Translocational
+ 易位 
 
-Transposed
+ 转位 
 
-Twisted
+ 扭曲
 
-Unstable
+ 不稳定 
 
-Warped
+ 扭曲 
 %%%%
-forgecraft adj
+ 锻造 
 
-Alloyed
+ 合金 
 
-Artificial
+ 人工 
 
-Artisanal
+ 手工 
 
-Assembled
+ 组装 
 
-Automatic
+ 自动 
 
-Built
+ 内置 
 
-Buzzing
+ 蜂鸣 
 
-Calibrated
+ 校准
 
-Clacking
+ 叮当声 
 
-Clanging
+ 叮当声 
 
-Clanking
+ 叮当声 
 
-Clattering
+ 叮当声 
 
-Clicking
+ 咔哒声 
 
-Clinking
+ 叮当声 
 
-Clockwork
+ 发条 
 
-Completed
+ 已完成 
 
-Concrete
+ 混凝土 
 
-Constructed
+ 已建造 
 
-Crafted
+ 已制作
 
-Creaking
+ 吱吱作响 
 
-Designed
+ 设计 
 
-Engineered
+ 工程设计 
 
-Fabricated
+ 制造 
 
-Fashioned
+ 时尚 
 
-Fine-tuned
+ 微调
 
-Forgecrafted
+锻造 
 
-Forged
+ 锻造 
 
-Forgewrought
+ 锻造 
 
-Formed
+ 成型 
 
-Hammered
+ 锤击 
 
-Hissing
+ 嘶嘶 
 
-Industrial
+ 工业 
 
-Ingenious
+ 巧妙 
 
-Innovative
+ 创新 
 
-Instantiated
+ 实例化 
 
-Invented
+ 发明 
 
-Jangling
+ Jangling 
 
-Jingling
+ Jingling 
 
-Machined
+ 机加工 
 
-Manufactured
+ 制造 
 
-Mechanical
+ 机械 
 
-Mechanised
+ 机械化 
 
-Metallic
+ 金属 
 
-Metallurgical
+ 冶金 
 
-Modelled
+ 建模 
 
-Physical
+ 物理 
 
-Rattling
+ 敲击 
 
-Realised
+ 已实现
 
-Reified
+ 实体化 
 
-Schematic
+ 示意图 
 
-Shaped
+ 形状 
 
-Spellcrafted
+ 法术制作 
 
-Spellforged
+ 法术锻造 
 
-Spellsmithed
+ 法术锻造 
 
-Steel
+ 钢 
 
-Structural
+ 结构 
 
-Synthetic
+ 合成 
 
-Technological
+ 科技 
 
-Tempered
+调质 
 
-Thrumming
+ 敲击 
 
-Ticking
+ 滴答 
 
-Tooled
+ 工具 
 
-Vibrating
+ 振动 
 
-Well-oiled
+ 润滑良好 
 
-Well-tempered
+ 调质良好
 
-Whirring
+呼呼 
 
-Whizzing
+ 呼啸 
 
-Wind-up
+ 发条 
 
-Worked
+ 工作 
 
-Wrought
+ 锻造 
 %%%%
-# potential previous owners of books
-# __NONE is parsed to the empty string
-# First, combinations.
-# (These MUST be in alphabetical order; "Earth Conjurations owner" won't work!)
-highlevel Conjuration Earth owner
+ # 书籍的潜在前所有者 
+ # __NONE 被解析为空字符串 
+ # 首先，组合。 
+ #（这些必须按字母顺序排列；“地球召唤拥有者”不起作用！） 
+ 高级召唤地球拥有者 
 
-Dispater
+ Dispater 
 
-@Conjuration Earth owner@
+ @Conjuration Earth owner@ 
 %%%%
-Conjuration Earth owner
+ 召唤地球拥有者 
 
-Lehudib
+ Lehudib 
 
 __NONE
 %%%%
-highlevel Conjuration Fire owner
+ 高级召唤火焰拥有者
 
-Asmodeus
+ 阿斯莫蒂乌斯 
 
-Cerebov
-
-__NONE
-%%%%
-highlevel Conjuration Necromancy owner
-
-Ereshkigal
+ 塞雷博夫 
 
 __NONE
 %%%%
-highlevel Conjuration Summoning owner
+ 高级召唤死灵拥有者 
 
-Asmodeus
-
-Dispater
+ 埃列什基伽勒 
 
 __NONE
 %%%%
-Alchemy Earth owner
+ 高级召唤召唤拥有者 
+
+ 阿斯莫蒂乌斯 
+
+ 迪斯帕特 
+
+__NONE
+%%%%
+ 炼金土拥有者 
 
 Roxanne
 
 __NONE
 %%%%
-highlevel Earth Summoning owner
+ 高级地球拥有者召唤拥有者 
 
-Dispater
-
-__NONE
-%%%%
-highlevel Fire Summoning owner
-
-Asmodeus
+ 迪斯帕特 
 
 __NONE
 %%%%
-Fire Ice owner
+ 高级火系召唤拥有者 
 
-Vv
-
-__NONE
-%%%%
-highlevel Alchemy Necromancy owner
-
-Gloorx Vloq
+ 阿斯蒙蒂斯 
 
 __NONE
 %%%%
-Alchemy Necromancy owner
+ 火冰拥有者 
 
-Cigotuvi
+ Vv 
 
 __NONE
 %%%%
-# Single spell schools.
-highlevel Conjuration owner
+ 高级炼金死灵拥有者 
 
-Asmodeus
+ Gloorx Vloq 
 
-Ereshkigal
+__NONE
+%%%%
+ 炼金死灵拥有者 
 
-Dispater
+ Cigotuvi 
 
-Cerebov
+__NONE
+%%%%
+ # 单拼学校。 
+ 高级召唤拥有者 
 
-Lom Lobon
+ 阿斯摩蒂乌斯 
+
+ 埃列什基加尔 
+
+ 迪斯帕特 
+
+ 塞雷博夫 
+
+ 洛姆·洛邦
 
 w:5
-Vehumet
+Vehumet 
 
 w:20
-@Conjuration owner@
+ @Conjuration owner@ 
 %%%%
-Conjuration owner
+ 召唤物所有者 
 
-Lehudib
+ Lehudib 
 
-Iskenderun
+ Iskenderun 
 
 __NONE
 %%%%
-highlevel Earth owner
+ 高级地球所有者 
 
-Dispater
+ Dispater 
 
 w:50
-@Earth owner@
+ @Earth owner@ 
 %%%%
-Earth owner
+ 地球所有者 
 
-Jorgrun
+ 乔格伦
 
-Lehudib
+ Lehudib 
 
-Lee
+ 李 
 
-Leda
+ 勒达 
 
 Roxanne
 
 __NONE
 %%%%
-highlevel Fire owner
+ 高级 火主 
 
-Asmodeus
+ 阿斯摩蒂斯 
 
-Cerebov
-
-__NONE
-%%%%
-Ice owner
-
-Ozocubu
+ 塞雷波夫 
 
 __NONE
 %%%%
-Air owner
+ 冰主 
 
-the Cloud Mage
-
-Maxwell
-
-Nikola
+ 奥佐库布 
 
 __NONE
 %%%%
-highlevel Necromancy owner
+ 空气主 
 
-Ereshkigal
+ 云法师 
 
-Gloorx Vloq
+ 麦克斯韦 
+
+ Nikola 
+
+__NONE
+%%%%
+ 高级死灵法师 
+
+ Ereshkigal 
+
+ Gloorx Vloq 
 
 w:5
-Kikubaaqudgha
+ Kikubaaqudgha 
 
 w:40
-@Necromancy owner@
+ @Necromancy owner@ 
 %%%%
-Necromancy owner
+ 死灵法师 
 
-Borgnjor
+ Borgnjor 
 
-Cigotuvi
+ Cigotuvi 
 
-Khufu
+胡夫
 
-Zonguldrok
+ Zonguldrok 
 
 __NONE
 %%%%
-highlevel Alchemy owner
+ 高级炼金所有者 
 
-Gloorx Vloq
+ Gloorx Vloq 
 
 w:30
-@Alchemy owner@
+ @Alchemy owner@ 
 %%%%
-Alchemy owner
+ 炼金所有者 
 
-Alistair
+ 阿利斯泰尔 
 
-Cigotuvi
+ Cigotuvi 
 
-Olgreb
+ 奥尔格勒布 
 
-Eringya
+ 艾林雅 
 
 __NONE
 %%%%
-highlevel Summoning owner
+ 高级召唤所有者
 
-Asmodeus
+ Asmodeus 
 
-Dispater
+ 调度器
 
-Mnoleg
+Mnoleg 
 
-@Summoning owner@
+ @Summoning owner@ 
 %%%%
-Summoning owner
+ 召唤拥有者 
 
 Mara
 
 __NONE
 %%%%
-highlevel Translocation owner
+ 高级易位拥有者 
 
-Lom Lobon
+ Lom Lobon 
 
 w:20
-@Translocation owner@
+ @Translocation owner@ 
 %%%%
-Translocation owner
+ 易位拥有者 
 
-Gell
+ 盖尔 
 
-Golubria
+ Golubria 
 
 __NONE
 %%%%
-Hexes owner
+ 六边形拥有者
 
-Yara
+ Yara 
 
 w:5
-Terpsichore
+ Terpsichore 
 
-Tukima
+ Tukima
 
 __NONE
 %%%%

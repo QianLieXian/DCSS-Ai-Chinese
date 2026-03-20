@@ -1,1884 +1,1884 @@
 ######################################################
-# Randart Names
+# Randart 名称 
 # -------------
-# rand_wpn.txt: keywords for randart WEAPONS
+# rand_wpn.txt：randart WEAPONS 
 #
-# This file contains the lists of keywords (and their
-# weights) for most of the keywords used for randart
-# weapons. You will find other ones in rand_all.txt.
-# See the explanation in the main file, randname.txt,
-# for more details.
+ 的关键字 # 此文件包含用于生成 
+ # 权重的关键字）适用于 randart 
+ # 武器的关键字。您将在 rand_all.txt 中找到其他内容。 
+ # 请参阅主文件randname.txt中的说明，
+ # 了解更多详细信息。 
 ######################################################
 %%%%
-_power_or_anger_
+ _power_or_anger_ 
 
-@_power_name_@
-
-w:7
-@_conflict_name_@
+ @_power_name_@ 
 
 w:7
-@_anger_name_@
+ @_conflict_name_@ 
+
+w:7
+ @_anger_name_@ 
 %%%%
-# "Power" is not literally here, to prevent generating conflicts with the unrand
-_power_name_
+ # 这里的“权力”并不是字面上的意思，是为了防止与 unrand 产生冲突 
+ _power_name_ 
 
-Big Damage
+ 大伤害 
 
-Dominance
+ 统治 
 
-Domination
+ 统治
 
-Friendship
+ 友谊 
 
-Glory
+ 荣耀 
 
-Grandeur
+ 威严 
 
-Hubris
+ 傲慢 
 
-Intimidation
+ 威吓 
 
-Invincibility
+ 无敌 
 
-Magnificence
+ 宏伟 
 
-Mastery
+ 掌握 
 
-Might
+ 力量 
 
-Success
+ 成功 
 
-Superiority
+ 优势 
 
-Triumph
+ 胜利
 
-Victory
+ 胜利 
 
-Wondrous Power
-
-%%%%
-_conflict_name_
-
-Brawling
-
-Conflict
-
-Contention
-
-Discord
-
-Dissent
-
-Division
-
-Doubt
-
-Internal Strife
-
-Melee
-
-Resumed Hostilities
-
-Tension
+ 神奇力量 
 
 %%%%
-_anger_name_
+ _conflict_name_ 
 
-@_anger_quality_@
+ 争吵 
+
+ 冲突 
+
+ 争夺 
+
+ 不和 
+
+ 异议 
+
+ 分裂 
+
+ 怀疑
+
+ 内部冲突 
+
+ 混战 
+
+ 恢复敌对行动 
+
+ 紧张 
+
+%%%%
+ _anger_name_ 
+
+ @_anger_quality_@ 
 
 w:3
-@_anger_possessive_@
+ @_anger_possessive_@ 
 
 %%%%
-_anger_quality_
+ _anger_quality_ 
 
-Anger
+ 愤怒 
 
-Brutal Revenge
+ 残酷复仇
 
-Disproportionate Response
+不成比例的反应 
 
-Fury
+ 愤怒 
 
-Hatred
+ 仇恨 
 
-Indignation
+ 愤慨 
 
-Outrage
+ 愤怒 
 
-Righteous Anger
+ 正义愤怒 
 
-Righteous Fury
+ 正义愤怒 
 
-Scorn
+ 蔑视 
 
-Vengeance
+ 复仇 
 
-Wrath
+ 愤怒 
 
 %%%%
-_anger_possessive_
+ _anger_possessive_ 
 
-the Extremely Mad
+ 极端疯狂者 
 
-the Absolute Madman
+ 绝对疯子 
 
-the Incandescent
+ 炽热者 
 
-the Furious
+ 愤怒者 
 
-the Howling One
+ 嚎叫者 
 
-the Gibberer
+ 胡言乱语者 
 
-the Hated
+ 被憎恶者 
 
-the Scorned
+ 被蔑视者 
 
-the Abhorred
+ 憎恶者
 %%%%
-_battle_or_war_
+ _battle_or_war_ 
 
-Crusades
+ 十字军东征 
 
-Eternal War
+ 永恒战争 
 
-Iconoclasm
+ 破坏圣像 
 
-Plunder
+ 掠夺 
 
-Ravage
+ 蹂躏 
 
-Regicide
+ 弑君 
 
-Skirmishing
+ 小冲突 
 
-War
+ 战争 
 
-the Doomed Warrior
+ 注定者战士 
 
-the Endless March
+ 无尽的行军 
 
-the Eternal Warrior
+ 永恒的战士 
 
-the Onslaught
+ 猛攻 
 
-the Pyrrhic Victory
+ 惨痛的胜利 
 
-the Warrior
+ 战士 
 
-#killing
-Blood
+ #杀戮 
+ 鲜血 
 
-Blood-Lust
+ 嗜血 
 
-Callousness
+ 冷酷
 
-Diet Blood
+饮食血
 
-Fear
+恐惧 
 
-Joyful Slaughter
+ 欢乐屠杀 
 
-Massacring
+ 屠杀 
 
-Wounding
+ 伤害 
 
-# Don't use "Pain", it's easily confused with the brand
+ # 不要用“痛苦”，很容易和品牌混淆 
 
-Agony
+ 痛苦 
 
-Hacking and Slashing
+ 砍砍 
 
-Insufficient Pleasure
+ 快感不足 
 
-Trauma
+ 创伤
 
-# related to cutting
+ # 与切割相关 
 
-Dullness
+ 暗沉 
 
-Precise Incision
+ 精确切口 
 
-Laceration
+ 撕裂 
 
-Severance
+ 切断 
 
-Truncation
+ 截断 
 
-#collateral effects
-Death's Door
+ # 附带影响 
+ 死亡之门 
 
-Mourning
+ 哀悼 
 
-the Grave
+ 坟墓 
 %%%%
-# used from C++'s side
-death_or_doom
+ # 从 C++ 中使用side 
+ Death_or_doom 
 
-# death
-Bloody Death
+ # 死亡 
+ 血腥死亡 
 
-Certain Death
+ 确定死亡 
 
-Death
+ 死亡 
 
-Exquisite Death
+ 精致死亡 
 
-Imminent Death
+ 迫在眉睫的死亡 
 
-Instant Death
+ 即时死亡 
 
-Pain and Death
+ 痛苦死亡 
 
-Painful Death
+ 痛苦死亡
 
-Quick Death
+ 快速死亡 
 
-Slow Death
+ 缓慢死亡 
 
-Sudden Death
+ 突然死亡 
 
-Uncertain Death
+ 不确定死亡 
 
-Untimely Demise
+ 不合时宜的死亡 
 
-# doom
-Destruction
+ # 厄运 
+ 毁灭 
 
-Disembowelment
+ 开膛破肚 
 
-Doom
+ 末日 
 
-Evisceration
+ 掏内脏 
 
-Execution
+ 处决
 
-Extermination
+ 消灭
 
-Extinguishment
+熄灭 
 
-Peril
+ 危险 
 
-Premature Burial
+ 过早埋葬 
 
-# pain and misery
+ # 痛苦和苦难 
 
-Anguish
+ 痛苦 
 
-Dismemberment
+ 肢解 
 
-Excruciating Pain
+ 极度痛苦 
 
-Exquisite Torment
+ 精致折磨 
 
-Infinite Pain
+ 无限痛苦 
 
-Misery
+ 痛苦
 
-Terror
+ 恐怖 
 
-Woe
+ 祸 
 
 %%%%
-_strategy_or_justice_
+ _strategy_or_justice_ 
 
 w:2
-@_strategy_name_@
+ @_strategy_name_@ 
 
 w:4
-@_valour_name_@
+ @_valour_name_@ 
 
 w:3
-@_justice_name_@
+ @_justice_name_@ 
 %%%%
-_strategy_name_
+ _strategy_name_ 
 
-#strategy
-Defence
+ #策略 
+ 防御
 
-Defence by Offence
+ 进攻防御 
 
-Expedience
+ 便利 
 
-Guile
+诡诈 
 
-Offence
+ 进攻 
 
-Optimality
+ 最优性 
 
-Overwhelming Force
+ 压倒性力量 
 
-Reinforcement
+ 增援 
 
-Strategic Superiority
+ 战略优势 
 
-Subterfuge
-
-%%%%
-_valour_name_
-
-Action
-
-Conatus
-
-Conscience
-
-Courage
-
-Daring
-
-Defiance
-
-Duty
-
-Eternal Vigilance
-
-Fortitude
-
-Gallantry
-
-Honour
-
-Indomitability
-
-Integrity
-
-Prudence
-
-Purpose
-
-Resourcefulness
-
-Responsibility
-
-Tenacity
-
-True Grit
-
-Valiance
-
-Watchfulness
+ 诡计 
 
 %%%%
-_justice_name_
+ _valour_name_ 
 
-Absolution
+ 行动 
 
-Accidental Termination
+ 康纳图斯 
 
-Blind Justice
+ 良心 
 
-Capital Punishment
+ 勇气
 
-Corporal Punishment
+ 大胆 
 
-Cruel Justice
+ 反抗 
 
-Exoneration
+ 责任 
 
-Extenuating Circumstances
+ 永恒警惕 
 
-False Accusations
+ 刚毅 
 
-Forgiveness
+ 勇敢 
 
-Guilt
+ 荣誉 
 
-Innocence
+ 不屈不挠 
 
-Judgement
+ 诚信 
 
-Punishment
+ 谨慎 
 
-Tender Mercy
+目的
 
-Tortfeasance
+足智多谋 
 
-Trial by Ordeal
+ 责任 
 
-Wrongful Imprisonment
+ 坚韧 
 
-%%%%
-_diviner_name_
+ 勇气 
 
-Augurer
+ 勇敢 
 
-Fortune-Teller
-
-Oracle
-
-Seeker
-
-Seer
-
-Soothsayer
-
-Sybil
-
-Visionary
-
-Water Diviner
+ 警惕 
 
 %%%%
-_people_name_
+ _justice_name_ 
 
-Ancients
+ 赦免 
 
-Coward
+ 意外终止 
 
-Enemy
+ 盲目正义 
 
-Fool
+死刑 
 
-Genius
+ 体罚 
 
-Hero
+ 残酷正义 
 
-Jester
+ 免责 
 
-King
+ 情节较轻 
 
-Madman
+ 虚假指控 
 
-Messenger
+ 宽恕 
 
-Pariah
+ 有罪 
 
-Philosopher
+ 无罪 
 
-Priest
+ 判决
 
-Queen
+ 刑罚 
 
-Saviour
+ 温柔仁慈 
 
-Scapegrace
+ 侵权行为 
 
-Scavenger
+ 严酷审判 
 
-Traitor
+ 错误监禁 
+
+%%%%
+ _diviner_name_ 
+
+ 占卜师 
+
+ 算命师 
+
+ 神谕
+
+ 探索者 
+
+ 先知 
+
+ 占卜者 
+
+ 西比尔 
+
+ 有远见的 
+
+ 占水师 
+
+%%%%
+ _people_name_ 
+
+ 古人 
+
+ 懦夫 
+
+ 敌人 
+
+ 傻瓜
+
+天才 
+
+ 英雄 
+
+ 小丑 
+
+国王
+
+ 狂人 
+
+ 信使 
+
+ 贱民 
+
+ 哲学家 
+
+ 牧师 
+
+ 王后 
+
+ 救世主 
+
+ 海贼王 
+
+ 清道夫 
+
+叛徒 
 
 w:15
-@_diviner_name_@
+ @_diviner_name_@ 
 %%%%
-_weapon_animal_
+ _weapon_animal_ 
 
-@_arachnid_name_@
+ @_arachnid_name_@ 
 
-@_crustacean_name_@
+ @_crustacean_name_@ 
 
-@_fish_name_@
+ @_fish_name_@ 
 
-@_amphibian_name_@
+ @_amphibian_name_@ 
 
-@_reptile_name_@
+ @_reptile_name_@ 
 
-@_bird_name_@
+ @_bird_name_@ 
 
-@_mammal_name_@
-
-%%%%
-
-_crustacean_name_
-
-# insects and other crustaceans
-
-Ant
-
-Barnacle
-
-Bee
-
-Blowfly
-
-Bristletail
-
-Butterfly
-
-Caddisfly
-
-Crab
-
-Crayfish
-
-Damselfly
-
-Dragonfly
-
-Firefly
-
-Flea
-
-Gnat
-
-Hornet
-
-June-Bug
-
-Krill
-
-Lacewing
-
-Lobster
-
-Louse
-
-Mayfly
-
-Mosquito
-
-Moth
-
-Pill Bug
-
-Prawn
-
-Shrimp
-
-Silverfish
-
-Wasp
-
-# The largest extant insect, endemic to New Zealand
-Weta
-
-Woodlouse
-
-Yellowjacket
+ @_mammal_name_@ 
 
 %%%%
 
-_arachnid_name_
+ _crustacean_name_ 
 
-Harvestman
+ # 昆虫和其他甲壳类动物 
 
-Scorpion
+ 蚂蚁 
 
-Spider
+ 藤壶 
 
-Tick
+ 蜜蜂 
 
-%%%%
+ 绿头蝇 
 
-_amphibian_name_
+ 鬃尾 
 
-Axolotl
+ 蝴蝶 
 
-Caecilian
+ 石蛾 
 
-Frog
+ 螃蟹 
 
-Hellbender
+ 小龙虾
 
-Newt
+ 豆娘 
 
-Olm
+ 蜻蜓 
 
-Salamander
+ 萤火虫 
 
-Siren
+ 跳蚤 
 
-Toad
+ 蚊虫 
 
-%%%%
+ 大黄蜂 
 
-_reptile_name_
+ 六月虫 
 
-Alligator
+ 磷虾 
 
-Asp
+ 草蛉 
 
-Crocodile
+ 龙虾 
 
-Gecko
+ 虱子 
 
-Gharial
+ 蜉蝣 
 
-Krait
+ 蚊子 
 
-Leatherback
+蛾
 
-Lizard
+药丸虫 
 
-Python
+ 虾 
 
-Rattlesnake
+ 虾 
 
-Skink
+ 银鱼 
 
-Terrapin
+ 黄蜂 
 
-Tortoise
+ # 现存最大的昆虫，新西兰特有 
+ 沙螽 
 
-Turtle
+ 土虱 
 
-Viper
-
-%%%%
-
-_fish_name_
-
-Big Fish
-
-Eel
-
-Lamprey
-
-Salmon
-
-Shark
+ 黄夹克 
 
 %%%%
 
-_bird_name_
+ _arachnid_name_ 
 
-Apostlebird
+ 收割者 
 
-Arctic Tern
+ 蝎子 
 
-Auk
+ 蜘蛛 
 
-Bustard
-
-Buzzard
-
-Cardinal
-
-Cassowary
-
-Dove
-
-Duck
-
-Emu
-
-Flamingo
-
-Forest Kingfisher
-
-Fulmar
-
-Goose
-
-Guillemot
-
-Hawk
-
-Hummingbird
-
-Hoatzin
-
-Kiwi
-
-Kookaburra
-
-Moa
-
-Noisy Friarbird
-
-Ostrich
-
-Owl
-
-Penguin
-
-Pigeon
-
-Potoo
-
-Puffin
-
-Rainbow Bee-Eater
-
-Razorbill
-
-Rhea
-
-Roseate Spoonbill
-
-Sage Grouse
-
-Shrike
-
-Stork
-
-Swan
-
-Superb Lyrebird
-
-Tawny Frogmouth
-
-Vulture
+ 蜱虫 
 
 %%%%
 
-_mammal_name_
+ _amphibian_name_ 
 
-Ass
+ 蝾螈 
 
-Badger
+ 蚓螈 
 
-Bear
+ 青蛙 
 
-Boar
+ 冥王 
 
-Fox
+ 蝾螈 
 
-Goat
+ 奥尔姆 
 
-Rat
+ 蝾螈 
+
+ 警报器
+
+ 蟾蜍 
+
+%%%%
+
+ _reptile_name_ 
+
+ 鳄鱼 
+
+ Asp 
+
+ 鳄鱼 
+
+ 壁虎 
+
+ 鳄鱼 
+
+ Krait 
+
+ 棱皮龟 
+
+ 蜥蜴 
+
+ Python 
+
+响尾蛇 
+
+ 灵蜥 
+
+ 水龟 
+
+ 乌龟 
+
+ 乌龟
+
+ 毒蛇 
+
+%%%%
+
+ _fish_name_ 
+
+ 大鱼 
+
+ 鳗鱼 
+
+ 七鳃鳗 
+
+ 鲑鱼 
+
+ 鲨鱼
+
+%%%%
+
+_bird_name_ 
+
+ 使徒鸟 
+
+ 北极燕鸥 
+
+ 澳雀 
+
+ 鸨 
+
+ 秃鹰 
+
+ 红雀 
+
+ 食火鸡 
+
+ 鸽子 
+
+ 鸭 
+
+ 鸸鹋
+
+ 火烈鸟 
+
+ 森林翠鸟 
+
+ 富马 
+
+ 鹅 
+
+ 海鸠 
+
+ 鹰 
+
+ 蜂鸟 
+
+ 麝雉 
+
+ 猕猴桃 
+
+ 笑翠鸟
+
+ 恐鸟 
+
+ 吵闹的 Friarbird 
+
+ 鸵鸟 
+
+ 猫头鹰 
+
+ 企鹅 
+
+ 鸽子 
+
+ Potoo 
+
+ 海雀 
+
+ 彩虹食蜂鸟 
+
+ 剃刀比尔
+
+ 土卫五 
+
+ 粉红琵鹭 
+
+ 圣松鸡 
+
+ 伯劳 
+
+ 鹳 
+
+ 天鹅 
+
+ 优秀琴鸟 
+
+ 黄褐色蛙口 
+
+ 秃鹫 
+
+%%%%
+
+ _mammal_name_ 
+
+ 屁股
+
+獾 
+
+ 熊 
+
+ 野猪 
+
+ 狐狸 
+
+ 山羊 
+
+ 大鼠 
 
 w:5
-Stoat
+ 白鼬 
 
-Tiger
-
-w:5
-Weasel
-
-Whale
-
-Wolf
-%%%%
-# plants and fungi
-_plant_name_
-
-#plants
-Eggplant
-
-Chickpea
-
-Lettuce
-
-Radish
-
-Sugar Beet
-
-Shallot
-
-Tomato
-
-Turnip
-
-# er...aren't whelks gastropods?
-Whelk
-
-#fungus and similar
+ 老虎 
 
 w:5
-Magic Mushroom
+ 黄鼠狼 
 
-Mushroom
+ 鲸鱼 
 
-Puffball
-
-Slime-mould
-
-Toadstool
+ 沃尔夫 
 %%%%
-_evil_stuff_
+ # 植物和真菌 
+ _plant_name_ 
 
-Abomination
+ #植物 
+ 茄子 
 
-Abuse
+ 鹰嘴豆 
 
-Ancient Evil
+ 生菜 
 
-Corruption
+ 萝卜 
 
-Debasement
+ 甜菜 
 
-Defilement
+ 青葱 
 
-Deformation
+ 番茄 
 
-Demonkind
+ 芜菁 
 
-Evil
+ # 呃...不是海螺腹足动物吗？ 
+ 海螺 
 
-Hell's Wrath
+ #真菌和类似 
 
-Infection
+w:5
+ 神奇蘑菇 
 
-Mutilation
+ 蘑菇 
 
-Nightmares
+ 马勃 
 
-Perversion
+ 粘液霉菌 
 
-Putrescence
-
-Shrieking Terror
-
-Vitiation
-
-the Beast
-
-the Crawling Thing
-
-the Dead
-
-the Evil Eye
-
-the Ghost
-
-the Living Dead
-
-the Lurker
-
-the Reaper
-
-the Spectre
-
-the Thing
-
-the Undead
-
-the Unliving
-
-the Unspeakable One
-
-the Wraith
-
+ 伞菌 
 %%%%
-_catastrophe_name_
+ _evil_stuff_ 
 
-Earthquakes
+ 憎恶
 
-Cataclysm
+ 滥用 
 
-Drought
+ 远古邪恶 
 
-Floods
+ 腐败 
 
-Ruination
+ 堕落 
 
-the Inferno
+ 污秽 
 
-# Apocalyptic events
+ 变形 
 
-Annihilation
+ 恶魔 
 
-Armageddon
+ 邪恶 
 
-Fimbulwinter
+ 地狱之怒 
 
-Ragnarok
+ 感染
 
-World Downfall
+残害 
 
-World's End
+ 噩梦 
 
-the Apocalypse
+ 变态 
 
-the End of Times
+ 腐烂 
 
-# the Apocalyptic Riders (except Death)
-Famine
+ 尖叫恐怖 
 
-Pestilence
+ 腐化 
 
-Plague
+ 野兽 
 
-War
-%%%%
-_chaos_name_
+ 爬行生物 
 
-Ambiguity
+ 死者 
 
-Arbitration
+ 邪眼 
 
-Calamity
+ 幽灵 
 
-Chance
+ 活死人
 
-Change
+ 潜伏者 
 
-Confusion
+ 收割者 
 
-Constant Reorganisation
+ 幽灵 
 
-Contradiction
+ 怪物 
 
-Disarray
+ 亡灵 
 
-Disaster
+ 不死者 
 
-Disharmony
+ 不可言说者 
 
-Disintegration
-
-Disorder
-
-Dissolution
-
-Distraction
-
-Extremism
-
-Goblin Mode
-
-Havoc
-
-Imbalance
-
-Impermanence
-
-Incongruity
-
-Mayhem
-
-Revolt
-
-True Chaos
-
-Tumult
-
-Turmoil
-
-Upheaval
-
-the Extremes
-
-the Farrago
-
-the Fray
-
-the Hodge-Podge
-
-the Mish-Mash
-%%%%
-_balance_or_order_
-
-Accord
-
-Arrival
-
-Ascent
-
-Balance
-
-Bodily Harmony
-
-Circularity
-
-Conformity
-
-Departure
-
-Descent
-
-Due Proportion
-
-Equilibrium
-
-Equivalence
-
-Eternal Harmony
-
-Fragile Peace
-
-Harmony
-
-Law
-
-Linearity
-
-Moderation
-
-Peace
-
-Propriety
-
-Symmetry
-
-the Establishment
-
-the Final Decision
-
-the Median
-
-the Middle
+ 幽灵 
 
 %%%%
-_economics_or_politics_
+ _catastrophe_name_ 
 
-# economics
-Amortisation
+ 地震 
 
-Animal Spirits
+ 大灾变 
 
-Bankruptcy
+ 干旱 
 
-Collusion
+ 洪水 
 
-Compound Interest
+ 毁灭 
 
-Currency
+ 地狱 
 
-Debt
+ # 末日事件 
 
-Deflation
+ 毁灭 
 
-Demand
+ 末日审判 
 
-Dividends
+ Fimbulwinter 
 
-Exchange
+ Ragnarok 
 
-Growth
+ 世界的毁灭 
 
-Income
+ 世界的终结 
 
-Inflation
+ 天启 
 
-Luxury
+ 时代的终结 
 
-Profit
+ # 天启骑士（死亡除外） 
+ 饥荒 
 
-Risk Management
+ 瘟疫 
 
-Supply
+ 瘟疫
 
-Taxation
+ 战争 
+%%%%
+ _chaos_name_
 
-Valuable Assets
+歧义 
 
-Welfare
+ 仲裁 
 
-# politics
-Attainder
+ 灾祸 
 
-Breach
+ 机会 
 
-Checks and Balances
+ 变化 
 
-Conservatism
+ 混乱 
 
-Defenestration
+ 不断重组 
 
-Fee Simple
+ 矛盾 
 
-Freehold
+ 混乱 
 
-Fundamental Breach
+ 灾难
 
-Governance
+ 不和谐 
 
-Greatest Utility
+ 解体
 
-Impeachment
+ 混乱 
 
-Mandamus
+溶解
 
-Popular Demand
+ 分心 
 
-Poverty
+ 极端主义 
 
-Radicalism
+ 妖精模式 
 
-Reapportionment
+ 浩劫 
 
-Royalism
+ 失衡 
 
-Sequestration
+ 无常 
 
-Termination
+ 不协调 
 
-Wealth
+ 混乱 
 
-the Common Good
+ 叛乱
 
-the Dark Horse
+ 真正的混乱 
 
-the Demagogue
+ 骚动 
 
-the Imperium
+ 动乱 
 
-the Lame Duck
+ 剧变 
 
-the Lesser Evil
+ 极端 
 
-the Little People
+ 法拉戈 
 
-the People
+ 混乱 
 
-the Revolution
+ 大杂烩 
 
-the Silent Majority
+ 混合 
+%%%%
+ _balance_or_order_ 
 
-# Anglo-American common law, though trying not to overlap with
-# _justice_name_: History tells us that law and justice are only
-# tangentially related, anyway.
+ 一致 
 
-Actus Reus
+ 到达 
 
-Ad Valorem
+ 上升 
 
-Adverse Possession
+ 平衡 
 
-Corpus Delicti
+ 身体和谐 
 
-Eminent Domain
+ 循环 
 
-In Flagrante Delicto
+ 一致性 
 
-Ipse Dixit
+ 出发 
 
-Locus Delicti
+ 下降
 
-Malum In Se
+正当比例 
 
-Malum Prohibitum
+ 平衡 
 
-Mens Rea
+ 等值 
 
-Nolo Contendere
+ 永恒和谐 
 
-Non Obstante Veredicto
+ 脆弱和平 
 
-Obiter Dictum
+ 和谐 
 
-Res Ipsa Loquitur
+ 法律 
 
-Res Judicata
+ 线性 
+
+ 温和 
+
+ 和平 
+
+ 礼
+
+ 对称性 
+
+ 建立 
+
+ 最终决策 
+
+ 中位数 
+
+ 中间 
 
 %%%%
-_place_name_
+ _economics_or_politics_ 
 
-Beyond
+ # 经济学 
+ 摊销 
 
-Distant Shores
+ 动物精神 
 
-Distant Worlds
+ 破产
 
-Parts Unknown
+ 串通 
 
-Proximity
+ 复利 
 
-Somewhere Else
+ 货币 
 
-the Blessed Realm
+ 债务 
 
-the Desert
+ 通缩 
 
-the Equator
+ 需求 
 
-the Eternal Void
+ 股息 
 
-the Forest
+ 交易所 
 
-the Hidden Vale
+ 增长 
 
-the Hills
+ 收入 
 
-the Known World
+ 通货膨胀 
 
-the Land of Plenty
+奢侈品 
 
-the Maze
+ 利润 
 
-the New World
+ 风险管理 
 
-the Old World
+ 供应 
 
-the Other Side
+ 税收 
 
-the Pit
+ 宝贵资产 
 
-the Poles
+ 福利 
 
-the Sea
+ #政治
+达到者 
 
-the Shore
+ 违规 
 
-the Spheres
+ 制衡 
 
-the Trees
+ 保守主义 
 
-the Tundras
+ 破窗 
 
-the Unseen Realm
+ 费用简单 
 
-the Valley
+ 永久保有 
 
-the Valley of Death
+ 根本性违规 
 
-the Volcano
+ 治理 
 
-the Wasteland
+ 最大效用 
 
-the Wilderness
+弹劾 
 
-the World
+ 履行职责 
+
+ 大众要求 
+
+ 贫困 
+
+ 激进主义 
+
+ 重新分配 
+
+ 保皇主义 
+
+ 扣押 
+
+ 终止 
+
+ 财富 
+
+ 共同利益
+
+ 黑马 
+
+ 煽动者 
+
+ 帝国 
+
+ 跛脚鸭 
+
+ 小恶 
+
+ 小人物 
+
+ 人民 
+
+ 革命 
+
+ 沉默的大多数 
+
+ # 英美普通法，尽管试图不与 
+ # _justice_name_ 重叠：历史告诉我们，无论如何，法律和正义只是 
+ # 切线相关。 
+
+ 行为 
+
+ 从价 
+
+ 逆权占有 
+
+ 犯罪主体 
+
+ 征用权 
+
+ 现行犯罪 
+
+ Ipse Dixit
+
+犯罪行为 
+
+ 恶意行为 
+
+ 禁止恶意行为 
+
+ 男子意图 
+
+ 诺洛竞争 
+
+ 非阻拦性判决 
+
+ 旁听者言论 
+
+ 法律诉讼 
+
+ 司法判决
 
 %%%%
-_discomfort_weapon_
+ _place_name_ 
 
-Annoyance
+ 
 
-Anxiety
+ 之外 遥远的海岸 
 
-Awkwardness
+ 遥远的世界 
 
-Chagrin
+ 未知的部分 
 
-Desperation
+ 邻近 
 
-Discomfort
+ 其他地方 
 
-Disgust
+ 福地 
 
-Dismay
+ 沙漠 
 
-Dissatisfaction
+赤道 
 
-Embarrassment
+ 永恒虚空 
 
-Flawed Execution
+ 森林 
 
-Foul Odours
+ 隐秘山谷 
 
-Frustration
+ 丘陵 
 
-Gloom
+ 已知世界 
 
-Inconvenience
+ 丰盛之地 
 
-Irritation
+ 迷宫 
 
-Malaise
+ 新世界 
 
-Shame
+ 旧世界
 
-Stickiness
+ 彼岸 
 
-Uncomfortable Rashes
+ 深坑 
 
-Unpleasantness
+ 极地 
 
-Urgency
+ 海洋 
+
+ 海岸 
+
+ 球体 
+
+ 树木 
+
+ 苔原 
+
+ 看不见的领域 
+
+ 山谷
+
+ 死亡之谷 
+
+ 火山
+
+荒原 
+
+ 荒野 
+
+ 世界 
 
 %%%%
-_philosophy_or_science_
+ _discomfort_weapon_ 
 
-@_philosophy_name_@
+ 烦恼 
 
-@_science_name_@
-%%%%
-_philosophy_name_
+ 焦虑 
 
-Absolutism
+ 尴尬 
 
-Abstinence
+ 懊恼 
 
-Activism
+ 绝望 
 
-Agnosticism
+ 不适
 
-Altruism
+ 厌恶 
 
-Anarchy
+ 沮丧 
 
-Asceticism
+ 不满 
 
-Atheism
+ 尴尬 
 
-Autotheism
+ 执行有缺陷 
 
-Cynicism
+ 恶臭 
 
-Disestablishmentarianism
+ 沮丧 
 
-Dogma
+ 忧郁 
 
-Egalitarianism
+ 不便 
 
-Elitism
+ 刺激
 
-Ethics
+ 不适 
 
-Existentialism
+ 耻辱 
 
-Fallacy
+ 粘性 
 
-Fanaticism
+ 不舒服的皮疹 
 
-Free Expression
+ 不愉快 
 
-Free Will
-
-Hedonism
-
-Henotheism
-
-Heresy
-
-Idealism
-
-Kathenotheism
-
-Levity
-
-Liberalism
-
-Limitation
-
-Maltheism
-
-Monotheism
-
-Morality
-
-Mutualism
-
-Mysticism
-
-Nihilism
-
-Optimism
-
-Orthodoxy
-
-Panentheism
-
-Pantheism
-
-Pessimism
-
-Polytheism
-
-Pragmatism
-
-Rationality
-
-Relativism
-
-Serendipity
-
-Skepticism
-
-Sophism
-
-Stoicism
-
-Syndicalism
-
-Theistic Finitism
-
-the Ego
-%%%%
-_science_name_
-
-Analysis
-
-Articulation
-
-Calculation
-
-Circular Logic
-
-Classification
-
-Context
-
-Evolution
-
-Experimentation
-
-Focus
-
-Gravity
-
-Inference
-
-Infinity
-
-Inquiry
-
-Instinct
-
-Intuition
-
-Objectivity
-
-Patterns
-
-Quantum Leap
-
-Reason
-
-Rotation
-
-Subjectivity
-
-Theory
-
-Unreason
-
-the Beginning
-
-the Big Bang
-
-the Boiling Point
-
-the End
-
-the Mind
-
-the Nexus
+ 紧迫感 
 
 %%%%
-_item_name_
+ _philosophy_or_science_ 
 
-# items
-Candelabrum
+ @_philosophy_name_@ 
 
-Candle
+ @_science_name_@ 
+%%%%
+ _philosophy_name_ 
 
-Chain
+ 专制主义 
 
-Coin
+ 禁欲主义 
 
-Cup
+ 行动主义 
 
-Egg
+ 不可知论 
 
-Feather
+ 利他主义 
 
-Girdle
+ 无政府主义 
 
-Globe
+ 禁欲主义 
 
-Horn
+ 无神论 
 
-Key
+自神论 
 
-Orb
+ 犬儒主义
 
-Pillar
+解构主义 
 
-Purse
+ 教条 
 
-Ring
+ 平等主义 
 
-Scroll
+ 精英主义 
 
-Ship
+ 伦理学 
 
-Tent
+ 存在主义 
 
-Vase
+ 谬论 
 
-Vine
+ 狂热主义 
 
-Walnut
+ 自由表达 
 
-Wheel
+ 自由意志 
 
-Yoke
+ 享乐主义
 
-# body parts
-Brain
+ 唯神论 
 
-Foot
+ 异端 
 
-Hand
+ 唯心论 
 
-Head
+ 逍遥神论 
 
-Heart
+ 轻率 
 
-Kidney
+ 自由主义 
 
-Mouth
+ 限制 
 
-Throat
+ 马神论 
 
-Tooth
+ 一神论 
+
+ 道德 
+
+互惠主义 
+
+ 神秘主义 
+
+ 虚无主义 
+
+ 乐观主义 
+
+ 正统主义 
+
+ 泛神论 
+
+ 泛神论 
+
+ 悲观主义 
+
+ 多神论 
+
+ 实用主义 
+
+理性 
+
+ 相对主义 
+
+ 偶然性 
+
+ 怀疑论 
+
+ 诡辩主义 
+
+ 斯多葛主义 
+
+ 工团主义 
+
+ 有神有限论 
+
+ 自我
+%%%%
+_science_name_ 
+
+ 分析 
+
+ 衔接 
+
+ 计算 
+
+ 循环逻辑 
+
+ 分类 
+
+ 上下文 
+
+ 进化 
+
+ 实验 
+
+ 焦点 
+
+ 重力 
+
+ 推理
+
+ 无限 
+
+ 询问 
+
+ 本能 
+
+ 直觉 
+
+ 客观性 
+
+ 模式 
+
+ 量子跃迁 
+
+ 原因 
+
+ 旋转 
+
+ 主观性 
+
+ 理论
+
+ 无理性 
+
+ 开始 
+
+ 大爆炸 
+
+ 沸点 
+
+ 结束 
+
+ 心灵 
+
+ Nexus 
 
 %%%%
-_magic_name_
+ _item_name_ 
 
-the Hierophant
+ # 物品 
+ 烛台
 
-the Magi
+ 蜡烛 
 
-the Sage
+ 链条 
 
-the Warrior-Mage
-%%%%
-# substances
-_substance_name_
+ 硬币 
 
-Ash
+ 杯子 
 
-Bile
+ 鸡蛋 
 
-Bloodstone
+ 羽毛 
 
-Bodily Humours
+ 腰带 
 
-Bread
+ 地球仪 
 
-Cheese
+ 喇叭
 
-Cobwebs
+ 钥匙 
 
-Crystal
+ 宝珠
 
-Dried Tears
+支柱 
 
-Dung
+ 钱包 
 
-Ichor
+ 戒指 
 
-Ointment
+ 卷轴 
 
-Oozing Pus
+ 船 
 
-Paper
+ 帐篷 
 
-Rubbish
+ 花瓶 
 
-Salt
+ 藤蔓 
 
-Saltpetre
+ 胡桃木 
 
-Sharkskin
+ 轮子 
 
-Slime
+ 轭 
 
-Sulphur
+ # 身体零件
+ 大脑 
 
-Terra Cotta
+ 脚 
 
-# these don't really fit
-Dust
+ 手 
 
-Mana
+ 头 
 
-Spores
+ 心 
 
-Yeast
+ 肾 
 
-%%%%
-# non-groupables
-other_weapon_name
+ 嘴 
 
-Broken Luck
+ 喉咙 
 
-Butchery
-
-Checkmate
-
-Conversion
-
-Crawling
-
-Desertification
-
-Doors
-
-Entrepreneurial Spirit
-
-False Hope
-
-Fulguration
-
-Gin and Tonic
-
-Grontol
-
-Hard Scrabble
-
-Interdependent Arising
-
-Irrepressible Laughter
-
-No Interval
-
-Prescription
-
-Red Wine
-
-Res Nullius
-
-Spontaneous Combustion
-
-Terra Nullius
-
-Traps
-
-Undoing
-
-Vodka
-
-the Blind Eye
-
-the Briny Deep
-
-the Empty Page
-
-the Final Chapter
-
-the Omega Point
-
-the Open Hand
-
-the Pharaoh's Fist
-
-the Real Monster
-
-the Spinneret
-
-the Two Names
-
-the Unkillable
-
-the Vendetta
+ 牙齿 
 
 %%%%
-# single word monster names, to allow for combinations like <Monster>slayer
-short_monster_name_
+ _magic_name_ 
+
+ 大圣
+
+ 魔法师 
+
+ 贤者 
+
+ 战士法师 
+%%%%
+ # 物质 
+ _substance_name_ 
+
+ 灰烬 
+
+ 胆汁 
+
+ 血石 
+
+ 体液 
+
+ 面包
+
+ 奶酪 
+
+ 蜘蛛网 
+
+ 水晶 
+
+ 干眼泪 
+
+ 粪便 
+
+ 灵液 
+
+ 软膏
+
+渗脓 
+
+ 纸 
+
+ 垃圾 
+
+ 盐 
+
+ 硝石 
+
+ 鲨鱼皮 
+
+ 史莱姆 
+
+ 硫磺 
+
+ 赤土 
+
+ # 这些不太适合 
+ 灰尘
+
+ 法力 
+
+ 孢子 
+
+ 酵母 
+
+%%%%
+ # 不可分组 
+ other_weapon_name 
+
+ 破碎运气 
+
+ 屠宰场 
+
+ 将死 
+
+ 转换 
+
+ 爬行 
+
+ 荒漠化
+
+ 门 
+
+ 创业精神 
+
+ 虚假希望 
+
+ 电灼 
+
+ 杜松子酒 
+
+ 格朗托 
+
+ 硬拼字游戏 
+
+ 相互依存的出现 
+
+ 抑制不住的笑声
+
+ 无间隔 
+
+ 处方 
+
+ 红酒 
+
+ Res Nullius 
+
+ 自燃 
+
+ Terra Nullius 
+
+ 陷阱 
+
+ 毁灭 
+
+ 伏特加 
+
+ 盲眼
+
+咸水深渊 
+
+ 空页 
+
+ 最终章 
+
+ 欧米茄点 
+
+ 张开的手 
+
+ 法老之拳 
+
+ 真正的怪物 
+
+ 喷丝头 
+
+ 两个名字 
+
+ 不死之身
+
+ Vendetta 
+
+%%%%
+ # 单字怪物名称，允许组合如 <Monster>slayer 
+ Short_monster_name_ 
 
 w:1
-Acarine
+ Acarine 
 
-Beast
+ Beast 
 
-Beetle
+ Beetle 
 
-Demon
+ Demon 
 
-Dragon
+龙
 
-Giant
+ Giant 
 
-Goblin
+ Goblin 
 
-Hydra
+ 九头蛇 
 
-Imp
+ 小鬼 
 
-Jelly
-
-w:1
-Lacertilian
-
-Newt
-
-Ogre
-
-Spider
+ 果冻 
 
 w:1
-Testudine
-%%%%
-_monster_name_
+ 蜥蜴 
 
-@short_monster_name_@
+ 蝾螈 
 
-@player_species@
+ 食人魔 
 
-Killer Bee
-
-Killer Klown
-
-Orb Guardian
-%%%%
-_short_killer_name_
-
-bane
-
-slayer
-%%%%
-# used from the C++ side
-killer_name
-
-'s Bane
-
-'s Curse
-
-'s Death
-
-'s Doom
-
-'s Foe
-
-'s Peril
-
-'s Regret
-%%%%
-_long_killer_name_
-
-'s Death Toll
-
-'s Demise
-
-'s Funeral
-
-'s Nightmare
-
-'s Undoing
+ 蜘蛛 
 
 w:1
-'s Looming Annihilation
+ 睾丸 
 %%%%
-_real_weapon_name_
+ _monster_name_ 
 
-Arbiter
+ @short_monster_name_@ 
 
-Arcanum
+ @player_species@ 
 
-Concordance
+ Killer Bee 
 
-Conservator
+杀手小丑
 
-Death Rattle
+ Orb Guardian 
+%%%%
+ _short_killer_name_ 
 
-Dragon's Tongue
+ bane 
 
-Earthworm
+ slayer 
+%%%%
+ # 从 C++ 端使用 
+ Killer_name 
 
-Embalmer
+ 's Bane 
 
-Eviscerator
+ 's Curse 
 
-Grim
+ 
 
-Grim Tooth
+ 的死亡
 
-Hell-Harrower
+敌人 
 
-Hellblazer
+ 的危险 
 
-Leviticus
+ 的遗憾 
+%%%%
+ _long_killer_name_ 
 
-Lifebane
+ 的死亡人数 
 
-Murmur
+ 的灭亡 
 
-Pendulum
+ 的葬礼 
 
-Sarcophage
+ 的噩梦 
 
-Tormentor
+ 的消除 
 
-Transmigrator
+w:1
+ 迫在眉睫的毁灭 
+%%%%
+ _real_weapon_name_ 
 
-Trog's @_anger_quality_@
+ 仲裁者 
 
-Ultimatum
+ 奥秘 
 
-Undertaker
+ 索引 
+
+ 守护者 
+
+ 死亡之音 
+
+ 龙之舌 
+
+ 蚯蚓
+
+ 防腐者 
+
+ 剔骨器 
+
+ 冷酷 
+
+ 冷牙 
+
+ 地狱耙 
+
+ 地狱神探 
+
+ 利未克斯 
+
+ 生命祸根 
+
+ 低语 
+
+ 灵摆 
+
+ 石棺
+
+ 折磨者 
+
+ 穿越者 
+
+ 穴居人的 @_anger_quality_@ 
+
+ 最后通牒 
+
+ 送葬者 
 
 w:5
-Widowermaker
+ 黑百合 
 
 w:5
-Widowmaker
+ 黑百合 
 
-Worm
+ 蠕虫 
 
-Worm's Wrath
+ 蠕虫之怒 
 
-# Sigmund's sword
-Gram
+ # 西格蒙德之剑 
+ Gram 
 %%%%
-_joke_weapon_name_
+ _joke_weapon_name_ 
 
-Aubergine
+ 茄子 
 
-Backscratcher
+ 抓背器
 
-Bingo
+宾果 
 
-Blob
+ 斑点 
 
-Brush
+ 刷子 
 
-Bung
+ 塞子 
 
-Cookie Cutter
+ 曲奇刀 
 
-ETAOIN SHRDLU
+ ETAOIN SHRDLU 
 
-Egg
+ 鸡蛋 
 
-Fish
+ 鱼 
 
-Giant's Toothpick
+ 巨人牙签 
 
-Globulus
+ 球状球 
 
-Grom
+ 格罗姆
 
 Grum
 
-Hulk
+ 绿巨人 
 
-Lorem Ipsum
+ 洛雷姆·伊普苏姆 
 
-Mud Pie of Death
+ 死亡泥饼 
 
-No More Talking
+ 不再说话 
 
-Omelette
+ 煎蛋卷 
 
-Ox
+ 牛 
 
-Q
+ Q 
 
-Raisin
+ 葡萄干 
 
-Rummage
+ 翻找 
 
-Secret Weapon
+ 秘密武器
 
-Starlight
+ Starlight 
 
-String
+ String 
 
-Stringbean
+ Stringbean 
 
-Tattletale
+ Tattletale 
 
-Thing
+ Thing 
 
-With Two Names
+ 有两个名字 
 
-X
+ X 
 
-Xom's @_xom_esteem_@
+ Xom's @_xom_esteem_@ 
 
-Z
+ Z 
 
-# These three are from old Crawl code.
-Glorpo
+ # 这三个来自旧的抓取代码。 
+ 格洛波 
 
-Loopy
+ Loopy 
 
-Plojy
+ Plojy 
 %%%%
-_plain_weapon_name_
+ _plain_weapon_name_ 
 
 w:15
-@short_monster_name_@@_short_killer_name_@
+ @short_monster_name_@@_short_killer_name_@ 
 
 w:8
-@_monster_name_@@killer_name@
+ @_monster_name_@@killer_name@ 
 
 w:2
-@short_monster_name_@@_long_killer_name_@
+ @short_monster_name_@@_long_killer_name_@ 
 
 w:1
-@player_death@
+ @player_death@ 
 
 w:15
-@_real_weapon_name_@
+ @_real_weapon_name_@
 
 w:5
 @_joke_weapon_name_@

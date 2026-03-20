@@ -1,1285 +1,1285 @@
 ######################################################
-# Randart Names
+# Randart 名称 
 # -------------
-# rand_all.txt: keywords for randart JEWELLERY and
-#               those used for ALL randart types
+ # rand_all.txt：randart JEWELERY 和 
+ 的关键字 # 用于所有 randart 类型的关键字 
 #
-# This file contains the lists of keywords (and their
-# weights) for keywords specific to randart jewellery
-# as well as those used for all three types of
-# randarts (weapons, armour, jewellery). You will find
-# other ones in rand_wpn.txt and rand_arm.txt.
-# See the explanation in the main file, randname.txt,
-# for more details.
+ 的关键字 # 此文件包含用于生成 
+ # 用于特定于 randart 珠宝 
+ 的关键字 # 以及用于所有三种类型的 
+ # randart（武器、盔甲、珠宝）的关键字。你会在 rand_wpn.txt 和 rand_arm.txt 中找到 
+ # 其他的。 
+ # 请参阅主文件randname.txt中的说明，
+ # 了解更多详细信息。 
 ######################################################
 %%%%
 ######################################################
-# Library of keywords used (mostly) for randart jewellery.
+ #（主要）用于 randart 珠宝的关键字库。 
 ######################################################
-_jewellery_animal_
+ _jewellery_animal_ 
 
-Death Scarab
+ 死亡圣甲虫 
 
-Firefly
+ 萤火虫 
 
-Scarab
+ 圣甲虫 
 
 w:5
-Magpie
+ 喜鹊 
 
 w:5
-Raven
+ 乌鸦 
 %%%%
-_jewellery_special_name_
+ _jewellery_special_name_ 
 
-Attitude
+ 态度 
 
-Disaster
+ 灾难
 
-Ephemeral Luck
+ 短暂的运气 
 
-False Pretenses
+ 虚假借口 
 
-Finality
+ 最终结果 
 
-Lady Luck
+ 幸运女神 
 
-Moodiness
+ 喜怒无常 
 
-Reimbursement
+ 报销 
 
-the Tempest
+ 暴风雨 
 
-Temptation
+ 诱惑 
 
-Velleity
+ 速度 
 
-Wishful Thinking
+ 一厢情愿
 
-# FIXME: should appear on amulets only
-Yendor
+ # FIXME：仅应出现在护身符上 
+ Yendor 
 %%%%
-_suspicion_no_conflict_name_
+ _suspicion_no_conflict_name_ 
 
-Doubts
+ 怀疑 
 
-Incredulity
+ 怀疑 
 
-Jealousy
+ 嫉妒 
 
-Mistrust
+ 不信任 
 
-Paranoia
+ 偏执
 
-Scepticism
+ 怀疑 
 
-Secrets
+ 秘密 
 
-Suspected Treachery
+ 涉嫌背叛
 
-Suspicion
+怀疑 
 
-Trepidation
+ 惶恐 
 %%%%
-_suspicion_name_
+ _suspicion_name_ 
 
-@_suspicion_no_conflict_name_@
+ @_suspicion_no_conflict_name_@ 
 
 w:2
-@_conflict_name_@
+ @_conflict_name_@ 
 %%%%
 ######################################################
-# Library of keywords used for all randart types.
+ # 用于所有 randart 类型的关键字库。 
 ######################################################
-# Used for god gifts from C++ side, as "of $GOD's @divine_esteem@".
-divine_esteem
+ # 用于来自C++端的上帝礼物，如“$GOD's @divine_esteem@”。 
+ 神圣的_尊重 
 
-# good
-Approval
+ # 良好 
+ 认可 
 
-Benevolence
+ 仁慈 
 
-Delight
+ 喜悦 
 
-Esteem
+ 尊重 
 
-Favour
-
-w:5
-Felicitations
-
-Generosity
-
-Grace
-
-Hope
-
-Inspiration
-
-Pride
-
-Regard
+ 青睐 
 
 w:5
-Respect
+ 祝福 
 
-Supremacy
+ 慷慨 
 
-Whim
+ 恩典 
 
-# bad
-Castigation
+ 希望
 
-Condemnation
+ 激励 
 
-Displeasure
+ 骄傲 
 
-Envy
+ 尊重 
 
-Reproof
+w:5
+ 尊重 
+
+ 至高无上 
+
+ 突发奇想 
+
+ # 不好 
+ 严厉谴责 
+
+ 谴责 
+
+ 不悦 
+
+ 嫉妒
+
+ 谴责 
 
 w:70
-@_anger_quality_@
+ @_anger_quality_@ 
 %%%%
-_xom_esteem_
+ _xom_spect_ 
 
-# chosen 20% of the time
+ # 选择 20% 的时间 
 w:40
-@divine_esteem@
+ @divine_esteem@ 
 
-Absentmindedness
+ 心不在焉 
 
-Amusement
+ 娱乐 
 
-Attic
+ 阁楼 
 
-Bemusement
+ 困惑
 
-Best Wishes
+ 最美好的祝愿 
 
-Capriciousness
+ 任性
 
-Entertainment
+娱乐 
 
-Facetiousness
+ 滑稽 
 
-Fair Game
+ 公平游戏 
 
-Flight of Fancy
+ 花式飞行 
 
-Full Attention
+ 全神贯注 
 
-Malicious Joy
+ 恶意欢乐 
 
-Passing Interest
+ 过眼瘾 
 
-Recklessness
+ 鲁莽 
 
-Ringing Laughter
+ 响亮的笑声 
 
-Sleight of Hands
+ 花招 
 
-Taradiddle
+ Taradiddle 
 
-Temerity
+ 鲁莽 
 
-Wantonness
+ 肆意 
 
-Whimsicality
+ 异想天开 
 %%%%
-_time_name_
+ _time_name_ 
 
-Autumn
+ 秋天 
 
-Dawn
+ 黎明 
 
-Day
+ 白天 
 
-Dusk
+ 黄昏 
 
-Eternal Night
+ 永恒之夜 
 
-Eternal Winter
+ 永恒之冬
 
-Eternity
+ 永恒 
 
-Evenfall
+ 傍晚 
 
-Midnight
+ 午夜 
 
-Midsummer
+ 仲夏 
 
-Midwinter
+ 仲冬 
 
-Noon
+ 中午 
 
 w:5
-Spring
+ 春天 
 
 w:5
-Springtime
+ 春天 
 
 w:5
-Summer
+ 夏天 
 
 w:5
-Summertime
+ 夏天 
 
-Time Moved Backwards
+ 时间向后移动
 
-Tomorrow
+ 明天 
 
-Twilight
+ 黄昏 
 
-Winter
+ 冬天 
 
-Yesterday
+ 昨天 
 
-the Distant Future
+ 遥远的未来 
 
-the Equinox
+ 春分 
 
-the Evening
+ 黄昏 
 
-the Everdark
+ 永暗
 
-the Harvest
+收获 
 
-the Morning
+ 早晨 
 
-the Past
+ 过去 
 
-the Present
+ 现在 
 
-the Solstice
+ 至日 
 %%%%
-_sky_colour_name_
+ _sky_colour_name_ 
 
-Black
+ 黑色 
 
-Blue
+ 蓝色 
 
-Grey
+ 灰色 
 
-Indigo
+ 靛蓝 
 
-Orange
+ 橙色
 
-Purple
+ 紫色 
 
-Red
+ 红色 
 %%%%
-_sky_or_light_
-Darkness
+ _sky_or_light_ 
+ 黑暗 
 
-Dim Light
+ 暗光 
 
-Light
+ 光 
 
-Starshine
+ 星光 
 
-Sunlight
+ 阳光 
 
-the Endless Expanse
+ 无边无际 
 
-the Gloaming
+ 暮光
 
-the Heavens
+ 天空 
 
-the Moon
+ 月亮 
 
-the Shining Light
+ 闪亮的光芒 
 
-the Skies Above
+ 上方的天空 
 
-the Sky
+ 天空 
 
-the Sun
+ 太阳 
 
-the @_sky_colour_name_@ Skies
+ @_sky_colour_name_@ 天空 
 %%%%
-_virtue_or_vice_
+ _virtue_or_vice_ 
 
 w:5
-@_virtue_name_@
+ @_virtue_name_@ 
 
-@_valour_name_@
+ @_valour_name_@ 
 
-@_vice_name_@
+ @_vice_name_@ 
 %%%%
-_virtue_name_
-Benevolence
+ _virtue_name_ 
+ 仁慈 
 
-Charity
+ 慈善 
 
-Compassion
+ 慈悲 
 
-Devotion
+ 奉献 
 
-Discretion
+ 谨慎 
 
-Generosity
+ 慷慨 
 
-Grace
+格雷斯
 
-Honesty
+诚实 
 
-Hospitality
+ 热情好客 
 
-Kindness
+ 仁慈 
 
-Largesse
+ 慷慨 
 
-Modesty
+ 谦虚 
 
-Patience
+ 耐心 
 
-Temperance
+ 节制 
 
-Thoughtfulness
+ 体贴 
 
-Truth
+ 真理 
 
-Understanding
+ 理解 
 
-Virtue
+ 美德 
 
-Wariness
+警惕 
 
-Wisdom
-
-%%%%
-_vice_name_
-
-# some of the deadly sins
-Gluttony
-
-Greed
-
-Lust
-
-Pride
-
-Sloth
-
-Vanity
-
-# general immorality
-Amorality
-
-Cowardice
-
-Dishonesty
-
-Dishonour
-
-Equivocation
-
-Foolhardiness
-
-Immorality
-
-Impatience
-
-Lies
-
-Misconduct
-
-Moral Flaws
-
-Past Mistakes
-
-Recklessness
-
-Sin
-
-Spite
-
-Tergiversation
-
-Untruth
-
-Vice
-
-Youthful Indiscretion
-
-the Original Sin
+ 智慧 
 
 %%%%
-_destiny_name_
+ _vice_name_ 
 
-Causality
+ # 一些致命的罪恶 
+ 暴食 
 
-Destiny
+ 贪婪 
 
-Doom
+ 欲望 
 
-Fate
+ 骄傲 
 
-Karma
+ 懒惰 
 
-Kismet
+ 虚荣 
 
-Wyrd
+ # 一般不道德
+ 不道德 
+
+ 胆怯 
+
+ 不诚实 
+
+ 耻辱 
+
+ 模棱两可 
+
+ 鲁莽 
+
+ 不道德 
+
+ 急躁 
+
+ 谎言 
+
+ 不当行为 
+
+道德缺陷 
+
+ 过去的错误 
+
+ 鲁莽 
+
+ 罪恶 
+
+ 怨恨 
+
+ 恐惧 
+
+ 谎言 
+
+ 恶习
+
+青春轻率 
+
+ 原罪 
 
 %%%%
-_number_or_qualifier_
+ _destiny_name_ 
 
-# exact numbers
-the Three
+ 因果关系 
 
-the Four
+ 命运 
 
-the Five
+ 末日 
 
-the Six
+ 命运 
 
-the Seven
+ 业力 
 
-the Eight
+ 天命 
 
-the Nine
+ Wyrd 
 
-the Ten
+%%%%
+ _number_or_qualifier_ 
 
-the Eleven
+ # 确切数字 
+ 三个 
+
+ 四个 
+
+ 五个 
+
+ 六个 
+
+ 七个 
+
+ 八个 
+
+ 九个 
+
+ 十个 
+
+ 十一个
 
 w:5
-the Twelve
+ 十二人 
 
 w:5
-the Dozen
+ 十二人 
 
-the Thirteen
+ 十三人 
 
 w:5
-the Twenty
+ 二十人 
 
 w:1
-the Twenty-Seven
+ 二十七人 
 
-the Fifty
-
-w:5
-the Sixty-Six
+ 五十人 
 
 w:5
-the Seventy-Seven
+ 六十六人 
 
 w:5
-the Ninety-Nine
+ 七十七人 
 
 w:5
-a Hundred
+ 九十九人
 
 w:5
-the Hundredfold
+ 一百 
 
-a Thousand
+w:5
+ 百倍 
 
-a Million
+ 一千 
 
-a Billion
+ 百万 
 
-# vague numbers
-the
+ 十亿 
 
-the Assorted
+ # 模糊数字 
+ 
 
-the Countless
+ 什锦 
 
-the Manifold
+ 无数 
 
-the Many
+ 流形
 
-the Several
+许多 
 
-# other qualifiers
-the Aged
+ 几个 
 
-the Ageless
+ # 其他预选赛 
+ 年长者 
 
-the Ancient
+ 永恒者 
 
-the Battered
+ 古老者 
 
-the Bouncing
+ 被殴打者 
 
-the Bruised
+ 弹跳者 
 
-the Crushed
+ 受伤者 
 
-the Curious
+ 破碎者 
 
-the Disturbing
+ 好奇者
 
-the Endless
+ 令人不安的 
 
-the Exiled
+ 无尽的 
 
-the Final
+ 被放逐的 
 
-the First
+ 最终的 
 
-the Foremost
+ 第一个 
 
-the Forgotten
+ 最重要的 
 
-the Forsaken
+ 被遗忘的 
 
-the Hidden
+ 被遗忘的 
 
-the Illusory
+ 隐藏的 
 
-the Immovable
+ 虚幻的
 
-the Inquisitive
+ 不动的 
 
-the Insatiable
+ 好奇的 
 
-the Invisible
+ 贪得无厌的 
 
-the Jolly
+ 隐形的 
 
-the Last
+ 快乐的 
 
-the Lonely
+ 最后的 
 
-the Lost
+ 孤独的 
 
-the Lumpy
+ 迷失的 
 
-the Modern
+ 笨重的 
 
-the Neverending
+ 现代的
 
-the Peculiar
+ 永无休止 
 
-the Postmodern
+ 奇特 
 
-the Pure
+ 后现代 
 
-the Secret
+ 纯粹 
 
-the Sneaky
+ 秘密 
 
-the Special
+ 狡猾 
 
-the Thirsty
+ 特别 
 
-the Thoughtful
+ 口渴 
 
-the Tired
+ 体贴
 
-the Unstoppable
+疲倦的 
 
-the Vanishing
+ 势不可挡的 
 
-the Wary
+ 消失的 
 
-the Well-Known
+ 警惕的 
+
+ 众所周知的 
 
 %%%%
-_thing_names_
-Allies
+ _thing_names_ 
+ 盟友 
 
-Artisans
+ 工匠 
 
-Artists
+ 艺术家 
 
-Beasts
+ 野兽
 
-Beds
+ 床 
 
-Beggars
+ 乞丐 
 
-Blessings
+ 祝福 
 
-Bones
+ 骨头 
 
-Bounties
+ 赏金 
 
-Brambles
+ 荆棘 
 
 w:5
-Cities
+ 城市 
 
-Coins
+ 硬币 
 
-Continents
+ 大陆 
 
-Curses
+ 诅咒 
 
-Dances
+ 舞蹈
 
-Deaths
+ 死亡 
 
-Defenders
+ 捍卫者 
 
-Domains
+ 领域 
 
-Demons
+ 恶魔 
 
-Dreams
+ 梦想 
 
-Ears
+ 耳朵 
 
-Emperors
+ 皇帝 
 
-Eyes
+ 眼睛 
 
-Friends
+ 朋友 
 
-Friars
+ 修士 
 
-Geomancers
+ 风水师
 
-Ghosts
+ 幽灵 
 
-Gods
+ 诸神 
 
-Heavens
+ 天堂 
 
-Hells
+ 地狱 
 
-Hosts
+ 主办者 
 
-Interlopers
+ 闯入者 
 
-Invaders
+ 入侵者 
 
-Knaves
+ 恶棍
 
 w:25
-Knives
+刀子 
 
-Leylines
+ 地脉 
 
-Lies
+ 谎言 
 
-Lives
+ 生命 
 
-Loafs
+ 面包 
 
-Lovers
+ 情人 
 
-Mice
+ 老鼠 
 
-Moons
+ 月亮 
 
-Mouths
+ 嘴巴 
 
-Mystics
-
-w:5
-Nightcaps
-
-Nightingales
-
-Nightmares
-
-Nights
-
-Olives
-
-Orbs
-
-People
-
-Persimmons
-
-Places
-
-Planets
-
-Portals
-
-Priests
-
-Princes
-
-Prophets
-
-Queens
-
-Quests
-
-Realms
-
-Runes
-
-Scars
-
-Seas
-
-Seers
-
-Servitors
-
-Ships
-
-Shrikes
-
-Songs
-
-Souls
-
-Spines
-
-Spirits
+ 神秘主义者 
 
 w:5
-Spreadsheets
+ 睡帽 
 
-Stars
+夜莺 
 
-Stories
+ 噩梦 
 
-Suns
+ 夜晚 
 
-Tables
+ 橄榄 
 
-Tales
+ 宝珠 
 
-Teeth
+ 人类 
 
-Thickets
+ 柿子 
+
+ 地点 
+
+ 行星 
+
+ 传送门 
+
+ 牧师 
+
+ 王子
+
+ 先知 
+
+ 女王 
+
+ 任务 
+
+ 国度 
+
+ 符文 
+
+ 伤痕 
+
+ 海洋 
+
+ 先知 
+
+ 侍从 
+
+ 船舶 
+
+ 伯劳
+
+ 歌曲 
+
+ 灵魂 
+
+ Spines 
+
+ 烈酒 
 
 w:5
-Things
+ 电子表格 
+
+ 星星
+
+故事 
+
+ 太阳队 
+
+ 桌子 
+
+ 故事 
+
+ 牙齿 
+
+ 灌木丛 
 
 w:5
-Towns
-
-Tusks
-
-Ultimatums
-
-Underlurkers
+ 事物 
 
 w:5
-Villages
+ 城镇 
 
-Violins
+ 象牙 
 
-Visionaries
+ 最后通牒 
 
-Visions
-
-Wars
-
-Wishes
-
-Wonders
-
-Xalams
-
-Xenops
-
-Xeniums
+ 潜伏者 
 
 w:5
-Xenophobes
+ 村庄
 
-Yaks
+ 小提琴 
 
-Youths
+ 梦想家 
 
-Ziggurats
+ 愿景 
+
+ 战争 
+
+ 愿望 
+
+ 奇迹 
+
+ Xalams 
+
+ Xenops 
+
+ Xeniums 
+
+w:5
+ 仇外者 
+
+ 牦牛
+
+ 青少年 
+
+ 通灵塔 
 %%%%
-_verbing_
+ _verbing_ 
 
 w:5
-Ageing
+ 衰老 
 
 w:5
-Baking
+ 烘焙 
 
-Bedazzling
+ 令人眼花缭乱 
 
-Bedighting
+ 寝具 
 
-Bespelling
+ 咒语 
 
-Blushing
-
-w:5
-Breathing
-
-Brewing
-
-Building
-
-Burning
+ 脸红 
 
 w:5
-Bursting
+ 呼吸 
 
-Changing
+酿造 
 
-Charming
+ 建筑 
 
-Chewing
-
-Conjuring
-
-Crafting
-
-Cursing
-
-Dancing
-
-Destroying
-
-Devouring
-
-Disbelieving
+ 燃烧 
 
 w:5
-Dripping
+ 爆裂 
 
-Enchanting
+ 改变 
 
-Enfolding
+ 迷人 
 
-Feeding
+ 咀嚼
 
-Flying
+召唤 
 
-Forging
+ 制作 
 
-Fortifying
+ 诅咒 
 
-Freezing
+ 跳舞 
 
-Gazing
+ 毁灭 
 
-w:5
-Glimmering
+ 吞噬 
 
-w:5
-Glowing
-
-Gnashing
-
-Grinning
-
-Growing
-
-Hammering
-
-Healing
-
-Holding
-
-Howling
+ 怀疑 
 
 w:5
-Hugging
+ 滴落 
 
-Hungering
+ 附魔 
 
-Hurling
+ 包围 
 
-Hurting
+ 喂养
 
-Hurtling
+ 飞行 
 
-Imbibing
+ 锻造 
 
-Inviting
+ 强化 
 
-Jumping
+ 冰冻 
 
-Kissing
+ 凝视 
 
-Keeping
+w:5
+ 微光 
 
-Leaping
+w:5
+ 发光 
 
-Loving
+ 咬牙 
 
-Lusting
+ 咧嘴笑 
+
+ 成长 
+
+ 锤击
+
+ 治疗 
+
+ 抱着 
+
+ 嚎叫 
+
+w:5
+ 拥抱 
+
+ 饥饿 
+
+ 投掷 
+
+ 伤害 
+
+ 投掷 
+
+ 吸食 
+
+ 邀请 
+
+ 跳跃
+
+ 接吻 
+
+ 保持 
+
+ 跳跃 
+
+ 爱 
+
+ 欲望 
 
 w:1
-Malding
+ 马尔丁 
 
-Mauling
+ 殴打
 
-Mashing
+捣碎 
 
-Muttering
+ 低语 
 
-Nurturing
+ 培育 
 
-Protecting
+ 保护 
 
-Rescuing
+ 救援 
 
-Riding
+ 骑行 
 
-Scorching
+ 灼烧 
 
-Screaming
+ 尖叫 
 
-Sharing
+ 共享 
 
-Sheltering
+ 庇护 
 
-Shifting
+ 移动
 
-Shimmering
+ 闪烁 
 
-Shouting
+ 喊叫 
 
-Shrinking
+ 收缩 
 
-Singing
+ 唱歌 
 
-Smoking
+ 吸烟 
 
-Stopping
+ 停止 
 
-Summoning
+ 召唤 
 
-Supporting
+ 支持 
 
-Teaching
+ 教学 
 
-Telling
+ 讲述 
 
-Thieving
+ 盗窃
 
-Threshing
+ 脱粒 
 
-Transmuting
+ 转化 
 
-Twisting
+ 扭曲 
 
-Uplifting
+ 提升 
 
-Usurping
+ 篡夺 
 
-Winnowing
+ 风选 
 
-Witching
+ 巫术 
 
-Wizarding
+ 巫师 
 
-Writhing
+ 扭动 
 
-# the three classic D&D damage types:
+ # 三种经典的 D&D 伤害类型： 
 w:5
-Bashing
-
-w:5
-Slashing
+ 猛击 
 
 w:5
-Piercing
+ 砍击 
+
+w:5
+ 刺穿 
 %%%%
-_adjective_
-Blue
+ _形容词_ 
+ 蓝色 
 
-Green
+ 绿色 
 
-Red
-
-w:5
-Amorous
-
-Antique
-
-Arcadian
+ 红色 
 
 w:5
-Avant Garde
+ 多情
 
-Baleful
+古董 
 
-Barnacled
-
-Beastly
-
-Bedazzled
-
-Bellicose
-
-Beloved
-
-Bequeathed
-
-Bespelled
-
-Bright
-
-Burning
-
-Bursted
+ 田园风格 
 
 w:5
-Burnt
+ 前卫 
 
-Carved
+ 恶毒 
 
-Caustic
+ 藤壶 
 
-Clean
+ 野兽 
 
-Cleverly Designed
+ 迷惑 
 
-Charmed
+ 好战 
 
-w:5
-Charred
+ 挚爱 
 
-Contumacious
+ 遗赠 
 
-Damp
+ 拼写
 
-Decaying
+ 明亮 
 
-Deeply Unsettling
+ 燃烧 
 
-Delicate
-
-Delightful
-
-Demonic
-
-Divine
-
-Doomed
-
-Dowdy
-
-Dull
-
-Durable
-
-Enormous
-
-Ethereal
-
-Exceptional
-
-Extremely Toothy
-
-Eye-covered
-
-Fabulous
-
-Fae
-
-Feral
-
-Ferocious
-
-Festooned
-
-Filigreed
-
-Floral
-
-Freezing
-
-Fresh
+ 爆裂 
 
 w:5
-Futuristic
+ 烧焦 
 
-Fuzzy
+ 雕刻 
 
-Ghostly
+ 腐蚀性 
 
-Glamorous
+ 清洁 
 
-Golden
+ 巧妙设计 
 
-Grand
-
-Grim
-
-Hairy
-
-Haunted
-
-Histrionic
-
-Impassible
-
-Impish
-
-Indestructible
-
-Intense
-
-Irksome
-
-Jocular
-
-Lachrymose
-
-Living
-
-Majestic
-
-Meager
+ 迷人 
 
 w:5
-Modern
+ 烧焦 
 
-Mordant
+ 连续性
 
-Narrow
+ 潮湿 
 
-Nice
+ 腐烂 
 
-Noxious
+ 令人深感不安 
 
-Oily
+ 精致 
 
-Ornamental
+ 令人愉悦 
 
-Painted
+ 恶魔 
 
-Parsimonious
+ 神圣 
 
-Powerful
+ 注定 
 
-Puckish
+ 邋遢 
 
-Quiescent
+ 沉闷 
 
-Quick
+ 耐用
 
-Reasonable
+ 巨大 
 
-Resonant
+ 空灵 
 
-Rotten
+ 卓越 
 
-Sandy
+ 牙齿极其丰富 
 
-Scuffed
+ 遮住眼睛的 
 
-Sharp
+ 神话般的 
 
-Shrieking
+ Fae
+
+野性 
+
+ 凶猛 
+
+ 装饰 
+
+ 花饰 
+
+ 花卉 
+
+ 冷冻 
+
+ 清新 
 
 w:5
-Silly
+ 未来 
 
-Slimy
+ 模糊 
 
-Solemn
+ 幽灵 
 
-Soft
+ 迷人 
 
-Squeaky
+ 金色
 
-Stained
+ 盛大 
 
-Sufficient
+ 冷酷 
 
-Tentacled
+ 多毛 
 
-Terrible
+ 闹鬼 
 
-Toothy
+ 表演 
 
-Tortured
+ 冷漠 
 
-Transparent
+ 顽皮 
 
-Ubiquitous
+ 坚不可摧 
 
-Unbearable
+ 激烈 
 
-Verdant
+ 令人厌烦 
 
-Viny
+ 滑稽
 
-Voracious
+ 泪花 
 
-Weak
+ 生活型 
 
-Wicked
+ 雄伟型 
 
-Wonderful
+ 贫乏型 
 
-Zealous
+w:5
+ 现代型 
+
+ 媒染型 
+
+ 窄型 
+
+ 漂亮型 
+
+ 有毒型 
+
+ 油性型 
+
+ 观赏型
+
+ 彩绘 
+
+ 吝啬 
+
+ 强大 
+
+ 顽皮 
+
+ 安静 
+
+ 快速
+
+合理 
+
+ 共鸣 
+
+ 腐烂 
+
+ 桑迪 
+
+ 磨损 
+
+ 尖锐 
+
+ 尖叫 
+
+w:5
+ 愚蠢 
+
+ 粘糊糊 
+
+ 庄严 
+
+ 柔和 
+
+ 吱吱作响
+
+ 染色 
+
+ 充足 
+
+ 触手 
+
+ 可怕 
+
+ 露齿 
+
+ 折磨 
+
+ 透明 
+
+ 无处不在 
+
+ 不堪 
+
+ 翠绿
+
+ Viny 
+
+ 贪婪 
+
+ 弱 
+
+ 邪恶 
+
+ 精彩 
+
+ 热心 
 %%%%
-_fruit_name_
+ _fruit_name_ 
 
-Orange
+ 橙色 
 
-Banana
+ 香蕉 
 
-# fruit-adjacent
-Banana Bread
+ # 水果相邻 
+香蕉面包 
 
-Pear
+ 梨 
 
-Apple
+ 苹果 
 
-Apricot
+ 杏 
 
-Tomato
+ 番茄 
 
-Peach
+ 桃子 
 
-Plum
+ 李子 
 
-Rambutan
+ 红毛丹
 
-Lychee
+荔枝 
 
-Mango
+ 芒果 
 
-Watermelon
+ 西瓜 
 
-Rockmelon
+ 哈密瓜 
 
-Strawberry
+ 草莓 
 
-Coconut
+ 椰子 
 
-Breadfruit
+ 面包果 
 
-Eggfruit
+ 鸡蛋果 
 
-Dragonfruit
+ 火龙果 
 
-Durian
+ 榴莲 
 
-Jackfruit
+ 菠萝蜜 
 
-Longan
+龙眼 
 
-Tamarind
+ 罗望子 
 
-Guava
+ 番石榴 
 
-Mangosteen
+ 山竹 
 
-Soursop
+ 刺果番荔枝 
 
-Tangerine
+ 橘子 
 
-Cherry
+ 樱桃 
 
-Grape
+ 葡萄 
 
-Sultana
+ 葡萄干 
 
-Fig
+ 无花果 
 
-Date
+ 枣子 
 
-Lemon
+ 柠檬
 
-Lime
+ 青柠 
 
-Medlar
+ 枸杞
 %%%%
