@@ -1,7 +1,7 @@
 ########################################################################
 ### 祭坛
 ########################################################################
-检测到的祭坛
+A detected altar
 
 某种祭坛。如果没有的话，你无法分辨它供奉的是哪位神祇
 接近它。
@@ -146,7 +146,7 @@ A glowing silver altar of Zin
 ########################################################################
 ### 地形
 ########################################################################
-无尽的熔岩
+The endless lava
 
 放眼望去，一片火海和硫磺。任何一个冒险穿越的人
 它很快就会被烤熟。
@@ -246,7 +246,7 @@ A frigid wall
 到它。
 %%%%
 ########################################################################
-＃＃＃ 特征
+A shop
 ########################################################################
 一家商店
 
@@ -265,7 +265,7 @@ A stone staircase leading up
 一个楼梯通向后。
 %%%%
 # For the Vaults:5 staircases in and out.
-通往下方的金属楼梯
+A metal staircase leading down
 
 通往宏伟金库的楼梯，里面有佐特的银色符文，
 他们的财富吸引了地下城中最强大的冠军来到这里
@@ -372,7 +372,7 @@ An empty arch of ancient stone
 一座石牌坊，似乎没有什么特别的通向。
 %%%%
 # mmap/antennae/etc
-检测到的商店或门户
+A detected shop or portal
 
 某种网关。如果不接近它，你就无法知道它通向何方。
 %%%%
@@ -443,7 +443,7 @@ A runelight
 佐特肯定就在附近，它的力量溢出导致了这一壮观的景象。
 %%%%
 # column_ruins
-一根折断的柱子
+A broken pillar
 
 一根残破不堪、支离破碎的石柱。
 %%%%
@@ -482,7 +482,7 @@ A statue of an orb of entropy
 ########################################################################
 ### 分行出入口
 ########################################################################
-通往这个地方的门
+A gate leading back out of this place
 
 一扇让你回到你来的地方的门。
 %%%%
@@ -662,7 +662,7 @@ A transporter landing site
 ########################################################################
 ## 门
 ########################################################################
-一扇敞开的门
+An open door
 
 一扇打开的木门。如果再次关闭，所有可以携带装备的怪物，
 其中一些无法打开的人可以再次打开它。如果关闭并重新打开
@@ -826,7 +826,7 @@ A huge broken translucent gate
 ########################################################################
 ### 陷阱
 ########################################################################
-警报陷阱
+An alarm trap
 
 发出巨大噪音来吸引附近怪物的陷阱。除了
 它产生的噪音，它会施加一种结界，使怪物遍布整个世界
@@ -919,7 +919,7 @@ A Zot trap
 ########################################################################
 ### 传送门金库入口
 ########################################################################
-已标记的门户
+A flagged portal
 
 通往贝利的门户，随着标准的降低而逐渐消失
 到地面。
@@ -929,13 +929,13 @@ A gauntlet entrance
 通往挑战的传送门。
 %%%%
 # timed bazaar
-通往集市的闪烁门户
+A flickering gateway to a bazaar
 
 通往集市的门户，流动的商人聚集在那里出售他们的产品
 商品。他们从来不会在一个地方呆太久。
 %%%%
 # permanent bazaar
-通往集市的门户
+A gateway to a bazaar
 
 通往集市的门户，流动的商人聚集在那里出售他们的产品
 商品。他们会等你，但一旦你有机会浏览他们的
@@ -989,7 +989,7 @@ A magical portal
 %%%%
 # These should get custom names instead. Currently used by: IceCv, Ossuary,
 # 下水道、宝藏、火山。
-倒塌的入口
+A collapsed entrance
 
 已经塌陷的通道，无法再使用。
 %%%%
@@ -997,7 +997,7 @@ A magical portal
 ### 门户重新定义
 ########################################################################
 # 墓地
-档案金属墙
+An archival metal wall
 
 一面被迷惑的金属墙，上面覆盖着难以理解的非线性脚本，记录着
 埋葬者和来访者的遗憾。与所有金属墙一样，
@@ -1005,13 +1005,13 @@ A magical portal
 闪电。
 %%%%
 # sewer_minmay_treatment (Sewer)
-一个大窗户
+A large window
 
 一个嵌入巨大金属管侧面的窗户，可以进行观察
 内部流动的水。
 %%%%
 # Ice Cave
-一座冰封的古老石拱门
+An ice choked empty arch of ancient stone
 
 一个不起作用的传送门，几乎完全被冰块包裹着。
 %%%%
@@ -1034,7 +1034,7 @@ Some ice crusted shallow water
 一池浅水，上面布满了破碎的冰块。
 %%%%
 # volcanos
-被岩石堵塞的隧道
+A rock-blocked tunnel
 
 一条无法再通行的隧道。
 %%%%
@@ -1045,25 +1045,25 @@ A rocky tunnel leading out of this place
 一旦你经过这里。
 %%%%
 # Desolation
-一望无际的盐田
+An endless expanse of salt
 
 看似一望无际的平坦平原，被令人眼花缭乱的盐暴所破坏。任何人
 冒险穿越它很快就会失去所有希望。
 %%%%
 # Desolation
-毁掉的偶像
+A ruined idol
 
 一座纪念死去神的荣耀的纪念碑。这座雕像被有条不紊地
 污损；没有任何一个显着特征留下来。
 %%%%
 # wizlabs
-通往这个地方的传送门
+A portal leading out of this place
 
 一扇闪闪发光的魔法门通向你来自的地方。你会
 一旦经过这里就无法返回。
 %%%%
 # wizlab: Wucad Mu
-一棵秋天的树
+An autumnal tree
 
 一棵大树似乎永远锁定在秋天的时刻。
 红色和金色的叶子从树枝上飘落，优雅地飘到
@@ -1082,7 +1082,7 @@ A strange statue
 一些恶魔和邪恶的东西？
 %%%%
 # wizlab: Doroklohe
-奇怪的岩壁
+A strange rock wall
 
 墙壁上装饰着您可能在坟墓中看到的图像。
 %%%%
@@ -1095,7 +1095,7 @@ The rough-hewn floor
 地板。有些地方崎岖不平。
 %%%%
 # wizlab: Cigotuvi
-粘稠流体
+Viscous fluid
 
 一种粘稠的液体，似乎是由附近的墙壁分泌出来的。看起来
 恶心的。
@@ -1117,7 +1117,7 @@ A broken fleshy orifice
 似乎正在悄然渗出。最好不要碰它。
 %%%%
 # wizlab: Zonguldrok
-宗古尔卓克的墓碑
+Zonguldrok's gravestone
 
 宗古德罗克家的墓碑上仍然滴着微咸的脓液。
 %%%%
@@ -1126,7 +1126,7 @@ A gravestone
 一座无名坟墓。
 %%%%
 # wizlab: Golubria
-维度的边缘
+The dimension's edge
 
 这个微小的、孤立的平面的边缘，空间本身溶入其中
 遗忘。进入或影响这个黑色虚空是不可能的。
@@ -1136,7 +1136,7 @@ A wall of crystal
 <A crystal wall>
 %%%%
 # wizlab: Cloud Mage
-潮湿的地板
+The damp floor
 
 地板。它永远保持潮湿，可能是由于湿度或恒定的原因
 云的流动。
@@ -1150,7 +1150,7 @@ A wall of white crystal
 由低品水晶打造而成的墙壁，散发着乳白色的光芒。
 %%%%
 # wizlab: Hellbinder
-一面黑墙
+A black wall
 
 可能由石头、实心木炭或仅在其中发现的物质制成的墙
 最深的地狱。
@@ -1160,7 +1160,7 @@ A carved rock wall
 墙上装饰着死亡和破坏的图像。
 %%%%
 # Crucible of Flesh
-异常坚硬的鸡血石墙
+An unnaturally hard bloodstone wall
 
 坚不可摧的堡垒，用鲜血铸成，在苦难中磨砺
 凡人的生命无法计数。
@@ -1179,7 +1179,7 @@ A decorative floor
 提交错误报告。
 %%%%
 # Necropolis.
-一棵悲伤的树
+A tree of woe
 
 一棵半死不活的树，结满了结晶的悲伤果实。
 %%%%
@@ -1192,24 +1192,24 @@ A dead mangrove
 死去已久的红树林的干燥残骸。
 %%%%
 # Dis vaults
-血迹斑斑的拖把和水桶
+A bloodied mop and bucket
 
 拖把和水桶沾满了恶魔酷刑的血腥后果。
 %%%%
 # Dis:7
-一座铁雕像
+An iron statue
 
 一座古代武士的雕像，上面装饰着阵亡者的战利品。
 一些黑色物质从其面罩的缝隙中渗出；当然它一定是油..？
 %%%%
 # Gehenna vaults
-地狱般的标准
+An infernal standard
 
 残酷征服的旗帜，插在许多阵亡者的废墟中
 以地狱的名义前往王国领取他们的骨灰。
 %%%%
 # Geh:7
-灰烬地面
+Ashen ground
 
 灰烬和余烬，散落着破碎的宝藏和来自各个领域的毫无价值的硬币
 早已堕落。
@@ -1221,7 +1221,7 @@ A tempered metal wall
 但前者似乎很少在交易中取得领先。
 %%%%
 # Coc:7
-冰雪覆盖的岩壁
+An ice-covered rock wall
 
 岩壁上覆盖着厚厚的冰层。扭曲的面孔在下面怒视着
 表面上，永远陷入愤怒和背叛的鬼脸中。
@@ -1237,31 +1237,31 @@ Frost-covered floor
 就好像它已经在这种状态下存在了永恒。
 %%%%
 # Gozag and TSO vaults.
-一座金色雕像
+A golden statue
 
 圣人的纯金雕像。
 %%%%
 # Zin vaults and Vaults branch.
-一座银雕像
+A silver statue
 
 纯银几何雕像，无论在材质还是形式上都堪称典范
 安全和停滞。
 %%%%
 # Xom, Nemelex, and klown vaults.
-一座闪闪发光的雕像
+A scintillating statue
 
 一座神奇地移动的雕像似乎满足于在原地闪烁和跳舞，
 致力于不可言喻的宇宙混沌游戏。
 %%%%
 # Menagerie vaults.
-一个神秘的牢笼
+A mystic cage
 
 坚固的金属笼子，铭刻着神秘的魔法。无论它曾经拥有什么——
 无论是人、野兽还是实验品——显然已经作为回应而被释放
 像你这样潜入地牢的入侵者。
 %%%%
 # Themed magic branches / portals / vaults.
-神秘的导管
+An arcane conduit
 
 一种奇怪但良性的金属结构，分析原始的环境魔法能量。如果
 被足够强大的魔法摧毁和破坏，其破坏性的神秘
@@ -1316,7 +1316,7 @@ A storm conduit
 无害地驱散。
 %%%%
 # Wizlabs and Zot _only_.
-神秘的发电机
+An enigmatic dynamo
 
 一种无害但坚固的金属结构，在电源和
 目的。无论它分析、处理、提供能量或产生什么，都不能
@@ -1330,7 +1330,7 @@ A nascence circuit
 带着创造生命的喜悦无害地跳舞。
 %%%%
 # Vaults with extraplanar contents.
-肮脏的水晶墙
+A bedevilled crystal wall
 
 一堵由闪闪发光的水晶制成的墙，从墙上可以看到一些恶魔位面。
 虽然其成分使其能够抵抗破坏并反射火和
@@ -1338,7 +1338,7 @@ A nascence circuit
 无论如何，这就是结局。
 %%%%
 # Housing, gardens, and zoos.
-一个花瓶
+A floral vase
 
 粘土容器中充满活力的花束，用充足的水保持活力
 以及一些小魔法。
@@ -1384,7 +1384,7 @@ a skull pike
 他们的主人。
 %%%%
 # Graveyards, Crypt, Necropolis.
-哀悼花瓶
+A mourning vase
 
 一朵奇特的花朵，弥漫着忧郁的气息，握在陶瓷的握把里。它
 很难判断它是否还活着。
@@ -1394,25 +1394,25 @@ A broken floral vase
 一个精致的安排，被粉碎成碎片并被缓慢地饥饿。
 %%%%
 # The Hall of Blades
-镶嵌武器的地板
+A weapon-inlaid floor
 
 武器的精灵镶嵌物标志着这里的刀锋大厅，
 地下城中许多最锋利的武器都起源于魔法动画
 展示他们对潜在小偷的杀伤力。
 %%%%
 # Bailies and other Orc-containing larger vaults
-兽人标准
+An orcish standard
 
 一面贝奥旗帜升起，表明这座防御工事属于某个军队
 地下城的兽人军队。
 %%%%
 # Holy Pan.
-银色的墙
+A silver wall
 
 纯银打造的墙壁。
 %%%%
 # Slime:$
-刻有符文的石墙
+A rune-carved stone wall
 
 奇怪的没有粘液的石墙，上面雕刻着无数的保护层
 符文。
@@ -1424,12 +1424,12 @@ A rune-carved clear stone wall
 指“蜂王浆”。
 %%%%
 # Tomb:1
-石棺
+A sarcophagus
 
 一个古老的石棺。看起来是空的。
 %%%%
 # Vaults:$
-严重蚀刻的金属墙
+A heavily etched metal wall
 
 金属墙上刻有壁画，以伟大而可怕的细节描绘，
 任何被发现从金库偷窃的人都会受到怎样的对待。
@@ -1440,22 +1440,22 @@ A heavily etched crystal wall
 任何被发现从金库偷窃的人都会受到怎样的对待。
 %%%%
 # moated_graveyard_entry (D:1)
-冒险家的墓碑
+An adventurer's gravestone
 
 接近胜利的冒险家的坟墓。
 %%%%
 # due_jungle_book (Lair:$)
-大象形状的雕像
+An elephant-shaped statue
 
 一座破旧的花岗岩雕像，描绘了一头站岗的大象。
 %%%%
 # pan_disco_hall (Pan)
-一个奇怪的发光球
+A weirdly glowing ball
 
 一个漂浮着的球体散发着闪烁的光芒。
 %%%%
 # ragdoll_tomb_raider
-密封的石棺
+A sealed sarcophagus
 
 一个古老的石棺。它被密封关闭。
 %%%%
@@ -1463,7 +1463,7 @@ A heavily etched crystal wall
 ### 冲刺
 ########################################################################
 # sprint_mu
-公海？
+An open sea?
 
 尽管它的存在完全违背了每一个传统的物理规则
 你知道几何学是真实的，无可否认，在这里，在这个小小的
@@ -1472,12 +1472,12 @@ A heavily etched crystal wall
 要么就是这样，要么就是一堵蓝色的墙。
 %%%%
 # arena_sprint
-一个重生点
+A spawn point
 
 反对派可能出现的入口。
 %%%%
 ########################################################################
-＃＃＃ 教程
+An exit from the tutorial
 ########################################################################
 退出教程
 
@@ -1486,7 +1486,7 @@ A heavily etched crystal wall
 ########################################################################
 ### 区域效果
 ########################################################################
-光环
+haloed
 
 该区域被神圣光环照亮，降低你的隐身性，防止
 隐形，并提高对任何照明的攻击的准确性
@@ -1512,7 +1512,7 @@ disjunction haloed
 ########################################################################
 ### 其他效果
 ########################################################################
-冰覆盖
+ice covered
 
 这堵墙覆盖着神奇的冰，可以冻结附近徘徊的受害者。
 这种伤害会绕过目标可能拥有的任何护甲，并且会减慢冷血者的速度

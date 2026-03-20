@@ -81,7 +81,7 @@ azure gem
 秘密被锁在无法穿透的深处。
 %%%%
 # the_bakery
-烤尸体
+baked corpse
 
 一具被烤熟的尸体。温暖、无用、死气沉沉。
 %%%%
@@ -1094,7 +1094,7 @@ potion of berserk rage
 短时间内无法再次狂暴。
 %%%%
 # TAG_MAJOR_VERSION == 34
-血药水
+potion of blood
 
 含有生命精华的药剂。
 %%%%

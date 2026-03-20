@@ -1,6 +1,6 @@
 %%%%
 # Escape
-速度卡
+Velocity card
 
 这张卡片描绘了一双空的、破旧的靴子。沙子、灰烬和草皮
 涂上靴子的鞋底。
@@ -47,7 +47,7 @@ the Cloud card
 这些云的效果会随着卡牌强度的不同而变化。
 %%%%
 # Destruction
-硫酸卡
+Vitriol card
 
 该方案描绘了一种 oklob 植物，滴着独特的精细汁液。
 
@@ -133,7 +133,7 @@ the Illusion card
 靠自己。
 %%%%
 # Punishment
-愤怒卡牌
+Wrath card
 
 这张牌描绘了神的手从天而降投掷
 愤怒的闪电。
@@ -159,7 +159,7 @@ Torment card
 抽出这张卡会对使用者造成痛苦的伤害。
 %%%%
 # buggy cards
-一张有缺陷的卡
+a buggy card
 
 这一动作描述了一名 Crawl 玩家正在提交有关 Mantis 的错误报告。
 
