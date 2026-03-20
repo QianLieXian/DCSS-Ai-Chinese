@@ -3,347 +3,347 @@
  # 当它们第一次出现在其描述屏幕上时显示。 
 #########
 %%%%
- 艾格尼丝 称号 
+Agnes title
 
  流浪者阿格尼丝 
 %%%%
- 艾祖尔 称号 
+Aizul title
 
  艾祖尔 疏忽的守护者 
 %%%%
- 阿玛兽 称号 
+Amaemon title
 
  恶魔毒药阿玛兽 
 %%%%
- 安泰乌斯 称号 
+Antaeus title
 
  安泰乌斯，科塞特斯的守护者
 %%%%
- 阿拉克涅称号 
+Arachne title
 
  被放逐者阿拉克涅 
 %%%%
- 阿斯莫蒂乌斯称号 
+Asmodeus title
 
  地狱王子阿斯莫蒂乌斯 
 %%%%
- 阿斯特里昂称号 
+Asterion title
 
  堕落之王阿斯特里昂 
 %%%%
- 阿兹瑞尔称号 
+Azrael title
 
  无边火焰阿兹瑞尔
 %%%%
- 白素贞称号 
+Bai Suzhen title
 
  白素贞白娘子 
 %%%%
- 鲍里斯称号 
+Boris title
 
  生死大师鲍里斯 
 %%%%
- 卡珊德拉称号 
+Cassandra title
 
  命中注定的卡珊德拉 
 %%%%
- 塞雷波夫称号 
+Cerebov title
 
  火与钢魔王塞雷波夫
 %%%%
- Chuck 头衔 
+Chuck title
 
  Chuck the Collector 
 %%%%
- Crazy Yiuf 头衔 
+Crazy Yiuf title
 
  Crazy Yiuf the Enlightened 
 %%%%
- Dispater 头衔 
+Dispater title
 
  Dispater，铁城之主 
 %%%%
- Dissolution 头衔 
+Dissolution title
 
  Dissolution，Jiyva 大祭司
 %%%%
- 唐纳德头衔 
+Donald title
 
  冒险家唐纳德 
 %%%%
- Dowan 头衔 
+Dowan title
 
  Dowan，杜维萨的兄弟 
 %%%%
- 杜维萨头衔 
+Duvessa title
 
  杜维萨，Dowan 的妹妹
 %%%%
-艾德蒙 称号 
+Edmund title
 
  小埃德蒙 
 %%%%
- 埃列什基伽 称号 
+Ereshkigal title
 
  塔尔塔罗斯女王埃列什基伽 
 %%%%
- 艾丽卡 称号 
+Erica title
 
  暴躁的艾丽卡 
 %%%%
- 埃罗查 称号 
+Erolcha title
 
  狡猾的埃罗查 
 %%%%
- 尤斯塔奇奥 称号
+Eustachio title
 
  伟大的尤斯塔西奥 
 %%%%
- 范纳尔头衔 
+Fannar title
 
  冷心的范纳尔 
 %%%%
- 弗朗西斯头衔 
+Frances title
 
  魔界公爵夫人弗朗西斯 
 %%%%
- 弗雷德里克头衔 
+Frederick title
 
  无瑕的弗雷德里克 
 %%%%
- Gastronok 头衔
+Gastronok title
 
  笨重的加斯特罗克 
 %%%%
- 杰里昂称号 
+Geryon title
 
  地狱守门人杰里昂 
 %%%%
- 格洛克斯 Vloq 称号 
+Gloorx Vloq title
 
  黑暗魔王格洛克斯 Vloq 
 %%%%
- 格鲁姆称号 
+Grum title
 
  猎人格鲁姆 
 %%%%
- 格鲁恩称号
+Grunn title
 
  受罚者格伦 
 %%%%
- 哈罗德称号 
+Harold title
 
  风化哈罗德 
 %%%%
- 伊格纳西奥称号 
+Ignacio title
 
  剧痛大师伊格纳西奥 
 %%%%
- 伊尔苏称号 
+Ilsuiw title
 
  潮汐魔女伊尔苏 
 %%%%
- Ijyb 称号
+Ijyb title
 
  好奇者伊吉布 
 %%%%
- 杰西卡标题 
+Jessica title
 
  学徒女巫杰西卡 
 %%%%
- 耶利米标题 
+Jeremiah title
 
  耶利米，巴拉奇梦想家 
 %%%%
- 乔格伦标题 
+Jorgrun title
 
  乔格伦撼地者
 %%%%
-乔里头衔 
+Jory title
 
  血污伯爵乔里 
 %%%%
- 约瑟夫头衔 
+Joseph title
 
  雇佣兵约瑟夫 
 %%%%
- 约瑟芬娜头衔 
+Josephina title
 
  冰巫妖约瑟芬娜 
 %%%%
- 约瑟芬头衔 
+Josephine title
 
  腐烂死灵法师约瑟芬 
 %%%%
- 胡夫头衔 
+Khufu title
 
 不朽法老胡夫 
 %%%%
- 柯克称号 
+Kirke title
 
  神话编织者柯克 
 %%%%
- 洛杜尔称号 
+Lodul title
 
  雷霆洛杜尔 
 %%%%
- 洛姆·洛邦 称号 
+Lom Lobon title
 
  禁忌知识的恶魔领主洛姆·洛邦 
 %%%%
- 路易丝 称号 
+Louise title
 
  路易丝堕落者 
 %%%%
- 玛吉 标题 
+Maggie title
 
  虚荣的玛吉 
 %%%%
- 玛拉 标题 
+Mara title
 
  幻象之王玛拉 
 %%%%
- 玛吉 标题 
+Margery title
 
  屠龙者玛吉 
 %%%%
- 莫里斯 标题 
+Maurice title
 
  莫里斯 小偷
 %%%%
- Menkaure 头衔 
+Menkaure title
 
  Menkaure，尘埃王子 
 %%%%
- Mennas 头衔 
+Mennas title
 
  Mennas，辛之声 
 %%%%
- Mlioglotl 头衔 
+Mlioglotl title
 
  Mlioglotl，未成形的恐怖者 
 %%%%
- Mnoleg 头衔 
+Mnoleg title
 
  Mnoleg，混沌恶魔领主
 %%%%
- 默里头衔 
+Murray title
 
  恶魔骷髅默里 
 %%%%
- 娜塔莎头衔 
+Natasha title
 
  娜塔莎，生死仆人 
 %%%%
- 内莉头衔 
+Nellie title
 
  内莉，表演之星
 %%%%
-Nergalle 称号 
+Nergalle title
 
  Nergalle，堕落者的博学者 
 %%%%
- Nessos 称号 
+Nessos title
 
  Nessos the Markscentaur 
 %%%%
- Nikola 称号 
+Nikola title
 
  Nikola 疯狂发明家 
 %%%%
- 无人称号 
+Nobody title
 
  无人，无名之怨
 %%%%
- 诺里斯 头衔 
+Norris title
 
  哲学家诺里斯 
 %%%%
- 帕吉特 头衔 
+Parghit title
 
  强大的帕吉特 
 %%%%
- 帕吉 头衔 
+Pargi title
 
  温顺的帕吉 
 %%%%
- 皮克尔 头衔 
+Pikel title
 
  灵魂商人 皮克尔 
 %%%%
- 波吕斐摩斯 头衔
+Polyphemus title
 
  警惕的牧羊人波吕斐摩斯 
 %%%%
- 罗宾头衔 
+Robin title
 
  强臂罗宾 
 %%%%
- 罗克珊 头衔 
+Roxanne title
 
  罗克珊，名誉风水师 
 %%%%
- 鲁珀特 头衔 
+Rupert title
 
  狂野鲁珀特 
 %%%%
- 圣罗卡 头衔 
+Saint Roka title
 
  圣罗卡弥赛亚 
 %%%%
- 西格蒙德 头衔 
+Sigmund title
 
  可怕的西格蒙德 
 %%%%
- Snorg 头衔 
+Snorg title
 
  贪得无厌的 Snorg 
 %%%%
- Sojobo 头衔 
+Sojobo title
 
  Sojobo，天狗女王 
 %%%%
- Sonja 头衔 
+Sonja title
 
  优雅刺客 Sonja 
 %%%%
- Sprozz 头衔 
+Sprozz title
 
  Sprozz，发明养蜂师 
 %%%%
- Terence 头衔 
+Terence title
 
  特伦斯退伍军人 
 %%%%
- Tiamat 头衔 
+Tiamat title
 
  Tiamat，龙王的化身
 %%%%
-乌鲁格头衔 
+Urug title
 
  兽人弩炮乌鲁格 
 %%%%
- 威格拉夫 头衔 
+Wiglaf title
 
  枪手矮人威格拉夫 
 %%%%
- 瓦什尼亚 头衔 
+Vashnia title
 
  精英瓦什尼亚 马克斯纳加 
 %%%%
- Vv 头衔 
+Vv title
 
  Vv 流亡者 
 %%%%
- Xak'krixis 头衔
+Xak'krixis title
 
  Xak'krixis，皇家远征炼金术士 
 %%%%
- Xtahua 称号 
+Xtahua title
 
  Xtahua 远古者 
 %%%%
- Zenata 称号 
+Zenata title
 
  Zenata，Sheza 探索者
 %%%%

@@ -6,7 +6,7 @@
 # 该文件包含杂项名称列表。
 ######################################################
 %%%%
-Summon_horrible_things
+summon_horrible_things
 
 你的思绪开始旋转，被传送门中的恐怖所触动。
 
@@ -76,7 +76,7 @@ harlequin_trap_lines
 
 残酷的恶作剧感在你的周围涌动，如
 %%%%
-# 多么伟大佐特宝珠？
+# How great is the Orb of Zot?
 _great_adj_
 
 令人惊叹的 
@@ -116,7 +116,7 @@ w:5
 
  奇妙 
 %%%%
- 欢迎_垃圾邮件 
+welcome_spam
 
  你会在别人失败的地方获胜吗？你会找到佐特宝珠吗？ 
 
@@ -144,7 +144,7 @@ w:5
 
  到佐特之球还有很长的路要走，但这应该不是什么麻烦。 
 %%%%
-welcome_spam 地牢下降 
+welcome_spam dungeon descent
 
  你会下降到别人失败的地方吗？你会找到佐特宝珠吗？ 
 
@@ -158,7 +158,7 @@ welcome_spam 地牢下降
 
  如果你下降而没有找到佐特之球，那么在下面那么远，一切都结束了！ 
 %%%%
- #万圣节我们周围的事物
+# things that surround us on Halloween
 _halloween_things_ 
 
  恶魔幻觉 
@@ -173,7 +173,7 @@ _halloween_things_
 
  幻象 
 %%%%
- # 你不希望女巫把你变成的东西
+# things you don't want a witch to turn you into
  _lowly_ 
 
  蝾螈 
@@ -184,7 +184,7 @@ _halloween_things_
 
  蠕虫 
 %%%%
- 欢迎_垃圾邮件 万圣节 
+welcome_spam Halloween
 
  @welcome_spam@ 小心！今晚万圣节。 
 
@@ -205,7 +205,7 @@ _halloween_things_
  你感觉到佐特之球在召唤你……你惊恐地意识到呼唤是从地牢内部传来的！ 
 
 %%%%
- hell_effect_quiet 
+hell_effect_quiet
 
 {{
  如果 you.can_smell() 那么 
@@ -295,7 +295,7 @@ else
 
  满嘴都是血。这绝对不是你的。 
 %%%%
- hell_effect_noisy 
+hell_effect_noisy
 
  “走开，侵入者！” 
 

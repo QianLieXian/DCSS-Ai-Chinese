@@ -12,7 +12,7 @@
  # 了解更多详细信息。 
 ######################################################
 %%%%
- _armour_animal_ 
+_armour_animal_
 
  # 微生物 
  变形虫 
@@ -294,7 +294,7 @@ Impundulu
  Yeti 
 
 %%%%
- _flower_name_ 
+_flower_name_
  水仙花
 
  雏菊 
@@ -322,7 +322,7 @@ Rose
  Thistle 
 
 %%%%
- # 非 Crawl 小动物 
+# non-Crawl critters
  _critter_name_ 
  Alphagorgon 
 
@@ -342,7 +342,7 @@ w:1
 
  Wumpus 
 %%%%
- _discomfort_and_inaction_ 
+_discomfort_and_inaction_
 
  # 不适 
  不良感觉
@@ -391,7 +391,7 @@ w:1
 低潮 
 
 %%%%
- _good_or_divine_ 
+_good_or_divine_
 
  # 好东西
 改善 
@@ -462,7 +462,7 @@ w:1
 众神的意志 
 
 %%%%
- # 与“_wacky_armour_name_”相比，它们确实有一些 
+# in contrast to "_wacky_armour_name_" these do have some
  # 与装甲和保护的联系 
  _armour_name_shielding_ 
  完全保护 
@@ -502,7 +502,7 @@ w:1
  守卫 
 
 %%%%
- # 其他装甲属性（除了防护） 
+# other armour properties (beside protection)
  _armour_property_name_ 
  死亡抵抗 
 
@@ -535,7 +535,7 @@ w:1
 失重 
 
 %%%%
- _wacky_armour_name_ 
+_wacky_armour_name_
  缺席 
 
  麻醉 
@@ -630,7 +630,7 @@ w:1
  真空
 
 %%%%
- # Lemuel 的建议
+# Lemuel's suggestions
 _celestial_bodies_ 
 w:5
  蓝月亮 
@@ -664,7 +664,7 @@ w:5
  # 占星 
  黑月 
 %%%%
- _instrument_name_ 
+_instrument_name_
  编钟 
 
  排笛 
@@ -696,7 +696,7 @@ w:5
  长号 
 
 %%%%
- _evil_being_ 
+_evil_being_
  恶魔 
 
  大恶魔 
@@ -739,7 +739,7 @@ w:5
  恶棍 
 
 %%%%
- _weather_name_ 
+_weather_name_
  蓝天 
 
  沸腾冰雹 
@@ -773,7 +773,7 @@ w:5
  雷暴 
 
 %%%%
- _profession_name_ 
+_profession_name_
  学徒 
 
 药剂师 
@@ -875,7 +875,7 @@ Cartwright
  轮匠 
 
 %%%%
- # 给 Xom 
+# something for Xom
  _game_name_ 的东西
 
 # 一般游戏 
@@ -926,7 +926,7 @@ Cartwright
  生命游戏 
 
 %%%%
- _politics_name_armour_ 
+_politics_name_armour_
  加冕 
 
 民主 
@@ -994,7 +994,7 @@ Cartwright
  总督 
 
 %%%%
- _other_armour_name_ 
+_other_armour_name_
 
  #不愉快 
  肮脏 
@@ -1106,7 +1106,7 @@ w:1
  # 有时与面食相邻 
  肉丸 
 %%%%
- _card_ 
+_card_
 
  两支 
 
@@ -1136,7 +1136,7 @@ w:1
 
  王牌 
 %%%%
- _suit_ 
+_suit_
 
  圣杯 
 
@@ -1146,7 +1146,7 @@ w:1
 
  权杖 
 %%%%
- # “某物”而不是某物
+# "something" rather than of Something
  _plain_armour_name_ 
  可恶的装置 
 

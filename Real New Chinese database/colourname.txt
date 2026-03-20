@@ -10,7 +10,7 @@
 #
 ##########################################################
 %%%%
- Rainbow_colour 
+rainbow_colour
 
  red 
 
@@ -26,7 +26,7 @@
 
  violet 
 %%%%
- # 这里没有黑色、白色或灰色。 
+# No black, white, or grey here.
  Misc_colour 
 
  航空 
@@ -769,7 +769,7 @@
 
  西葫芦绿 
 %%%%
- 单色 
+mono_colour
 
  黑色 
 
@@ -777,7 +777,7 @@
 
  灰色 
 %%%%
- 任意颜色 
+any_colour
 
 w:40
  @rainbow_colour@ 
@@ -787,7 +787,7 @@ w:20
 
  @mono_colour@ 
 %%%%
- any_pattern 
+any_pattern
 
  蔓藤花纹 
 
@@ -841,7 +841,7 @@ w:20
 
  螺纹 
 %%%%
- # 任何文字 其他比“发光”本身在这里也可以工作，只要它是 
+# Any word other than "glowing" itself will work here, as long as it's
  # 尚未在 graffiti.txt 的 @_writing_adj_@ 中。 
  发光_adj 
 
@@ -881,11 +881,11 @@ w:20
 
  生动的 
 %%%%
- any_glowing_colour 
+any_glowing_colour
 
  @glowing_adj@ @any_colour@ 
 %%%%
- # 图案可以是单色或两种颜色。 
+# Patterns can be single colour or two colours. There's a chance of the
  # 两种颜色有可能相同，但实际上这种情况很少发生，
  # 只是当它发生时很有趣。 
  任何_颜色_图案 
@@ -894,7 +894,7 @@ w:20
 
  @any_colour@ 上 @any_colour@ @any_pattern@ 
 %%%%
- 任何_发光_颜色_图案 
+any_glowing_colour_pattern
 
  @any_glowing_colour@ @any_pattern@ 
 

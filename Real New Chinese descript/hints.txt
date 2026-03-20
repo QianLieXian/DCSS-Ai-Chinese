@@ -1,5 +1,5 @@
 %%%%
-欢迎
+welcome
 
 <white>欢迎来到地下城探索！</white>
 
@@ -27,7 +27,7 @@ docs/目录（所有这些也可以在游戏中阅读）：
 
 快乐爬行！
 %%%%
-死亡
+death
 
 哀悼！你的角色过早死亡是一件悲伤但常见的事情
 在爬行中。请放心，凭借勤奋和演奏经验，您的
@@ -35,62 +35,62 @@ docs/目录（所有这些也可以在游戏中阅读）：
 
 也许以下建议可以改善您的演奏风格：
 %%%%
-死亡魔术师近战
+death conjurer melee
 
 作为魔术师，你的主要武器应该是进攻性魔法。施展法术更多
 经常！魔力低的时候记得休息。
 %%%%
-死亡狂战士未狂暴
+death berserker unberserked
 
 当与特别困难的敌人战斗时，不要忘记发狂。它是
 有风险，但会让你更快、更强壮。
 %%%%
-死亡游侠近战
+death ranger melee
 
 你的弓箭对于远处的怪物来说非常强大。
 %%%%
-死亡随机 0
+death random 0
 
 在与怪物交战之前，请务必考虑使用投射物、魔杖或咒语
 近战。
 %%%%
-死亡随机 1
+death random 1
 
 了解何时逃离你无法处理的事情——这很重要！这是
 跳过特别危险的关卡通常是明智之举。但不要过度这样做
 你钻得越深，怪物只会变得越难。
 %%%%
-死亡随机2
+death random 2
 
 如果可能的话，在已经探索和清除的区域中在遭遇之间休息
 怪物。按 <input>$cmd[CMD_REST]</input><localtiles>，或
 <input>点击命令按钮的“休息”按钮'</input></localtiles>
 将休息 100 回合，或直到完全治愈。
 %%%%
-死亡随机3
+death random 3
 
 记住使用你找到的卷轴、药剂或魔杖。学会
 即兴创作：您需要通过使用药水和卷轴来识别它们。
 %%%%
-死亡随机4
+death random 4
 
 如果某次遭遇让你感到不知所措，请不要忘记使用紧急情况
 早期的项目。传送卷轴或急速药水确实可以拯救
 你的培根。
 %%%%
-死亡随机5
+death random 5
 
 如果可以的话，永远不要与多个怪物战斗。总是回到一个
 走廊让他们被迫与你一对一地战斗。
 %%%%
-完成的
+finished
 
 恭喜！你一直存活到提示模式结束——一定要尝试一下
 其他角色也是如此。请注意命令帮助屏幕
 (<input>$cmd[CMD_DISPLAY_COMMANDS]?</input>) 看起来与现在有很大不同
 在。这是最后一个播放提示：
 %%%%
-完成探索
+finished explored
 
 通过使用自动探索，四处走动和探索关卡变得更加容易
 （<输入>$cmd[CMD_EXPLORE]</输入>）。爬行会让你自动移动到
@@ -99,14 +99,14 @@ docs/目录（所有这些也可以在游戏中阅读）：
 也可以通过 <input>Ctrl-Leftclick</input> 启动自动探索
 小地图。</localtiles>
 %%%%
-旅行结束
+finished travel
 
 有一种便捷的方式可以在遥远的地牢关卡之间移动：按
 <input>$cmd[CMD_INTERLEVEL_TRAVEL]</input>并输入需要的目的地。
 如果您的旅行被中断，请发出 <input>$cmd[CMD_INTERLEVEL_TRAVEL]
 输入</input>将继续。
 %%%%
-成品藏品
+finished stashes
 
 您可以使用以下命令在地牢中现有的所有物品中进行搜索
 <input>$cmd[CMD_SEARCH_STASHES]</input> 命令。例如，
@@ -114,7 +114,7 @@ docs/目录（所有这些也可以在游戏中阅读）：
 并允许您前往他们那里。您甚至可以搜索地牢功能，例如
 <w>“商店”</w>或<w>“祭坛”</w>。
 %%%%
-完成随机 0
+finished random 0
 
 游戏会为您的角色保留自动日志。使用
 <input>$cmd[CMD_DISPLAY_COMMANDS]:</input> 读取它。一旦你的性格
@@ -122,7 +122,7 @@ docs/目录（所有这些也可以在游戏中阅读）：
 以.txt结尾包含您的日志副本。在游戏过程中，您可以创建转储
 包含 <input>$cmd[CMD_CHARACTER_DUMP]</input> 的文件。
 %%%%
-完成随机1
+finished random 1
 
 爬取内置了宏功能：按<input>$cmd[CMD_MACRO_MENU]</input>
 通过首先指定触发键（例如，<input>F1</input>）来定义宏
@@ -131,32 +131,32 @@ docs/目录（所有这些也可以在游戏中阅读）：
 怪物。有关宏的更多信息，请键入
 <输入>$cmd[CMD_DISPLAY_COMMANDS]~</输入>。
 %%%%
-完成随机2
+finished random 2
 
 该界面可以极大地定制。文件中解释了所有选项
 <w>options_guide.txt</w> 可以在 <w>docs</w> 目录中找到。这
 选项本身在 <w>init.txt</w> 或 <w>.crawlrc</w> 中设置。爬行会
 如果找不到任何一个文件，则抱怨。
 %%%%
-完成随机3
+finished random 3
 
 您可以使用任何社区向其他爬行玩家寻求建议和帮助
 http://crawl.develz.org/ 中描述的资源
 %%%%
-HINT_CONVERT 阿什扎里
+HINT_CONVERT Ashenzari
 
 你转而崇拜<w>阿什扎里</w>。与其他神不同的是，
 阿什扎里只关心诅咒。当你探索地牢时，阿什扎里会
 提供诅咒，将物品锁定在你身上。你佩戴的诅咒物品越多，
 阿什扎里将提高您的技能并在其他方面为您提供帮助。
 %%%%
-HINT_CONVERT 戈扎格
+HINT_CONVERT Gozag
 
 你转而崇拜<w>戈扎格</w>。与其他神不同，只有戈扎格
 关心黄金；每一种神圣力量都需要金币，而你的敌人则在
 死亡。
 %%%%
-HINT_CONVERT 茹
+HINT_CONVERT Ru
 
 你转而崇拜<w>Ru</w>。与其他神不同的是，Ru刚刚铸造
 虔诚（神圣的恩惠）以换取永久的牺牲，例如失去
@@ -165,7 +165,7 @@ HINT_CONVERT 茹
 能力将成为。当你探索更深入时，Ru将提供更多的牺牲
 地牢的。
 %%%%
-HINT_CONVERT 乌斯卡亚
+HINT_CONVERT Uskayaw
 
 您刚刚转而崇拜<w>乌斯卡亚人</w>。与其他神不同的是，
 乌斯卡亚的青睐无法在探索地牢或杀戮时逐渐获得
@@ -182,13 +182,13 @@ HINT_CONVERT Xom
 没有办法保证 Xom 保持良好的心情 - 最好的追随者
 可以希望也避免让 Xom 感到无聊！
 %%%%
-HINT_CONVERT 伊雷德莱姆努尔
+HINT_CONVERT Yredelemnul
 
 你只是转而崇拜<w>Yredelemnul</w>。与其他神不同的是，
 伊瑞德莱姆努只关心灵魂。你的敌人可能会在之后崛起为你服务
 死亡，你可以花费它们来祈求伊雷德勒姆努的帮助。
 %%%%
-提示_转换
+HINT_CONVERT
 
 你刚刚转变为崇拜 <w>{{ return you.god() }}</w>。你的活跃
 当你做一些事情来取悦你的新神时，（神圣的恩惠）就会增加，并且会
@@ -590,7 +590,7 @@ HINT_MAP_VIEW
 按钮</w>将放大该地牢区域。用<w>鼠标左键单击
 按钮</w>可以让你移动到那里。</localtiles>
 %%%%
-提示_自动_探索
+HINT_AUTO_EXPLORE
 
 充分探索一个关卡并拾取所有看起来有趣的物品可以
 乏味。为了节省这种乏味，你可以按 <w>$cmd[CMD_EXPLORE]</w> 来
@@ -739,7 +739,7 @@ HINT_ITEM_RESISTANCES
 （<w>$cmd[CMD_RESISTS_SCREEN]</w><localtiles> 或单击 <w> 字符
 命令面板中的概述按钮</w></localtiles>）了解详细信息。
 %%%%
-提示_GOD_DISPLASED
+HINT_GOD_DISPLEASED
 
 呃-哦，1 美元越来越不高兴，因为你的虔诚度越来越低。可能是这个
 是这样，因为你犯了异端行为，因为 $1 找到了你的
@@ -811,7 +811,7 @@ HINT_SEEN_ZERO_EXP_MON
 你可以像其他怪物一样攻击并杀死它，但你不会得到任何东西
 这样做的经验。
 %%%%
-提示_深渊
+HINT_ABYSS
 
 呃-哦，你已经进入深渊了！深渊是一个特殊的地方，你可以在其中
 无法记住或绘制出您去过的地方；它充满了令人讨厌的怪物，并且
@@ -930,7 +930,7 @@ HINT_FUMBLING_SHALLOW_WATER
 在浅水中战斗有时会导致你滑倒并摸索
 攻击。如果可能的话，尝试在坚实的地面上战斗。
 %%%%
-提示_云_警告
+HINT_CLOUD_WARNING
 
 与其踏入这片云并伤害自己，你应该等待
 转几圈看看它是否消失（使用 <w>$cmd[CMD_WAIT]</w>），或者只是一步

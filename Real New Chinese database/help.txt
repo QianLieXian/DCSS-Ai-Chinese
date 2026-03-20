@@ -1,5 +1,5 @@
 %%%%
-捡起
+pick-up
 
 <h>拾取和放下物品</h>
 
@@ -28,7 +28,7 @@
 请注意，对于删除，<w>,</w> 命令使用 <w>drop_filter</w> 选项，该选项
 缩小要（取消）选择的项目范围。默认是所有无用的项目。
 %%%%
-已知菜单
+known-menu
 
 <h>已知项目菜单</h>
 
@@ -66,7 +66,7 @@
  将选择所有匹配的项目。 
 
 %%%%
- stash-search.prompt 
+stash-search.prompt
 
  <h>搜索 stash-tracker</h> 
 
@@ -144,7 +144,7 @@
  您应该搜索 <w>armour && /r(C|F|Pois|Elec)</w>，而不是 
  <w>/装甲 && r(C|F|Pois|Elec)</w>。 
 %%%%
- 关卡地图 
+level-map
 
  <h> 关卡地图（主屏幕中的“<w>X</w>”）：</h> 
  <w>Esc</w> ：保留关卡地图（也包括 <w>Space</w> 或任何未使用的键）。 
@@ -192,7 +192,7 @@
  .. "<w>Ctrl-X</w> : 完全擦除地图。" 
  end }} 
 %%%%
- interlevel-travel.branch.prompt 
+interlevel-travel.branch.prompt
 
  <h>Interlevel 出行（选择分支）：
  使用分支的快捷字母来选择出行的分支。 
@@ -209,7 +209,7 @@
  <w>0</w>-<w>9</w> ：转到编号的航路点。 
  <w>_</w> ：显示可用的祭坛（如果发现的话）。 
 %%%%
- interlevel-travel.depth.prompt 
+interlevel-travel.depth.prompt
 
  <h>Interlevel Travel（转到所选分支中的特定级别） 
  输入要转到的级别编号并按 Enter，或使用： 
@@ -221,7 +221,7 @@
  <w>$</w> ：将此分支中的默认值更改为最深访问级别。 
  <w>^</w> ：将默认值更改为当前分支的入口。 
 %%%%
- interlevel-travel.altar.prompt 
+interlevel-travel.altar.prompt
 
  <h>Interlevel 旅行（前往祭坛）：
  使用快捷字母（神的首字母，TSO 替换为 1）
@@ -231,7 +231,7 @@
 
  <w>Enter</w> ：重复上次层间行驶。 
 %%%%
- annotate.prompt 
+annotate.prompt
 
  <h>Annotate（选择级别）：
  <w>Enter</w> 或 <w>.</w> ：注释当前级别。 
@@ -242,7 +242,7 @@
  <w>!</w> : 显示地牢分支列表。 
 
 %%%%
- 技能菜单 
+skill-menu
 
  <h> 技能管理</h> 
 
@@ -284,7 +284,7 @@
 <w>!</w> ：在显示训练百分比、技能成本或训练之间切换
 目标。
 %%%%
-法术库
+spell-library
 <h>法术库</h>
 <w>Tab</w> 或 <w>!</w> ：向前循环浏览 <w>Memorise</w>、<w>Describe</w>、<w>Hide</w> 和 <w>Show</w> 页面。
 <w>Shift-Tab</w> ：向后循环浏览这些页面。
@@ -309,7 +309,7 @@
 这会将过滤器重置为无。 
  您可以按名称和法术学校过滤法术。 
 %%%%
- wiz-monster 
+wiz-monster
  <h>创建指定怪物</h> 
 
  要创建具有其物种默认装备的怪物，只需输入
@@ -606,7 +606,7 @@
  * <w>stone Giant dur:1 ench:berserk</w>
 
 %%%%
-宏菜单 
+macro-menu
 
  <h>编辑宏和键盘映射</h> 
 
@@ -657,7 +657,7 @@
 “宏”命令。 
 
 %%%%
- 控制台键码 
+console-keycodes
 
  <h> 控制台和 webtiles 的键码</h>
 

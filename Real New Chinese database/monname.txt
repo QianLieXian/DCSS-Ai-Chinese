@@ -29,7 +29,7 @@
 #
 ##########################################################
 %%%%
- # 任何兽人名字，使徒特定的或其他的。任何名称都可以在这里使用，
+# Any orc name, apostle-specific or otherwise. Any name will work here,
  # 只要它不在 
  # graffiti.txt 的 PHX0ZZ 中即可。 
  任意兽人名称 
@@ -46,7 +46,7 @@ w:1
 w:50
  @orc name@ 
 %%%%
- 兽人名称 
+orc name
 
 w:14
  @_beogh_name_@ 
@@ -57,7 +57,7 @@ w:12
 w:45
  @_other_orcish_name_@ 
 %%%%
- 兽人使徒战士姓名 
+orc apostle warrior name
 
 w:1
  @_orc_warrior_name_@ 
@@ -65,7 +65,7 @@ w:1
 w:50
  @orc name@ 
 %%%%
- 兽人使徒法师姓名 
+orc apostle wizard name
 
 w:1
  @_orc_wizard_name_@ 
@@ -73,7 +73,7 @@ w:1
 w:50
  @orc name@ 
 %%%%
- 兽人使徒牧师姓名 
+orc apostle priest name
 
 w:1
  @_orc_priest_name_@ 
@@ -81,20 +81,20 @@ w:1
 w:50
  @orc name@ 
 %%%%
- _orc_warrior_name_
+_orc_warrior_name_
 
 奥柯南 
 %%%%
- _orc_wizard_name_ 
+_orc_wizard_name_
 
  Simorc Magus 
 %%%%
- _orc_priest_name_ 
+_orc_priest_name_
 
  # 小心！ :p 
  Judas 
 %%%%
- # 明显引用 Beogh 
+# Obvious references to Beogh
  # (最后计数为 20) 
  _beogh_name_ 
 
@@ -139,7 +139,7 @@ w:50
 
  Warbeogh 
 %%%%
- # 明显提及兽人
+# Obvious references to orcs in general
  #（非常主观，最后统计为 21） 
  _orcish_name_ 
 
@@ -185,7 +185,7 @@ w:50
 
  Zandor 
 %%%%
- # 其他 
+# Other
  # (最后计数 62) 
  _other_orcish_name_ 
 
@@ -313,7 +313,7 @@ w:50
 
  Zorug 
 %%%%
- # 祖先姓名，按性别和文化划分。
+# Ancestor names, split by gender & culture.
 # FR: 亚洲人姓名 
  祖先姓名 
 
@@ -321,7 +321,7 @@ w:50
 
  @ancestor female name@ 
 %%%%
- 祖先男性姓名 
+ancestor male name
 
  @_west_european_male_name_@ 
 
@@ -347,7 +347,7 @@ w:5
 w:2
  @_brazilian_male_name_@ 
 %%%%
- 祖先女名
+ancestor female name
 
  @_west_european_female_name_@ 
 
@@ -373,7 +373,7 @@ w:5
 w:2
  @_brazilian_female_name_@ 
 %%%%
- _west_european_male_name_ 
+_west_european_male_name_
 
  Æschere 
 
@@ -439,7 +439,7 @@ w:2
 
  维斯坦 
 %%%%
- _roman_male_name_ 
+_roman_male_name_
 
  阿皮乌斯 
 
@@ -468,7 +468,7 @@ w:2
  提图斯 
 
 %%%%
- _aztec_male_name_ 
+_aztec_male_name_
 
  Cipactli 
 
@@ -600,7 +600,7 @@ w:1
  Udjahorresnet 
 
 %%%%
- _zulu_male_name_ 
+_zulu_male_name_
  Ayize 
 
 w:1
@@ -642,7 +642,7 @@ Thulani
 
  Xolani 
 %%%%
- _arabic_male_name_ 
+_arabic_male_name_
  Arif 
 
  Ferran 
@@ -667,7 +667,7 @@ w:1
 w:1
  零 
 %%%%
- _slavic_male_name_ 
+_slavic_male_name_
 
  Bolek 
 
@@ -702,7 +702,7 @@ w:1
 
  佐兰
 %%%%
- _west_european_female_name_ 
+_west_european_female_name_
 
  Ælfthryth 
 
@@ -752,7 +752,7 @@ w:1
 
  Wynnflæd 
 %%%%
- _roman_female_name_ 
+_roman_female_name_
 
  Appia 
 
@@ -779,7 +779,7 @@ w:1
  Tiberia 
 
 %%%%
- _aztec_female_name_ 
+_aztec_female_name_
 
  Centenhua 
 
@@ -1005,7 +1005,7 @@ Honório
 
 Januári
 %%%%
-Steelspirit name
+steelspirit name
 
 w:50
  @ancestor name@ 
@@ -1050,7 +1050,7 @@ w:15
 
 @_thai_male_name_@
 %%%%
-平淡的名字 
+bland name
 
  # 看，这对我来说很有趣。 
  #无意冒犯。 
@@ -1059,7 +1059,7 @@ w:15
 
  @_bland_male_name_@ 
 %%%%
- _bland_female_name_ 
+_bland_female_name_
 
  Abby 
 
@@ -1081,7 +1081,7 @@ w:15
 
  维拉 
 %%%%
- _bland_male_name_ 
+_bland_male_name_
 
  比尔 
 
@@ -1103,7 +1103,7 @@ w:15
 
  皮特 
 %%%%
- _cantonese_female_name_ 
+_cantonese_female_name_
 
  艾 
 
@@ -1141,7 +1141,7 @@ w:15
 
  震 
 %%%%
- _cantonese_male_name_ 
+_cantonese_male_name_
 
  爱国 
 
@@ -1181,7 +1181,7 @@ w:15
 
  子涵 
 %%%%
- _german_female_name_ 
+_german_female_name_
 
  Anneliese 
 
@@ -1253,7 +1253,7 @@ w:15
 
  伊冯娜 
 %%%%
- _german_male_name_ 
+_german_male_name_
 
  阿达尔伯特 
 
@@ -1335,7 +1335,7 @@ w:15
 
  威尔弗里德 
 %%%%
- _hispanic_female_name_ 
+_hispanic_female_name_
 
  阿伊达 
 
@@ -1391,7 +1391,7 @@ w:15
 
  尤兰达 
 %%%%
- _hispanic_male_name_ 
+_hispanic_male_name_
 
  阿古斯丁 
 
@@ -1547,7 +1547,7 @@ Fiachra
 w:1
  Toirdhealbhach 
 %%%%
- _japanese_female_name_ 
+_japanese_female_name_
 
  千鸟 
 
@@ -1611,7 +1611,7 @@ w:1
 
 梦 
 %%%%
- _japanese_male_name_ 
+_japanese_male_name_
 
  明人 
 
@@ -1687,7 +1687,7 @@ w:1
 
  #好吧，够了。 
 %%%%
- _korean_female_name_
+_korean_female_name_
 
 彩元 
 
@@ -1721,7 +1721,7 @@ w:1
 
  Yeongsuk 
 %%%%
- _korean_male_name_ 
+_korean_male_name_
 
  Bonhwa 
 
@@ -1753,7 +1753,7 @@ w:1
 
  龙顺
 %%%%
- _sikh_female_name_ 
+_sikh_female_name_
 
  Ashmeen 
 
@@ -1789,7 +1789,7 @@ Jasleen
 
  Yashnoor 
 %%%%
- _sikh_male_name_ 
+_sikh_male_name_
 
  阿加姆 
 
@@ -1821,7 +1821,7 @@ Jasleen
 
  Zorawar 
 %%%%
- _thai_female_name_ 
+_thai_female_name_
 
  Bangon 
 

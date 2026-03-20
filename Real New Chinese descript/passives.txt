@@ -1,84 +1,84 @@
 %%%%
-无被动传送
+no teleportation passive
 
 你无法传送或眨眼。
 %%%%
-没有施法被动
+no spellcasting passive
 
 你不能施展法术。
 %%%%
-随机愤怒被动
+random rage passive
 
 当你进行近战攻击时，你有机会变得狂暴。
 %%%%
-腐蚀自我被动
+corrode self passive
 
 当你受到伤害时，你有可能被腐蚀。
 %%%%
-缓慢的自我被动
+slow self passive
 
 当你受到伤害时，你有可能被减速。
 %%%%
-伤害被动
+harm passive
 
 你造成或受到的任何伤害都会增加。
 %%%%
-混乱被动
+mayhem passive
 
 当你杀死敌人时，你有几率使可见的怪物陷入疯狂
 一个敌人。
 %%%%
-被动击退导弹
+repel missiles passive
 
 你击退导弹，提高躲避它们的机会。
 %%%%
-反射被动
+reflection passive
 
 您将任何成功阻止的远程攻击反射回攻击者。
 %%%%
-杂技演员被动
+acrobat passive
 
 移动和等待时你的回避率会增加。
 %%%%
-清晰度被动
+clarity passive
 
 您将免受无意识的混乱、愤怒、恐惧和催眠的影响。
 %%%%
-抵抗突变被动
+resist mutation passive
 
 你受到部分保护，免受突变。
 %%%%
-守护灵被动
+guardian spirit passive
 
 你受到的任何伤害都会分配给你的生命值和魔法储备。
 %%%%
-狂暴被动
+rampage passive
 
 当你向敌人移动时，你可以多迈出一步。
 %%%%
-被动滚动
+roll passive
 
 <滚动页突变>
 %%%%
-信仰被动
+faith passive
 
 你很快就会获得神圣的青睐，任何宗教都会受到更多的关注
 你所犯下的罪行。
 %%%%
-魔法被动
+wizardry passive
 
 你的咒语成功率会提高。
 %%%%
-大法师被动
+archmagi passive
 
 你的法术强度增加。
 %%%%
-通道魔法被动
+channel magic passive
 
 成功施展时你有机会恢复所消耗的魔法
 咒语，并且总是能恢复当你施错咒语时所消耗的魔法。
 %%%%
-注入魔法被动
+infuse magic passive
 
 每次进行近战攻击时，你都会消耗魔法，增强你的攻击力。
 %%%%
