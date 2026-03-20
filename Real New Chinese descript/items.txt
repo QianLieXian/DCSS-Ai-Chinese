@@ -1,1851 +1,1851 @@
 %%%%
-acid dragon scales
+酸龙鳞片
 
-The scales of an acid dragon. Although it does not provide its wearer with as
-much protection as the armour made from the scales of some larger dragons, it is
-somewhat lighter and less encumbering. It is also remarkably smooth, letting
-corrosive slime flow off it like water.
+酸龙的鳞片。虽然它并没有为佩戴者提供
+与一些较大的龙的鳞片制成的盔甲一样具有很强的保护作用，
+稍微轻一点，少一些负担。它也非常光滑，让
+腐蚀性粘液像水一样从上面流走。
 %%%%
-amulet of chemistry
+化学护身符
 
-An amulet which allows the wearer to extract small amounts of magical energy
-from any potion they drink and also enhances the power of their alchemy spells.
-The magic restoration effect requires the amulet to attune itself to the
-wearer's body while their reserves of magic are full.
+可以让佩戴者提取少量魔法能量的护身符
+从他们饮用的任何药水中获得能量，并且还增强了他们的炼金术法术的力量。
+魔法恢复效果需要护身符将自身调整到
+佩戴者的身体，当他们的魔法储备已满时。
 %%%%
-amulet of dissipation
+驱散护身符
 
-An amulet which causes magic contamination and negative status effects upon the
-wearer to expire twice as quickly with time.
+造成魔法污染和负面状态影响的护身符
+随着时间的推移，佩戴者的寿命会加快两倍。
 %%%%
-amulet of faith
+信仰的护身符
 
-A charm crafted to call the attention of the gods to its wearer. This divine
-attention makes it easier to please your god, but your god will also take more
-notice of your transgressions. The amulet will drain some of your divine favour
-when removed.
+一种专为吸引众神的注意力而设计的护身符。这个神圣的
+关注让你更容易取悦你的神，但你的神也会付出更多
+注意到你的违法行为。护身符会耗尽你的一些神圣恩惠
+当移除时。
 %%%%
-amulet of guardian spirit
+守护神护身符
 
-An amulet containing a protective spirit which will cause any damage taken to
-be divided between the wearer's reserves of health and magic.
+含有保护精神的护身符，可以对任何人造成伤害
+分配给佩戴者的生命值和魔法值。
 %%%%
-amulet of magic regeneration
+魔法再生护身符
 
-An amulet that increases the wearer's rate of magic regeneration. In order to
-function, it must first attune itself to the wearer's body with full reserves
-of magic.
+能够提高佩戴者的魔法恢复速度的护身符。为了
+功能的发挥，首先要与佩戴者的身体相协调，储备充足
+魔法的。
 %%%%
-amulet of nothing
+什么都没有的护身符
 
-An amulet with no special properties.
+没有特殊属性的护身符。
 %%%%
-amulet of reflection
+反射护身符
 
-An amulet which improves its wearer's ability to shield against attacks. If
-no shield is worn, the force the amulet emits can serve as a weak shield on
-its own. Regardless, any ranged attacks the wearer blocks will be reflected
-back toward the attacker.
+一种护身符，可以提高佩戴者防御攻击的能力。如果
+没有佩戴盾牌，护身符发出的力量可以作为弱盾
+它自己的。无论如何，佩戴者阻挡的任何远程攻击都会被反射
+背向攻击者。
 %%%%
-amulet of regeneration
+再生护身符
 
-An amulet that increases the wearer's rate of health regeneration. In order to
-function, it must first attune itself to the wearer's body at full health.
+能够提高佩戴者生命恢复速度的护身符。为了
+为了发挥功能，它必须首先将自身调整到完全健康的佩戴者身体。
 %%%%
-amulet of the acrobat
+杂技演员的护身符
 
-An amulet that allows the user to tumble and roll to evade the blows of their
-enemies, but only while moving and waiting. While taking other actions
-(including climbing stairs) the amulet conveys no benefits.
+一种护身符，可以让使用者翻滚和滚动以躲避敌人的攻击
+敌人，但仅限于移动和等待时。在采取其他行动的同时
+（包括爬楼梯）护身符没有任何好处。
 %%%%
-amulet of wildshape
+狂野形状护身符
 
-An amulet which improves its wearer's skill with Shapeshifting.
+可以提高佩戴者变形技能的护身符。
 %%%%
-animal skin
+动物皮
 
-A large piece of thick skin covered in fur, cut from the corpse of an animal
-and worn as a primitive garment. It offers rudimentary protection against harm,
-but, having never been tanned, it carries a light stench of rotting flesh.
+从动物尸体上切下来的一大块覆盖着毛皮的厚皮
+并作为原始服装穿着。它提供了针对伤害的基本保护，
+但由于从未被晒黑，所以带有淡淡的腐肉恶臭。
 %%%%
-arbalest
+强弩
 
-A large piece of machinery used for firing bolts, braced with steel and cranked
-with a windlass. It takes some time to load and fire.
+用于发射螺栓的大型机械，用钢支撑并带有曲柄
+用卷扬机。装弹和开火需要一些时间。
 %%%%
-azure gem
+天蓝色的宝石
 
-[[gem]]
+[[宝石]]
 
-As clear and blue as a cloudless sky or a depthless sea, this gem holds its
-secrets locked within impenetrable depths.
+如同无云的天空或无深的大海一样清澈、蔚蓝，这颗宝石拥有其独特的魅力
+秘密被锁在无法穿透的深处。
 %%%%
-# the_bakery
-baked corpse
+#the_面包店
+烤尸体
 
-A baked corpse. Warm, useless, and dead.
+一具被烤熟的尸体。温暖、无用、死气沉沉。
 %%%%
-bardiche
+巴迪什
 
-A long pole with an enormous, cleaving blade on one end.
+一根长杆，一端有巨大的劈刃。
 %%%%
-barding
+骑马
 
-Armour for the scaly midsections of nagas and armataurs.
+纳迦和铠甲龙中部有鳞的盔甲。
 %%%%
-battleaxe
+战斧
 
-A large war axe with a formidable double-sided head.
+一把巨大的战斧，带有令人生畏的双面斧头。
 %%%%
-blade talisman
+刀刃护身符
 
-A jagged cluster of blades, almost impossible to grasp without injury. Causes
-long, needle-thin blades to grow from the wearer's body, allowing them to
-perform rapid auxiliary melee attacks and even parry blows. Having so many
-fragments of metal inside one's body reduces the effectiveness of body armour,
-but Shapeshifting skill mitigates this effect as well as increases the damage
-dealt.
+一簇锯齿状的刀片，几乎不可能在不受伤的情况下抓住它。原因
+长而细的刀片从佩戴者的身体上生长出来，使他们能够
+进行快速的辅助近战攻击，甚至格挡打击。拥有这么多
+体内的金属碎片会降低防弹衣的有效性，
+但变形技能可以减轻这种效果并增加伤害
+处理了。
 %%%%
-book of air
+空气之书
 
-A primer on the elemental magics of Air. The great minotaur hero Vuxhurn, given
-a copy of this book while trapped atop the tower of a wizard with a particularly
-perverse sense of humour, used its pages to construct a rudimentary glider and
-soared to freedom.
+空气元素魔法的入门读物。伟大的牛头怪英雄Vuxhurn，给予
+当被困在一个巫师的塔顶上时，这本书的副本具有特别的
+反常的幽默感，用它的页面构造了一个基本的滑翔机和
+飞升到自由。
 %%%%
-book of annihilations
+湮灭之书
 
-A tome of arcane fury, greatly sought after by sorcerers. It allows the gifted
-and resourceful to conjure destruction with ease.
+一本充满奥术愤怒的巨著，深受术士追捧。它可以让有天赋的人
+并且足智多谋，可以轻松地造成毁灭。
 %%%%
-book of armaments
+兵器书
 
-A book describing various magical arms and armours. It was written in the midst
-of a particularly bloody civil war, and the text is made substantially less
-helpful by its author's frequent digressions describing the crimes committed by
-the other side.
+一本描述各种魔法武器和盔甲的书。中间写的是
+一场特别血腥的内战，文本的内容大大减少了
+作者经常离题描述犯下的罪行，这很有帮助
+另一边。
 %%%%
-book of battle
+战斗之书
 
-An astonishingly vain and self-aggrandising work. The author claims credit for a
-wide swathe of weapon-augmenting magics, but seems to have misunderstood or
-misrepresented most of them. Only a few of the spells described in the book
-actually work.
+这是一部令人惊讶的虚荣和自我夸大的作品。作者声称归功于
+广泛的武器增强魔法，但似乎被误解或
+歪曲了其中的大多数。书中只描述了一些咒语
+实际上工作。
 %%%%
-book of beasts
+野兽之书
 
-A book of spells focused on the summoning of beasts. Its pages nip at careless
-readers' fingers.
+一本专注于召唤野兽的咒语书。它的页面不小心就被咬住了
+读者的手指。
 %%%%
-book of blasting
+爆破之书
 
-A book of spells used to set off powerful explosions. This edition's binder
-was careful to pad the cover, so that if its reader lacked sufficient caution,
-the book, at least, would survive.
+一本用来引发强大爆炸的咒语书。此版本的活页夹
+小心翼翼地填充封面，这样如果读者缺乏足够的谨慎，
+至少这本书会幸存下来。
 %%%%
-book of blood
+血之书
 
-A book of works dedicated to the manipulation of blood, both that of the caster
-and of creatures with particularly unusual ichor flowing through their veins.
-Some claim it to have been composed by the vampire lord Jory, but it's unclear
-why he would deign to share his secrets with others.
+一本致力于操纵血液的著作，包括施法者的血液
+以及血管中流淌着特别不寻常的脓液的生物。
+有人声称它是由吸血鬼领主乔里创作的，但尚不清楚
+为什么他愿意与他人分享他的秘密。
 %%%%
-book of burglary
+盗窃书
 
-A book containing spells useful for theft, breaking and entering, and other
-miscellaneous larceny.
+一本包含对盗窃、破门而入等有用的咒语的书
+各种盗窃罪。
 %%%%
-book of callings
+召唤书
 
-An introductory text on the magical summoning of beasts and beings from other
-realms.
+关于魔法召唤其他野兽和生物的介绍性文字
+领域。
 %%%%
-book of cantrips
+戏法书
 
-A book containing a small selection of very basic magic spells, intended for
-beginners who wish to learn the rudiments of one of the featured magical
-schools.
+一本包含一小部分非常基本的魔法咒语的书，旨在
+希望学习其中一种特色魔法的基础知识的初学者
+学校。
 %%%%
-book of chaos
+混沌之书
 
-A book of spells that leave the caster's surroundings in a state of complete
-disarray. It's not clear why anyone would write such a thing, but it's here.
+一本使施法者周围环境处于完全状态的咒语书
+混乱。目前还不清楚为什么有人会写这样的东西，但它就在这里。
 %%%%
-book of conjurations
+咒语书
 
-A book containing an introduction to the destructive magical arts of
-Conjurations.
+一本介绍破坏性魔法艺术的书
+咒语。
 %%%%
-book of contraptions
+装置之书
 
-A book of schematics and spells to construct a variety of elaborate mechanisms.
-The obvious safety hazards involved with many of them are relegated to a single
-footnote on page 157, but to an enterprising adventurer, that might be
-considered an upside.
+一本用于构造各种复杂机制的原理图和咒语的书。
+其中许多涉及的明显安全隐患被归结为一个单一的问题
+第157页的脚注，但对于一个有进取心的冒险家来说，这可能是
+被认为是一个好处。
 %%%%
-book of cryoformation
+冷冻成型书
 
-An illustrated guide to shaping ice into both practical and artistic forms. An
-entire chapter is devoted to tables of mineral impurities and their effect on
-colour and melting point.
+将冰塑造成实用和艺术形式的图解指南。一个
+整章专门介绍矿物杂质表及其对
+颜色和熔点。
 %%%%
-book of dangerous friends
+危险朋友之书
 
-A book describing the creation and use of magical entities best kept at arm's
-reach. Or, preferably, even farther.
+一本描述魔法实体的创造和使用的书，最好保存在手中
+抵达。或者，最好是更远。
 %%%%
-book of death
+死亡之书
 
-A manuscript containing dark spells of Necromancy. Each page is filled with
-grotesque art depicting scenes of disgusting decay.
+一份包含死灵魔法黑暗咒语的手稿。每一页都充满了
+描绘令人厌恶的腐朽景象的怪诞艺术。
 %%%%
-book of debilitation
+衰弱之书
 
-A spellbook containing spells known for having a particularly unpleasant
-effect on their victims. It's considered something of a faux pas in the
-wizarding community to be seen with this book in one's collection.
+一本包含以特别令人不快而闻名的咒语的咒语书
+对受害者的影响。这被认为是一种失礼行为
+魔法界的人都可以收藏这本书。
 %%%%
-book of decay
+腐烂之书
 
-A book of Necromancy, dictated by the god Kikubaaqudgha to an unfortunate
-apostle across the course of a nine-day fugue. The necromancer is said to have
-finished the dread work with their own life's blood... but of course this is
-just a copy, written in almost entirely normal ink.
+一本死灵魔法书，由神基库巴库德加口述给一个不幸的人
+使徒经历了为期九天的神游。据说死灵法师有
+用自己的鲜血完成了可怕的工作……但这当然是
+只是一份副本，几乎完全用普通墨水写成。
 %%%%
-book of displacement
+位移书
 
-A book of spells to bring others closer, or sometimes farther, depending on the
-user's whim.
+一本咒语书，可以使他人更亲近，有时甚至更远，具体取决于
+用户的突发奇想。
 %%%%
-book of dreams
+梦想之书
 
-The somniloquent utterings of a famed mystic, using uniquely bizarre imagery
-and cryptic digressions to describe spells drawn from the mystic's visions.
+一位著名神秘家使用独特奇异的意象在睡梦中说出的话语
+以及神秘的题外话来描述从神秘主义者的幻象中得出的咒语。
 %%%%
-book of duality
+二元性之书
 
-An eclectic spellbook, mingled with rambling philosophical anecdotes about the
-twin nature of every action. Even by the end, it remains unclear whether the
-author considered there to be some spiritual purity to spells which incorporate
-offence and defence into a single motion, or if they just lived a life extremely
-pressed for time.
+一本不拘一格的咒语书，其中夹杂着关于宇宙的漫无边际的哲学轶事。
+每个行动的双重本质。即使到了最后，仍不清楚
+作者认为法术具有一定的精神纯洁性，其中包含
+攻防一体，或者只是过着极端的生活
+时间紧迫。
 %%%%
-book of fire
+火之书
 
-A book containing advanced spells in the elemental school of Fire, stolen from
-the secret college of the djinn.
+一本包含火元素学校高级法术的书，从
+巨灵的秘密学院。
 %%%%
-book of fixed level
+固定级别的书
 
-A book of magic spells.
+一本魔法书。
 %%%%
-book of fixed theme
+固定主题书
 
-A book of magic spells.
+一本魔法书。
 %%%%
-book of flames
+火焰之书
 
-The standard text used in arcane academies by students of the elemental magic
-of Fire. Readers are recommended to wear a pair of insulated gloves.
+元素魔法学生在奥术学院使用的标准文本
+火。建议读者戴上绝缘手套。
 %%%%
-book of frost
+霜之书
 
-A book of magic spells, often used as an introduction to the elemental magics
-of Ice. Its pages feel unusually brittle, as if they'd crumble at a touch.
+一本魔法咒语书，通常用作元素魔法的介绍
+冰。它的书页感觉异常脆弱，仿佛一碰就会碎裂。
 %%%%
-book of the fortress
+要塞之书
 
-A book of spells that purports to make their caster as resilient as a stone
-fortress. Its cover is fashioned from thick, magically-reinforced steel, making
-the book unreasonably heavy for no obvious benefit.
+一本咒语书，旨在让施法者像石头一样坚韧
+堡垒。它的盖子由厚实的魔法强化钢制成，
+这本书过于沉重，却没有明显的好处。
 %%%%
-book of geomancy
+风水书
 
-A book containing basic spells involving the element of Earth. Readers are
-recommended to wear a pair of gardening gloves.
+一本包含涉及土元素的基本咒语的书。读者们是
+建议戴一副园艺手套。
 %%%%
-book of the grave
+坟墓之书
 
-A heavy tome of necromantic spells. Those who touch it frequently report a
-palpable sense of unease, as if something unwholesome were buried between its
-very pages.
+一本厚重的死灵法术巨著。经常触摸它的人报告说
+明显的不安感，仿佛有什么不健康的东西被埋在它之间
+非常页。
 {{
-    if you.can_smell() then
-        return "Its vellum smells faintly of dirt and decay."
-    end
+如果你现在.can_smell()
+        返回“它的羊皮纸涂有淡淡的修饰和腐烂的味道。”
+    结尾
 }}
 %%%%
-book of hexes
+六角形书
 
-A spellbook containing an assortment of powerful Hexes, which sparkles and
-shimmers as the pages are flipped.
+一本包含各种强大的六角形的咒语书，它们闪闪发光
+翻页时闪烁。
 %%%%
-book of ice
+冰之书
 
-A book of advanced magical spells using the element of Ice. Readers are
-recommended to wear a pair of warm gloves.
+一本使用冰元素的高级魔法书。读者们是
+建议戴上一双保暖手套。
 %%%%
-book of iron
+铁之书
 
-An ancient, metal-bound spellbook, covered in dark red blotches. Are they
-rust stains, or..?
+一本古老的金属装订魔法书，上面布满深红色斑点。他们是吗
+锈迹，或者..？
 %%%%
-book of lightning
+闪电之书
 
-A book that fairly crackles with arcane power.
+一本充满神秘力量的书。
 %%%%
-book of maladies
+疾病之书
 
-A concise catalogue of afflictions, both magical and mundane, often described
-with a disquieting degree of cheerfulness. Most of them operate on timescales
-too slow to be useful to an adventurer, but a few sound remarkably efficacious.
+经常描述的痛苦的简明目录，包括神奇的和世俗的
+带着令人不安的快乐。大多数都是按时间尺度运作的
+速度太慢，对冒险家来说没什么用处，但有一些听起来非常有效。
 %%%%
-book of metalworking
+金属加工书籍
 
-A tome of advanced Forgecraft magic. Its pages are regularly inlaid with
-technical figures made from elaborate metal filigree, perhaps as an illustration
-of the author's own skill with the art described herein.
+一本关于高级锻造魔法的书。它的书页上经常嵌着
+由精致的金属丝制成的技术人物，也许作为说明
+作者本人对本文描述的技术的技能。
 %%%%
-book of minor magic
+小魔法书
 
-A spellbook containing a variety of simple but useful magical incantations.
-Many prominent spellcasters used this book to begin their arcane studies.
+一本包含各种简单但有用的魔法咒语的咒语书。
+许多著名的施法者都用这本书开始了他们的奥术研究。
 %%%%
-book of misfortune
+不幸之书
 
-A spellbook dedicated to the art of inflicting creative calamities on one's
-foes. Superstitious wizards claim that the book itself actually absorbs ill
-fortune and carry it around as a good-luck charm, but the effects of this
-seem subtle at best.
+一本致力于给某人带来创造性灾难的艺术的咒语书
+敌人。迷信的巫师声称这本书本身实际上可以吸收疾病
+财运并作为护身符随身携带，但这的效果
+充其量看起来很微妙。
 %%%%
-book of movement
+运动之书
 
-A spellbook that seems to leap open at the slightest touch. Its writing flits
-from description of one spell to another, giving enough information to truly
-understand only a few of them, though all seem to relate to movement in some
-way.
+一本似乎只要轻轻一触就会跳开的魔法书。它的写作飞快
+从一个咒语的描述到另一个咒语，提供足够的信息来真正
+只理解其中的一小部分，尽管所有这些似乎都与某些方面的运动有关
+方式。
 %%%%
-book of necromancy
+死灵之书
 
-A macabre book containing basic Necromancy spells. Readers are recommended to
-wear a pair of gloves they don't mind disposing of afterward.
+一本包含基本死灵法术的恐怖书籍。建议读者
+戴上一双他们不介意事后处理掉的手套。
 %%%%
-book of party tricks
+派对技巧书
 
-A book containing a variety of fun spells guaranteed to liven up any wizarding
-party, as well as a number of toasts, jokes, and party games.
+这本书包含各种有趣的咒语，保证让任何巫师都充满活力
+派对，以及一些祝酒、笑话和派对游戏。
 %%%%
-book of power
+权力之书
 
-A book of powerful and destructive magic spells, rumbling and shuddering with
-barely-contained energies.
+一本充满强大和破坏性魔法咒语的书，伴随着隆隆声和颤抖声
+勉强包含的能量。
 %%%%
-book of scorching
+灼热之书
 
-A magical book, blasted and scoured by long exposure to the desert sun. Upon
-its badly-weathered pages lie the secrets to inflicting the desert's dangers
-upon the caster's foes.
+一本神奇的书，因长期暴露在沙漠阳光下而被晒伤和擦洗。之上
+其饱经风霜的书页隐藏着造成沙漠危险的秘密
+攻击施法者的敌人。
 %%%%
-book of sloth
+懒惰之书
 
-A lazily written book.
+一本懒惰写的书。
 %%%%
-book of spatial translocations
+空间易位之书
 
-A basic spellbook on the magical field of Translocations. Many would-be mages
-have seen it disappear just as they needed it most.
+关于易位魔法领域的基本咒语书。很多想成为法师的人
+就在他们最需要的时候看到它消失了。
 %%%%
-book of spectacle
+奇观之书
 
-A book covered in glittering sequins. An impromptu lightshow bursts from every
-page, clearly reserving this book for only the tackiest of wizards.
+一本覆盖着闪闪发光的亮片的书。一场即兴的灯光秀从每个角落爆发出来
+页，显然这本书只为最俗气的巫师保留。
 %%%%
-book of spontaneous combustion
+自燃书
 
-A heavy tome written with wildly flammable ink. Care must be taken even opening
-it, but the power of the spells described therein is undeniable.
+一本用极易燃墨水写成的厚重巨著。即使打开也必须小心
+它，但其中描述的咒语的力量是不可否认的。
 {{
-    if you.can_smell() then
-        return "Its desiccated pages smell faintly of sulphur."
-    end
+如果你现在.can_smell()
+return “其干燥的书页上涂着淡淡的硫磺味。”
+    结尾
 }}
 %%%%
-book of the spheres
+球体之书
 
-A book containing a well-rounded collection of sphere-related spells. Its
-final pages begin to describe a spell titled 'Summon Orb of Zot', but sadly,
-the remainder of the book has been completely vaporised.
+一本包含与领域相关的法术的全面集合的书。它是
+最后几页开始描述一个名为“召唤佐特之球”的咒语，但遗憾的是，
+这本书的其余部分已经完全消失了。
 %%%%
-book of storms
+风暴之书
 
-A book written by the magician Lan Shi, who was preoccupied with the study and
-control of natural phenomena. Most of Shi's works have been lost, but those
-still remaining are treasured by wizards lucky (or unscrupulous) enough to get
-their hands on a copy.
+魔法师兰石专心研究魔法而写的一本书。
+对自然现象的控制。施氏的著作大部分已失传，但
+剩下的被幸运（或不择手段）获得的巫师所珍视
+他们手上有一份副本。
 %%%%
-book of the dragon
+龙之书
 
-A magical book of spells which allow some command over dragons and their
-aspects.
+一本魔法书，可以控制龙及其龙
+方面。
 %%%%
-book of the wilderness
+荒野之书
 
-A book holding lore ripped from distant and untamed lands, allowing their
-denizens to be called forth to serve the reader.
+一本从遥远而未开化的土地上获取知识的书，让他们能够
+居民被召唤来为读者服务。
 {{
-    if you.can_smell() then
-        return "It smells distressingly musty."
-    end
+如果你现在.can_smell()
+return “闻起来有令人痛苦的霉味。”
+    结尾
 }}
 %%%%
-book of the earth
+地球之书
 
-A guide to drawing immense power from the depths of the earth. The original was
-written as a collaboration between the hill dwarves and the mountain dwarves, but
-its compilation was cut short when a massive wave of earthquakes plunged the hill
-dwarves' civilisation into ruin.
+从地球深处汲取巨大力量的指南。原来是
+是山地矮人与山地矮人合作编写的，但是
+当一场巨大的地震席卷山体时，它的编制被缩短了
+矮人的文明走向毁灭。
 %%%%
-book of the hunter
+猎人之书
 
-A mundane book on hunting. Someone has gone through and covered the book in
-corrections and scathing criticisms, crossing out entire sections in favour of
-spells that accomplish the same task.
+一本关于狩猎的平凡书。有人已经浏览并覆盖了这本书
+更正和严厉的批评，划掉整个部分以支持
+完成相同任务的咒语。
 %%%%
-book of the moon
+月亮之书
 
-A book written by a mad wizard, who had become convinced that the moon far above
-was composed, not of shining light, but of rock as solid as that beneath one's feet.
-Many of the pages have been mangled beyond recognition, seemingly shredded by a
-pair of powerful claws... but what would a troll be doing with a spellbook?
+一本由一位疯狂巫师写的书，他确信月亮远​​在天上
+它不是由耀眼的光芒组成，而是由像脚下一样坚固的岩石组成。
+许多页面已被损毁得面目全非，似乎被撕碎了。
+一双强大的爪子……但是巨魔会用魔法书做什么呢？
 %%%%
-book of the senses
+感官之书
 
-A scholarly work, describing the senses used by living creatures to perceive the
-world around them. A handful of spells are included to demonstrate the principles
-being described.
+一部学术著作，描述生物用来感知事物的感官
+他们周围的世界。包含一些咒语来演示原理
+被描述。
 %%%%
-book of transmutation
+嬗变之书
 
-A meticulous compendium of research notes, filled with formulae for decomposing
-and reconstituting all manner of substances. It was written by one of the
-legendary alchemists among the sludge elves, before that species mysteriously
-vanished from the world. The author appears to have had a strange obsession with
-becoming a butterfly, but even if their ultimate aim eluded them, many of the
-spells detailed therein are nonetheless quite practical.
+细致的研究笔记概要，充满了分解公式
+并重构各种物质。它是由其中一位写的
+污泥精灵中的传奇炼金术士，在那个神秘的物种之前
+从世界上消失了。作者似乎有一种奇怪的痴迷
+变成一只蝴蝶，但即使他们的最终目标未能实现，许多人
+其中详细的咒语仍然非常实用。
 %%%%
-book of the tundra
+苔原之书
 
-A frost-gripped tome describing icy spells, somewhat abridged. The Vaults are
-said to hold the full text, but the guardians of that place guard their
-treasures jealously.
+一本描述冰冻法术的冰霜之书，略有删节。避难所是
+据说拥有全文，但那个地方的守护者守护着他们的
+羡慕地珍藏着。
 %%%%
-book of the warp
+经线之书
 
-A book of advanced Translocations spells, written by a particularly
-misanthropic mage. After its completion, they were never seen again, which may
-or may not have been the point.
+一本高级易位法术书，由一位特别的人撰写
+厌世法师。完成后，他们就再也没有出现过，这可能是
+或者可能不是重点。
 %%%%
-book of touch
+触摸之书
 
-A book describing spells requiring very close proximity to their target. The
-author seems to have had a low opinion of their wizardly peers, and spends much
-of the text describing the hygiene and social etiquette needed to enter close
-proximity to other sentient beings.
+一本描述需要非常接近目标的法术的书。这
+作者似乎对他们的巫师同行评价不高，并且花费了很多钱
+描述进入亲密场所所需的卫生和社交礼仪的文字
+与其他有情众生的接近。
 %%%%
-book of unlife
+无生命之书
 
-An unholy book describing a variety of magical methods for the creation and
-command of undead servants.
+一本邪恶的书，描述了各种创造和创造魔法的方法
+指挥不死仆从。
 %%%%
-book of vapours
+蒸气之书
 
-A book of magic spells for creating an assortment of clouds, vapours and mists.
-It is difficult to read, as the text is frequently interrupted by descriptions
-of unusually-shaped clouds the author spotted while writing.
+一本用于创造各种云、蒸气和薄雾的魔法书。
+很难阅读，因为文本经常被描述打断
+作者在写作时发现的形状异常的云。
 %%%%
-book of weapons
+武器书
 
-A book of spells used by rebels against an ancient and evil empire. The rebels
-were crushed, but this book was rediscovered years later, found by paladins of
-the crusade that finally destroyed the empire and slew its immortal twin
-sovereigns.
+一本记载反抗者对抗古老邪恶帝国的咒语的书。叛军
+被压碎了，但这本书在几年后被重新发现，被圣武士发现
+最终摧毁了帝国并杀死了其不朽双胞胎的十字军东征
+主权国家。
 %%%%
-book of wicked creation
+邪恶创造之书
 
-A long-forbidden tome, describing spells for various unholy (or, at least,
-underhanded) creations. It would be unwise to bring such a book back to the
-surface world - better to read it and discard it in some well-hidden location.
+一本长期被禁止的书，描述了各种邪恶的咒语（或者，至少，
+卑鄙的）创作。把这样的书带回国是不明智的
+表面世界 - 更好地阅读它并将其丢弃在某个隐藏的位置。
 %%%%
-book of winter
+冬天的书
 
-A book of spells written by the sorceress Ellawe, who sought to use her time
-productively while trapped inside by particularly harsh weather for over six
-months. A postscript details the bloody vengeance she took after discovering
-the weather mage responsible.
+女术士埃拉维（Ellawe）尝试利用自己的时间写下一本咒语书
+在特别恶劣的天气下被困在室内超过六天的时间里仍能保持高效工作
+几个月。后记详细描述了她发现后采取的血腥复仇
+天气法师负责。
 %%%%
-boomerang
+回旋镖
 
-A curved, flat, throwing baton designed to return to its user.
+一种弯曲、扁平的投掷警棍，旨在返回使用者手中。
 %%%%
-box of beasts
+野兽之盒
 
-A box filled with the bizarre leftovers of a depraved wizard's magical
-experimentations. Opening it might set loose a friendly mutant beast: bizarre
-creatures, each with their own combination of traits. Increased skill with
-Evocations will allow stronger beasts to be released.
+一个盒子，里面装满了一个堕落巫师的魔法残留物
+实验。打开它可能会释放出一只友好的变异野兽：奇怪
+生物，每种生物都有自己的特征组合。提高技能
+召唤将允许释放更强大的野兽。
 
-There are six known traits:
- * Bat beasts fly and move very quickly, but erratically.
- * Fire beasts resist and breathe fire.
- * Ox beasts resist cold, are armoured with thick fur, and can knock back foes.
- * Shock beasts resist electricity and can transform into living lightning.
- * Sting beasts resist poison and have a reaching poison-tail attack.
- * Weird beasts can see invisible and attack with constricting tentacles.
+有六个已知的特征：
+ * 蝙蝠兽飞行和移动速度非常快，但不稳定。
+ *火兽抵抗并喷火。
+ * 牛兽抗寒，身披厚厚的皮毛，可以击退敌人。
+ * 电击兽可以抵抗电击，并可以转化为活生生的闪电。
+ * 刺兽可以抵抗毒素并具有致命的毒尾攻击。
+ * 奇怪的野兽可以看到隐形并用收缩的触手进行攻击。
 
-As far as anyone knows, all beasts have exactly two of these traits.
+众所周知，所有的野兽都具备其中的两个特征。
 %%%%
-broad axe
+宽斧
 
-An axe with langets, spikes, a lengthed haft and a single-bladed crescent head.
+一种带有尖齿、尖刺、长柄和单刃新月形头的斧头。
 %%%%
-buckler
+小圆盾
 
-A small piece of wood and metal, to be strapped on one arm for defence.
+一小块木头和金属，绑在一只手臂上用于防御。
 %%%%
-chain mail
+连锁邮件
 
-A suit of armour made entirely out of tiny metal rings.
+一套完全由微小金属环制成的盔甲。
 %%%%
-cloak
+披风
 
-A cloth cloak.
+一件布斗篷。
 %%%%
-club
+俱乐部
 
-A heavy piece of wood. While clubs are rather primitive weapons, bashing
-someone's skull in with one remains a very popular and effective means of
-dispute resolution.
+一块很重的木头。虽然棍棒是相当原始的武器，但猛击
+某人的头骨与一个人的头骨相结合仍然是一种非常流行且有效的方法
+争议解决。
 %%%%
-codex of conductivity
+电导率法典
 
-An exhaustive collection of research notes on the effects of electricity upon
-everything from sawdust to snozzcumbers, interspersed with spell formulae and
-usable technical schematics. The author's handwriting deteriorates shockingly in
-the middle of the chapter on spriggan electrophysiology, leading to much
-speculation about both their identity and their sense of self-preservation.
+关于电力对人体影响的详尽研究笔记集
+从锯末到鼻涕虫的一切，散布着咒语公式和
+可用的技术原理图。作者的字迹严重恶化
+关于斯普里根电生理学的章节的中间部分，导致了很多
+对他们的身份和自我保护意识的猜测。
 %%%%
-compendium of siegecraft
+攻城术概要
 
-An analytical treatise on siege warfare, written in a clear and readable manner.
-A majority of its chapters are concerned with logistics and the maintenance of
-supply lines, but several detail spells useful for breaching fortifications
-(and also other, softer, things).
+一本关于攻城战的分析论文，以清晰易读的方式撰写。
+它的大部分章节都涉及物流和维护
+补给线，但有几个细节咒语对于突破防御工事很有用
+（还有其他更软的东西）。
 %%%%
-condenser vane
+冷凝器叶片
 
-A magical device that condenses ambient energy into various destructive clouds.
-When evoked these clouds form around hostile monsters near the user. The
-quantity and lethality of these clouds increases with Evocations skill. At low
-power it will create noxious fumes, and as power increases this gives way to
-roaring flames, freezing vapours, and poisonous gas. At the highest tiers of
-power storm clouds, acidic fog and clouds of excruciating misery become
-available.
+一种神奇的装置，可以将周围的能量凝结成各种破坏性的云。
+当被唤起时，这些云会在用户附近的敌对怪物周围形成。这
+这些云的数量和杀伤力随着召唤技能的增加而增加。处于低位
+功率它会产生有毒烟雾，随着功率的增加，它会让位于
+熊熊的火焰、冰冷的蒸气和毒气。在最高层
+暴风雨云、酸性雾和令人难以忍受的苦难的云变成了力量
+可用的。
 %%%%
-corpse
+尸体
 
-A corpse. Useless and dead.
+一具尸体。无用而死。
 %%%%
-crystal plate armour
+水晶板甲
 
-An incredibly heavy but extremely effective suit of crystalline armour.
+一套极其沉重但极其有效的水晶盔甲。
 %%%%
-dagger
+匕首
 
-A double-edged fighting knife with a sharp point.
+刀尖锋利的双刃格斗刀。
 %%%%
-dart
+镖
 
-A thin piece of metal, typically coated in some harmful substance. When thrown
-it can deliver its toxins into the bloodstream of a living or demonic being.
+一块薄金属，通常涂有某种有害物质。抛出时
+它可以将毒素输送到生物或恶魔的血液中。
 %%%%
-decaying skeleton
+腐烂的骨架
 
-A decaying skeleton.
+一具正在腐烂的骷髅。
 %%%%
-deck of destruction
+毁灭甲板
 
-A deck of magical cards, most of which hurl death and destruction at one's foes
-(or, if unlucky, at oneself).
+一副魔法牌，其中大部分都会给敌人带来死亡和毁灭
+（或者，如果不幸的话，是在自己身上）。
 %%%%
-deck of escape
+逃生甲板
 
-A deck of magical cards, mainly dealing with various forms of escape.
+一副魔法卡牌，主要处理各种形式的逃脱。
 %%%%
-deck of punishment
+惩罚牌
 
-A deck of magical cards which wreak havoc on the user.
+一副对使用者造成严重破坏的魔法卡片。
 %%%%
-deck of summoning
+召唤牌组
 
-A deck of magical cards, depicting a range of weird and wonderful creatures.
+一副神奇的卡片，描绘了一系列奇怪而奇妙的生物。
 %%%%
-demon blade
+恶魔之刃
 
-A terrible weapon, forged in the fires of Hell.
+一把可怕的武器，在地狱之火中锻造而成。
 %%%%
-demon trident
+恶魔三叉戟
 
-A terrible three-pronged weapon, moulded by fire and brimstone.
+一种可怕的三管齐下的武器，由火和硫磺铸造而成。
 %%%%
-demon whip
+恶魔鞭子
 
-A terrible weapon, woven in the depths of the inferno.
+一把可怕的武器，编织在地狱的深处。
 %%%%
-dire flail
+可怕的连枷
 
-A flail with long spikes and a heavy head.
+带有长钉和沉重头部的连枷。
 %%%%
-double sword
+双剑
 
-A fearsome weapon with a forked, razor-sharp blade.
+一种可怕的武器，带有锋利的叉形刀片。
 %%%%
-dragon-coil talisman
+龙卷护身符
 
-An intricate carving, inlaid with dragon tooth and scale. {{
-    local desc = "Transforms the wearer into a mighty"
+雕刻精美，镶嵌着龙牙和龙鳞。 {{
+local desc =“将佩戴者变得强大的”
 
-    if you.race():find("Draconian") then
-        desc = desc .. " dragon. The wearer retains their innate colour, " ..
-                       "becomes resistant to poison, and their breath weapon's " ..
-                       "power and recharge rate are greatly increased."
-    else
-        desc = desc .. " golden dragon. The wearer becomes resistant to fire, " ..
-                       "cold, and poison, and gains a powerful breath attack " ..
-                       "that inflicts all three types of damage at once, but " ..
-                       "only recharges as you gain XP."
-    end
-    return desc
+如果你.race():find("Draconian") 现在
+desc = desc .. "龙。佩戴者保留其固有的颜色，" ..
+                       “变得对毒有抵抗力，他们的喷吐武器”..
+                       “电量和充电速度都大大提升。”
+    别的
+desc = desc ..“金龙。穿戴者生成对火有抵抗力，”..
+                       “寒冷、毒气，并获得强大的气息攻击”..
+                       “同时造成所有三种类型的伤害，但是”..
+“只有在获得XP的时候才可以充值。”
+    结尾
+    返回描述
 }}
 %%%%
-earthy gem
+土质宝石
 
-[[gem]]
+[[宝石]]
 
-Deep within this gem, flowing leaves and swaying branches seem to lurk. And
-here, a bone picked clean - there, a predator's eyes, staring hungrily out..?
+在这颗宝石的深处，似乎潜伏着流动的树叶和摇曳的树枝。和
+这里，一根骨头被剔干净——那里，掠食者的眼睛，饥饿地凝视着……？
 %%%%
-eel talisman
+鳗鱼护身符
 
-A strange sea fossil, adorned with abalone and pearl.
+奇怪的海洋化石，饰有鲍鱼和珍珠。
 {{
-    local hands = you.hand() .. "s"
-    return "Causes the wearer's " .. hands
+本地手 = you.hand() .. "s"
+    返回“导致佩戴者的”..手
 }}
-to transform into a pair of wriggling electric eels that sometimes discharge
-arcs of electricity through connected targets when used to strike enemies. When
-the wearer's health becomes dangerously low, they will discharge an even more
-violent voltage.
+变成一对蠕动的电鳗，有时会放电
+用于攻击敌人时，电弧穿过连接的目标。什么时候
+佩戴者的健康状况会变得非常低，他们会释放出更多的
+暴力电压。
 %%%%
 %%%%
-eggplant
+茄子
 
-A rotten eggplant which you can throw at the Crawl developers. It's a bug if
-you ever see this message.
+一个烂茄子，你可以扔给 Crawl 开发者。这是一个错误，如果
+你曾经看到过这条消息。
 %%%%
-eudemon blade
+幻兽之刃
 
-A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a
-favoured weapon of the Shining One's servants.
+一把来自天堂锻造的圣剑，居住着善良的灵魂。它是一个
+光辉之仆们最喜爱的武器。
 %%%%
-eveningstar
+晚星
 
-The opposite of a morningstar. A balanced mace with a long shaft and a metal
-head covered in lethal spikes.
+与晨星相反。具有长轴和金属的平衡狼牙棒
+头部布满致命的尖刺。
 %%%%
-everburning encyclopedia
+不灭百科全书
 
-A book of magical spells, meticulously organised, dense, and almost entirely
-burnt black. Only a few pages are still legible, but the power within still
-blasts the reader with a furnace-like heat.
+一本魔法咒语书，组织严密，内容密集，几乎完全
+烧黑了。只有几页还清晰可辨，但其中的力量依然存在
+给读者带来熔炉般的热量。
 %%%%
-executioner's axe
+刽子手的斧头
 
-A fearsome weapon covered in dried blood and crude engravings of torture and
-death, bearing an enormous axehead.
+一种可怕的武器，上面布满了干涸的血迹和粗糙的酷刑雕刻
+死亡，带着巨大的斧头。
 %%%%
-falchion
+弯刀
 
-A long single-edged sword with a slightly curved blade.
+剑身稍微弯曲的长单刃剑。
 %%%%
-fen folio
+分页
 
-A collection of spells once used by the great swamp civilisations.
+伟大的沼泽文明曾经使用过的法术合集。
 %%%%
-figurine of a ziggurat
+金字形神塔雕像
 
-A small figurine made of some strange material, shaped like a stepped pyramid.
-It is remarkably detailed – almost like a real, vast structure, shrunk somehow
-smaller than a human hand.
+一个用某种奇怪的材料制成的小雕像，形状像阶梯金字塔。
+它非常详细——几乎就像一个真实的、巨大的结构，但不知何故缩小了
+比人的手还小。
 %%%%
-fire dragon scales
+火龙鳞片
 
-The scales of a fire-breathing dragon. It provides great protection from fire,
-while rendering its wearer more susceptible to cold.
+喷火龙的鳞片。它提供了很好的防火保护，
+同时使其佩戴者更容易感冒。
 %%%%
-flail
+连枷
 
-A mace with a short chain connecting the head to the haft.
+带有短链的狼牙棒，将头部与手柄连接起来。
 %%%%
-flux bauble
+助焊剂小玩意
 
-A small glass bauble containing an ominously glowing substance. Crushing it will
-flood you with transmutational energy, leaving your physical form unstable at a
-fundamental level.
+一个小玻璃玩意儿，里面含有一种不祥的发光物质。压碎它就会
+用转化能量淹没你，让你的身体形态在一定程度上不稳定
+基础层面。
 
-In this state of flux, your melee attacks are much weaker, but each strike will
-contaminate whatever you hit with transmutational energy - growing so intense
-upon the third strike that it will cause their body to twist and deform,
-inflicting significant damage. The lack of certainty in your physical form also
-makes you much harder to hit, though you glow in a way that hinders stealth.
+在这种不断变化的状态下，你的近战攻击要弱得多，但每次攻击都会
+用转化能量污染你所击中的任何东西——变得如此强烈
+第三次打击就会让他们的身体扭曲变形，
+造成重大损害。您的身体形态也缺乏确定性
+使你更难被击中，尽管你的发光方式会阻碍隐身。
 
-The power contained in each bauble is finite, and once it is exhausted by
-spreading it to enemies, you will return to your previous form.
+每个小玩意所蕴含的力量都是有限的，一旦耗尽
+将其传播给敌人后，你将恢复到原来的形态。
 %%%%
-fortress talisman
+要塞护身符
 
-A miniature battlement, carved from a piece of shell. Transforms the wearer into
-a heavily armoured crab, fusing whatever body armour they are wearing into the
-shell in the process. In this form, they are slow-moving, but well-defended and
-even capable of wielding a weapon in their large main claw. Despite all this
-bulk, they are well-adapted to the water. They can also breathe clouds of rust
-at the cost of their own HP, which corrode and weaken enemies.
+由一块贝壳雕刻而成的微型城垛。将佩戴者转变为
+一只全副武装的螃蟹，将它们所穿的任何防弹衣融合到
+进程中的外壳。在这种形式下，他们行动缓慢，但防守严密，
+甚至能够用巨大的主爪挥舞武器。尽管这一切
+它们体积庞大，对水的适应能力很好。他们还可以呼吸铁锈云
+以消耗自己的生命值为代价，腐蚀并削弱敌人。
 %%%%
-gell's gravitambourine
+盖尔的重力手鼓
 
-A copper and tungsten tambourine that vibrates excitedly in your hands, as if
-eager to be used.
+铜钨手鼓在你手中兴奋地振动，仿佛
+渴望被使用。
 
-Just as music brings people together, shaking it with the proper rhythm will
-draw a large group of monsters into a narrow space and hold any hostile ones in
-place for a short time with inescapable waves of crushing gravity.
+正如音乐将人们聚集在一起一样，以适当的节奏摇动它也会
+将一大群怪物吸引到一个狭窄的空间中，并将任何敌对的怪物困在其中
+短暂地放置在不可避免的毁灭性重力波中。
 
-The area of effect and duration increases with Evocations skill.
+效果范围和持续时间随着召唤技能的增加而增加。
 %%%%
-gem
+宝石
 
-A stone of unearthly beauty and almost immeasurable value outside the dungeon.
-Within its confines, it is utterly useless.
+一块具有超凡魅力的石头，在地牢之外具有几乎无法估量的价值。
+在它的范围内，它是完全没有用的。
 
-Zot hoards these gems jealously, and will spitefully smash them soon after an
-adventurer enters the branch of the Dungeon in which they rest. Still, a very
-quick-moving adventurer might seize one first and keep its precious shards.
-Zot cannot track gems outside their home branches, so with truly astonishing
-speed, it might be possible to abscond with one still intact... but such a
-feat is difficult to credit, and likely pointless besides.
+佐特嫉妒地囤积这些宝石，并会在不久后恶意地粉碎它们
+冒险者进入他们休息的地下城分支。尽管如此，一个非常
+行动敏捷的冒险家可能会先抓住一个并保留其珍贵的碎片。
+Zot 无法追踪其真正的主要分支之外的宝石，因此令人惊讶的是
+速度的话，说不定还能完好无损地潜逃……但这样的情况
+这一壮举很难被相信，而且可能毫无意义。
 
-Once the Orb of Zot is taken, Zot will be unable to smash any gems.
+一旦佐特宝珠被拿走，佐特将无法粉碎任何宝石。
 %%%%
-giant club
+巨人俱乐部
 
-A giant lump of wood.
+一块巨大的木头。
 %%%%
-giant spiked club
+巨型尖刺俱乐部
 
-A giant lump of wood with sharp spikes at one end.
+一块巨大的木头，一端有锋利的尖刺。
 %%%%
-glaive
+剑
 
-A pole with a large, heavy blade on one end.
+一端带有又大又重的刀片的杆子。
 %%%%
-golden dragon scales
+金色龙鳞
 
-The scales of a golden dragon. It is much heavier than most dragon scale
-armours, and grants its wearer resistance to poison, fire and cold.
+金色龙鳞。它比大多数龙鳞重得多
+盔甲，赋予穿戴者对毒、火和寒冷的抵抗力。
 %%%%
-gold piece
+金块
 
-A pile of glittering gold coins.
+一堆闪闪发光的金币。
 %%%%
-granite talisman
+花岗岩护身符
 
-A heavy stone icon, bearing the countenance of some long-forgotten king or god.
-Transforms the wearer into a slow, stone statue. The wearer's stone body is
-immune to poison and miasma, and gains resistance to electricity, negative
-energy, and torment. Shapeshifting skill increases armour granted.
+一个沉重的石像，上面有一些早已被遗忘的国王或神的面容。
+将佩戴者变成一尊缓慢的石像。佩戴者的石体是
+对毒和瘴气免疫，并获得对电的抵抗力，负面
+能量和折磨。变形技能可以增加护甲值。
 %%%%
-grand grimoire
+大魔法书
 
-A book describing how the mighty among summoners can bend to their will the
-terrible things from betwixt the planes. Many have been the unwary souls,
-however, who have toyed with this tome and been driven mad by unimaginable
-eldritch horrors.
+一本描述召唤师中的强者如何屈服于他们的意志的书
+来自位面之间的可怕的事情。许多人都是粗心的灵魂，
+然而，谁曾玩弄过这本书，并被难以想象的事情逼疯了。
+可怕的恐怖。
 %%%%
-great mace
+伟大的狼牙棒
 
-An enormous metal war club, of great cumbrousness.
+一个巨大的金属战争俱乐部，非常笨重。
 %%%%
-great sword
+大剑
 
-A sword with a very long, heavy blade and a long handle.
+一把剑，剑身又长又重，剑柄也很长。
 %%%%
-great wizards, vol. ii
+伟大的巫师，卷。二、
 
-A collection of spells from great wizards throughout history. The author seems
-to have been extremely enthusiastic, and each wizard is described in voluminous,
-comprehensive detail.
+历史上伟大巫师的咒语集合。作者看来
+非常热情，每个巫师都有大量的描述，
+全面详细。
 %%%%
-great wizards, vol. vii
+伟大的巫师，卷。七
 
-A collection of spells from great wizards throughout history. The author seems
-to have been quite tired of their project - the wizards' descriptions are terse
-and minimal, meeting the lowest requirement for completeness.
+历史上伟大巫师的咒语集合。作者看来
+对他们的项目感到非常厌倦 - 巫师的描述很简洁
+最小化，满足完整性的最低要求。
 %%%%
-halberd
+戟
 
-A polearm consisting of an axe blade topped with a spike, mounted on a long
-shaft.
+一种长柄武器，由顶部带有尖刺的斧头组成，安装在长杆上
+轴。
 %%%%
-hammer
+锤
 
-A blunt striking weapon, essentially equivalent to a mace.
+一种钝性打击武器，本质上相当于狼牙棒。
 %%%%
-hand axe
+手斧
 
-A small axe.
+一把小斧头。
 %%%%
-hand cannon
+手炮
 
-A machine that fires metal slugs via applied thaumaturgy. Some enchant their
-projectiles to fall forward instead of down, others bewitch the slugs with a
-fatal attraction to their targets. All are slow, loud, and blast out thick
-smoke with each shot.
+一种通过应用奇术发射金属弹头的机器。有些让他们着迷
+射弹向前掉落而不是向下坠落，其他人则用一种方法迷惑蛞蝓
+对他们的目标具有致命的吸引力。一切都缓慢、响亮、厚重
+每次射击都会冒烟。
 %%%%
-handbook of applied construction
+应用建筑手册
 
-A practical introduction to Forgecraft, covering basic principles and their
-common applications.
+Forgecraft 的实用介绍，涵盖基本原理及其
+常见应用。
 %%%%
-hat
+帽子
 
-A cloth hat.
+一顶布帽子。
 %%%%
-helmet
+头盔
 
-A piece of metal headgear.
+一块金属头饰。
 %%%%
-hive talisman
+蜂巢护身符
 
-A preserved and decorated hive, still dripping with ambrosial nectar. Transforms
-the wearer into a living beehive, filled with the buzz of countless insects
-labouring inside them. The nectar produced within greatly increases the wearer's
-health and magic regeneration and if they become seriously injured, angry bees
-will swarm out to defend their hive.
+一个保存完好且装饰精美的蜂巢，仍然滴着芬芳的花蜜。变换
+佩戴者进入一个活的蜂巢，充满了无数昆虫的嗡嗡声
+在他们里面劳作。里面产生的花蜜大大增加了佩戴者的
+健康和魔法再生，如果他们受到严重伤害，愤怒的蜜蜂
+会蜂拥而出保卫自己的蜂巢。
 %%%%
-horn of Geryon
+革律翁之角
 
-The horn belonging to Geryon, guardian of the Vestibule of Hell. It has the
-power to call forth demonic beasts. With high Evocations skill, it will call
-greater numbers of beasts, with lower chances of those beasts being hostile.
+属于地狱前厅守护者革律翁的号角。它有
+能够召唤出妖兽的力量。凭借高召唤技能，它会召唤
+野兽的数量越多，这些野兽产生敌意的可能性就越小。
 %%%%
-sling
+吊带
 
-A piece of cloth and leather for launching stones, adequate for hunting small
-game like rabbits or goblins.
+一块布和皮革，用于发射石头，适合狩猎小型物品
+像兔子或妖精这样的游戏。
 %%%%
-ice dragon scales
+冰龙鳞片
 
-The scales of a cold-breathing dragon. It provides great protection from cold,
-while rendering its wearer more susceptible to fire.
+寒气巨龙的鳞片。它提供了很好的防寒保护，
+同时使其佩戴者更容易着火。
 %%%%
-inkwell talisman
+墨水池护身符
 
-A small bottle filled with mystical ink. Transforms the wearer into a walking
-scroll whose body is tattooed with the knowledge of a hundred mages. Being an
-omnibus of magical techniques gives them increased skill with all spell schools,
-which improves with Shapeshifting skill, but the form's ability to channel such
-magic is limited, and it cannot cast spells above level 4.
+一个小瓶子，里面装满了神秘的墨水。将佩戴者转变为步行者
+身上纹着一百名法师知识的卷轴。作为一个
+魔法技术的综合使他们提高了所有法术学校的技能，
+这会随着变形技能而提高，但形态引导这种能力的能力
+魔法有限，无法施展4级以上的法术。
 
-Its attacks are also very weak, but have a chance of restoring 1 MP when they
-hit.
+它的攻击也很弱，但有一定的回复1点MP。
+打。
 %%%%
-ivory gem
+象牙宝石
 
-[[gem]]
+[[宝石]]
 
-Countless spirits swirl around this gem, shrouding it in a bone-deep chill.
-Unwelcome in the Good gods' afterlife, they find here a heaven of their own.
+无数的灵气在这颗宝石的周围盘旋，将它笼罩在彻骨的寒意之中。
+他们在善神的来世不受欢迎，却在这里找到了属于自己的天堂。
 %%%%
-jade gem
+玉石
 
-[[gem]]
+[[宝石]]
 
-Sigils of fire burn deep within this gem, symbol of the eternal compact between
-naga and salamander. Their bond is that of the poison which scourges the impure
-and the flame which burns away impurity.
+火焰印记在这颗宝石深处燃烧，象征着永恒的契约
+纳迦和火蜥蜴。他们的结合是毒害不洁者的结合
+以及燃烧不洁的火焰。
 %%%%
-javelin
+标枪
 
-A lightweight spear, designed for throwing. It will pass through the targets it
-hits, potentially hitting all targets in its path until it reaches maximum
-range.
+一种轻型长矛，专为投掷而设计。它将穿过它的目标
+命中，可能命中其路径上的所有目标，直到达到最大值
+范围。
 {{
-    if you.race() == "Kobold" or you.race() == "Spriggan" then
-        return "Unfortunately, it is too long and awkward for you to use."
-    end
+如果 you.race() == "Kobold" 或 you.race() == "Spriggan" 现在
+return "不幸的是，它太长了，你用起来很尴尬。"
+    结尾
 }}
 %%%%
-kite shield
+风筝盾
 
-A piece of wood and metal, to be strapped on one arm for defence.
+一块木头和金属，绑在一只手臂上用于防御。
 %%%%
-lajatang
+拉贾塘
 
-A very rare and extremely effective weapon, featuring a pole with half-moon
-blades at both ends.
+一种非常罕见且极其有效的武器，具有半月形杆
+两端都有刀片。
 %%%%
-large rock
+大岩石
 
-A very large and very heavy stone. {{
-    if you.race() == "Ogre"
-       or you.race() == "Troll"
-   then
-       return ""
-   else
-       return "Only large creatures are capable of throwing it."
-   end
+一块非常大而且非常重的石头。 {{
+如果 you.race() == "Ogre"
+或者 you.race() == "Troll"
+   然后
+       返回 ””
+   别的
+return "只有大型生物才能把它扔掉。"
+   结尾
 }}
 %%%%
-leather armour
+皮甲
 
-A suit made from layers of tanned animal hide. It provides basic protection
-with almost no hindrance to spellcasting or stealthy movement.
+由多层鞣制动物皮制成的套装。它提供基本的保护
+施法或潜行移动几乎没有任何阻碍。
 %%%%
-lightning rod
+避雷针
 
-A rod that allows its wielder to fire unavoidable blasts of lightning.
-Consecutive evocations cause the discharge to be sustained, which increases the
-power level up to four times and allows the blast to be redirected to affect an
-area. The strength of the blast increases with Evocations skill and, for
-redirected blasts, decreases with the size of the affected area.
+一根可以让使用者发射不可避免的闪电的权杖。
+连续的唤起会导致放电持续，从而增加
+功率水平高达四倍，并允许爆炸重定向以影响
+区域。爆炸的强度随着召唤技能的增加而增加，对于
+重定向爆炸，随着受影响区域的大小而减少。
 %%%%
-long sword
+长剑
 
-A sword with a long, slashing blade.
+一把长而锋利的剑。
 %%%%
-longbow
+长弓
 
-A long, strong bow made of yew.
+红豆杉制成的又长又坚固的弓。
 %%%%
-lupine talisman
+羽扇豆护身符
 
-A painted eyepatch made from a scrap of wolf pelt. Transforms the wearer into a
-vicious werewolf, muscles surging with predatory instinct. Killing enemies with
-melee attacks in this form will give a stacking bonus to your damage and
-accuracy, and slaying enough of them in a row will cause you to unleash a
-vicious howl that makes any still alive cower in fear - and leaves them
-susceptible to a devastating leaping takedown.
+用狼皮碎片制成的彩绘眼罩。将佩戴者转变为
+凶恶的狼人，肌肉涌动着掠夺本能。杀死敌人
+这种形式的近战攻击会给你的伤害带来叠加奖励，
+准确性，连续杀死足够多的敌人会让你释放出
+恶毒的嚎叫让任何还活着的人都因恐惧而畏缩——然后离开他们
+容易遭受毁灭性的​​跳跃击倒。
 %%%%
-mace
+锤
 
-A short club with a metal head.
+带有金属杆头的短球杆。
 %%%%
-manual
+手动的
 
-A valuable book which allows one to learn a certain skill faster.
+一本有价值的书，可以让人们更快地学习某种技能。
 %%%%
-maxwell's memoranda
+麦克斯韦的备忘录
 
-A loosely bound collection of the infamous Maxwell's schemes, diagrams and plans.
-Amidst messages written to and by his many minions, allies of convenience and
-hated rivals, a patient reader can discover spells of electrifying power.
+臭名昭著的麦克斯韦计划、图表和计划的松散装订集。
+在他的许多爪牙、便利盟友和他们所写的信息中
+面对令人憎恶的对手，耐心的读者可以发现令人震惊的咒语。
 %%%%
-maw talisman
+喉护身符
 
-A miniature, desiccated head of some ferocious and hopefully extinct creature.
-Transforms the wearer's midsection into a giant mouth, gnashing and ready to devour
-foes. This maw confers a powerful bite attack which scales additionally with the
-wearer's own strength and can devour slain creatures to temporariy increase
-one's regeneration. Unfortunately, it also confers such profound hunger that it
-can be difficult to pull oneself away from particularly appetising foes.
+某种凶猛且有望灭绝的生物的微型、干燥的头部。
+将佩戴者的腹部变成一张巨嘴，咬牙切齿，准备吞噬
+敌人。这个胃赋予了强大的咬合攻击力，并且随着攻击力的增加而增加
+佩戴者自身的力量，可以吞噬被杀死的生物来暂时增强
+一个人的重生。不幸的是，它也带来了如此深刻的饥饿感，以至于它
+很难将自己从特别令人胃口大开的敌人身边拉开。
 %%%%
-medusa talisman
+美杜莎护身符
 
-A fossilised jellyfish polyp, inscribed with sigils. Causes a mane of long
-stinging tendrils to sprout from the wearer's head which lash out at nearby
-enemies whenever the wearer attacks, poisoning them. When they feel their host's
-life is in danger, they can even turn these poisoned foes to stone.
+水母息肉化石，刻有印记。导致鬃毛过长
+带有刺痛的卷须从佩戴者的头上长出，猛击附近
+每当佩戴者攻击时就会有敌人，使他们中毒。当他们感受到主人的
+生命处于危险之中，他们甚至可以将这些有毒的敌人变成石头。
 %%%%
-midnight gem
+午夜宝石
 
-[[gem]]
+[[宝石]]
 
-The stoneborn brought forth this gem from the uttermost depths of the earth as
-a gift and a warning: beware Zot! That it lies now within Zot's power is a sure
-proof of the perversity of mortals and fate alike.
+石生者从地球最深处带出了这颗宝石
+一份礼物和一个警告：小心佐特！可以肯定的是，它现在在佐特的权力范围内
+凡人和命运的反常的证明。
 %%%%
-milky-white gem
+乳白色宝石
 
-[[gem]]
+[[宝石]]
 
-Smooth as a spider's silk, white as the eyes of some crawling thing which has
-lived too long in the dark, this gem buzzes with a fearful potential. Still, to
-a certain eye, it possesses a strange allure...
+光滑如蜘蛛丝，白色如爬行物的眼睛
+在黑暗中生活太久，这颗宝石充满了可怕的潜力。尽管如此，为了
+某只眼睛，有着一种奇异的魅力……
 %%%%
-morningstar
+晨星
 
-A mace with a head covered in short spikes.
+一种头部布满短刺的狼牙棒。
 %%%%
-mossy gem
+长满苔藓的宝石
 
-[[gem]]
+[[宝石]]
 
-Though it drips with mud and muck, still a peculiar dignity attaches itself to
-this gem. The people of the Swamp, who first carried this stone, struggled
-against insurmountable odds. They failed, but there is much to admire even in
-the ruin of their efforts.
+虽然它沾满了泥土和淤泥，但仍然有一种特殊的尊严
+这颗宝石。第一个搬运这块石头的沼泽人民奋力挣扎
+面对不可克服的困难。他们失败了，但即使在这样的情况下，也有很多值得钦佩的地方
+他们的努力付诸东流。
 %%%%
-my sojourn through swampland
+我在沼泽地的逗留
 
-While purporting itself to be the personal account of a famous naturalist, it
-becomes clear upon reading that this book was compiled from multiple unrelated
-sources, including notes from a stagehand of a travelling magical circus. The
-travelogue may be fictitious, but some of the spell diagrams carefully
-transcribed in the margins seem quite real.
+虽然它自称是一位著名博物学家的个人记录，但它
+读完后就会清楚这本书是由多个不相关的内容编写而成的
+来源，包括巡回魔法马戏团舞台工作人员的笔记。这
+游记可能是虚构的，但有些符咒图仔细
+抄写在页边空白处看起来很真实。
 %%%%
-necronomicon
+死灵之书
 
-An extremely rare book, powerful and sinister. Many foolhardy magicians have
-tried to study this tome, only to find themselves entangled within necromantic
-forces they could not hope to control.
+一本极其罕见的书，强大而险恶。许多鲁莽的魔法师都
+试图研究这本书，却发现自己陷入了死灵魔法之中
+他们无法控制的力量。
 %%%%
-orb
+球体
 
-A sphere of crystal, carried in place of a shield. Magic scintillates within
-its interior.
+一个水晶球，代替盾牌。魔法在内心闪烁
+它的内部。
 %%%%
-orb of zot
+佐特之球
 
-An invaluable artefact. Once you have escaped to the surface with it, your
-quest is complete.
+一件无价的文物。一旦你带着它逃到地表，你的
+任务已完成。
 %%%%
-orcbow
+兽人弓
 
-A recurved bow, crudely crafted from troll-bone and warg hair. The cave orcs'
-use of archery, so unlike their surface-dwelling ancestors, shows the influence
-of their elvish allies.
+一把反曲弓，由巨魔骨头和狼毛粗制而成。洞穴兽人的
+射箭的使用与他们生活在地表的祖先不同，这表明了他们的影响
+他们的精灵盟友。
 %%%%
-pair of boots
+一双靴子
 
-A pair of boots. They are worn on the feet, and cover all but the largest
-hooves and talons.
+一双靴子。它们穿在脚上，覆盖除最大的脚之外的所有脚部
+蹄子和爪子。
 %%%%
-pair of gloves
+一双手套
 
-A pair of gloves. They are worn on the hands, and cover all but the largest
-claws.
+一双手套。它们戴在手上，覆盖除最大的部分之外的所有部分
+爪子。
 %%%%
-parchment
+羊皮纸
 
-A brief text on magic, perhaps excerpted from some larger work. It contains
-knowledge of one spell.
+关于魔法的简短文字，也许摘自一些较大的作品。它包含
+一种咒语的知识。
 %%%%
-partisan
+党派
 
-A long polearm with sharp protrusions on either side of the spearhead.
+矛头两侧都有锋利突起的长杆武器。
 %%%%
-pearl dragon scales
+珍珠龙鳞
 
-The nacreous scales of a pearl dragon. It grants its wearer resistance to
-negative energies.
+珍珠龙的珠光鳞片。它赋予佩戴者抵抗力
+负能量。
 %%%%
-phantom mirror
+幻镜
 
-A hand mirror which can create a reflection of a nearby creature, clouding
-in the process. The reflection's duration increases with Evocations skill and
-decreases with the willpower of the target. It is, invariably, slightly weaker
-than the creature it mirrors.
+可以反射附近生物的手镜，使之变得模糊
+在此过程中。反射的持续时间随着召唤技能的增加而增加
+随着目标意志力的增强而减弱。它总是稍微弱一些
+比它所反映的生物更重要。
 %%%%
-phial of floods
+洪水之瓶
 
-An enchanted vessel of elemental water. Removing the stopper unleashes a torrent
-of water, smashing the target and flooding the nearby area. If any creatures
-engulfed by the wave need air to breathe, they'll be unable to cast spells until
-they recover. The strength of the torrent and the duration of the flooding
-increase with Evocations skill.
+一个装有元素水的附魔容器。移除塞子即可释放激流
+水，粉碎目标并淹没附近区域。如果有任何生物
+被波浪吞没需要空气呼吸，他们将无法施展法术，直到
+他们康复了。洪流的强度和洪水的持续时间
+随着召唤技能的增加而增加。
 %%%%
-plate armour
+板甲
 
-A full suit of solid metal plate: cuirass, pauldrons, vambraces, waist plate
-and greaves. It provides excellent protection.
+全套实心金属板：胸甲、肩甲、臂甲、腰板
+和护腿。它提供了极好的保护。
 %%%%
-potion of ambrosia
+仙草药水
 
-A strange substance, produced by ghost moths. Consuming it causes regeneration
-of health and magic, along with total befuddlement. The two effects are
-fundamentally linked – the regeneration ends the moment the confusion does.
+一种奇怪的物质，由鬼蛾产生。食用它会导致再生
+健康和魔法，以及彻底的困惑。两个效果分别是
+从根本上来说，再生在混乱发生的那一刻就结束了。
 %%%%
-potion of berserk rage
+狂暴之怒药水
 
-A potion which can send one into an incoherent rage, granting them a great but
-temporary increase to their health, damage, and speed. In exchange, their mind
-is clouded by anger, only allowing them to move and attack in melee. The rage
-will wear off quickly if they do not attack monsters, and upon expiry, the
-imbiber will be fatigued, causing them to slow dramatically and rendering them
-unable to berserk again for a short duration.
+一种可以使人陷入语无伦次的愤怒的药剂，给予他们巨大但
+暂时增加他们的生命值、伤害和速度。作为交换，他们的心
+被愤怒笼罩，只允许他们在近战中移动和攻击。愤怒
+如果不攻击怪物，它们会很快消失，并且到期后，
+吸收者会感到疲劳，导致他们的速度急剧减慢并渲染他们
+短时间内无法再次狂暴。
 %%%%
 # TAG_MAJOR_VERSION == 34
-potion of blood
+血药水
 
-A potion containing the essence of life.
+含有生命精华的药剂。
 %%%%
-potion of brilliance
+光辉药水
 
-A potion which increases the power of the drinker's spells and halves their
-magic cost (rounding up).
+一种药水，可以增加饮用者的法术威力并将其减半
+魔法成本（向上舍入）。
 %%%%
-potion of cancellation
+取消药水
 
-A potion which ends most magical effects, good or bad, affecting one who drinks
-it. It also reduces magical contamination.
+一种药水，可以终止大多数影响饮用者的魔法效果，无论好坏
+它。它还可以减少魔法污染。
 %%%%
-potion of curing
+治愈药水
 
-A potion which restores a small amount of health, and cures poison and
-confusion.
+恢复少量生命值并治愈毒药和毒药的药水
+困惑。
 %%%%
-potion of enlightenment
+启蒙药水
 
-A potion which uplifts both the body and mind of its drinkers, lifting them
-from the ground and increasing their Will to resist the world's temptations.
+一种能够提升饮用者的身体和精神的药剂，让他们精神焕发
+并增强他们抵抗世界诱惑的意志。
 %%%%
-potion of experience
+经验药水
 
-A truly wonderful and very rare drink, which grants experience when consumed.
+一种真正美妙且非常稀有的饮料，饮用后会带来经验。
 %%%%
-potion of haste
+急速药水
 
-An enchanted beverage which speeds the actions of anyone who drinks it.
+一种神奇的饮料，喝了它的人可以加快行动速度。
 %%%%
-potion of heal wounds
+治愈伤口的药水
 
-A magical healing elixir which causes wounds to close and heal almost
-instantly.
+一种神奇的治疗灵丹妙药，可以使伤口几乎闭合并愈合
+即刻。
 %%%%
-potion of invisibility
+隐形药水
 
-A potion which confers invisibility on one who consumes it.
+一种能让服用者隐形的药剂。
 %%%%
-potion of lignification
+木质化药水
 
-A potion which transforms the imbiber into an animated tree with sap for blood and
-branches capable of holding weapons. Such a tree has minimal evasion but increased
-health and natural armour, and is resistant to poison, and immune to torment and
-drowning. However, it is rooted in place while the transformation lasts, and
-cannot teleport.
+一种药水，可将饮用者变成一棵充满活力的树，其汁液可用于血液和
+能够持有武器的树枝。这样的树的躲避能力最小，但增加了
+健康和天生的盔甲，并且能够抵抗毒药，免疫折磨和
+溺水。然而，当转变持续时，它就扎根于原地，并且
+无法传送。
 %%%%
-potion of magic
+魔法药水
 
-A valuable potion which grants an infusion of magical energy.
+一种宝贵的药剂，可以注入魔法能量。
 %%%%
-potion of might
+力量药水
 
-A potion which greatly increases the power of the drinker's melee attacks.
+能够大幅提升饮用者近战攻击威力的药剂。
 %%%%
-potion of moonshine
+月光药水
 
-A potent alcohol, distilled in some dubious corner of the dungeon. Drinking it
-reduces the imbiber's accuracy, evasion, and spellcasting success for a while.
+一种烈性酒精，在地牢的某个可疑角落蒸馏而成。喝它
+暂时降低饮用者的准确度、闪避率和施法成功率。
 %%%%
-potion of mutation
+突变药水
 
-A potion which mutates the drinker, removing several mutations then
-granting a few random mutations, which are likely (but not guaranteed) to be
-beneficial.
+一种使饮用者发生变异的药水，然后消除一些突变
+授予一些随机突变，这些突变很可能（但不能保证）
+有利。
 %%%%
-potion of resistance
+抵抗药水
 
-A potion which grants temporary resistance to a variety of harmful effects:
-fire, cold, electricity, poison, and acid.
+一种可以暂时抵抗多种有害影响的药水：
+火、冷、电、毒、酸。
 %%%%
-potion of attraction
+吸引力药水
 
-A potion which makes the drinker attract enemies, translocating them quickly closer
-for the duration of the effect. The effect is surprisingly subtle, and unwary
-victims may sleep through it entirely.
+一种使饮用者吸引敌人并迅速将他们移近的药水
+在效果持续时间内。其效果出人意料地微妙且不经意
+受害者可能会完全睡着。
 %%%%
-prismatic gem
+棱柱形宝石
 
-[[gem]]
+[[宝石]]
 
-Shining with every colour of the rainbow and a few others besides, some
-consider this gem 'a bit tacky'. Preposterous!
+闪耀着彩虹的每一种颜色和其他一些颜色，一些
+认为这颗宝石“有点俗气”。荒谬！
 %%%%
-protean talisman
+千变万化的护身符
 
-An ever-changing fragment of something primordial; its substance seems to
-undulate between flesh and bone and perhaps even metal. A sufficiently skilled
-shapeshifter can stabilise it into a useable - if unpredictable - form.
+原始事物不断变化的片段；其实质似乎是
+在肉和骨头甚至金属之间波动。一个足够熟练的
+变形者可以将其稳定成可用的（如果不可预测的）形式。
 
-(If your Shapeshifting skill is at least 6, attempting to put this on will
-transform it into a random one of: Rimehorn, Scarab, Medusa, or Spore talismans.)
+（如果你的变形技能至少为 6，尝试穿上它将会
+将其随机转化为以下其中之一：Rimehorn、Scarab、Medusa或Spore护身符。）
 %%%%
-quad damage
+四边形伤害
 
-A mysterious item resembling a rune of some kind. Once evoked, it will make the
-user glow blue and add a reverb to all sound... and there may be other effects
-as well.
+类似于某种符文的神秘物品。一旦被唤起，就会使
+用户发出蓝色光并向所有声音添加混响......并且可能还有其他效果
+以及。
 %%%%
-quarterstaff
+军需人员
 
-A sturdy wooden pole, meant for fighting.
+坚固的木杆，用于战斗。
 %%%%
-quicksilver dragon scales
+水银龙鳞
 
-The scales of a quicksilver dragon. Although it does not provide its wearer
-with as much protection as the scales of some heavier dragons, it is somewhat
-lighter and less encumbering. The armour repels both attacks on the wearer's
-willpower and magical modification of itself - it cannot be enchanted.
+水银龙的鳞片。虽然它不提供佩戴者
+具有与一些较重的龙的鳞片一样多的保护，它有点
+更轻、更少负担。盔甲可以抵御对佩戴者的两种攻击
+意志力和自身的魔法修改——它不能被附魔。
 %%%%
-quick blade
+快速刀片
 
-A dagger with an uncanny enchantment upon it, allowing it to strike twice
-for every blow its wielder makes. It takes great skill to use to its full
-potential.
+带有不可思议魔力的匕首，可以连续攻击两次
+其持有者的每一次攻击。需要很高的技巧才能充分发挥作用
+潜在的。
 %%%%
-quill talisman
+羽毛笔护身符
 
-A spiny trinket reminiscent of a cactus. Causes sharp quills to grow all over
-the wearer's body which may cause injury to anyone unwise enough to attack them
-in melee.
+让人想起仙人掌的带刺小饰品。导致全身长出锋利的刺
+佩戴者的身体，可能会对任何不明智的攻击者造成伤害
+在混战中。
 %%%%
-rapier
+剑杆
 
-A slender, sharply pointed sword, with an uncommonly elegant design.
+细长锋利的剑，设计异常优雅。
 %%%%
-riddle talisman
+谜语护身符
 
-An intricate puzzlebox containing an unknowable prize. Transforms the wearer into
-a riddle-loving sphinx. In this form, they are {{
-    if you.race() == "Felid" then
-        return "normally capable of wearing a cloak and barding (though your" ..
-               " own diminutive size would prevent this)"
-    else
-        return "capable of wearing a cloak and barding"
-    end
-}}, and their melee attacks cause powerful winds to strike their foe which do
-increased damage for every open space next to them. They are also masterful
-enchanters, casting Hex spells much more easily and ignoring a portion of their
-foe's Willpower.
+一个复杂的谜盒，里面装有不可知的奖品。将佩戴者转变为
+喜欢谜语的狮身人面像。在这种形式中，它们是{{
+如果你.race() == "Felid" 现在
+        返回“通常能够穿着斗篷和马甲（尽管你的”..
+               “自己的小尺寸会阻止这种情况）”
+    别的
+        返回“能够穿着斗篷和马甲”
+    结尾
+}}，他们的近战攻击会产生强大的风来打击他们的敌人
+增加他们旁边的每个开放空间的伤害。他们也是高手
+附魔师，更容易施展十六进制法术并忽略他们的一部分
+敌人的意志力。
 
-Alas, their love of riddles is so compulsive that even the most hardened
-adventurer will be unable to resist posing them to new foes they encounter, no
-matter how unwise this may be.
+唉，他们对谜语的热爱如此强烈，即使是最顽固的人
+冒险家将无法抗拒让他们面对他们遇到的新敌人，不
+不管这有多么不明智。
 %%%%
-rimehorn talisman
+里默霍恩护身符
 
-A crude ornament carved from the horn of a rare arctic beast - so cold to the
-touch that ice still clings to it. Transforms the wearer into a rime yak, a hardy
-ungulate that is highly resistant to cold and whose breath is so frigid that it
-freezes the walls around itself as it fights. Being so attuned to arctic
-temperatures also makes it easier for the wearer to cast Ice magic.
+用罕见的北极野兽的角雕刻而成的粗糙装饰品 - 对地球来说如此寒冷
+触摸仍然附着在上面的冰。将佩戴者变成一头耐寒的霜牦牛
+有蹄类动物，具有很强的耐寒能力，其呼吸非常寒冷，以致于
+战斗时会冻结自身周围的墙壁。如此适应北极
+温度也使佩戴者更容易施放冰魔法。
 %%%%
-ring mail
+环形邮件
 
-A light leather suit reinforced with a covering of metal rings. It is
-protective in combat, but slightly uncomfortable due to the added weight.
+一套用金属环覆盖加固的轻质皮革套装。这是
+在战斗中具有保护作用，但由于重量增加而略有不舒服。
 %%%%
-ring of dexterity
+灵巧之环
 
-A ring that increases the dexterity of its wearer.
+增加佩戴者灵巧度的戒指。
 %%%%
-ring of evasion
+回避环
 
-A ring that makes its wearer more capable of avoiding attacks.
+能让佩戴者更容易躲避攻击的戒指。
 %%%%
-ring of flight
+飞行环
 
-A ring that grants its wearer flight.
+一枚能让佩戴者飞行的戒指。
 %%%%
-ring of intelligence
+智慧之环
 
-A ring that increases the intelligence of its wearer.
+一枚可以提高佩戴者智力的戒指。
 %%%%
-ring of resist corrosion
+抗腐蚀环
 
-A ring that protects its wearer from the effects of acid and corrosion.
+保护佩戴者免受酸和腐蚀影响的戒指。
 %%%%
-ring of magical power
+魔法力量戒指
 
-A ring that increases its wearer's reserves of magical power for so long as it
-is worn.
+一枚可以增加佩戴者魔法力量储备的戒指，只要它
+已磨损。
 %%%%
-ring of poison resistance
+抗毒戒指
 
-A ring that protects its wearer from poison.
+保护佩戴者免受毒害的戒指。
 %%%%
-ring of positive energy
+正能量戒指
 
-A ring that protects its wearer from the effects of negative energy.
+保护佩戴者免受负能量影响的戒指。
 %%%%
-ring of protection
+保护环
 
-A ring that protects its wearer from most sources of damage.
+可以保护佩戴者免受大多数伤害的戒指。
 %%%%
-ring of protection from cold
+防寒环
 
-A ring that protects its wearer from cold.
+保护佩戴者免受寒冷的戒指。
 %%%%
-ring of protection from fire
+防火环
 
-A ring that protects its wearer from fire.
+保护佩戴者免受火灾侵害的戒指。
 %%%%
-ring of willpower
+意志力戒指
 
-A ring that increases its wearer's willpower, protecting against certain
-magical effects.
+一枚戒指，可以增强佩戴者的意志力，防止某些
+神奇的效果。
 %%%%
-ring of see invisible
+看不见的戒指
 
-A ring that allows its wearer to see invisible things.
+一枚能让佩戴者看到看不见的东西的戒指。
 %%%%
-ring of slaying
+杀戮之环
 
-A ring that increases the wearer's accuracy and damage with ranged weapons and
-melee attacks.
+一枚戒指，可以提高佩戴者使用远程武器的准确性和伤害
+近战攻击。
 %%%%
-ring of strength
+力量之环
 
-A ring that increases the strength of its wearer.
+能够增强佩戴者力量的戒指。
 %%%%
-ring of wizardry
+魔法戒指
 
-A ring that increases the success rate of its wearer's magical spells.
+能够提高佩戴者魔法咒语成功率的戒指。
 %%%%
-robe
+长袍
 
-A large, loose-fitting, wide-sleeved outer garment made of light cloth. It
-offers little protection against physical harm, but does not hinder evasion or
-spellcasting.
+由轻质布制成的宽大、宽松、宽袖的外衣。它
+几乎不能提供针对人身伤害的保护，但不妨碍逃避或
+施法。
 %%%%
-rune of zot
+佐特符文
 
-A charm which allows entry into the Realm of Zot.
+可以进入佐特王国的护身符。
 %%%%
-sack of spiders
+一袋蜘蛛
 
-A woven silk bag. Opening it will cover the area with webs, spiders, and other
-skittering things. Evocations skill increases spider quality, quantity and webbing.
+一个丝绸编织袋。打开它会用网、蜘蛛和其他东西覆盖该区域
+掠过的东西。召唤技能可以提高蜘蛛的质量、数量和蜘蛛网。
 %%%%
-sacred scourge
+神圣天灾
 
-A blessed weapon, woven by the saints in Heaven and hated by the unholy. It is
-a favoured weapon of the Shining One's servants.
+这是一把受祝福的武器，由天堂的圣徒编织而成，却被不圣洁的人所憎恨。这是
+光辉之仆们最喜爱的武器。
 %%%%
-sanguine talisman
+血色护身符
 
-A vial of roiling blood that pulses with the beat of an unseen heart. Transforms
-the wearer into a fearsome vampire - a creature that straddles the border between
-life and undeath. They can drink the lifeblood of the living to heal themselves,
-and even turn those they slay stealthily into vampiric thralls, but do not heal
-in the presence of monsters. At great effort, they may scatter into a swarm of
-bats - either to flee or to assail their enemies.
+一小瓶翻滚的血液随着一颗看不见的心脏的跳动而跳动。变换
+佩戴者变成可怕的吸血鬼——一种跨越两者边界的生物
+生命与不死。他们可以喝生者的血来治愈自己，
+甚至将他们偷偷杀死的人变成吸血鬼奴隶，但不治愈
+在怪物面前。经过极大的努力，它们可能会分散成一群
+蝙蝠 - 要么逃跑，要么攻击敌人。
 %%%%
-sanguine gem
+血红宝石
 
-[[gem]]
+[[宝石]]
 
-They who smote down Death herself and buried themselves in a Tomb of their own
-making were not shy of their ambitions. Fain to seize upon baubles and
-overweening proud, their Lord journeyed into their eternal unrest with this gem
-upon their breast.
+他们击倒死神并将自己埋在自己的坟墓里
+制作人并不羞于他们的野心。渴望抓住小玩意和
+自以为是的骄傲，他们的主带着这颗宝石进入了他们永恒的不安之中
+在他们的胸前。
 %%%%
-scale mail
+规模邮件
 
-A leather suit covered with metal plates attached to each other in overlapping
-rows to provide full protection, but at the cost of reduced freedom of
-movement.
+一种皮革套装，上面覆盖着相互重叠的金属板
+行提供全面保护，但代价是减少自由度
+移动。
 %%%%
-scarab talisman
+圣甲虫护身符
 
-A small golden cameo of a beetle. Transforms the wearer into a sun scarab, a
-fiery insect that carries around a mote of searing heat and light outside
-itself, like a tiny sun.
+甲虫的金色小浮雕。将佩戴者变成太阳圣甲虫，
+一种火热的昆虫，在外面携带着灼热的热量和光的微粒
+本身，就像一个小太阳。
 
-This solar ember burns adjacent enemies whenever the scarab attacks, and can be
-healed by swapping with it. In addition, the scarab's own mandibles can reduce
-enemies' fire resistance and Fire spells are easier for the wearer to cast.
+每当圣甲虫攻击时，这种太阳余烬就会燃烧邻近的敌人，并且可以
+通过与它交换来治愈。另外，圣甲虫自身的下颌骨可以减少
+敌人的火焰抗性和火焰法术对于佩戴者来说更容易施放。
 %%%%
-scarf
+围巾
 
-A length of stylish fabric. At its creation, enchantments were woven into it,
-and as such it cannot accept further enchantment.
+一段时尚的面料。在它被创造出来的时候，就被编织了魔法，
+因此它无法接受进一步的附魔。
 %%%%
-scimitar
+弯刀
 
-A long sword with a wide, curved blade.
+一把长剑，刀刃宽而弯曲。
 %%%%
-scroll of acquirement
+获取卷轴
 
-A wonderful scroll which causes the creation of a valuable item, with the
-reader choosing from a small selection. The items offered will often be a
-good match for the reader's skills; and if nothing recommends itself, the
-reader can always choose a heap of gold.
+一个美妙的卷轴，可以创造出有价值的物品，
+读者从一小部分中进行选择。提供的物品通常是
+与读者的技能相匹配；如果没有什么值得推荐的，
+读者总能选择一堆金子。
 %%%%
-scroll of amnesia
+失忆卷轴
 
-A scroll that allows its reader to selectively erase one spell from memory to
-recapture the magical energy bound up with it.
+一种卷轴，允许读者有选择地从记忆中删除一个咒语
+重新夺回与之绑定的魔法能量。
 %%%%
-scroll of blinking
+闪烁的卷轴
 
-A scroll that allows its reader to teleport a short distance, with precise
-control.
+允许读者以精确的方式传送短距离的卷轴
+控制。
 %%%%
-scroll of brand weapon
+品牌武器卷轴
 
-A scroll that imbues a weapon with a random brand. Any existing brand will be
-replaced with a different one, and any brand forbidden by your current god will
-not be chosen. Artefacts cannot be branded in this way.
+为武器赋予随机烙印的卷轴。任何现有品牌都将
+更换为不同的，任何被你当前的神禁止的品牌都会
+不被选中。文物不能以这种方式打上烙印。
 
-Melee weapons will commonly be branded with the flaming, freezing, heavy,
-venom or protection brand (or with the special brand exclusive to the category
-of weapon being branded), and rarely with the draining, electrocution, spectral,
-vampiric or chaos brand.
+近战武器通常会被标记为火焰、冰冻、重型、
+毒液或保护品牌（或该类别独有的特殊品牌
+武器被打上烙印），很少有排水，触电，光谱，
+吸血鬼或混乱品牌。
 
-Ranged weapons will commonly be branded with the flaming, freezing, heavy or
-draining brand, and rarely with the electrocution or chaos brand.
+远程武器通常会被标记为火焰、冰冻、重型或
+引流牌子，很少用触电或者乱牌子。
 %%%%
-scroll of butterflies
+蝴蝶卷轴
 
-A scroll that surrounds its user with a flight of beautiful butterflies, blowing
-back other creatures nearby with the flapping of their wings.
+一个卷轴，周围有一群美丽的蝴蝶，飞舞着
+通过拍动翅膀来支持附近的其他生物。
 %%%%
-scroll of enchant armour
+附魔盔甲卷轴
 
-A scroll that places an enchantment on a piece of armour chosen by the reader.
-Body armour and bardings can be enchanted up to the same value as their base
-armour rating. Bucklers, kite shields and tower shields can be enchanted up to
-+3, +5 or +8 respectively, and other armour can be enchanted up to +2. Magical
-artefacts cannot be enchanted at all.
+在读者选择的一件盔甲上施加结界的卷轴。
+防弹衣和马甲的附魔值可以达到与其基础相同的值
+装甲等级。小盾、风筝盾和塔盾的附魔最多可达
+分别为+3、+5或+8，其他护甲最多可附魔至+2。神奇
+文物根本无法被附魔。
 %%%%
-scroll of enchant weapon
+附魔武器卷轴
 
-A scroll that places an enchantment on a weapon chosen by the reader,
-increasing both accuracy and damage. Weapons can be enchanted up to +9. Magical
-artefacts cannot be enchanted at all.
+给读者选择的武器附魔的卷轴，
+增加准确性和伤害。武器的附魔值最高可达+9。神奇
+文物根本无法被附魔。
 %%%%
-scroll of fear
+恐惧卷轴
 
-A scroll that causes great fear in nearby foes, causing them to flee until
-attacked, cornered, or enough time has passed.
+使附近敌人产生极大恐惧的卷轴，导致他们逃跑，直到
+受到攻击、被逼入绝境，或者已经过去了足够的时间。
 
-Non-living, undead and plant monsters cannot be feared, and berserk or frenzied
-monsters are also immune.
+无生命、不死生物和植物怪物不会被恐惧，并且会狂暴或疯狂
+怪物也免疫。
 %%%%
-scroll of fog
+雾卷轴
 
-A scroll that surrounds the reader with a dense cloud of fog, which can block
-vision temporarily. The fog takes a short time to fully spill out.
+一本用浓雾包围读者的卷轴，可以阻挡
+暂时的视力。雾气需要很短的时间才能完全散去。
 %%%%
-scroll of identify
+识别卷轴
 
-A useful magic scroll which identifies the properties of any unknown object.
+一个有用的魔法卷轴，可以识别任何未知物体的属性。
 %%%%
-scroll of immolation
+献祭卷轴
 
-A scroll that fills the creatures around the reader with an unstable and
-powerful inner flame. This fire is released any time the victims are hit, and
-explosively released upon their death. Giant creatures cause bigger explosions.
+使读者周围的生物充满不稳定和不稳定的卷轴
+强大的内在火焰。每当受害者被击中时就会释放火焰，并且
+他们死后爆炸释放。巨型生物会引起更大的爆炸。
 %%%%
-scroll of noise
+噪音滚动
 
-A prank scroll that creates a loud noise when read.
+阅读时会发出巨大噪音的恶作剧卷轴。
 %%%%
-scroll of poison
+毒药卷轴
 
-A scroll that fills the air with poison, covering every unoccupied space in
-sight with toxic fumes.
+空气中充满毒气的卷轴，覆盖了每一个未被占据的空间。
+看到有毒烟雾。
 %%%%
-scroll of revelation
+启示卷轴
 
-A scroll that reveals its reader's surroundings. The layout of the current
-floor is fully mapped, and everything within a moderate radius, including
-both visible and invisible monsters, is momentarily shown.
+揭示读者周围环境的卷轴。目前的布局
+楼层已完全映射，并且所有内容都在中等半径内，包括
+无论是看得见的还是看不见的怪物，都瞬间显示出来。
 %%%%
-scroll of silence
+沉默的卷轴
 
-A scroll that eliminates all sound near the reader. This makes reading scrolls,
-casting spells, invoking divine abilities, or shouting impossible in the
-reader's vicinity.
+消除读者附近所有声音的卷轴。这使得阅读卷轴，
+施展法术、召唤神圣能力、或大喊不可能
+读者附近。
 
-Certain monsters have innate magical or special abilities which will still be
-usable while silenced.
+某些怪物具有与生俱来的魔法或特殊能力，这些能力仍然会存在
+静音时可用。
 
-The effect starts out with a large radius, which will then shrink, eventually
-covering only the reader, before it times out.
+效果一开始半径很大，然后会缩小，最终
+在超时之前仅覆盖读者。
 %%%%
-scroll of summoning
+召唤卷轴
 
-A scroll that calls forth several allied creatures woven from shadow into the
-shapes of those beings found within the reader's immediate vicinity.
+卷轴召唤出数种从阴影编织到黑暗中的盟友生物
+在读者附近发现的那些生物的形状。
 %%%%
-scroll of teleportation
+传送卷轴
 
-A scroll that translocates the reader to a random position after a short delay.
-Reading this scroll while waiting for a teleportation will instead cancel it.
+短暂延迟后将读者转移到随机位置的卷轴。
+在等待传送时阅读此卷轴将会取消它。
 %%%%
-scroll of torment
+折磨卷轴
 
-A scroll that calls on the powers of darkness to inflict great pain on any
-nearby creature — including the reader! This halves the resilience of all
-living creatures and cuts down all holy creature resilence by about a third,
-although it is never directly fatal.
+召唤黑暗力量对任何人造成巨大痛苦的卷轴
+附近的生物——包括读者！这使所有人的恢复能力减半
+生灵，将所有圣灵的抵抗力削减了三分之一左右，
+尽管它从来都不是直接致命的。
 %%%%
-scroll of vulnerability
+脆弱卷轴
 
-A scroll that briefly halves the willpower of the reader and any nearby beings,
-rendering them vulnerable to many magical effects. The scroll cannot affect
-those fully immune to such effects.
+一个卷轴可以短暂地将读者和任何附近生物的意志力减半，
+使他们容易受到许多魔法效果的影响。滚动不能影响
+那些完全不受此类影响的人。
 %%%%
-scythe
+镰
 
-A farm implement, usually only used by untrained mobs in combat. In practice,
-it's quite similar to a halberd.
+一种农具，通常仅由未经训练的暴民在战斗中使用。在实践中，
+与戟十分相似。
 %%%%
-serpent talisman
+蛇护身符
 
-A jade snake coiled around a fossilised egg. Transforms the wearer into an
-amphisbaena - a legendary two-headed serpent. It is capable of wearing two
-pieces of headgear at once and its powerful coils can wind around foes and crush
-them to death, but its cold blood leaves it succeptible to being slowed by cold
-attacks.
+一条玉蛇盘绕着一颗化石蛋。将佩戴者转变为
+amphisbaena - 传说中的双头蛇。它可以同时佩戴两个
+一次性头部装备的碎片及其强大的线圈可以缠绕敌人并粉碎
+它们会被杀死，但其冷血使其很容易因寒冷而减慢速度
+攻击。
 %%%%
-shining gem
+闪亮的宝石
 
-[[gem]]
+[[宝石]]
 
-Many are the treasures of the Ironbound Order, but none older nor more precious
-than this steel-shining gem. The Vaults were first forged to hold it, and none
-who gazed within its depths could fault the choice.
+许多都是铁缚教团的宝藏，但没有更古老或更珍贵的
+比这颗闪闪发光的宝石。避难所最初是为了容纳它而铸造的，但没有一个
+凝视其深处的人可能会对这个选择提出错误。
 %%%%
-shimmering gem
+闪闪发光的宝石
 
-[[gem]]
+[[宝石]]
 
-Unearthly energies gently flow along the surface of this gem, guided by the
-archmage who first built the Elven Halls. Countless generations of elves
-flocked to learn from her, but her foremost pursuit was always the perfection
-of this piece of art.
+超自然的能量在宝石的引导下轻轻地沿着这颗宝石的表面流动。
+第一个建造精灵大厅的大法师。无数代的精灵
+纷纷向她学习，但她最追求的始终是完美
+这件艺术品的。
 %%%%
-shop voucher
+商店优惠券
 
-A coupon good for one item of any price from any store in the dungeon, to be
-used automatically when you would make a purchase that exceeds your funds. How
-generous! No refunds. One coupon per purchase per customer. Offer limited by
-availability. Void if defaced or otherwise altered. Valid only within the
-dungeon of Zot and its subsidiary branches. Additional purchase not required.
+一张优惠券，适用于地牢中任何商店购买的任意价格的一件商品
+当您进行超出您资金的购买时自动使用。如何
+慷慨的！不予退款。每位顾客每次购买可获得一张优惠券。优惠仅限于
+可用性。如果被污损或以其他方式改变，则无效。仅在有效期内有效
+Zot的地下城及其附属分支。需额外购买。
 %%%%
-shortbow
+短弓
 
-A curved piece of wood and string, for shooting arrows.
+一块弯曲的木头和绳子，用于射箭。
 %%%%
-short sword
+短剑
 
-A personal stabbing weapon with a short grip.
+短柄个人刺伤武器。
 %%%%
-smoky gem
+烟熏宝石
 
-[[gem]]
+[[宝石]]
 
-Swirls of dark smoke seem to lurk in the depths of this gem. Countless dark
-deeds were done in the Dungeon even before Zot seized and remade it, and their
-dreadful residue now taints every hint of beauty trapped within its confines.
+黑烟的漩涡似乎潜伏在这颗宝石的深处。无数的黑暗
+甚至在佐特占领并重建地牢之前，他们的行为就已经在地牢中完成了，而他们的
+现在，可怕的残留物玷污了其范围内的每一丝美丽。
 %%%%
-spear
+矛
 
-A hunting weapon consisting of a wooden shaft with a pointed metal head
-fastened on one end.
+一种狩猎武器，由带有尖头金属头的木轴组成
+固定在一端。
 %%%%
-spider talisman
+蜘蛛护身符
 
-A strange charm made from shed arachnid exoskeletons bound together with silk.
-Transforms the wearer into an agile jumping spider who can move swiftly towards
-foes and inflict grievous damage on any it catches unaware. It cannot be
-ensnared by webs, but its attacks can ensnare its enemies in them. It can also
-leap briskly away from many dangers.
+一种奇怪的护身符，由脱落的蜘蛛外骨骼与丝绸粘合在一起制成。
+将佩戴者变成一只敏捷的跳蛛，可以迅速移动到
+敌人并对其不经意发现的敌人造成严重伤害。不可能是
+被网所困，但它的攻击可以将敌人困在其中。还可以
+轻快地逃离许多危险。
 %%%%
-spore talisman
+孢子护身符
 
-A small charm made from a still-living mushroom. Transforms one of the wearer's
-arms and parts of their lower body into a vibrant mass of multicoloured fungus.
-Melee attacks in this form may release spores that weaken their target, as well
-as cause mushrooms to sprout on the ground behind them which will release their
-own bursts of dazing spores if allowed to grow. Shapeshifting skill increases
-the durability of these mushrooms as well as their damage.
+由活蘑菇制成的小饰物。改变佩戴者之一
+他们的手臂和下半身变成了一团充满活力的五彩真菌。
+这种形式的近战攻击也可能会释放削弱目标的孢子
+因为蘑菇会在它们身后的地面上发芽，从而释放它们的
+如果允许其生长，就会产生令人眼花缭乱的孢子。变形技能增加
+这些蘑菇的耐用性及其损害。
 %%%%
-staff of air
+航空人员
 
-A staff that increases the power of air spells cast by its wielder, and
-insulates them from electricity. If the wielder is skilled in Evocations and
-Air Magic, they can shock those struck by it, dealing electrical damage which
-bypasses half of defenders' armour.
+增加持有者施放的空气法术威力的法杖，以及
+使它们与电绝缘。如果持有者精通召唤并且
+空气魔法，它们可以电击那些被它击中的人，造成电击伤害
+绕过防御者一半的装甲。
 %%%%
-staff of alchemy
+炼金术人员
 
-A staff that increases the power of alchemy spells cast by its wielder, and
-protects them from the effects of poison. If the wielder is skilled in
-Evocations and Alchemy, they can envenom those struck by it.
+增加持有者所施放的炼金术法术威力的法杖，以及
+保护他们免受毒物的影响。如果持有者熟练
+召唤和炼金术，它们可以毒害那些被它袭击的人。
 %%%%
-staff of cold
+寒冷的员工
 
-A staff that increases the power of ice spells cast by its wielder, and
-protects them from the effects of cold. If the wielder is skilled in Evocations
-and Ice Magic, they can freeze those struck by it.
+增加持有者施放的冰系法术威力的法杖，以及
+保护他们免受寒冷的影响。如果持有者擅长召唤
+和冰魔法，他们可以冻结被它击中的人。
 %%%%
-staff of conjuration
+召唤法杖
 
-A staff that increases the power of conjurations cast by its wielder. If the
-wielder is skilled in Evocations and Conjurations, they can blast those they
-strike with pure energy.
+增加持有者施展咒语力量的法杖。如果
+持有者擅长召唤和召唤，他们可以炸毁那些他们
+以纯粹的能量进行攻击。
 %%%%
-staff of necromancy
+死灵法杖
 
-A staff that increases the power of necromantic spells cast by its wielder, and
-protects them from negative energy. If the wielder is skilled in Evocations and
-Necromancy, they can inflict great pain on those living souls they strike,
-dealing negative energy damage which bypasses armour.
+增加持有者施放的死灵法术威力的法杖，以及
+保护他们免受负能量的侵害。如果持有者精通召唤并且
+死灵魔法，它们可以给那些被它们击中的活生生的灵魂带来巨大的痛苦，
+造成绕过盔甲的负能量伤害。
 %%%%
-staff of earth
+地球的工作人员
 
-A staff that increases the power of earth spells cast by its wielder. If the
-wielder is skilled in Evocations and Earth magic, they can fracture the ground
-beneath those struck by it, dealing substantial damage - though much less to
-creatures which fly.
+增加持有者所施放的土系法术力量的法杖。如果
+持有者精通召唤和土系魔法，他们可以破坏地面
+在被它击中的人下方，造成大量伤害 - 尽管对
+会飞的生物。
 %%%%
-staff of fire
+消防人员
 
-A staff that increases the power of fire spells cast by its wielder, and
-protects them from the effects of fire. If the wielder is skilled in Evocations
-and Fire Magic, they can burn those struck by it.
+增加持有者施放的火系法术威力的法杖，以及
+保护他们免受火灾的影响。如果持有者擅长召唤
+和火魔法，他们可以烧伤被它击中的人。
 %%%%
-starry gem
+星空宝石
 
-[[gem]]
+[[宝石]]
 
-Odd lights twinkle within the depths of this gem. From what strange stuff is it
-made, and from what distant land did it travel?
+这颗宝石的深处闪烁着奇怪的光芒。到底是什么奇怪的东西
+它是从什么遥远的地方发出来的？
 %%%%
-steam dragon scales
+蒸汽龙鳞
 
-The scales of a steam-breathing dragon. Unlike the scales of some larger
-dragons, it does not provide its wearer with much protection (beyond a
-resistance to scalding steam), but it is extremely light and supple.
+呼吸蒸汽的龙的鳞片。与一些较大的尺度不同
+对于龙来说，它并没有为佩戴者提供太多的保护（除了
+耐烫蒸汽），但它非常轻且柔软。
 %%%%
-stone
+石头
 
-A small chunk of dense but otherwise unremarkable natural mineral. It can be
-thrown to cause minor damage.
+一小块致密但不起眼的天然矿物。它可以是
+抛出造成轻微损坏。
 %%%%
-shadow dragon scales
+影龙鳞片
 
-The scales of a great umbral dragon. It is heavier than most dragon scale
-armours, but its encumbrance does not penalise the wearer's stealth. It also
-grants additional stealth to the wearer.
+巨大影龙的鳞片。它比大多数龙鳞都重
+盔甲，但它的累赘并不会影响佩戴者的隐身能力。它还
+为佩戴者提供额外的隐秘性。
 %%%%
-storm dragon scales
+风暴龙鳞片
 
-The scales of a lightning-breathing dragon. It is heavier than most dragon
-scale armours, and gives its wearer resistance to electrical discharges.
+喷吐闪电的巨龙的鳞片。它比大多数龙重
+鳞甲，并赋予其穿戴者抵抗放电的能力。
 %%%%
-storm talisman
+风暴护身符
 
-Lightning trapped, impossibly, in a bottle. Lets the wearer walk through the air
-as a raging, lightning-filled tempest. The wearer's melee attacks are electrified
-and strike all adjacent foes. The wearer also flies, gains immunity to poison,
-miasma, petrification, constriction, and sticky flame, and also resists
-electricity. They can launch themselves as a lightning bolt, blasting through
-everything in their way.
+闪电不可能被困在瓶子里。让佩戴者在空中行走
+就像一场猛烈的、充满闪电的风暴。佩戴者的近战攻击是带电的
+并攻击所有邻近的敌人。佩戴者还能飞翔，获得对毒物的免疫力，
+瘴气、石化、收缩、粘性火焰，并且还能抵抗
+电。他们可以像闪电一样发射自己，炸穿
+一切都以他们的方式进行。
 %%%%
-swamp dragon scales
+沼泽龙鳞片
 
-The scales of a swamp dragon. It confers resistance to poison on its wearer.
+沼泽龙的鳞片。它赋予佩戴者对毒的抵抗力。
 %%%%
-talisman of death
+死亡护身符
 
-A grey-black vessel, infused with dark power through a sickening ritual.
-Transforms the wearer into an undying offence against life itself.
+一个灰黑色的容器，通过令人作呕的仪式注入了黑暗力量。
+将佩戴者转变为对生命本身的不朽的侵犯。
 
-Foes struck by wearer's melee weapons or hands are weakened, slowed, and drained.
-The wearer can also heal themself by tormenting living foes nearby; Shapeshifting
-skill increases the amount healed. Further, the wearer resists cold, has enhanced
-willpower, and is immune to poison, miasma, negative energy, and torment.
+被佩戴者的近战武器或手击中的敌人会被削弱、减速和耗尽。
+佩戴者还可以通过折磨附近活着的敌人来治愈自己；变形
+技能会增加治疗量。此外，穿着者的抵抗寒冷的能力也得到了增强
+意志力，并且免疫毒、瘴气、负能量和折磨。
 
-The wearer also gains some of the more dubious benefits of having an undead body.
-They are vulnerable to holy damage and Dispel Undead, and cannot consume potions.
+佩戴者还获得了一些不死之身带来的更可疑的好处。
+他们容易受到神圣伤害和驱散不死生物的伤害，并且无法消耗药水。
 %%%%
-there-and-back book
+来回书
 
-A compilation of children's stories about great adventures, always ending with
-the traveller returning to the place they started. The love infused into its
-pages by countless generations has granted it power, allowing a skilled mage to
-transport others by reciting specific passages.
+关于伟大冒险的儿童故事汇编，总是以
+旅行者回到他们出发的地方。将爱注入其中
+无数代人的书页赋予了它力量，让熟练的法师能够
+通过背诵特定的段落来运输他人。
 %%%%
-throwing net
+抛网
 
-A mesh of ropes knotted together with weights around the edge, used to entangle
-and entrap targets. Struggling victims can eventually destroy the net and break
-free, if they live long enough.
+一种绳网，边缘用重物打结在一起，用于缠绕
+并诱捕目标。挣扎的受害者最终可能会毁掉网并打破
+免费，如果他们活得足够长。
 %%%%
-tower shield
+塔盾
 
-A large piece of wood and metal, to be strapped on one arm for defence.
+一大块木头和金属，绑在一只手臂上用于防御。
 %%%%
-tin of tremorstones
+一罐震颤石
 
-A set of dormant, magnetic earth elementals in the form of tiny, very heavy
-pebbles. When released, the elementals are drawn magnetically to the center of
-nearby monsters, where they literally explode with rage at their rest being
-disturbed. Tremorstones usually land slightly off-target, and the user is
-always at risk of being hit. However, armour is extremely effective at
-repelling the lightweight fragments of rock from a tremorstone's explosion, so
-a well-armoured wielder has little to fear. Evocations skill increases the
-number of explosions.
+一组休眠的磁性土元素，其形状微小且非常重
+鹅卵石。释放后，元素会被磁性吸引到中心
+附近的怪物，他们在休息时确实会愤怒地爆炸
+不安。震颤石通常会稍微偏离目标，并且使用者
+随时都有被击中的危险。然而，装甲在以下方面非常有效：
+排斥震石爆炸产生的轻质岩石碎片，所以
+一个全副武装的持有者几乎没有什么可害怕的。召唤技能会增加
+爆炸次数。
 %%%%
-treatise on traps
+陷阱专着
 
-An analytical volume discussing methods and materials with which to construct a
-dizzying array of traps - from those intended to safeguard a pantry from ants to
-ones which would please even the most sadistic dungeon architect.
+讨论构建方法和材料的分析卷
+一系列令人眼花缭乱的陷阱——从那些旨在保护食品储藏室免受蚂蚁侵害的陷阱到
+即使是最残酷的地下城建筑师也会感到高兴。
 %%%%
-trident
+三叉戟
 
-A fishing spear improved with a longer shaft and a three-pronged metal head.
+改进后的鱼矛具有更长的杆和三叉金属头。
 %%%%
-trismegistus codex
+特里斯墨吉斯图斯手抄本
 
-A magical book
-written by a
-numerologically obsessed wizard.
-Everything from sentence
-length to overall
-organization is structured.
-It's unclear whether
-the author thought
-this was helpful.
+一本神奇的书
+由一个写的
+痴迷于数字的巫师。
+一切从句子开始
+长度与总长度之比
+组织是结构化的。
+尚不清楚是否
+作者认为
+这很有帮助。
 %%%%
-triple crossbow
+三重弩
 
-A crossbow with three strings arranged in series to provide exceptional power,
-initially designed as a siege weapon and then scaled down. It takes a
-considerable amount of time to load and fire.
+三根弦串联的弩，可提供非凡的威力，
+最初设计为攻城武器，后来缩小规模。这需要一个
+装载和开火需要相当长的时间。
 %%%%
-triple sword
+三重剑
 
-A formidable weapon created by a master craftsman. The blade of the sword forks
-into three great razor-sharp edges.
+由工匠大师打造的强大武器。剑叉的刀刃
+分成三个锋利的大边缘。
 %%%%
-trishula
+特里舒拉
 
-A blessed trident moulded by cleansing flame, with three points symbolising the
-combined might of the three holy gods. It is a favoured weapon of the Shining
-One's servants.
+由净化火焰塑造而成的受祝福的三叉戟，三叉戟象征着
+三位圣神之力的结合。它是闪灵最喜欢的武器
+一个人的仆人。
 %%%%
-troll leather armour
+巨魔皮甲
 
-The stiff and knobbly skin of a troll. It magically regenerates its wearer's
-flesh, once attuned to the wearer's body at full health.
+巨魔僵硬且多节的皮肤。它可以神奇地恢复佩戴者的生命
+肉体，一旦与完全健康的佩戴者身体协调一致。
 %%%%
-the unrestrained analects
+论语
 
-A collection of spells that assault everything in sight of the caster,
-unrestrained by petty limitations like 'needing a clear shot' or 'concern about
-collateral damage'.
+一系列攻击施法者视线范围内的一切的法术，
+不受诸如“需要清晰的镜头”或“担心”之类的琐碎限制的约束
+附带损害”。
 %%%%
-wand of acid
+酸棒
 
-A magical device which throws bolts of corrosive acid.
+一种能发射腐蚀性酸液的魔法装置。
 %%%%
-wand of charming
+迷人的魔杖
 
-A magical device which causes a creature to become fiercely, but briefly,
-loyal to the user.
+一种魔法装置，可以使生物变得凶猛但短暂，
+忠于用户。
 %%%%
-wand of digging
+挖掘的魔杖
 
-A magical device which drills tunnels through unworked rock.
+一种神奇的装置，可以在未加工的岩石中钻出隧道。
 %%%%
-wand of flame
+火焰之杖
 
-A magical device which throws little puffs of flame.
+一种能喷出小股火焰的魔法装置。
 %%%%
-wand of iceblast
+冰爆魔杖
 
-A magical device which creates a loud explosion of ice shards, bypassing half
-of victims' resistance to cold.
+一种神奇的装置，可以产生巨大的冰碎片爆炸，绕过一半
+考察受害者对寒冷的抵抗力。
 %%%%
-wand of light
+光之杖
 
-A magical device which fires a ray of searing light, injuring and blinding
-those struck. Only living, undead, demonic and angelic monsters can be blinded,
-and tougher monsters will recover their vision more quickly.
+一种魔法装置，能发射一道灼热的光芒，造成伤害和致盲
+那些被击中的人。只有活着的、不死的、恶魔和天使的怪物才能被致盲，
+更强的怪物会更快地恢复视力。
 %%%%
-wand of mindburst
+头脑爆发魔杖
 
-A magical device which launches a psychic attack on a target creature. If it
-overcomes their willpower, it 'blows their mind' in a violently literal fashion,
-dealing damage that bypasses their armour entirely. It is useless against
-mindless creatures.
+对目标生物发动心灵攻击的魔法装置。如果它
+克服了他们的意志力，它以一种猛烈的字面意义上的方式“震撼了他们的思想”，
+造成的伤害完全绕过了他们的护甲。对抗是没有用的
+无意识的生物。
 %%%%
-wand of paralysis
+麻痹魔杖
 
-A magical device which can render a creature immobile, incapable of moving any
-of its limbs.
+一种神奇的装置，可以使生物无法移动，无法移动任何东西
+它的四肢。
 %%%%
-wand of polymorph
+变形魔杖
 
-A magical device which causes a creature to be transmogrified into another
-form. It is especially effective against shape-changing creatures.
+使一个生物变形为另一个生物的魔法装置
+形式。它对变形生物特别有效。
 %%%%
-wand of quicksilver
+水银魔杖
 
-A magical device which fires a beam of destructive energy, dispelling
-enchantments on creatures struck.
+一种魔法装置，可发射一束破坏性能量，驱散
+生物身上的结界受到攻击。
 %%%%
-wand of roots
+根之杖
 
-A magical device which fires a magical seed, entangling its target and adjacent
-foes in quick-growing tree roots. Those entangled will be immobilised and take
-damage over time until they escape or the roots wither away. The roots will only
-sprout from solid ground.
+一种魔法装置，可发射魔法种子，缠绕其目标和邻近的目标
+敌人在快速生长的树根中。那些被缠住的人会被固定住并带走
+随着时间的推移，它们会受到损害，直到它们逃逸或根部枯萎。根只会
+从坚实的土地上发芽。
 %%%%
-wand of warping
+扭曲魔杖
 
-A magical device which creates a brief but violent rift in space, damaging
-everything caught in its wake and sometimes blinking them a short distance away.
+一种魔法装置，可在空间中产生短暂但猛烈的裂痕，造成破坏
+一切都跟随着它的脚步，有时在不远的地方让它们眨眼。
 %%%%
-war axe
+战斧
 
-A military axe with a long haft and a single-bladed head.
+一种长柄单刃头的军用斧头。
 %%%%
-wellspring talisman
+泉水护身符
 
-A small amphora from which pours a seemingly unending quantity of water.
-Transforms the wearer's flesh into elemental water, allowing them to move flexibly
-and reach to attack from a great distance. From time to time, they can even
-cause the water around them to rise up and drown their enemies.
+一个小双耳瓶，从中倒出看似源源不断的水。
+将佩戴者的肉体转化为元素水，使他们能够灵活移动
+并从很远的距离进行攻击。有时，他们甚至可以
+使他们周围的水上升并淹没他们的敌人。
 
-The malleability of this water even allows them to retain the benefits of their
-physical mutations, but cold attacks can freeze it solid and fire may cause it
-to erupt with steam.
+这种水的可塑性甚至使他们能够保留其益处
+物理突变，但寒冷的攻击可以将其冻结成固体，而火可能会导致它
+与蒸汽一起喷发。
 %%%%
-whip
+鞭
 
-A long plaited strip of leather. Originally developed for use in disagreements
-with cattle, this simple weapon is now widely used to settle differences
-between all sorts of creatures.
+一条长的编织皮革条。最初是为了在分歧中使用而开发的
+对于牛来说，这种简单的武器现在被广泛用于解决分歧
+各种生灵之间。
 %%%%
-young poisoner's handbook
+年轻投毒者手册
 
-An introductory book for the magic arts of poison. Readers are recommended to
-wear a pair of very thick, non-absorbent gloves.
+毒魔法的入门书。建议读者
+戴上一双非常厚的、不吸水的手套。
 %%%%

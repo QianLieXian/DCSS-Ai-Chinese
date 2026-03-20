@@ -1,1107 +1,1107 @@
 %%%%
-No ability ability
+没有能力能力
 
-If you get this description, it is a bug.
+如果你得到这个描述，那就是一个错误。
 %%%%
-Spit Poison ability
+吐毒能力
 
-Spits poison at a targeted creature.
+向目标生物吐出毒液。
 %%%%
-Combustion Breath ability
+燃烧呼吸能力
 
-Breathes a blast of volatile embers that explode violently around each creature
-they touch. It is harmless to its user.
+喷出一阵挥发性余烬，在每个生物周围猛烈爆炸
+他们触摸。它对其用户无害。
 %%%%
-Glacial Breath ability
+冰川呼吸能力
 
-Exhales a powerful wave of frost which encases anything it kills in a solid
-block of durable ice.
+呼出一股强大的冰霜波，将它杀死的任何东西包裹在固体中
+耐用的冰块。
 %%%%
-Nullifying Breath ability
+无效呼吸能力
 
-Breathes a large blast of pure antimagic that dispels magical effects from
-every creature it hits and also significantly interferes with their ability to
-cast spells for a while. It is harmless to its user.
+喷出大量纯粹的反魔法，驱散魔法效果
+它击中的每个生物都会严重干扰他们的能力
+施展法术一段时间。它对其用户无害。
 %%%%
-Steam Breath ability
+蒸汽呼吸能力
 
-Breathes a powerful blast of steam, scalding a target and leaving
-sight-obscuring steam clouds in its wake.
+喷出一股强大的蒸汽，灼伤目标并离开
+其尾随的蒸汽云遮蔽了视线。
 %%%%
-Galvanic Breath ability
+电呼吸能力
 
-Exhales a charged burst of electricity that will arc through a target and every
-other creature that is connected to it.
+呼出一股带电爆发，电弧将穿过目标和每个目标
+与它有联系的其他生物。
 %%%%
-Mud Breath ability
+泥浆呼吸能力
 
-Spits an enormous ball of mud that knocks back whatever it hits and drenches the
-surrounding area in a mud slick which impedes enemy movement and causes them to
-sometimes fumble their attacks.
+吐出一个巨大的泥球，将击中的任何东西击退并浸湿
+周围地区的泥浆阻碍了敌人的移动并导致他们
+有时会失败。
 %%%%
-Caustic Breath ability
+腐蚀性呼吸能力
 
-Breathes a spray of concentrated acid which leaves corrosive clouds on any
-unoccupied tiles it passes over and corrodes whatever it hits.
+吸入浓酸喷雾，在任何物体上留下腐蚀性云雾
+它穿过未占据的瓷砖并腐蚀它所碰到的任何东西。
 %%%%
-Noxious Breath ability
+有毒呼吸能力
 
-Breathes a line of noxious vapour which can confuse anything standing in it
-which does not resist poison. At higher levels, the clouds can cover a larger
-area and last longer.
+呼吸出一条有毒蒸气，可以迷惑站在其中的任何物体
+它不抵抗毒药。在更高的高度，云可以覆盖更大的范围
+面积和持续时间更长。
 %%%%
-Breathe Fire ability
+喷火能力
 
-Breathes a blast of fire at a targeted creature.
+向目标生物喷出一阵火焰。
 %%%%
-Breathe Poison Gas ability
+呼吸毒气能力
 
-Breathes a blast of poison gas at a targeted creature.
+向目标生物喷出一阵毒气。
 %%%%
-Invent Gizmo ability
+发明小发明能力
 
-Uses your peerless coglin ingenuity to invent and assemble a one-of-a-kind
-piece of equipment and permanently install it in yourself. Such inspiration
-does not strike twice, so choose wisely.
+利用您无与伦比的科格林聪明才智来发明和组装一件独一无二的东西
+一件设备并将其永久安装在您身上。这样的灵感
+不会击中两次，因此请明智地选择。
 %%%%
-Hurl Damnation ability
+投掷诅咒能力
 
-Blasts a targeted enemy with damnation. These unholy forces harm the victim and
-anyone adjacent, and are not affected by any means of protection, such as armour
-or resistances. However, certain creatures, usually those able to invoke
-damnation themselves, are entirely unscathed by damnation.
+用诅咒轰炸目标敌人。这些邪恶力量伤害受害者并
+任何邻近的人，并且不受任何保护措施（例如装甲）的影响
+或阻力。然而，某些生物，通常是那些能够调用
+诅咒本身，完全没有受到诅咒的伤害。
 %%%%
-Word of Chaos ability
+混沌之语能力
 
-Speaks a word of chaos, forcing enemies nearby to blink away from the user.
-Additionally, those affected may be slowed, ensnared, or terrified by the
-experience. Invoking a word of chaos is no easy feat and will drain the user's
-maximum health somewhat, and the ability then cannot be used again for a short
-time.
+说出混乱之词，迫使附近的敌人眨眼远离使用者。
+此外，那些受影响的人可能会被
+经验。调用一个混乱的词并不是一件容易的事，而且会耗尽用户的精力
+生命值最大，并且该能力短时间内无法再次使用
+时间。
 %%%%
-Heal Wounds ability
+治愈伤口能力
 
-Heals the user significantly, with a chance of permanently reducing the user's
-maximum magic capacity by one.
+显着治愈使用者，并有机会永久降低使用者的生命值
+最大魔法容量增加1。
 %%%%
-Dig ability
+挖掘能力
 
-Allows making tunnels through soft rock and rusted grates. Activating the
-ability has no cost and simply prepares you to start digging; once active,
-moving into a wall will start tunnelling. Doing so makes some noise and drains
-the user's maximum health.
+允许穿过软岩石和生锈的格栅建造隧道。激活
+能力没有成本，只是让你做好开始挖掘的准备；一旦活跃，
+进入墙壁将开始挖掘隧道。这样做会产生一些噪音和排水
+用户的最大健康状况。
 
-Once active, activating the ability again or making any non-digging movement
-action will cancel the Dig status.
+一旦激活，再次激活该能力或进行任何非挖掘动作
+操作将取消挖掘状态。
 %%%%
-Shaft Self ability
+轴自身能力
 
-Sends you to a random position one to three floors down, as if you jumped into
-a shaft trap. It takes some time to dig the shaft.
+将你带到一到三层楼下的随机位置，就好像你跳进去一样
+竖井陷阱。挖竖井需要一些时间。
 %%%%
-Evoke Blink ability
+唤起眨眼能力
 
-Randomly translocates the user a short distance. After translocating in this
-way, the ability cannot be activated again for a short period of time depending
-on Evocations skill.
+随机将用户转移一小段距离。搬迁到这里后
+方式，该能力在短时间内无法再次激活，具体取决于
+关于召唤技能。
 %%%%
-Evoke Berserk Rage ability
+唤起狂暴之怒能力
 
 <Berserk ability>
 %%%%
-Evoke Invisibility ability
+唤起隐形能力
 
-Turns the user invisible for a short period of time.
+使用户在短时间内隐形。
 %%%%
-End Transformation ability
+终结变身能力
 
-Reverts you to your normal form.
+让你恢复正常形态。
 %%%%
-Begin Untransformation ability
+开始不变形能力
 
-Begins to transform you back into your native form. A short period of
-concentration is required.
+开始将你变回你原来的形态。短暂的一段时间
+需要浓度。
 %%%%
-Imbue Servitor ability
+灌输能力
 
-Chooses one of the caster's destructive spells to grant to Spellspark Servitors
-they create in the future, replacing any spell granted to them previously. The
-caster must be capable of casting this spell themselves with a failure rate of
-no more than 20%.
+选择施法者的一种破坏性法术来授予法术火花侍从
+他们在未来创造，取代之前授予他们的任何咒语。这
+施法者必须能够自己施展该法术，失败率为
+不超过20%。
 
-Note: imbuing a spell in this manner will take several turns and also dismiss
-your servitor if it is active.
+注意：以这种方式灌输咒语将需要几个回合并且也会被解除
+您的服务器（如果它处于活动状态）。
 %%%%
-Imprint Weapon ability
+印记武器能力
 
-Analyzes the structural composition of an artefact melee weapon in your
-inventory and imprints it upon your Platinum Paragon spell, allowing it to wield
-a functional replica of it whenever you create one.
+分析您的神器近战武器的结构组成
+库存并将其印在您的白金典范咒语上，使其能够使用
+每当你创建一个它时，它的功能复制品。
 %%%%
-Cacophony ability
+杂音能力
 
-Fully manifests your poltergeist nature, making all the armour you are haunting
-fly out and attack independently of your other actions for a short while - boots
-and scarves and helmets assailing your foes from all directions while a gleeful
-din fills the air.
+充分体现你的恶作剧本性，让所有的盔甲都让你魂牵梦绕
+飞出并在短时间内独立于你的其他行动进行攻击 - 靴子
+围巾和头盔从四面八方攻击你的敌人，同时兴高采烈
+空气中充满了喧嚣。
 
-These items are still tethered to you and cannot be directed more than a short
-distance away, but you do not share any damage they suffer and can freely fire
-through them. Their attacks may inflict a variety of minor maladies on your
-foes - sometimes dazing, draining, or even confusing them.
+这些物品仍然与您绑定，并且只能在很短的时间内进行引导
+距离很远，但你不会分担他们所遭受的任何伤害，并且可以自由射击
+通过他们。他们的攻击可能会给你带来各种小病
+敌人——有时会令他们眼花缭乱、精疲力竭，甚至令人困惑。
 
-After using this ability, you must gain experience points before you can recover
-enough power to use it again.
+使用该能力后，必须获得经验值才能恢复
+有足够的电量再次使用它。
 %%%%
-Bat Swarm ability
+蝙蝠群能力
 
-Scatters your physical form into a swarm of vampire bats, melding your equipment
-but allowing you to move quickly and evasively. The number of bats that issue
-from your body is so immense that it even fills nearby spaces like a choking
-cloud, assailing enemies and gradually putting them to sleep.
+将你的身体分散成一群吸血蝙蝠，融合你的装备
+但允许你快速移动并躲避。发出的蝙蝠数量
+来自你身体的力量是如此巨大，以至于它甚至像窒息一样充满了附近的空间
+云，攻击敌人并逐渐使他们入睡。
 
-After using this ability, you must gain experience points before you can recover
-enough power to use it again. (Shapeshifting skill will increase the rate at
-which this skill recharges.)
+使用该能力后，必须获得经验值才能恢复
+有足够的电量再次使用它。 （变形技能会增加速度
+该技能可以恢复。）
 %%%%
-Enkindle ability
+激发能力
 
-Stokes your ghostly flames to a fever pitch, greatly enhancing your spellcasting
-at the cost of burning away all accumulated memories.
+让你的幽灵火焰达到狂热程度，极大地增强你的施法能力
+以烧掉所有积累的记忆为代价。
 
-While in this state, your damage-dealing spells cost no MP, are unaffected by
-encumbrance, and you receive a bonus to their spell success and power (the
-latter of which increases with your experience level). Any spellclaw attack made
-while Enkindled inflicts bonus damage proportional to the level of spell cast,
-and heals you for a percentage of the damage dealt.
+在这种状态下，你造成伤害的魔法不消耗MP，不受伤害
+负担，并且你会获得他们的法术成功和力量的奖励（
+后者随着您的经验水平而增加）。任何法术爪攻击
+当点燃会造成与施法等级成正比的额外伤害时，
+并治疗你所造成伤害的一定百分比。
 
-Each spell you cast while Enkindled consumes a memory, and the state will end
-once you have no more left (or after a short period of time, regardless).
+点燃时施展的每个法术都会消耗一段记忆，并且该状态将会结束
+一旦你没有剩下的了（或者在很短的一段时间之后，无论如何）。
 
-At your current experience level, you can hold enough memories to cast a maximum
-of {{return 3 + math.floor(you.xl() * 3 / 20);}} spells in a row this way.
+以你目前的经验水平，你可以持有足够的记忆来施放最大的
+{{return 3 + math.floor(you.xl() * 3 / 20);}}以这种方式连续拼写。
 %%%%
-Breathe Rust ability
+呼吸铁锈能力
 
-Exhales a blast of oxidizing vapour that continuously corrodes and weakens the
-attacks of creatures which stand inside it. These clouds are long-lasting, but
-do only minimal damage.
+呼出一股氧化蒸气，持续腐蚀并削弱
+站在其中的生物的攻击。这些云持续时间很长，但是
+只造成最小的损害。
 %%%%
-Golden Breath ability
+黄金呼吸能力
 
-Exhales a powerful blast of elemental devastation, which inflicts both fire and
-cold damage, and leaves clouds of poisonous vapour in its wake.
+呼出一股强大的元素毁灭冲击波，造成火焰和火焰
+寒冷的伤害，并在其尾迹中留下有毒的蒸气云。
 %%%%
-# Zin
-Recite ability
+# 津
+背诵能力
 
-Preaches to nearby monsters about Zin's laws for a short duration. After
-finishing a recitation, it cannot be repeated for a short time.
+短时间内向附近的怪物宣讲辛的法则。后
+念完一次，短时间内不能重复。
 
-The recitation will have different effects depending on the target: the chaotic
-and unclean will be affected by powerful and damaging effects, undead and
-demons will be affected by weaker rebukes, and any other intelligent creatures
-will have confusion sown amongst them, with heretics and priests of gods other
-than Zin being punished much more strongly. The effectiveness of the recitation
-is increased by Invocations skill and piety.
+根据不同的目标，念诵会产生不同的效果：混沌
+不洁者将受到强大和破坏性的影响，不死族和
+恶魔会受到较弱的斥责的影响，而任何其他智慧生物
+将会在他们中间播下混乱的种子，其中包括异教徒和神的祭司
+比津受到的惩罚要毁灭削去。念诵的效果
+通过召唤技能和虔诚而增加。
 %%%%
-Vitalisation ability
+赋活能力
 
-Temporarily provides protection from poison, confusion, petrification, and
-sickness, as well as the effects of clouds of foul pestilence. Your strength,
-intelligence and dexterity are also temporarily increased by a degree dependent
-on Invocations skill.
+暂时提供免受中毒、混乱、石化和伤害的保护
+疾病，以及肮脏瘟疫的影响。你的力量，
+智力和敏捷度也会根据程度暂时增加
+关于召唤技能。
 %%%%
-Imprison ability
+禁锢能力
 
-Temporarily imprisons a monster in walls of silver. The duration of the prison
-is increased by Invocations skill.
+将怪物暂时囚禁在银墙之中。监禁期限
+因召唤技能而增加。
 %%%%
-Sanctuary ability
+圣所能力
 
-Transforms the area around the user into a domain of unbreakable law for a short
-duration. So long as anyone stands within this sanctuary, no harm may be done to
-them by others, and they may do no harm to others in turn.
+在短时间内将用户周围的区域转变为牢不可破的法则领域
+期间。只要有人站在这个庇护所内，就不会受到伤害
+别人伤害他们，他们也不能反过来伤害别人。
 
-Beings with hostile intent are unable to enter a sanctuary and those already
-nearby when it is created will be forced to flee.
+具有敌意意图的生物无法进入庇护所，而那些已经进入庇护所的生物
+当它被创建时附近将被迫逃离。
 %%%%
-Cure All Mutations ability
+治愈所有突变能力
 
-Cures all your mutations — but only once.
+治愈你所有的突变——但只能治愈一次。
 %%%%
-# The Shining One
-Divine Shield ability
+# 光辉之人
+圣盾能力
 
-Manifests a blindingly bright shield in front of the user. Held aloft by the
-Shining One's power, it will unerringly block the next several attacks which
-could be blocked by a mundane shield. Ranged attacks will be reflected and melee
-attackers have a chance of being briefly blinded by the resulting flash of
-light.
+在用户面前显现出耀眼的明亮护盾。被高高举起
+光辉的力量，能够准确无误的挡住接下来的数次攻击。
+可以用普通的盾牌来阻挡。远程攻击和近战攻击都会被反射
+攻击者有机会被由此产生的闪光短暂致盲
+光。
 
-This shield will block only a limited number of attacks before vanishing, with
-Invocations skill increasing how many.
+该护盾在消失之前只能阻挡有限数量的攻击，
+召唤技能增加多少。
 %%%%
-Cleansing Flame ability
+净化火焰能力
 
-Invokes a huge blast of divine fury centered on the user, severely damaging
-undead and demons and dealing damage to all other hostile creatures. The power
-of the blast is increased by Invocations skill.
+引发以使用者为中心的巨大神圣之怒爆炸，造成严重伤害
+不死族和恶魔，并对所有其他敌对生物造成伤害。电源
+召唤技能会增加爆炸的强度。
 %%%%
-Summon Divine Warrior ability
+召唤神武者能力
 
-Summons a powerful warrior against evil, either an angel or a daeva. The
-duration of their assistance is increased by Invocations skill, and glory in
-battle may lead the Shining One to bless them with an even longer stay.
+召唤一位强大的战士对抗邪恶，可以是天使，也可以是恶魔。这
+他们的援助持续时间会因召唤技能和荣耀而增加
+战斗可能会让光辉者祝福他们停留更长时间。
 %%%%
-Brand Weapon With Holy Wrath ability
+具有神圣愤怒能力的品牌武器
 
-Permanently blesses a weapon of your choice with the holy wrath of the Shining
-One. Demon weapons will be converted into a more powerful sacred weapon. This
-blessing may only be used once, and it cannot be used on artefact weapons.
+用闪灵的神圣愤怒永久祝福你选择的武器
+一。恶魔武器将会转化为更强大的神圣武器。这
+祝福只能使用一次，并且不能用于神器武器。
 %%%%
-Unearth Wretches ability
+挖掘可怜虫的能力
 
-Bring forth those near death from Kikubaaqudgha's necropolis, providing ample
-fodder for all kinds of necromancy. Their number and quality is dependent on
-Necromancy skill.
+从Kikubaaqudgha的墓地里出来的那些濒临死亡的人，提供了充足的物资
+各种死灵术的饲料。它们的数量和质量取决于
+亡灵技能。
 %%%%
-Sign of Ruin ability
+毁灭标志能力
 
-[[Sign of Ruin spell]]
+[[毁灭咒语的印记]]
 %%%%
-Brand Weapon With Pain ability
+带有痛苦能力的品牌武器
 
-Permanently bloodies a weapon of your choice with the essence of pain
-itself. This blessing cannot be used on artefact weapons. You must choose
-between this gift or that of knowledge of the most powerful necromantic spells,
-and either gift may only be received once.
+用痛苦的精华永久地沾染你选择的武器
+本身。该祝福不能用于神器武器。你必须选择
+在这份天赋或最强大的死灵法术知识之间，
+并且任一礼物只能收到一次。
 %%%%
-Receive Forbidden Knowledge ability
+获得禁忌知识能力
 
-Grants you knowledge of the most powerful and sinister Necromancy spells:
-Haunt, Borgnjor's Revivification, Infestation, and Death's Door. You must choose
-between this gift or that of branding a weapon with pain, and either gift may
-only be received once.
+让你了解最强大、最险恶的死灵法术：
+闹鬼、博格尼奥尔的复活、感染和死亡之门。你必须选择
+在这个礼物和给武器烙上痛苦烙印的礼物之间，任何一个礼物都可以
+只能收到一次。
 %%%%
-# Yredelemnul
-Recall Undead Harvest ability
+# 伊雷德莱姆努尔
+召回亡灵收割能力
 
-Recalls your undead followers from anywhere in the dungeon to your immediate
-surroundings.
+将你的不死追随者从地牢中的任何地方召回到你的直接
+周围环境。
 %%%%
-Light the Black Torch ability
+点燃黑色火炬能力
 
-Raises the Black Torch aloft and calls upon Yredelemnul to light it aflame,
-marking the beginning of your attempt to conquer the current level of the
-dungeon. Yredelemnul only grants piety for kills made while the torch is lit.
+高举黑色火炬并召唤伊瑞德雷姆努将其点燃，
+标志着你尝试征服当前水平的开始
+地牢。伊雷德莱姆努尔只会对火炬点燃时的击杀给予虔诚。
 
-Those who have earned some of Yredelemnul's favour will be gifted temporary
-undead servants to help begin their conquest, with stronger servants being
-provided to the experienced and especially pious.
+那些赢得了伊瑞德勒姆努一些青睐的人将获得暂时的礼物
+不死仆从帮助他们开始征服，更强大的仆从正在
+提供给经验丰富且特别虔诚的人。
 
-Yredelemnul does not offer second chances - the torch will be extinguished when
-you leave the current floor, and it may only be lit once per floor, ever.
+Yredelemnul 不提供第二次机会 - 火炬将在以下情况下立即：
+当你离开当前楼层时，每层楼可能只会亮起一次。
 %%%%
-Hurl Torchlight ability
+投掷火炬之光能力
 
-Hurls a gout of umbral fire from the Black Torch, which deals irresistible
-damage to living, demonic, and holy beings. The torchlight will also briefly
-empower any of your undead servants caught in its blast, and is harmless to
-those who worship Yredelemnul. The damage is increased by Invocations skill.
+从黑色火炬中投掷出一团暗影火焰，造成不可抗拒的伤害
+对众生、魔众、圣众造成伤害。火炬之光也会短暂地
+赋予任何陷入爆炸的不死仆从力量，并且对
+那些崇拜伊瑞德雷姆努的人。召唤技能会增加伤害。
 
-This ability can be used only while the torch is lit, and only a limited number
-of times on each floor. The number of uses available per floor increases with
-piety, and stoking the Black Torch's flames with a particularly remarkable soul
-by killing a unique named enemy will also provide an additional use.
+该能力只能在火把点燃时使用，并且数量有限
+每层楼的时间。每层楼的可用使用次数随着数量的增加而增加
+虔诚，并以特别非凡的灵魂点燃黑火炬的火焰
+通过杀死一个独特的命名敌人也将提供额外的用途。
 %%%%
-Bind Soul ability
+灵魂束缚能力
 
-Attempts to bind the soul of a living, holy, or demonic being into your eternal
-service. If the targeted monster is slain before it leaves your sight, it will
-return as a bound soul, retaining the equipment, spells and abilities it had in
-life.
+试图将活生生的、神圣的或恶魔的灵魂束缚到你的永恒之中
+服务。如果目标怪物在离开你的视线之前被杀死，它会
+作为被束缚的灵魂回归，保留其所拥有的装备、法术和能力
+生活。
 
-Only beings who are relatively uninjured may be targeted, and the focus required
-to keep their soul from escaping will consume 1/3 of the user's current health -
-returning it only upon slaying them. The attempt will fail entirely if the
-targeted monster leaves your sight before the process is complete.
+只有相对未受伤的生物才可能成为目标，并且需要集中注意力
+为了阻止他们的灵魂逃脱将会消耗使用者当前生命值的1/3 -
+只有杀死他们后才能归还。如果以下情况，尝试将完全失败
+目标怪物在该过程完成之前离开你的视线。
 
-The bound soul's health is influenced by the user's Invocations skill. It will
-follow its captor through stairs, and can be recalled from other levels.
+被束缚的灵魂的健康状况受到用户的召唤技能的影响。它会
+跟随捕获者穿过楼梯，并且可以从其他级别召回。
 
-Only one soul can be bound at a time.
+一次只能束缚一个灵魂。
 %%%%
-Fathomless Shackles ability
+深不可测的枷锁能力
 
-Engulfs the user's surroundings in Yredelemnul's inexorable grip. So long as you
-remain within this profane sanctuary, all hostile creatures that share it with
-you will be bound in place, and their life force will be continuously drained to
-restore your own. Victims who are isolated from their allies will take damage at
-a greatly increased rate.
+将使用者的周围环境吞没在伊雷德莱姆努无情的掌控之中。只要你
+所有与它共享的敌对生物都留在这个亵渎的庇护所内
+你将被束缚在原地，而他们的生命力将不断被抽干
+恢复你自己的。与盟友隔离的受害者将受到以下伤害：
+率大大提高。
 
-The affected area will shrink over time, and a new one cannot be created until
-the old one has fully expired.
+受影响的区域会随着时间的推移而缩小，直到新的区域无法创建
+旧的已经完全过期了。
 %%%%
-# Okawaru
-Heroism ability
+#大川流
+英雄主义能力
 
-Temporarily increases all of your combat skills, both offensive and defensive.
-The duration is increased by Invocations skill.
+暂时提高你所有的战斗技能，包括进攻和防守。
+持续时间因召唤技能而增加。
 %%%%
-Finesse ability
+技巧能力
 
-Greatly increases your combat speed. The duration is increased by Invocations
-skill.
+大大提高你的战斗速度。持续时间因调用次数而增加
+技能。
 %%%%
-Duel ability
+决斗能力
 
-Enters you into single combat with a worthy foe. On success, you and the
-challenged foe will be transported to Okawaru's Arena to fight to the death,
-with no escape until you either emerge victorious or are slain.
+让你与强大的敌人进行单打独斗。论成功，你和
+挑战的敌人将被传送到大川流的竞技场进行殊死搏斗，
+除非你取得胜利或被杀，否则你将无法逃脱。
 
-Half of your missing health will be restored as the duel begins, and upon
-victory, Okawaru will return your health and magical power to whatever they
-were before you issued the challenge - letting you shake off any damage taken
-during it in the blink of an eye.
+决斗开始时，你缺失的生命值将恢复一半
+胜利后，大川流将把你的生命值和魔力恢复到任何他们想要的状态。
+在你发出挑战之前 - 让你摆脱所受的任何伤害
+其间眨眼间。
 %%%%
-Receive Weapon ability
+接收武器能力
 
-Acquires a weapon from a choice of four. This blessing may only be redeemed
-once.
+从四种武器中选择一种获得武器。此福气只能兑换
+一次。
 %%%%
-Receive Armour ability
+接收护甲能力
 
-Acquires a piece of armour from a choice of four. This blessing may only be
-redeemed once.
+从四件盔甲中选择一件获得一件。这种祝福或许只能是
+赎回一次。
 %%%%
-# Makhleb
-Unleash Destruction ability
+#马克勒布
+释放破坏能力
 
-Channels a blast of hellish {{
-    if you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "piercing fire, lava (from Gehenna's influence), lightning, or negative energy"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "piercing ice (from Cocytus' influence), cold, lightning, or negative energy"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "piercing fire, cold, devastation (from Tartarus' influence), or negative energy"
-    elseif you.get_base_mutation_level("Dis destruction") == 1 then
-        return "piercing fire, cold, lightning, acid, or metal splinters (the last two from Dis' influence)"
-    else
-        return "fire, cold, lightning, or negative energy"
-    end
-}} at a targeted creature. Damage and accuracy are increased by Invocations
-skill.
+引导一股地狱般的气流{{
+如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
+        返回“刺骨的火焰、熔岩（来自地狱的影响）、闪电或负能量”
+elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
+        返回“刺穿的冰（来自科塞特斯的影响）、寒冷、闪电或负能量”
+elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
+        返回“刺骨的火焰、寒冷、毁灭（来自塔耳塔洛斯的影响）或负能量”
+elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
+        返回“刺骨的火焰、寒冷、闪电、酸液或金属碎片（最后两个来自迪斯的影响）”
+    别的
+        返回“火、冷、闪电或负能量”
+    结尾
+}} 针对目标生物。伤害和准确度通过调用而增加
+技能。
 %%%%
-Infernal Servant ability
+地狱仆从能力
 
-Beckons a demon from the far reaches of Hell and binds it into service with your
-blood. At low Invocations skill, only lesser devils may be summoned, but major
-demons and even executioners may answer the call of those with high Invocations
-skill.
+从地狱深处召唤一个恶魔，并让它为你服务
+血。在较低的召唤技能下，只能召唤较小的恶魔，但主要的恶魔
+恶魔甚至刽子手可能会响应高召唤者的召唤
+技能。
 
-Beware that the armies of chaos are prone to infighting, and sometimes a
-hostile demon may answer the ritual alongside your summoned servant.
+请注意，混乱的军队很容易发生内讧，有时甚至会发生内讧。
+敌对恶魔可能会与你召唤的仆人一起响应仪式。
 %%%%
-Brand Self ability
+品牌自我能力
 
-Permanently carves an Infernal Mark into yourself, forever tainting body and
-soul in service of the Destroyer.
+在自己身上永久刻下地狱印记，永远污染身体和
+灵魂为毁灭者服务。
 
-So long as you continue to worship Makhleb, this mark will grant you the
-following power:
+只要你继续崇拜马克勒布，这个标记就会赋予你
+以下功率：
 
 %%%%
-Infernal Legion ability
+地狱军团能力
 
-Uses one's own body as a conduit to unleash an army of chaos upon the world.
-For a short while, lesser demons will continuously manifest near the user -
-provided there is something around for them to fight. While these demons may
-be individually short-lived, the legions of chaos as a whole are virtually
-inexhaustible.
+使用自己的身体作为渠道，向世界释放混乱的军队。
+短时间内，低等恶魔会持续出现在使用者附近——
+前提是周围有东西可以让他们战斗。虽然这些恶魔可能
+个别的混乱军团作为一个整体是短暂的，实际上是
+取之不尽、用之不竭。
 %%%%
-Globe of Annihilation ability
+毁灭之球能力
 
-Launches a roiling sphere of intense destructive force drawn from the {{
-    if you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "endless fires of Gehenna."
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "frigid wastes of Cocytus."
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "wailing grief of Tartarus."
-    elseif you.get_base_mutation_level("Dis destruction") == 1 then
-        return "ruthless spite of Dis."
-    else
-        return "very Hells themselves."
-    end
+发射一个由 {{
+如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
+        返回“无尽的地狱之火”。
+elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
+        返回“科塞特斯的寒冷废土”。
+elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
+        返回“塔尔塔罗斯的哀嚎”。
+elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
+        返回“无情的迪斯”。
+    别的
+        返回“非常地狱本身”。
+    结尾
 }}
 
-This sphere gathers strength as it travels, and will attempt to home in on a
-designated target, though it moves and turns with considerable inertia. When it
-collides with a creature or other obstruction, it will detonate in a violent
-explosion of {{
-    if you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "fire or lava"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "cold or ice"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "negative energy or devastation"
-    elseif you.get_base_mutation_level("Dis destruction") == 1 then
-        return "acid or metal splinters"
-    else
-        return "hellish energy"
-    end
-}} whose radius depends on the distance travelled.
+这个球体在行进时会聚集力量，并会尝试追踪
+指定的目标，尽管它的移动和转动具有相当大的惯性。当它
+与生物或其他障碍物碰撞，它会剧烈爆炸
+爆炸{{
+如果 you.get_base_mutation_level("Gehenna 毁灭") == 1 现在
+        返回“火或熔岩”
+elseif you.get_base_mutation_level("Cocytus 破坏") == 1 then
+        返回“冷或冰”
+elseif you.get_base_mutation_level("塔尔塔洛斯毁灭") == 1 then
+        返回“负能量或破坏”
+elseif you.get_base_mutation_level("Dis 破坏") == 1 现在
+        返回“酸或金属碎片”
+    别的
+        返回“地狱能量”
+    结尾
+}} 其半径取决于行进的距离。
 
-You are protected from this explosion yourself.
+你自己就受到了保护，免受这次爆炸的影响。
 %%%%
-Vessel of Slaughter ability
+屠宰之船能力
 
-Invokes a blood pact with the Destroyer, temporarily granting you enormous power
-at a dangerous price.
+与毁灭者签订血契，暂时赋予你巨大的力量
+以危险的价格。
 
-At the moment the pact is sealed, a massive explosion of damnation will surround
-you, and you will transform into a demonic avatar, granting you demonic
-resistances, invulnerable will, doubled healing from kills, and reducing all
-damage you take by 1/3. You will additionally gain a bonus to all outgoing
-damage proportional to how injured you were when you used this ability.
+契约签订的那一刻，巨大的诅咒爆炸将围绕
+你，就会化身为恶魔分身，赋予你恶魔般的力量
+抵抗力、坚不可摧的意志、击杀后的双倍治疗效果以及减少所有伤害
+你受到的伤害减少 1/3。您还将额外获得所有外出的奖金
+伤害与你使用此能力时受到的伤害成正比。
 
-When your transformation expires, you will be dragged down into the Crucible of
-Flesh, and made to fight through waves of demons until Makhleb considers your
-debt paid.
+当你的转变期满时，你将被拖入熔炉。
+血肉，并被用来与一波又一波的恶魔战斗，直到马克勒布考虑你的
+债务已清。
 %%%%
-# Sif Muna
+#西芙·穆纳
 %%%%
-Channel Magic ability
+通道魔法能力
 
-Dramatically increases the user's regeneration of magical power for a duration
-that increases with Invocations skill.
+在一段时间内大幅增加使用者的魔力恢复能力
+随着召唤技能的增加而增加。
 %%%%
-Forget Spell ability
+忘记法术能力
 
-Removes a known spell from memory, so as to free memory to learn others.
+从记忆中删除已知的咒语，以便释放记忆来学习其他咒语。
 %%%%
-Divine Exegesis ability
+神解经能力
 
-Casts any spell from your spell library with guaranteed success. You receive a
-bonus to spell power based on your Invocations skill that is worth 50% more
-than equivalent levels of training in the relevant skills of the spell itself.
+施展法术库中的任何法术，保证成功。您收到一个
+基于你的召唤技能的法术强度加成值增加 50%
+高于法术本身相关技能的同等水平的训练。
 %%%%
-# Trog
-Berserk ability
+# 穴居人
+狂暴能力
 
-Sends the user into a berserk rage. Going berserk temporarily increases health,
-speed, and damage dealt in melee. It will time out quickly outside of combat,
-but may be extended by multiple kills. While berserk, almost all actions other
-than movement and melee combat are prevented. When the rage expires, the user
-will be slowed and unable to berserk again for a short time.
+让用户陷入狂暴之中。狂暴会暂时增加生命值，
+速度和近战造成的伤害。在战斗之外它会很快超时，
+但可能会因多次击杀而延长。狂暴的时候，几乎所有的动作都是其他的
+而不是移动和近战被阻止。当怒气结束时，用户
+会被减速，短时间内无法再次狂暴。
 %%%%
-Trog's Hand ability
+穴居人之手能力
 
-Invokes a powerful regeneration ability which stacks with all other sources and
-is effective even on those who would not otherwise be able to regenerate. It
-also fortifies the user's willpower, protecting against many magical effects.
+调用强大的再生能力，可与所有其他来源叠加
+即使对于那些原本无法再生的人也有效。它
+还可以增强使用者的意志力，抵御许多魔法效果。
 %%%%
-Brothers in Arms ability
+战火兄弟能力
 
-Summons huge angry allies to wreak havoc.
+召唤巨大的愤怒盟友来造成严重破坏。
 %%%%
-# Elyvilon
-Purification ability
+#艾利维隆
+净化能力
 
-Purges your body of poison, confusion, slowness, petrification, weakness, and
-sickness. Any drained maximum health will also be fully restored.
+清除你体内的毒素、混乱、迟缓、石化、虚弱和
+疾病。任何耗尽的最大生命值也将完全恢复。
 %%%%
-Heal Other ability
+治愈其他能力
 
-Heals a creature other than yourself by a moderate amount, depending on
-Invocations skill. Using this ability on hostile monsters will try to turn them
-neutral. This works best on living creatures, with the undead and demons being
-progressively harder to pacify. Intelligent creatures are also more difficult
-to pacify.
+治疗除你自己以外的生物，治疗量适中，具体取决于
+召唤技能。对敌对怪物使用此能力会尝试将它们转变
+中性的。这对生物最有效，不死生物和恶魔是
+越来越难以平息。智慧生物也更难
+安抚。
 
-Ghosts of dead adventurers and demon lords are too wrathful to be pacified,
-mindless creatures are too unintelligent to be pacified, and no monster can be
-pacified while it is asleep.
+死去的冒险者和恶魔领主的鬼魂太过愤怒而无法平息，
+没有头脑的生物太不聪明，无法被安抚，也没有怪物可以被安抚。
+当它睡着时得到安抚。
 
-Whether the pacification succeeds or not, the invested piety and magic points
-are lost. If it does succeed, the monster is healed and you gain the monster's
-full experience value. Otherwise, the monster is unaffected and you gain
-nothing.
+无论平定成功与否，投入的虔诚值和魔力值
+都迷失了。如果成功，怪物就会被治愈，并且你会获得怪物的力量
+满经验值。否则，怪物不受影响并且你获得
+没有什么。
 %%%%
-Heal Self ability
+自我治愈能力
 
-Heals a moderate amount of health, depending on Invocations skill.
+根据召唤技能治愈一定量的生命值。
 %%%%
-Divine Vigour ability
+神力能力
 
-Greatly increases your maximum health and magic points, depending on
-Invocations skill. Your current health and magic points will also be increased
-proportionally.
+大大增加你的最大生命值和魔法点，具体取决于
+召唤技能。你当前的生命值和魔法值也会增加
+按比例。
 %%%%
-# Lugonu
-Depart the Abyss ability
+#卢戈努
+离开深渊能力
 
-Transports you out of the Abyss, returning you to the location from which you
-entered it.
+将你带出深渊，带你回到你出发的地方
+进入其中。
 %%%%
-Banish ability
+驱逐能力
 
-Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain
-some piety and the creature's full experience value. Even creatures that resist
-are left malmutated and weakened by the brush with the Abyss. Invocations skill
-makes Banishment harder to resist.
+试图将生物放逐到深渊。如果尝试成功，您将获得
+一些虔诚和该生物的全部经验值。即使是反抗的生物
+因与深渊的接触而导致变异和削弱。召唤技能
+使放逐变得更难以抵抗。
 %%%%
-Corrupt ability
+腐败能力
 
-Corrupts the current level by unleashing Abyssal energies on it. This will
-cause the area nearby to change appearance, and will gate in creatures from the
-Abyss bent on causing destruction. This will not work on levels already
-corrupted or in the Abyss itself. The size of the effect is increased by
-Invocations skill.
+通过释放深渊能量来腐蚀当前等级。这将
+导致附近区域的外观发生变化，并且会进入来自该区域的生物
+深渊一心要造成毁灭。这不适用于已经存在的关卡
+已腐化或在深渊本身。效果的大小增加了
+召唤技能。
 %%%%
-Enter the Abyss ability
+进入深渊能力
 
-Transports you to Lugonu's realm instantly. The effort of even using the
-ability will leave your health depleted.
+立即将您传送到卢戈努的王国。甚至使用的努力
+能力将使您的健康耗尽。
 %%%%
-Brand Weapon With Distortion ability
+具有扭曲能力的品牌武器
 
-Permanently corrupts a melee weapon of your choice with a localised field of
-distortion. This blessing may only be used once, and it cannot be used on
-artefact weapons.
+使用局部区域永久腐蚀您选择的近战武器
+失真。该祝福只能使用一次，并且不能用于
+人工制品武器。
 %%%%
-# Nemelex Xobeh
-Draw ability
+# 内梅莱克斯·索贝
+绘图能力
 
-Draws a card from a deck of power.
+从一副力量牌中抽一张牌。
 %%%%
-Triple Draw ability
+三重抽奖能力
 
-Draws three cards from any deck, and allows you to choose one to play,
-discarding the other two.
+从任意牌组中抽取三张牌，并允许您选择一张来玩，
+丢弃另外两个。
 %%%%
-Deal Four ability
+交易四能力
 
-Plays four cards from a deck in the time it normally takes to draw a
-single card.
+在通常抽牌所需的时间内打出一副牌中的四张牌
+单卡。
 %%%%
-Stack Five ability
+堆栈五能力
 
-Draws five cards from your choice of decks, and allows you to sort them into
-any order. Subsequently, you can draw these cards in the order you chose.
-Re-using this ability will discard the current stack.
+从您选择的牌组中抽取五张牌，并允许您将它们分类
+任何订单。随后，您可以按照您选择的顺序抽出这些卡片。
+重新使用此能力将丢弃当前堆栈。
 %%%%
-# Beogh
-Smiting ability
+# 贝奥
+重击能力
 
-[[Smiting spell]] The strength of the smiting is increased by Invocations skill.
+[[重击法术]] 重击的强度会因召唤技能而增加。
 
-Beogh will not allow you to use this directly against another apostle during a
-divine trial.
+Beogh不会允许你在战斗中直接使用这个来基督教的第三位使徒。
+神圣的审判。
 %%%%
-Recall Apostles ability
+召回使徒能力
 
-Recalls your apostles from anywhere in the dungeon to your immediate
-surroundings.
+将您的使徒从地牢中的任何地方召回到您的直接位置
+周围环境。
 %%%%
-Dismiss Apostle ability
+解除使徒能力
 
-Frees this apostle from your service, sending them out to do good in the world
-in Beogh's name.
+将这位使徒从你的服务中解放出来，派他们出去在世界上行善
+以贝奥的名义。
 %%%%
-Recruit Apostle ability
+招募使徒能力
 
-Anoints a defeated apostle, and welcomes them as a permanent follower. They will
-follow you between floors and into any peril, willingly giving their life for
-the cause and their kin.
+膏抹一名失败的使徒，并欢迎他们成为永久的追随者。他们会
+跟随你穿梭于楼层之间，进入任何危险，甘愿为之献出生命
+事业和他们的亲属。
 
-If they die, Beogh will eventually revive them once you gain sufficient piety -
-this process can be greatly accelerated by satisfying Beogh with the slaying of
-all foes who may have contributed to their apostle's death.
+如果他们死了，一旦你获得足够的虔诚，贝奥最终会让他们复活——
+通过杀死 Beogh 来满足 Beogh 的要求，可以极大地加速这个过程
+所有可能导致使徒死亡的敌人。
 
-You can have at most 3 followers accompanying you at a time, though you may
-freely dismiss old ones to invite new ones.
+您一次最多可以有 3 位追随者陪伴您，但您可以
+随意辞旧迎新。
 %%%%
-Blood for Blood ability
+以血还血的能力
 
-Beseeches Beogh to grant you an army with which to wreak bloody retribution.
-The user will be immediately surrounded by orcish allies, with more of them
-arriving over time from all directions. The prayer lasts a considerable
-length of time, but will expire far more rapidly once there are no more foes in
-sight.
+恳求贝奥赐予你一支军队来进行血腥的报复。
+用户将立即被兽人盟友包围，而且数量会更多
+随着时间的推移从各个方向到达。祈祷持续相当长的时间
+时间长度，但一旦没有更多的敌人，就会更快地消失
+视线。
 
-Usable only while you are standing over the corpse of one of your apostles, and
-at most once per death.
+仅当你站在一位使徒的尸体旁时可用，并且
+每次死亡最多一次。
 %%%%
-# Fedhas
-Wall of Briars ability
+# 费哈斯
+荆棘墙能力
 
-Grows short-lived briar patches around you. Monsters attacking these briars will
-be damaged by sharp thorns. Invocations skill increases the briars' health.
+在你周围长出短暂的石南斑块。攻击这些荆棘的怪物会
+被尖锐的荆棘损坏。召唤技能可以增加荆棘的生命值。
 %%%%
-Grow Ballistomycete ability
+提高弹道菌能力
 
-Grows a short-lived ballistomycete at the location you choose. A ballistomycete
-occasionally releases spores that quickly seek out foes and violently explode,
-damaging and confusing all living things caught in the blast.
+在您选择的位置生长短命的弹道菌。弹道菌纲
+偶尔会释放孢子，迅速寻找敌人并剧烈爆炸，
+破坏并扰乱爆炸中的所有生物。
 
-Invocations skill increases the health and duration of the ballistomycete as
-well as the damage of its exploding spores.
+调用技能会增加弹道菌的生命值和持续时间
+以及其爆炸孢子的损害。
 %%%%
-Overgrow ability
+过度生长能力
 
-Permanently destroys a wall-like structure, growing a short-lived plant ally in
-its place. Even a tree will give its life to support the will of Fedhas, and
-only truly indestructible walls are immune to this power.
+永久破坏墙状结构，在其中生长短命的植物盟友
+它的位置。即使是一棵树染色体献出生命来支持Fedhas的意志，并且
+只有真正坚不可摧的墙壁才能免受这种力量的影响。
 %%%%
-Grow Oklob ability
+增强Oklob能力
 
-Grows a short-lived oklob plant at the location you choose. These dangerous
-plants spray corrosive vitriol at your foes.
+在您选择的种植方式中，种植会带来oklob植物。这些危险的
+植物向敌人喷洒腐蚀性硫酸。
 
-Invocations skill increases the health and duration of the oklob as well as the
-frequency with which it sprays its acid.
+调用技能可以增加 oklob 的生命值和持续时间以及
+喷洒酸的频率。
 %%%%
-# Cheibriados
-Bend Time ability
+# 切布里亚多斯
+弯曲时间能力
 
-Attempts to slow down everyone adjacent to you. High Invocations skill makes it
-harder to resist.
+试图减慢与您相邻的每个人的速度。高召唤技能使其成为可能
+更难以抗拒。
 %%%%
-Temporal Distortion ability
+时间扭曲能力
 
-Warps the flow of time, causing monsters to skip forwards in time relative to
-you.
+扭曲时间的流动，导致怪物在时间上向前跳跃
+你。
 %%%%
-Slouch ability
+懒散的能力
 
-Causes damage to everyone in sight who is moving faster than you, dealing more
-damage with greater differences in speed.
+对视野中移动速度比你快的每个人造成伤害，造成更多伤害
+速度差异较大时造成的伤害。
 %%%%
-Step From Time ability
+脱离时间能力
 
-Removes you completely from the flow of time. Time will pass as it usually does,
-and monsters will wander away and sometimes even fall back to sleep. After some
-time has passed, you will return in the same state as the very second you
-departed.
+让你完全脱离时间的流逝。时间会像往常一样流逝
+怪物会走开，有时甚至会重新入睡。经过一些
+时间过去了，你会回到第二次的状态
+离开了。
 
-Invocations skill increases the likelihood that your absence will have been so
-long that alert monsters have fallen asleep again.
+召唤技能会增加你缺席的可能性
+很久以前，那些警觉的怪物们已经再次沉睡了。
 %%%%
-# Jiyva
-Slimify ability
+#吉瓦
+精简能力
 
-Coats a wielded weapon or your fists with slime, turning the next living or
-corporeal undead monster hit into a neutral slime.
+在挥舞的武器或拳头上涂上粘液，使下一个活人或
+有形不死怪物撞入中性粘液中。
 %%%%
-Oozemancy ability
+渗水能力
 
-Calls forth acidic ooze from the walls of the dungeon around you, damaging foes
-depending on the number of slimy walls they remain adjacent to.
+从你周围的地牢墙壁中召唤出酸性软泥，对敌人造成伤害
+取决于它们相邻的粘糊糊的墙壁的数量。
 %%%%
-# Ashenzari
-Curse Item ability
+#阿什扎里
+诅咒物品能力
 
-Curses a chosen equipped item, binding it to the wearer until the curse
-and the item both are broken. Cursed items can no longer be enchanted or
-modified.
+诅咒选定的装备物品，将其绑定到佩戴者身上，直到诅咒发生
+并且该物品均已损坏。被诅咒的物品不能再被附魔或
+修改的。
 %%%%
-Shatter The Chains ability
+粉碎锁链能力
 
-Destroys a chosen cursed equipped item, relieving the wearer of the curse.
+摧毁选定的被诅咒的装备物品，解除佩戴者的诅咒。
 %%%%
-# Dithmenos
-Shadowslip ability
+# 狄斯美诺斯
+影移能力
 
-Instantly swaps places with your shadow (so long as it is active) and misleads
-all enemies in sight about which of the two is which. Enemies which were
-previously focused on you will instead focus their attention exclusively upon
-your shadow for several turns before they realise their mistake - though if they
-succeed in destroying your shadow, the illusion will end prematurely.
+立即与你的影子交换位置（只要它处于活动状态）并误导
+所有敌人都看到了这两个人中的哪一个。曾经的敌人
+以前只关注你，现在他们的注意力会完全集中在
+你的影子在他们意识到自己的错误之前转了好几圈——尽管如果他们
+成功摧毁你的影子，幻境就会提前结束。
 
-The duration of this effect increases with Invocations skill, as will the
-durability of your shadow immediately after using it.
+此效果的持续时间随着召唤技能的增加而增加，
+使用后立即保持阴影的耐用性。
 %%%%
-Aphotic Marionette ability
+无光傀儡能力
 
-Grabs hold of another creature's shadow and rapidly unleashes their spells and
-abilities as if they were your own, aimed at random enemies. Creatures they
-summon this way will belong to you, and many beneficial effects that they would
-apply to themselves will be applied to you instead. You are also fully protected
-from any damage they would cause.
+抓住另一个生物的影子并迅速释放他们的法术
+就好像它们是你自己的能力一样，针对随机的敌人。生物他们
+通过这种方式召唤将属于你，并且他们会带来许多有益的效果
+适用于他们自己的也会适用于你。您也受到充分保护
+免受它们造成的任何损害。
 
-Can only be used on creatures with eligible spells that they could productively
-cast at the moment. The process also leaves the victim's shadow too dim to grasp
-a second time - once used successfully on a target, it may never be used on them
-again.
+只能用于具有合格法术并且可以有效地施展的生物
+此刻施展。这个过程也让受害者的影子变得太暗而难以捕捉
+第二次 - 一旦在目标上成功使用，它可能永远不会在他们身上使用
+再次。
 
-(Not all spells can be cast via this method; those which cannot will be marked
-with an exclamation mark when examined.)
+（并非所有法术都可以通过此方法施展；那些不能施展的法术将被标记
+检查时带有感叹号。）
 %%%%
-Primordial Nightfall ability
+原始黄昏能力
 
-Invokes a night from before the stars first burned in the sky, engulfing your
-surroundings in impenetrable darkness. The user's sight radius will be reduced
-to nothing, preventing enemies from tracking or aiming abilities at you, and
-slowly expand back to normal over the duration of the effect. Your stealth will
-also be increased.
+唤起星星第一次在天空中燃烧、吞没你之前的一个夜晚
+周围是无法穿透的黑暗。用户的视线半径将会缩小
+化为乌有，防止敌人跟踪或瞄准你的能力，并且
+在效果持续期间慢慢恢复正常。你的隐身将
+也可增加。
 
-It cannot be invoked again until its effect has fully ended, as even the very
-first night of creation must eventually give way to day.
+在其效果完全结束之前，无法再次调用它，因为即使是最
+创造的第一个夜晚最终必须让位于白天。
 
-Invocations skill increases the duration of the effect.
+召唤技能会增加效果的持续时间。
 %%%%
-# Gozag
-Potion Petition ability
+# 戈扎格
+药水祈求能力
 
-Petitions Gozag to sell you the effects of a set of potions. (These effects will
-be applied instantly and directly to the petitioner, rather than being provided
-or being drunk as a normal potion.) Gozag will offer three lists at a time, with
-varying prices.
+请求戈扎格向你出售一套药剂的效果。 （这些影响将
+立即直接应用于申请人，而不是提供
+或像普通药水一样修复。）Gozag将一次提供三个列表，其中
+不同的价格。
 %%%%
-Call Merchant ability
+呼叫商家能力
 
-Sends funds to a merchant to help them set up shop at your location. The cost of
-funding a shop increases with the number of shops funded.
+向商家发送资金，帮助他们在您所在的位置开店。费用为
+为商店提供的资金随着资助的商店数量的增加而增加。
 %%%%
-Bribe Branch ability
+贿赂分支机构能力
 
-Gives 3000 gold to Gozag to spread throughout the inhabitants of the current
-branch, only possible if the branch has intelligent inhabitants. Those monsters
-may then become uninterested in fighting you (with tougher inhabitants having
-an increasing chance of being bribed), and more rarely will join your ranks,
-though they will not leave their home branch. Enemies accepting a bribe will
-lower the remaining bribe fund; upon its exhaustion, bribed enemies will become
-indifferent if they have not become your allies.
+给予Gozag 3000金币，让其散布到当前的居民中
+分支，只有当分支有聪明的居民时才有可能。那些怪物
+然后可能会对与你战斗变得不感兴趣（更强硬的居民有
+被贿赂的机会越来越大），并且很少会加入你的行列，
+尽管他们不会离开自己的家乡。敌人会接受贿赂
+减少剩余的贿赂资金；一旦耗尽，受贿的敌人就会变成
+如果他们没有成为你的盟友则无所谓。
 %%%%
-# Qazlal
-Upheaval ability
+#卡兹拉尔
+剧变能力
 
-Calls on the forces of nature to blast a small area with magma, ice, wind,
-or rubble. This blast will never harm you or any elementals manifested by you.
-Invocations skill increases both damage and area affected.
+呼吁自然力量用岩浆、冰、风来炸毁一小片区域，
+或瓦砾。这种爆炸永远不会伤害你或你所显现的任何元素。
+召唤技能会增加伤害和影响范围。
 %%%%
-Elemental Force ability
+元素之力能力
 
-Causes your elemental clouds to coalesce into friendly elementals. Your
-Invocations skill increases the maximum number of elementals that can be
-created with one use of the ability.
+使你的元素云凝聚成友好的元素。你的
+召唤技能增加了可以召唤的元素的最大数量
+使用一种能力创建的。
 %%%%
-Disaster Area ability
+灾区能力
 
-Blasts the entire area around you with powerful natural forces. Invocations
-skill increases both damage and area affected.
+用强大的自然力量炸毁你周围的整个区域。祈求
+技能会增加伤害和影响范围。
 %%%%
-# Ru
-Draw Out Power ability
+#茹
+抽出功率能力
 
-Taps into your inner power to restore health and magic, as well as freeing your
-body and mind from external constraints, including nets, webs, constriction,
-petrification, slowness, and confusion. The amount of health and magic restored
-increases with piety.
+挖掘你的内在力量来恢复健康和魔法，并释放你的
+身体和心灵免受外部约束，包括网、网、束缚、
+石化、缓慢和混乱。恢复的生命值和魔法值
+随着虔诚而增加。
 %%%%
-Power Leap ability
+动力跳跃能力
 
-Performs an incredibly fast leap to a targeted location, causing an explosion
-upon landing which damages all adjacent foes. The amount of damage done
-increases with your piety and experience level.
+以令人难以置信的速度跳跃到目标位置，引起爆炸
+着陆时会伤害所有邻近的敌人。造成的伤害量
+随着你的虔诚和经验水平而增加。
 %%%%
-Apocalypse ability
+天启能力
 
-Reveals Ru's truth to your enemies, dealing severe damage to all enemies in
-your line of sight. Affected creatures may be paralysed, slowed or have their
-magic drained. The damage dealt increases with your piety and experience level.
+向你的敌人揭露Ru的真相，对所有敌人造成严重伤害
+你的视线。受影响的生物可能会瘫痪、行动缓慢或失去行动能力。
+魔力耗尽。造成的伤害随着你的虔诚和经验水平而增加。
 %%%%
-Sacrifice Purity ability
+牺牲纯度能力
 
-Sacrifices purity of body or mind, causing a single mutation.
+牺牲身体或心灵的纯洁性，导致单一突变。
 %%%%
-Sacrifice Words ability
+牺牲言语能力
 
-Sacrifices the ability to use magical scrolls in combat unless badly injured.
+除非受重伤，否则会牺牲在战斗中使用魔法卷轴的能力。
 %%%%
-Sacrifice Drink ability
+牺牲饮酒能力
 
-Sacrifices the ability to drink potions in combat unless badly injured.
+除非受重伤，否则会牺牲在战斗中喝药水的能力。
 %%%%
-Sacrifice Essence ability
+牺牲精华能力
 
-Sacrifices magical essence, causing a single mutation.
+牺牲魔力精华，引发单一异变。
 %%%%
-Sacrifice Health ability
+牺牲健康能力
 
-Sacrifices physical health, causing a single mutation.
+牺牲身体健康，导致单一突变。
 %%%%
-Sacrifice Stealth ability
+牺牲隐身能力
 
-Sacrifices stealth, causing you to always be noticed by foes and preventing
-you from having any ranks in the Stealth skill.
+牺牲隐身性，使你总是被敌人注意到并阻止
+你的隐秘技能不会有任何等级。
 %%%%
-Sacrifice Forms ability
+牺牲形态能力
 
-Sacrifices forms, preventing you from voluntarily changing your form and from
-having any ranks in the Shapeshifting skill.
+牺牲形式，阻止你自愿改变你的形式和
+拥有任何变形技能等级。
 %%%%
-Sacrifice Artifice ability
+牺牲技巧能力
 
-Sacrifices the ability to evoke any magical items, and prevents you from having
-any ranks in the Evocations skill.
+牺牲召唤任何魔法物品的能力，并阻止你拥有
+召唤技能中的任何等级。
 
-This includes wands and other items which use Evocations skill - that is, it does
-*not* affect reaching weapons, talismans, and ziggurat figurines. This also renders
-magical staves much less effective in melee.
+这包括魔杖和其他使用召唤技能的物品 - 也就是说，它确实
+*不*影响触及武器、护身符和金字形雕像。这也呈现出
+魔法法杖在近战中效果要差得多。
 %%%%
-Sacrifice Love ability
+牺牲爱的能力
 
-Sacrifices love, causing all creatures to become hostile, even those created
-by you. Monsters that are spell residue and which do not act independently,
-such as orbs of destruction and spectral weapons, are the only things which can
-remain friendly.
+牺牲爱，导致所有生物变得敌对，甚至是那些被创造的生物
+由你。法术残留且不独立行动的怪物，
+诸如毁灭球和光谱武器之类的东西是唯一可以
+保持友好。
 %%%%
-Sacrifice Courage ability
+牺牲勇气能力
 
-Sacrifices courage, causing you to become terrified of dangerous monsters. Such
-monsters fill you with horror, which reduces the power of your spells and your
-ability to hit and damage monsters in combat.
+牺牲勇气，导致你对危险的怪物感到恐惧。这样的
+怪物让你充满恐惧，这会降低你的法术和你的法术的力量
+在战斗中击中和伤害怪物的能力。
 %%%%
-Sacrifice Arcana ability
+牺牲阿卡纳能力
 
-Sacrifices arcana, causing you to lose the ability to use certain schools of
-magic and preventing you from having any ranks in those skills.
+牺牲奥术，导致你失去使用某些学派的能力
+魔法并阻止你在这些技能上获得任何等级。
 %%%%
-Sacrifice Nimbleness ability
+牺牲敏捷能力
 
-Sacrifices nimbleness, preventing you from having any ranks in the Dodging
-skill. This sacrifice is worth more if you cannot train Armour.
+牺牲敏捷性，阻止你在闪避中获得任何排名
+技能。如果你无法训练护甲，这种牺牲就更有价值。
 %%%%
-Sacrifice Durability ability
+牺牲耐久能力
 
-Sacrifices durability, preventing you from having any ranks in the Armour
-skill. This sacrifice is worth more if you cannot train Dodging.
+牺牲耐用性，阻止你在护甲中获得任何等级
+技能。如果你无法训练闪避，这种牺牲就更值得。
 %%%%
-Sacrifice a Hand ability
+牺牲一只手的能力
 
-Sacrifices a hand, causing you to lose the ability to use shields{{
-    if you.race() ~= "Formicid" then
-        return " and two-handed weapons"
-    end
-}}, and to be able to wear one fewer ring.
+牺牲一只手，导致你失去使用盾牌的能力{{
+如果你.race() ~= 现在“Formicid”
+        返回“和双手武器”
+    结尾
+}}，并且能够少戴一枚戒指。
 %%%%
-Sacrifice Experience ability
+牺牲经验能力
 
-Sacrifices some of your past experiences, causing you to lose one level
-immediately and also to have the maximum level you can attain lowered by one.
+牺牲你过去的一些经验，导致你失去一级
+立即并且将你可以达到的最高等级降低一级。
 %%%%
-Sacrifice Skill ability
+牺牲技能能力
 
-Sacrifices your skills, causing you to have all of your skill aptitudes
-decreased by one. This will likely cause you to lose ranks in trained skills.
+牺牲你的技能，使你拥有所有的技能资质
+减少了一位。这可能会导致您失去受过训练的技能的排名。
 %%%%
-Sacrifice an Eye ability
+牺牲一只眼睛能力
 
-Sacrifices an eye, causing you to have a much harder time hitting targets.
+牺牲一只眼睛，让你更难击中目标。
 %%%%
-Sacrifice Resistance ability
+牺牲抵抗能力
 
-Sacrifices your resistance to extreme temperatures, causing you to become
-vulnerable to heat and cold.
+牺牲你对极端温度的抵抗力，导致你变得
+易受热和冷的影响。
 %%%%
-Reject Sacrifices ability
+拒绝牺牲能力
 
-Rejects all offered sacrifices. Doing so means Ru will take more time
-evaluating your readiness for future sacrifices. Ru will not offer more
-sacrifices while there is an existing offer still extended.
+拒绝献一切祭。这样做意味着Ru需要更多时间
+评估您对未来牺牲的准备情况。Ru不会提供更多
+在现有报价仍在延长的情况下做出牺牲。
 
-Each consecutive rejection increases the sacrifice timer significantly.
-Accepting a sacrifice will reset the timer to the standard length.
+每次连续拒绝都会显着增加牺牲计时器。
+接受牺牲会将计时器重置为标准长度。
 %%%%
-# Uskayaw
-Stomp ability
+# 乌斯卡亚
+跺脚能力
 
-Stomps down in time with the rhythm of the dance, sending a shockwave through
-all adjacent creatures. The shockwave damages each creature by a fraction of
-its current health, plus damage increasing with Invocations skill.
+随着舞蹈节奏踩踏，发出冲击波
+所有相邻的生物。冲击波对每个生物造成一定程度的伤害
+它当前的生命值，加上随调用技能而增加的伤害。
 %%%%
-Line Pass ability
+线路通过能力
 
-Passes through a contiguous line of creatures at superhuman speed, ending up
-in a new location. Any creatures passed through in this way will be confused
-briefly, with the duration of confusion increasing with Invocations skill.
+以超人的速度穿过一排连续的生物，最终到达
+在一个新的地点。任何经过这种方式的生物都会感到困惑
+简而言之，混乱的持续时间随着召唤技能的增加而增加。
 %%%%
-Grand Finale ability
+大结局能力
 
-Merges with a target emotionally and physically, and then bursts forth from
-them, violently splitting them apart and killing them instantly. This ability
-becomes easier to use as the worshipper's piety and Invocations skill increase.
+在情感和身体上与目标融合，然后从
+猛烈地将他们劈开，瞬间将他们杀死。这个能力
+随着崇拜者的虔诚和祈求技能的提高，使用起来会变得更容易。
 
-More violent Uskayaw sects consider their members not to be true worshippers
-until they have performed this rite.
+更暴力的乌斯卡亚教派认为他们的成员不是真正的崇拜者
+直到他们完成这个仪式。
 %%%%
-Renounce Religion ability
+放弃宗教能力
 
-Renounces your faith. This will make you leave your god (and usually anger
-said god).
+放弃你的信仰。这会让你离开你的上帝（通常是愤怒
+上帝说）。
 %%%%
-Convert to Beogh ability
+转换为贝奥能力
 
-Swears fealty to Beogh, the god of cave orcs. This god demands that all
-non-believers must die, but new believers must be spared and accepted into the
-fold. Beware, for orcs who do not see you convert may still be hostile until
-you have built your reputation!
+宣誓效忠洞穴兽人之神贝奥。这位神要求所有人
+非信徒必须死亡，但新信徒必须幸免并接受进入
+折叠。请注意，那些没有看到你皈依的兽人可能仍然怀有敌意，直到
+你已经建立了你的声誉！
 
-All other gods hate Beogh, and do not take desertion lightly.
+所有其他的神都憎恨贝奥，并且不会轻视贝奥的遗弃。
 %%%%
-Donate Gold ability
+捐赠黄金能力
 
-Donates half of your gold to Zin, which will increase your piety over time. The
-overall increase is determined by the size of your donation.
+将一半的黄金捐赠给Zin，随着时间的推移，这会增加你的街区长度。
+总体增长取决于您的捐款规模。
 %%%%
-Recall Ancestor ability
+召回祖先能力
 
-Recalls your ancestor from anywhere in the dungeon to your immediate
-surroundings.
+从地牢中的任何地方回忆起你的祖先
+周围环境。
 %%%%
-Idealise ability
+理想化能力
 
-Restores your ancestor to an idyllic vision of their best self. Their wounds
-are forgotten and a glow of perfection infuses them, giving them a short-lived
-but dramatic increase in strength, spellcasting, and armour. The quality of the
-healing and duration of the idealisation granted are both improved by the
-Invocations skill.
+让您的祖先恢复到最好的自己的田园诗般的愿景。他们的伤口
+被遗忘了，完美的光芒注入了他们，给了他们短暂的生命
+但力量、施法和护甲都会大幅增加。的质量
+治愈和理想化的持续时间都通过
+召唤技能。
 %%%%
-Transference ability
+转移能力
 
-Forces a targeted creature to pass through the realms of memory and exchange
-places with your ancestor.
+迫使目标生物通过记忆和交换领域
+与你的祖先在一起的地方。
 
-With great piety, those near the target will be drained to a degree depending
-on Invocations skill.
+凭借极大的虔诚，那些靠近目标的人将会被消耗到一定程度，具体取决于
+关于召唤技能。
 %%%%
-Ancestor Life: Knight ability
+祖先生命：骑士能力
 
-Remembers your ancestor as a knight, a strong melee combatant with superior
-defences. This choice is permanent and cannot be undone.
+记得你的祖先是一位骑士，一位拥有卓越能力的强大近战战士
+防御。此选择是永久性的且无法撤消。
 %%%%
-Ancestor Life: Battlemage ability
+祖先生命：战斗法师能力
 
-Remembers your ancestor as a battlemage, a warrior capable of relentless offence
-with both melee and conjurations. This choice is permanent and cannot be undone.
+记得你的祖先是一位战斗法师，一位能够无情进攻的战士
+近战和咒语。此选择是永久性的且无法撤消。
 %%%%
-Ancestor Life: Hexer ability
+祖先生命：妖术能力
 
-Remembers your ancestor as a hexer, a cunning rogue capable of swift
-knifework and debilitating spellcasting. This choice is permanent and cannot be
-undone.
+记得你的祖先是一个妖术师，一个狡猾的盗贼，能够迅速行动
+刀法和使人虚弱的施法。这个选择是永久的，不能改变
+撤消。
 %%%%
-Ancestor Identity ability
+祖先身份能力
 
-Recalls who your ancestor preferred to be known as, correcting their name and
-gender.
+回忆起你的祖先喜欢被称为谁，更正他们的名字并
+性别。
 %%%%
-Wall Jump ability
+跳墙能力
 
-Vaults off an adjacent wall towards enemies, striking all enemies adjacent to
-the landing spot and taking two turns to complete the motion.
+从邻近的墙壁上跳向敌人，攻击邻近的所有敌人
+着陆点并转两圈以完成动作。
 %%%%
-Serpent's Lash ability
+蛇之鞭击技能
 
-Allows you to move at supernatural speeds, making any normal movements up to a
-distance of two tiles instant. Martial attacks performed under the effect of
-Serpent's Lash are more damaging and never miss.
+允许你以超自然的速度移动，使任何正常的移动都达到
+两块瓷砖的距离瞬间。在以下效果下进行的军事攻击
+巨蛇之鞭更具破坏力，而且绝不会失手。
 %%%%
-Heavenly Storm ability
+天堂风暴能力
 
-Invokes a storm of heavenly clouds. While the storm rages, your evasion and
-combat accuracy and damage are substantially increased, and striking enemies
-with martial attacks increases this bonus. The storm weakens over time and
-fades away once the bonus reaches zero. The heavenly clouds prevent
-invisibility, and obscure the vision of those outside the storm.
+唤起天上乌云的风暴。当风暴肆虐时，你的逃避和
+战斗精度和伤害大幅提升，打击敌人
+武术攻击会增加此奖励。风暴随着时间的推移而减弱
+一旦奖金达到零，就会消失。天上的云彩阻止了
+隐形，遮蔽风暴之外的人的视野。
 %%%%
-Fiery Armour ability
+炽热铠甲能力
 
-Armours yourself in fire, providing +7 AC and searing foes foolish enough to
-strike you in melee. The fire takes quite a long time to burn out.
+使用火武装自己，提供+7 AC和灼热的敌人，傻瓜到
+在近战中攻击你。火需要相当长的时间才能熄灭。
 %%%%
-Foxfire Swarm ability
+狐火群能力
 
-Conjures a swarm of animate flames all around you. These rapidly seek the
-nearest monsters, burning them. They will dissipate harmlessly if unable to
-reach a target or if you swap places with them.
+在你周围召唤出一大群动画火焰。这些迅速寻求
+最近的怪物，烧毁它们。如果无法消散，它们将无害地消散
+达到目标或者与他们交换位置。
 %%%%
-Rising Flame ability
+火焰升腾能力
 
-Sends you floating upward and, after a short delay for Ignis to gather enough
-power, blasts you through the ceiling and into the level above. This ability
-may only be used once.
+让你向上漂浮，并在短暂的延迟后让伊格尼斯收集足够的
+力量，将你炸穿天花板并进入上面的楼层。这个能力
+只能使用一次。
 %%%%
-Hop ability
+跳跃能力
 
-Hops toward a chosen destination, landing somewhere nearby. After using this
-ability, you will be unable to hop again until you have spent some time not
-moving. (Other actions, such as casting spells and attacking, are fine.)
+跳向选定的目的地，降落在附近的某个地方。使用这个后
+能力，你将无法再次跳跃，直到你花了一段时间不
+移动。 （其他动作，例如施法和攻击，都可以。）
 %%%%
-Blinkbolt ability
+闪光能力
 
-Turns the user into living lightning and zaps them at the chosen monster,
-dealing electric damage to everything in their path and depositing the user
-at the bolt's end. After using this ability, you will be unable to use it
-again for a short time.
+将使用者变成活生生的闪电并将其射向所选的怪物，
+对路径上的所有物体造成电击伤害并释放使用者
+在螺栓的末端。使用该能力后，将无法再使用
+再次短暂。
 %%%%
-Siphon Essence ability
+虹吸精华能力
 
-Torments nearby living foes, halving their health. The pain inflicted heals
-the user to an extent determined by Shapeshifting skill. After using this
-ability, you will be unable to use it again for a short time.
+折磨附近活着的敌人，使他们的生命值减半。所造成的痛苦已痊愈
+用户在一定程度上由变形技能决定。使用这个后
+能力，短时间内将无法再次使用。
 %%%%
-Evoke the Sceptre of Asmodeus ability
+唤起阿斯莫蒂尔斯权杖能力
 
-Calls on the power of Asmodeus to summon fiery demons of Hell. The demons
-summoned will remain friendly only for a limited time, eventually becoming
-hostile before vanishing. The success of the ability scales with the Evocations
-skill, and this ability is available only while wielding the Sceptre of
-Asmodeus.
+召唤阿斯摩蒂斯的力量来召唤地狱的炽热恶魔。恶魔们
+被召唤的人只会在有限的时间内保持友好，最终成为
+消失前充满敌意。该能力的成功与否取决于召唤
+技能，并且只有在挥舞神杖时才可以使用该能力
+阿斯摩蒂斯。
 %%%%
-Evoke Damnation ability
+唤起诅咒能力
 
-Blasts a targeted enemy with damnation. These unholy forces harm the victim and
-anyone adjacent, and are not affected by any means of protection, such as armour
-or resistances. However, certain creatures, usually those able to invoke
-damnation themselves, are entirely unscathed by damnation. The power of this
-ability scales with the Evocations skill.
+用诅咒轰炸目标敌人。这些邪恶力量伤害受害者并
+任何邻近的人，并且不受任何保护措施（例如装甲）的影响
+或阻力。然而，某些生物，通常是那些能够调用
+诅咒本身，完全没有受到诅咒的伤害。这个的力量
+能力与召唤技能成正比。
 %%%%
-Evoke the Staff of Olgreb ability
+唤起奥尔格勒布之杖能力
 
-Causes the caster to radiate toxic energy, continuously inflicting poison on
-everything in line of sight for as long as the aura lasts. The power of this
-ability scales with the Evocations skill, and this ability is available only
-while wielding the Staff of Olgreb.
+使施法者散发出有毒能量，持续造成中毒
+只要光环存在，一切都在视线范围内。这个的力量
+能力随召唤技能而变化，并且此能力仅可用
+挥舞着奥尔格勒布之杖。
 %%%%
-Jump ability
+跳跃能力
 
-Leaps through the air in the blink of an eye. While it is impossible to control
-your destination, the movement is so abrupt and agile that no monster will be
-able to land a blow on you until you can act again, and many may lose track of
-your position entirely.
+眨眼间就跃入空中。虽然无法控制
+你的目的地，动作如此突然和敏捷，任何怪物都不会
+能够对你造成打击，直到你能够再次采取行动，许多人可能会失去踪迹
+完全是你的立场。
 
-You must spend a short while recovering between each use of this ability.
+每次使用此能力之间你必须花费一段时间来恢复。
 %%%%
-Watery Grave ability
+水之坟墓能力
 
-Turns all of the water near you into a surging tide that attempts to drown every
-enemy standing in or above it. Those who need air to breathe will also become
-Flooded, preventing them from casting spells affected by Silence for several
-turns and dealing minor asphyxiation damage.
+将你附近的所有水变成汹涌的潮水，试图淹没每一个
+敌人站在其内部或上方。那些需要空气呼吸的人也会变得
+被淹没，使他们在数天内无法施展受沉默影响的法术
+转弯并造成轻微窒息伤害。
 
-After using this ability, you must gain experience points before you can recover
-enough power to use it again.
+使用该能力后，必须获得经验值才能恢复
+有足够的电量再次使用它。
 %%%%
-Bestial Takedown ability
+野兽击倒能力
 
-Unleashes the full power of your predatory instincts to leap towards a terrified
-enemy and perform a vicious melee attack against them. This attack receives a
-damage multiplier based on your Shapeshifting skill. If it kills them, you will
-always perform a Howl afterward.
+释放你掠夺本能的全部力量，跃向恐惧的地方
+敌人并对他们进行恶毒的近战攻击。这次攻击收到
+基于你的变形技能的伤害倍数。如果它杀死了他们，你就会
+之后总是进行嚎叫。
 
-Can only target an enemy who is afraid, and who has at least one occupiable tile
-adjacent to them.
+只能瞄准一个感到害怕并且至少拥有一个可占领方块的敌人
+与他们相邻。
