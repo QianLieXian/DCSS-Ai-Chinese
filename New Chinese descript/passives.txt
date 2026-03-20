@@ -26,35 +26,34 @@ harm passive
 mayhem passive
 
 当你杀死敌人时，有可能会让看得见的怪物变得疯狂。
-a foe.
 %%%%
 repel missiles passive
 
-You repel missiles, improving your chance to evade them.
+你驱逐了飞弹，提升了躲开它们的几率。
 %%%%
 reflection passive
 
-You reflect any successfully blocked ranged attacks back towards the attacker.
+你将被格挡的远程攻击，返给攻击者。
 %%%%
 acrobat passive
 
-Your evasion is increased while moving and waiting.
+当你移动和等待时，你的闪避有所提升。
 %%%%
 clarity passive
 
-You are protected from involuntary confusion, rage, fear and mesmerisation.
+你受到保护，不会不由自主地混乱、狂暴、畏惧和迷惑。
 %%%%
 resist mutation passive
 
-You are partially protected from mutation.
+你能抵抗部分变异。
 %%%%
 guardian spirit passive
 
-Any damage you take is divided between your reserves of health and magic.
+你受到的任何伤害，都会被生命和魔力储备分摊承受。
 %%%%
 rampage passive
 
-You take an additional free step when moving towards enemies.
+当你向敌人移动时，你会获得额外的一个自由步。
 %%%%
 roll passive
 
@@ -62,23 +61,22 @@ roll passive
 %%%%
 faith passive
 
-You gain divine favour quickly, and greater notice is taken of any religious
-transgressions you make.
+神很快会眷顾你，但也会更容易察觉到你在信仰上的冒犯行为。
 %%%%
+wizardry passive
+
 你的法术成功率有所提升。
-
-Your spell success rate is improved.
 %%%%
+archmagi passive
+
 你的法力有所提升。
-
-Your spell power is increased.
 %%%%
+channel magic passive
+
 当你成功施法时，有可能重新获得施法时所消耗的魔力；
-
-You have a chance of regaining the magic spent when successfully casting a
-spell, and always regain the magic spent when you miscast a spell.
+当你施法失败时，总是能重新获得所消耗的魔力。
 %%%%
-你每次近战攻击时都会消耗魔力，让你的攻击更有力量。
+infuse magic passive
 
-You spend magic each time you make a melee attack, empowering your blows.
+你每次近战攻击时都会消耗魔力，让你的攻击更有力量。
 %%%%

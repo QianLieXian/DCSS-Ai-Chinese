@@ -2,32 +2,30 @@
 amulet
 
 一个护身符，可以当作首饰佩戴在脖子上，其中充满了来源不明的奥术能量。
-of unknown provenance.
 %%%%
 book
 
-An arcane textbook containing magical spells of unknown origin.
+一本晦涩难懂的古书，写着不知何源的魔咒。
 %%%%
 potion
 
-An unlabelled flask containing a single dose of unknown liquid.
+这个没有标签的瓶子里装有某种未知的液体。
 %%%%
 ring
 
-A ring charged with arcane forces of unknown provenance, to be worn as jewellery
-on a finger.
+一枚戒指，其中充满了来源不明的奥术能量，可以当作首饰佩戴在手指上。
 %%%%
+scroll
+
 某位专业的抄写员，也可能是术师，在这张羊皮纸上写下了一道一次性的魔法咒语。
-
+任何人都可以通过大声阅读卷轴上的咒语来释放其中的魔力，
 但你事先并不知道它施放的魔法到底是什么。
-sorcerer. Anyone can evoke the power of the arcane formula by reading it out
-loud, but the nature of that power is not a priori apparent.
 %%%%
+staff
+
 一根被某种奥术能量强化过的木杖。
-
-A staff improved with arcane powers of unknown nature.
 %%%%
-一根可能含有魔力的小棍子。
+wand
 
-An unusually magical sort of stick.
+一根可能含有魔力的小棍子。
 %%%%

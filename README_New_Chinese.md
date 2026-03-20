@@ -1,13 +1,23 @@
 # DCSS 0.34.1 汉化说明
 
-本汉化内容适配 **Dungeon Crawl Stone Soup 0.34.1** 版本。
+本仓库用于 **Dungeon Crawl Stone Soup 0.34.1** 的中文文本覆盖。
 
-请下载 `New Chinese descript`、`New Chinese database`、`New Chinese defaults` 三个文件夹中的全部内容，并将对应文件拷贝到游戏目录中的以下路径：
+## 使用方法
 
-- `\dat\descript\zh`
-- `\dat\database\zh`
-- `\dat\defaults\zh`
+将以下目录中的全部文件复制到游戏对应目录（覆盖原文件）：
 
-本项目内容为 **gpt5.4Pro-Codex** 翻译。
+- `New Chinese descript` → `dat/descript/zh`
+- `New Chinese database` → `dat/database/zh`
+- `New Chinese defaults` → `dat/defaults/zh`
 
-感谢蜥蜴大佬以及 Zijingng 大佬的先驱工作，本项目汉化基于他们提供的模板！
+> 建议先备份原始 `zh` 目录，便于回滚。
+
+## 兼容性说明
+
+- 本仓库只修改文本与说明，不涉及游戏逻辑代码。
+- 为避免兼容问题，请确保游戏版本为 **0.34.1**。
+- 若使用其他版本，部分词条可能缺失或显示异常。
+
+## 致谢
+
+感谢蜥蜴大佬与 Zijingng 大佬提供的前期模板与工作基础。

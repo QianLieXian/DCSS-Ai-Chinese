@@ -3,1540 +3,818 @@
 tough skin mutation
 
 你的表皮已经硬化，这会提供少量保护。这个变异每升一级会加1点防护。
-of this mutation provides +1 AC.
 %%%%
 shaggy fur mutation
 
+你被皮毛覆盖，这会提供少量保护。这个变异每升一级会加1点防护。
 这个变异达到第三级会提供寒抗。
-this mutation provides +1 AC. The third level of this mutation also provides
-resistance to cold.
 %%%%
+repulsion field mutation
+
 你被排斥力场围绕，这会提供少量闪避。
-
+这个变异每升一级会提供更多闪避。
 这个变异达到第三级也会使射向你的远程攻击的命中率减半。
-Each level of this mutation provides more EV. The third level of this mutation
-also repels missiles, greatly increasing your EV against such attacks.
 %%%%
+icy blue scales mutation
+
 你被蓝色鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
-
-You are covered in blue scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-provides resistance to cold.
+这个变异达到第三级会提供寒抗。
 %%%%
-这个变异达到第三级会提供火抗。
+molten scales mutation
 
-You are covered in molten scales, providing a small amount of protection. Each
-level of this mutation provides more AC. The third level of this mutation also
-你被绿色鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
+你被熔融的鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
+这个变异达到第三级会提供火抗。
 %%%%
 slimy green scales mutation
 
-You are covered in green scales, providing a small amount of protection. Each
-你被黄色鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
-这个变异达到第三级会提供酸抗和腐蚀抗。
+你被绿色鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
+这个变异达到第三级会提供毒抗。
 %%%%
 yellow scales mutation
 
-你被金属鳞片覆盖，这会提供少量保护。
-这个变异每升一级会提供更多防护。这个变异达到第三级会提供电抗。
-provides resistance to acid and corrosion.
+你被黄色鳞片覆盖，这会提供少量保护。这个变异每升一级会提供更多防护。
+这个变异达到第三级会提供酸抗和腐蚀抗。
 %%%%
 thin metallic scales mutation
 
+你被金属鳞片覆盖，这会提供少量保护。
+这个变异每升一级会提供更多防护。这个变异达到第三级会提供电抗。
+%%%%
+rugged brown scales mutation
+
+你被褐色鳞片覆盖，这会提供少量保护。
 这个变异每升一级会加1点防护，并会稍稍提升你的生命力。
-Each level of this mutation provides more AC. The third level of this mutation
-also provides resistance to electricity.
 %%%%
+sharp scales mutation
+
 你被尖锐的鳞片覆盖，这会提供少量保护。这个变异每升一级会加1点防护和1点杀戮，
-
-You are covered in brown scales, providing a small amount of protection. Each
-level of this mutation provides +1 AC and also increases your health slightly.
-%%%%
-你被彩色鳞片覆盖，这会提供少量保护。这个变异每升一级会加2点防护。
-
-You are covered in sharp scales, providing a small amount of protection. Each
-level of this mutation provides +1 AC and Slay +1, improving your accuracy and
-你被大骨板保护着，这会提供少量格挡。这个变异每升一级会提供更多格挡。
+这会提升你在近身和远程攻击中的命中率和伤害。
 %%%%
 iridescent scales mutation
 
-你的骨头变得轻巧、多孔。这个变异每升一级会加2点敏捷和潜行。
-Each level of this mutation provides +2 AC.
+你被彩色鳞片覆盖，这会提供少量保护。这个变异每升一级会加2点防护。
 %%%%
 large bone plates mutation
 
-但额外的肌肉会让你的动作和思维变得迟钝，每升一级，你的智力和敏捷会减1点。
-level of this mutation provides more SH.
+你被大骨板保护着，这会提供少量格挡。这个变异每升一级会提供更多格挡。
 %%%%
 thin skeletal structure mutation
 
-但所有的血液都供向了头部，因而削弱了你的体质，
-每升一级，你的力量和敏捷会减1点。
+你的骨头变得轻巧、多孔。这个变异每升一级会加2点敏捷和潜行。
 %%%%
 strong mutation
 
-你的反应变得异常迅捷。这个变异每升一级会加4点敏捷，
-但你身体的其他部分无法跟上你的速度，每升一级，你的力量和智力会减1点。
-both your Intelligence and Dexterity for each level.
+你的肌肉变得异常强壮。这个变异每升一级会加4点力量，
+但额外的肌肉会让你的动作和思维变得迟钝，每升一级，你的智力和敏捷会减1点。
 %%%%
 clever mutation
 
-Your mind has become unnaturally acute. Each level of this mutation provides +4
-Intelligence, but all the blood flowing to your head weakens your constitution,
-giving -1 to both your Strength and Dexterity for each level.
+你的心智变得异常敏锐。这个变异每升一级会加4点智力，
+但所有的血液都供向了头部，因而削弱了你的体质，
+每升一级，你的力量和敏捷会减1点。
 %%%%
 agile mutation
 
-Your reflexes have become unnaturally fast. Each level of this mutation
-你的反应变得异常笨拙。这个变异每升一级会减2点敏捷。
-giving -1 to both your Strength and Intelligence for each level.
+你的反应变得异常迅捷。这个变异每升一级会加4点敏捷，
+但你身体的其他部分无法跟上你的速度，每升一级，你的力量和智力会减1点。
 %%%%
 weak mutation
 
-Your muscles have grown unnaturally weak. Each level of this mutation provides
--3 Strength.
+你的肌肉变得异常虚弱。这个变异每升一级会减2点力量。
 %%%%
-你的魔力储备会减少。这个变异每升一级会减10点魔力。
+dopey mutation
 
-Your mind has become unnaturally dopey. Each level of this mutation provides -3
-Intelligence.
+你的心智变得异常愚钝。这个变异每升一级会减2点智力。
 %%%%
 clumsy mutation
 
-Your reflexes have become unnaturally clumsy. Each level of this mutation
-provides -3 Dexterity.
+你的反应变得异常笨拙。这个变异每升一级会减2点敏捷。
 %%%%
-就会增加你顶撞的攻击力。这个变异达到第三级，你将无法戴任何帽子。
+high mp mutation
 
-You have an increased reservoir of magic. Each level of this mutation provides
-+10% MP.
+你的魔力储备会增加。这个变异每升一级会加10点魔力。
 %%%%
 low mp mutation
 
-You have a low magical capacity. Each level of this mutation provides -10% MP.
+你的魔力储备会减少。这个变异每升一级会减10点魔力。
 %%%%
-这个变异每升一级，你的牙齿就会更尖、更长、更强。
+camouflage mutation
 
-You have both an innate understanding and a greater control over the exact flow
-of your magic, letting you cast spells with greater efficiency. Each level of
-你有了酸性唾液，在近战时能够咬伤敌人，并对其造成腐蚀。
+你的皮肤会根据周围环境而变色。这个变异每升一级会提升潜行。
 %%%%
-ephemeral shield mutation
+# ------ 生长 -----
+horns mutation
 
-你对魔法有着渴求，在近战时能够咬伤敌人。
-这可以恢复你的魔力并扰乱使用魔法的敌人，有时会让他们无法行动。
-from spells only sustains the shield for but a moment, while the spiritual
-energy from using divine abilities lasts a brief bit longer.
-%%%%
-你长出锋利的指甲，如果不戴手套，会增加主手的徒手攻击强度。
-
-你的指甲就会更尖、更长、更强。这个变异达到第三级，你将无法戴手套。
-mutation provides Stealth+.
-%%%%
-passive freeze mutation
-
-在近战时就能造成无法抵御的伤害。你的触碰攻击会造成无视护甲的伤害，
-并且这个变异每升一级会增加更多攻击力。这个变异达到第三级，
-%%%%
-time-warped blood mutation
-
-Your blood has desynchronised itself from the flow of time. Whenever you fall
-你长出蹄子，如果不穿靴子，在近战时能够踢击敌人。这个变异每升一级，
-你的蹄子就会更硬、更强。这个变异达到第三级，你将无法穿靴子。
-each level of this mutation. After doing so, your blood will be unable to
-further dilate time until your HP has fully recovered.
-%%%%
-你长出锋利的趾甲，如果不穿靴子，在近战时能够踢击敌人。这个变异每升一级，
-
-Your altered digestive system extracts additional value out of select potion
-types, doubling the duration of all status effects gained via potions.
-%%%%
-你长出触角，可以感知周围的怪物，但无法戴头盔。这个变异每升一级，
-
-能看到隐形的怪物，但你将无法戴任何帽子。
-Each other non-innate mutation you have also provides +1 EV and Slay +1 (up to
-a limit of 7), improving your accuracy and damage with melee and ranged attacks.
-This still applies even when the mutations would be suppressed by a different
-你长出一个带有尖刺的触手，在近战时能够刺穿敌人。
-
-You currently gain
-{{
-    num = math.min(you.how_mutated(true, false, false, true, false), 7) - 1
-你的脚变成一条长长的蛇状尾巴。这个变异达到第二级，
-}}
-%%%%
-成功率主要取决于敏捷、格斗技能和任何杀戮加成。
-
-A vile yet invigorating energy permeates your soul, which resonates with
-specific other energies released at the moment of death. Whenever poisoned or
-你的尾部长出一个毒刺，在近战时能够蛰刺敌人。
-这个变异每升一级，你的螫刺就会更尖、更长、更强。
-increases the chance this happens and the amount one siphons.
-%%%%
-lucky mutation
-
-这个变异每升一级会增强你的尾巴的力量，并使其变成尖锐的螫刺。
-这个变异达到第三级，那些不幸被螫刺击中的怪物会被短暂虚弱，
-但你将无法穿戴披风或围巾。
-artefact. Each level of this mutation increases that chance.
-%%%%
-reckless mutation
-
-Your recklessness halves your SH, but the damage you deal with two-handed melee
-weapons is increased by 15%.
-%%%%
-你身上长满了伪足，在近战时能够扫打敌人，但在一定程度上会削弱护甲提供的防护。
-这对护甲附魔提供的防护没有影响，也不会影响训练的护甲技能的防御效果。
-
-You have horns on your head, allowing you to try to gore foes when launching
-# ------ 抗性变异 -----
-increases the damage of your gore attacks. The third level of this mutation
-prevents you from wearing any type of headgear.
+你的头上长出角，在近战时会尝试顶伤敌人，但无法戴头盔。这个变异每升一级，
+就会增加你顶撞的攻击力。这个变异达到第三级，你将无法戴任何帽子。
 %%%%
 beak mutation
 
-You have a beak for a mouth, allowing you to peck at foes when launching melee
-你的遗传密码出奇地稳定，使你不太可能发生变异（或消除现有变异）。
+你的嘴成了鸟喙，在近战时能够啄击敌人，但无法戴头盔。
 %%%%
 fangs mutation
 
-You have sharp teeth, allowing you to bite foes when launching melee attacks.
-折磨对你的影响较弱，否则这会让你的生命值减半。
+你长出锋利的牙齿，在近战时能够撕咬敌人。
+这个变异每升一级，你的牙齿就会更尖、更长、更强。
 %%%%
 acidic bite mutation
 
-You have acidic saliva, allowing you to bite foes and apply corrosion to them
-你对毒物、毒素和其他污染物有着抗性。
+你有了酸性唾液，在近战时能够咬伤敌人，并对其造成腐蚀。
 %%%%
 antimagic bite mutation
 
-You have a thirst for magic, allowing you to bite foes when launching melee
-你抵抗热。这个变异每升一级，就会削弱火对你造成的伤害。
-sometimes leaving them unable to act.
+你对魔法有着渴求，在近战时能够咬伤敌人。
+这可以恢复你的魔力并扰乱使用魔法的敌人，有时会让他们无法行动。
 %%%%
 claws mutation
 
-You have sharp nails, increasing the strength of your main-hand unarmed attacks
-if you aren't wearing gloves. If your off-hand is free, the strength of your
-off-hand punch attacks is also increased. Each level of this mutation makes your
-你抵抗电（rElec），电对你造成的伤害变弱。
-you from wearing gloves.
+你长出锋利的指甲，如果不戴手套，会增加主手的徒手攻击强度。
+如果你的副手没有装备东西，也会增强其拳击强度。这个变异每升一级，
+你的指甲就会更尖、更长、更强。这个变异达到第三级，你将无法戴手套。
 %%%%
 demonic touch mutation
 
-Your hands glow with unholy energy, allowing you to inflict irresistible damage
-when launching melee attacks as long as your off-hand is free. Your touch
-attacks deal damage which ignores armour, and each level of this mutation
-你抵抗负能量。
-这个变异每升一级，就会减小负能量对你造成的伤害和从你身上汲取的生命值。
-willpower.
+你的手散发着邪恶的能量，只要你的副手没有装备东西，
+在近战时就能造成无法抵御的伤害。你的触碰攻击会造成无视护甲的伤害，
+并且这个变异每升一级会增加更多攻击力。这个变异达到第三级，
+能削弱受到你触碰攻击的敌人的意志力，但你将无法戴手套。
 %%%%
 hooves mutation
 
-You have hooves, allowing you to kick foes when launching melee attacks if you
-aren't wearing boots. Each level of this mutation makes your hooves harder and
-stronger. The third level of this mutation prevents you from wearing boots.
+你长出蹄子，如果不穿靴子，在近战时能够踢击敌人。这个变异每升一级，
+你的蹄子就会更硬、更强。这个变异达到第三级，你将无法穿靴子。
 %%%%
 talons mutation
 
-You have sharp toenails, allowing you to kick foes when launching melee attacks
-寒冷和火都很容易对你造成伤害，并会对你造成更多伤害。
-sharper, longer, and stronger. The third level of this mutation prevents you
-from wearing boots.
+你长出锋利的趾甲，如果不穿靴子，在近战时能够踢击敌人。这个变异每升一级，
+你的趾甲就会更尖、更长、更强。这个变异达到第三级，你将无法穿靴子。
 %%%%
-电很容易对你造成伤害，并会对你造成更多伤害。
+antennae mutation
 
-You have antennae, allowing you to sense nearby monsters, but preventing you
-from wearing helmets. Each level of this mutation lets you sense monsters from
-你有着异常强大的意志，提升了对某类敌对魔法的抵抗力。
-这个变异每升一级，就会增加你的意志力。
+你长出触角，可以感知周围的怪物，但无法戴头盔。这个变异每升一级，
+你会感知到更远的怪物。这个变异达到第三级，
+能看到隐形的怪物，但你将无法戴任何帽子。
 %%%%
 tentacle spike mutation
 
-你有着异常疲弱的意志，削弱了对某类敌对魔法的抵抗力。
-这个变异每升一级，就会削弱你的意志力。
-stronger.
+你长出一个带有尖刺的触手，在近战时能够刺穿敌人。
+这个变异每升一级，你的刺就会更尖、更长、更强。
 %%%%
 naga tail mutation
 
-然而，它对你的命中率没有影响。
-water, but causes you to move much more slowly than most species.
-
-The second level of this mutation allows you to constrict foes with your tail
-你的头脑异常清晰，你不会被混乱、迷惑或产生超自然的恐惧。
-你也不会不由自主地狂暴。
-The chances of succeeding are determined primarily by Dexterity, Fighting skill,
-and any slaying bonuses.
+你的脚变成一条长长的蛇状尾巴。这个变异达到第二级，
+你在近战时可以用尾巴束缚敌人。你的尾巴一次只能束缚一个敌人，
+在这个变异等级，每次攻击都会尝试开始或再次进行束缚。
+成功率主要取决于敏捷、格斗技能和任何杀戮加成。
 %%%%
-你对地牢有第二种感知，可以感知到你还没有看到的地形。
+stinger mutation
 
-You have a venomous barb on the end of your tail, allowing you to sting foes
-when launching melee attacks. Each level of this mutation makes your stinger
-sharper, longer, and stronger.
+你的尾部长出一个毒刺，在近战时能够蛰刺敌人。
+这个变异每升一级，你的螫刺就会更尖、更长、更强。
 %%%%
-如果你没有魔力了，你的魔杖的效果会恢复正常。
+weakness stinger mutation
 
-# ------ 有对应效果的好变异/坏变异 -----
-attacks. Each level of this mutation increases your tail's strength as it turns
-into a sharp stinger. The third level of this mutation prevents wearing cloaks
-你愈合得很快。这个变异每升一级，就会增加你的愈合速率。
+你长出一条细长的红色尾巴，在近战时能够扫打敌人。
+这个变异每升一级会增强你的尾巴的力量，并使其变成尖锐的螫刺。
+这个变异达到第三级，那些不幸被螫刺击中的怪物会被短暂虚弱，
+但你将无法穿戴披风或围巾。
 %%%%
 armoured tail mutation
 
-当敌人出现时，你不会随着时间推移而痊愈。其他治疗来源，如药水，不受此影响。
-melee attacks.
+你长出一条披着甲的大尾巴，在近战时能够扫打敌人。
 %%%%
 pseudopods mutation
 
-比如攻击或施法。这个变异每升一级，你移动得会更快。
-melee attacks, but somewhat reducing the amount of protection provided by body
-armour. This has no effect on protection provided by armour enchantments. Each
-level of this mutation makes your pseudopods larger and stronger.
+你身上长满了伪足，在近战时能够扫打敌人，但在一定程度上会削弱护甲提供的防护。
+这对护甲附魔提供的防护没有影响，也不会影响训练的护甲技能的防御效果。
+这个变异每升一级，你的伪足就会更大、更强。
 %%%%
-比如攻击或施法。这个变异每升一级，你移动得会更慢。
+# ------ 抗性变异 -----
 steam resistance mutation
 
-You are immune to the damage from steam breath and steam clouds.
+你对蒸汽吐息和蒸汽云的伤害免疫。
 %%%%
 mutation resistance mutation
 
-Your genetic code is unusually stable, making it less likely that you will be
-你的健康状况很差。这个变异每升一级，你的健康状况会恶化（-10%生命值）。
-you more resistant.
+你的遗传密码出奇地稳定，使你不太可能发生变异（或消除现有变异）。
+这个变异每升一级，你就会有更强的抵抗力。
 %%%%
 torment resistance mutation
 
-You are less affected by unholy torment, which would otherwise cut your health
-in half. The second level of this mutation renders you entirely immune.
+折磨对你的影响较弱，否则这会让你的生命值减半。
+这个变异达到第二级，你将完全免疫折磨。
 %%%%
-当你获得经验时，你身体的隐藏特质会导致新的有害变异。
+poison resistance mutation
 
-You resist poisons, toxins and other contaminants. This does not confer
-full immunity, but reduces your chances of being affected to roughly
-你的法术将略难施放（增加了失误率和判定的严苛程度），但威力会变强。
+你对毒物、毒素和其他污染物有着抗性。
+它不会赋予完全的免疫力，但你中毒的几率会降低到原先的三分之一左右。
 %%%%
 fire resistance mutation
 
-You resist heat. Each level of this mutation reduces the amount of damage taken
-你的法术将略易施放（减少了失误率和判定的严苛程度），但威力会变弱。
+你抵抗热。这个变异每升一级，就会削弱火对你造成的伤害。
 %%%%
 cold resistance mutation
 
-You resist cold. Each level of this mutation reduces the amount of damage taken
-from cold.
+你抵抗寒冷。这个变异每升一级，就会削弱寒冷对你造成的伤害。
 %%%%
-这个变异每升一级，就会增加这种情况发生的频率。
+electricity resistance mutation
 
-You resist electricity (rElec), taking less damage from it.
+你抵抗电（rElec），电对你造成的伤害变弱。
 %%%%
-你的身体被一种非人的方式塑造，这在一定程度上削弱了铠甲提供的防护。
+acid resistance mutation
 
-You resist acid (rCorr), taking less damage from it. You are also less likely to
-become corroded.
+你抵抗酸（rCorr），酸对你造成的伤害变弱。你也变得更难被腐蚀。
 %%%%
-当敌人第一次出现在你的视线中时，有时你会有种无法克制的冲动，要冲他们喊叫。
+negative energy resistance mutation
 
-你的喊叫声也会更大。
-damage taken from negative energy, along with the amount that it drains your
-health.
+你抵抗负能量。
+这个变异每升一级，就会减小负能量对你造成的伤害和从你身上汲取的生命值。
 %%%%
-当受伤时，有时你的身体会恶化，暂时降低你的属性。
+heat vulnerability mutation
 
-You are vulnerable to fire and take more damage from it.
+火很容易对你造成伤害，并会对你造成更多伤害。
 %%%%
 cold vulnerability mutation
 
-这个变异达到第二级，会完全阻断药水的疗效。（哥萨戈神的援助不受影响。）
+寒冷很容易对你造成伤害，并会对你造成更多伤害。
 %%%%
 temperature sensitive mutation
 
-你衰竭后，恢复正常所用的时间是原先的两倍。（所需的总经验值增加了一倍。）
-effects.
+寒冷和火都很容易对你造成伤害，并会对你造成更多伤害。
 %%%%
 electricity vulnerability mutation
 
-当你受到伤害时，可能会有恶魔守卫冲过来帮助你。受到的伤害越大，离死亡越近，
+电很容易对你造成伤害，并会对你造成更多伤害。
 %%%%
 strong-willed mutation
 
-You have an unnaturally strong will, improving your resistance to certain types
-当你受伤时，有时你会获得能量，它会注入你的魔力储备，
+你有着异常强大的意志，提升了对某类敌对魔法的抵抗力。
+这个变异每升一级，就会增加你的意志力。
 %%%%
 weak-willed mutation
 
-You have an unnaturally weak will, reducing your resistance to certain types
-敌人的近战攻击有时会让你发出一团恶臭的瘴气，
+你有着异常疲弱的意志，削弱了对某类敌对魔法的抵抗力。
+这个变异每升一级，就会削弱你的意志力。
 %%%%
-这个变异还能让你对（任何来源的）瘴气免疫。
+see invisible mutation
 
-You have supernaturally acute vision, allowing you to see monsters that are
-hidden from mundane sight. This has no effect on your accuracy otherwise.
+你有着超乎寻常的敏锐视力，可以看到隐藏在世俗眼界之外的怪物。
+然而，它对你的命中率没有影响。
 %%%%
-如果敌人造成了任何伤害，这个效果就必会触发。
+clarity mutation
 
-Your mind is exceptionally clear, preventing you from becoming confused,
-mesmerised, or supernaturally afraid. You also cannot become involuntarily
-近战中，你的敌人有50%的几率被你的尖刺所刺穿，并受到伤害。
+你的头脑异常清晰，你不会被混乱、迷惑或产生超自然的恐惧。
+你也不会不由自主地狂暴。
 %%%%
 sense surroundings mutation
 
-You have a second sense for the dungeon, allowing you to sense terrain you
-在健康状况良好的情况下，你会更有能量，更有效地施展法术并杀死敌人。
-这个变异每升一级，其效果都会增强。
+你对地牢有第二种感知，可以感知到你还没有看到的地形。
+这个变异每升一级，你的感知就越来越全面。
 %%%%
 MP-powered wands mutation
 
-当你受到伤害时，一些伤害会转而消耗你的魔力储备。
-the process. If you have no magic left to draw upon, your wands function as
-normal.
+你的魔杖会汲取你的魔力，在这个过程中会变得更强大。
+如果你没有魔力了，你的魔杖的效果会恢复正常。
 %%%%
-你的魔力储备的恢复速度变快。
+# ------ 有对应效果的好变异/坏变异 -----
 regeneration mutation
 
-You heal quickly. Each level of this mutation increases the rate at which you
-当魔力不足时，你会恢复魔法而不是生命值。
+你愈合得很快。这个变异每升一级，就会增加你的愈合速率。
 %%%%
 inhibited regeneration mutation
 
-当你施放法术时，相邻的怪物可能会麻痹。在施放更高等级的法术时，
-效果会更为强大，但具有更强意志力的怪物能够抵御它。这个变异每升一级，
+当敌人出现时，你不会随着时间推移而痊愈。其他治疗来源，如药水，不受此影响。
 %%%%
 speed mutation
 
-You cover ground quickly - moving to new positions takes you less time. This
-你身上覆盖着一层起保护作用的冰。火焰攻击能暂时融化冰层，
-在冰层重新形成之前会消除保护。这个变异每升一级，就会提升获得的保护。
+你行进得很快——移动到新位置所需的时间会更短。它对其他类型的动作没有影响，
+比如攻击或施法。这个变异每升一级，你移动得会更快。
 %%%%
 slowness mutation
 
-一个冰霜盾守护着你，阻挡着一些来袭的攻击。火焰攻击能暂时融化此盾。
-has no effect on other types of actions, like attacking or casting spells.
-Each level of this mutation makes you move slower.
+你行进得很慢——移动到新位置所需的时间会更长。它对其他类型的动作没有影响，
+比如攻击或施法。这个变异每升一级，你移动得会更慢。
 %%%%
-死亡滋养着你，你每夺取一条生命，就能得到一定程度的治疗。
+robust mutation
 
-You can take a beating. Each level of this mutation improves your health
-further (+10% HP).
+你承受得住打击。这个变异每升一级，你的健康状况会改善（+10%生命值）。
 %%%%
-你的行动将少受到护甲的阻碍，
+frail mutation
 
-这个变异每升一级，就会减少2点护甲的妨碍等级。
-(-10% HP).
+你的健康状况很差。这个变异每升一级，你的健康状况会恶化（-10%生命值）。
 %%%%
 evolution mutation
 
-As you gain experience, your body's hidden potential will express itself in the
-form of new beneficial mutations.
+当你获得经验时，你身体的隐藏特质会导致新的有益变异。
 %%%%
-出什么事了？你有一个大脑袋。这个变异每升一级会加2点智力。
+devolution mutation
 
-As you gain experience, your body's hidden potential will express itself in the
-form of new detrimental mutations.
+当你获得经验时，你身体的隐藏特质会导致新的有害变异。
 %%%%
-每当你看到（你的或他人的）飞溅的血液，它可能会燃烧，爆发成火焰云。
+wild magic mutation
 
-# XXX：还提到这会让人更容易流血吗？
-but more powerful. Each level of this mutation increases both effects further.
+你的法术将略难施放（增加了失误率和判定的严苛程度），但威力会变强。
+这个变异每升一级，两方面的效果都会增强。
 %%%%
 subdued magic mutation
 
-这个变异达到第二级，事态会更为严重，你那可怜的受害者将有可能被变异、变形。
-but less powerful. Each level of this mutation increases both effects further.
+你的法术将略易施放（减少了失误率和判定的严苛程度），但威力会变弱。
+这个变异每升一级，两方面的效果都会增强。
 %%%%
-# ------ Badmuts without matching goodmuts -----
-当你近战攻击敌人时，你身上的黑色标记可能会削弱敌人。
+# ------ 只有坏变异，没有对应的好变异 -----
+teleportitis mutation
 
-You periodically teleport towards hostile monsters. You will sense yourself
-destabilising several turns in advance of this happening, and may suppress it
-temporarily by reading a scroll of teleportation.
-
-它可以阻止大多数形式的施法和祈祷，但恶魔的魔法是无声的，不受此影响。
-teleport.
+你偶尔会穿过本层，传送到敌方怪物那里。
+这个变异每升一级，就会增加这种情况发生的频率。
 %%%%
 deformed body mutation
 
-Your body is shaped in an inhuman way, somewhat reducing the amount of
-protection provided by body armour. This has no effect on protection provided
-by armour enchantments.
+你的身体被一种非人的方式塑造，这在一定程度上削弱了铠甲提供的防护。
+这对护甲附魔提供的防护没有影响，也不会影响训练的护甲技能的防御效果。
 %%%%
-这个变异还会增强你的意志力。
+screaming mutation
 
-You are sometimes seized by an uncontrollable urge to scream whenever you
-sustain an injury. All of your shouts are also louder than usual.
-
-The second level of this mutation makes this urge harder to resist and makes
-your shouts even louder.
+当敌人第一次出现在你的视线中时，有时你会有种无法克制的冲动，要冲他们喊叫。
+你的喊叫声也都比平时更大。这个变异达到第二级，你将更难克制那股冲动，
+你的喊叫声也会更大。
 %%%%
-你可以通过<input>$cmd[CMD_USE_ABILITY]</input>念出混沌之语。
+deterioration mutation
 
-Your body reacts poorly to injury; when you suffer damage, you have a chance for
-your attacks to become weakened for a short while. The second level of this
-你免疫冰汽云。
+当受伤时，有时你的身体会恶化，暂时降低你的属性。
+这个变异达到第二级，这种情况会发生得更频繁。
 %%%%
 no potion heal mutation
 
-你免疫火焰云。
-kinds of healing potions. The second level of this mutation completely blocks
-# ------ 其他特定物种变异 -----
+你的系统会抗拒饮用的灵丹妙药，削弱了各种治疗药水的效果。
+这个变异达到第二级，会完全阻断药水的疗效。（哥萨戈神的援助不受影响。）
 %%%%
 persistent drain mutation
 
-这个变异达到第二级，毒素会从一小团毒液，变成一大片毒云。
-needed is doubled.)
+你衰竭后，恢复正常所用的时间是原先的两倍。（所需的总经验值增加了一倍。）
 %%%%
-contamination susceptible mutation
-
-You absorb twice as much mutagenic energy from being contaminated.
-%%%%
-initially attractive mutation
-
-The first time you see a monster, it may be magically pulled toward you. This
-has a chance of waking sleeping monsters, though they will not necessarily be
-alerted to your position.
-
-The second level of this mutation increases the chance of this happening.
-%%%%
-booming voice mutation
-
-When reading scrolls in sight of hostile monsters, your voice resounds with a
-truly stupendous volume.
-%%%%
-你在空中悬浮，永远摆脱了大地的束缚。
-
-Your body is covered in a fungus that metabolises beneficial potions you drink
-and sometimes emits spores which transmit their effects to nearby monsters -
-你无法从书本习得法术。取而代之的是，随着你经验的增加，
-%%%%
-这些法术是不可预知的，且不受你皈依的神影响。
-
-Your blood pulses with a strange predatory malice. When you become significantly
-injured, some of it may rise up to attack you - though this may not happen again
-until you heal fully.
-
-当施展法术、使用能力或做任何对其他物种来说需要花费魔力的事时，
-你将转而消耗生命值。
-%%%%
-spatial entanglement mutation
-
-你的身体结构与大多数物种不同，这让你略难被杀死。
-这个变异每升一级，你的生命值上限就会增加4点。
-always be some monster in sight of your previous location, but long distance
-teleports may pull a monster from anywhere else on the floor.
-
-你的腿又大又壮，可以通过<input>$cmd[CMD_USE_ABILITY]</input>进行跳跃，
-尽管可能不会完美落到目标地点。这个变异达到第二级，你就能跳得更远。
-%%%%
-meek mutation
-
-All of your attacks are less effective, dealing less damage and being a little
-你不能、不会、也永远无法皈依任何神。
-%%%%
-# ------ Demonspawn mutations -----
+# ------ 魔人变异 -----
 demonic guardian mutation
 
-When you are harmed, there is a chance that a demonic guardian will rush to aid
-you. The greater the damage done and the closer you are to death, the greater
-the odds. Each level of this mutation increases the strength of your guardians.
+当你受到伤害时，可能会有恶魔守卫冲过来帮助你。受到的伤害越大，离死亡越近，
+其可能性就越大。这个变异每升一级，就会增加你的守卫的力量。
 %%%%
 powered by pain mutation
 
-When you are harmed, you sometimes gain power, refilling your magical reservoir
-你免疫石化。
-increases the magnitude of this effect.
+当你受伤时，有时你会获得能量，它会注入你的魔力储备，
+有时你的敏捷或力量会得到暂时的提升。这个变异每升一级，其效果就会增强。
 %%%%
 foul stench mutation
 
-Foes who strike you in melee sometimes cause you to emit a cloud of foul
-miasma, slowing and severely poisoning those caught within. This mutation also
-grants you immunity to miasma (from any source).
+敌人的近战攻击有时会让你发出一团恶臭的瘴气，
+卷入其中的怪物会变慢并受到严重毒害。
+这个变异还能让你对（任何来源的）瘴气免疫。
 %%%%
-就像人类使用短刀一样。
+passive freeze mutation
 
-Foes who strike you in melee have a 50% chance of being impaled on your spines,
-taking damage. Each level of this mutation increases the damage. This mutation
-你有两对双臂，可以一对手持双手武器，另一对手持盾牌。
+近战攻击你的敌人会被冻结，并受到伤害。
+如果敌人造成了任何伤害，这个效果就必会触发。
 %%%%
-每对手臂的副臂的形状都很奇怪，因此你无法戴上额外的手套或魔法戒指。
+spiny mutation
 
-While in good health, you are more powerful, casting spells and slaying foes
-more effectively. Each level of this mutation increases this effect further.
+近战中，你的敌人有50%的几率被你的尖刺所刺穿，并受到伤害。
+这个变异每升一级，就会增加攻击力。
+%%%%
+augmentation mutation
+
+在健康状况良好的情况下，你会更有能量，更有效地施展法术并杀死敌人。
+这个变异每升一级，其效果都会增强。
 %%%%
 magic shield mutation
 
-When you are harmed, some damage is redirected to deplete your magic reserves
-每过三级，你将获得额外的生命。
+当你受到伤害时，一些伤害会转而消耗你的魔力储备。
 %%%%
-即使你达到了最高的经验等级，你也可以继续获得额外的生命，
+magic regeneration mutation
 
-Your magical reserves regenerate quickly.
+你的魔力储备的恢复速度变快。
 %%%%
 magic link mutation
 
-你无法选择技能进行着重训练。
+当魔力不足时，你会恢复魔法而不是生命值。
 %%%%
 demonic magic mutation
 
-When you cast spells, there's a chance that adjacent monsters will be
-你在水中游泳或在水面上飞行时能融入波浪，潜行获得加成。
-这个变异达到第二级，还会提升你在水中或水上的闪避能力和移动速度。
-allows more distant monsters to be affected. The third level of this mutation
-also allows you to paralyse monsters in the same way while zapping wands.
+当你施放法术时，相邻的怪物可能会麻痹。在施放更高等级的法术时，
+效果会更为强大，但具有更强意志力的怪物能够抵御它。这个变异每升一级，
+就能影响更远的怪物。这个变异达到第三级，你在挥动魔杖时也能麻痹怪物。
 %%%%
-你受到吸血鬼诅咒，在虚假的生命和无血无肉的死亡之间挣扎。
+icemail mutation
 
-You are coated in a protective layer of ice. Fiery attacks can temporarily melt
-the ice, removing the protection until the ice reforms. Each level of this
-mutation increases the protection imparted.
+你身上覆盖着一层起保护作用的冰。火焰攻击能暂时融化冰层，
+在冰层重新形成之前会消除保护。这个变异每升一级，就会提升获得的保护。
 %%%%
-神圣属性都显著提升了你的属性增益（力量、智力和敏捷）。
+condensation shield mutation
 
-A shield of frost guards you, blocking some incoming attacks. Fiery attacks can
-temporarily melt the shield.
+一个冰霜盾守护着你，阻挡着一些来袭的攻击。火焰攻击能暂时融化此盾。
 %%%%
-你的胶状身体有八个触手，可以帮助你在浅水或深水中移动，并能在近战时束缚敌人。
+powered by death mutation
 
-两只或四只触手可以拿一把武器，两只触手可以拿一面盾牌。
-level of this mutation increases the healing further.
+死亡滋养着你，你每夺取一条生命，就能得到一定程度的治疗。
+这个变异每升一级，治疗效果就会增强。
 %%%%
-顺便一提，每当你近战攻击时，你有三分之二的机会发动破坏性的“挤压”攻击。
+sturdy frame mutation
 
-Your movements are less encumbered by armour, mitigating penalties to spell
-success, evasion, and ranged weapon attack speed. Each level of this mutation
-你的基体形态不稳定，当你在浅水或深水中，
+你的行动将少受到护甲的阻碍，
+并减少了护甲对施法的成功率、命中率和远程武器的攻击速度的负面影响。
+这个变异每升一级，就会减少2点护甲的妨碍等级。
 %%%%
-处于人鱼形态时，你的尾巴在近战时能够扫打敌人。
+sanguine armour mutation
 
-When seriously injured, your blood congeals around you, forming armour. Each
-level of this mutation increases the AC provided.
+当受重伤时，你的血液会在你周围凝结，形成护甲。这个变异每升一级就会提升防护。
 %%%%
-但也使得你能从更远的地方被发现并成为潜在目标。
+big brain mutation
 
-What's up? You have a big brain. Each level of this mutation provides +2
-Intelligence. The third level of this mutation also makes you less likely to
-你在休息时无法恢复健康，也无法获得提升恢复速度的魔法效果。
+出什么事了？你有一个大脑袋。这个变异每升一级会加2点智力。
+这个变异达到第三级，你在施法时就更不容易失误。
 %%%%
-某些神圣祈祷能力可以短暂赋予你自愈的能力。
+ignite blood mutation
 
-但代价是要永久地失去一些魔力。
-a cloud of flame. Each level of this mutation makes this more likely. This
-mutation also grants you immunity to clouds of flame.
-# XXX: also mention that this makes people more likely to bleed?
+每当你看到（你的或他人的）飞溅的血液，它可能会燃烧，爆发成火焰云。
+这个变异每升一级，这种可能性就越大。这个变异还能让你免疫火焰云。
+# XXX：还提到这会让人更容易流血吗？
 %%%%
-当你探索地牢时，附近的那些无法直接看到的物品，
+corrupting presence mutation
 
-When you injure a foe, your presence may intensify the damage, corroding their
-# ------ 吉瓦的变异 ------
-worse, adding a chance that your wretched victims may become mutated and
-deformed.
+当你伤害到敌人时，攻击力可能会增强，并能腐蚀他们的武器和防具。
+这个变异达到第二级，事态会更为严重，你那可怜的受害者将有可能被变异、变形。
 %%%%
 black mark mutation
 
-When you strike a foe in melee, the black mark on your body may debilitate
-金色的眼球像蘑菇一样从你的肉里长出来，能够混乱你的敌人。
+当你近战攻击敌人时，你身上的黑色标记可能会削弱敌人。
+它能够虚弱敌人、汲取他们的生命力，或扰乱他们的魔法。
 %%%%
-这个变异达到第三级，你将能够看到隐形的敌人。
+aura of silence mutation
 
-You are surrounded by an aura of silence. Those adjacent to you cannot make any
-sound. This prevents most forms of spellcasting and prayer, though demonic
-你的皮肤是透明的，你的潜行能力得到提升，敌人攻击你的命中率会降低。
+你被沉默力场所围绕。与你相邻的怪物无法发出任何声音。
+它可以阻止大多数形式的施法和祈祷，但恶魔的魔法是无声的，不受此影响。
 %%%%
 bedevilling mutation
 
-You cast Hex spells with increased power.
+你施放的妖术威力增强。
 %%%%
-并从他手上将其拽出，解除他们的武装。
+demonic willpower mutation
 
-Your willpower has a will of its own, sometimes injuring those who attempt to
-hex you. This mutation also bolsters your willpower.
+你的意志力有了自己的意图，有时它会伤害那些试图给你下咒的人。
+这个变异还会增强你的意志力。
 %%%%
 hurl damnation mutation
 
-You can hurl damnation with <input>$cmd[CMD_USE_ABILITY]</input>. Foes beware!
+你可以通过<input>$cmd[CMD_USE_ABILITY]</input>发动天遣。敌人们可要当心了！
 %%%%
 word of chaos mutation
 
-You can speak a Word of Chaos with <input>$cmd[CMD_USE_ABILITY]</input>.
+你可以通过<input>$cmd[CMD_USE_ABILITY]</input>念出混沌之语。
 %%%%
-在佐特找到你并永久降低你的生命值之前，你在每层地牢的时间只有正常时间的十分之一。
+freezing cloud immunity mutation
 
-You are immune to freezing clouds.
+你免疫冰汽云。
 %%%%
-探索未知会让你精神振奋。当你探索地牢时，你的伤口会愈合，你的魔力会恢复。
+flame cloud immunity mutation
 
-You are immune to clouds of flame.
+你免疫火焰云。
 %%%%
-你被熏了圣油和圣香料，被蒙福的布裹着。
-现在你与神有一种特殊的联系，你会更快被你皈依的神所赏识。
+# ------ 其他特定物种变异 -----
+spit poison mutation
 
-You can spit poison with <input>$cmd[CMD_USE_ABILITY]</input>. The second level
-of this mutation intensifies the poison from a single glob into a large cloud.
+你可以通过<input>$cmd[CMD_USE_ABILITY]</input>喷吐毒液。
+这个变异达到第二级，毒素会从一小团毒液，变成一大片毒云。
 %%%%
 in touch with death mutation
 
-Your Necromancy spells are more powerful. The second level of this mutation
-当你移向敌人时会本能地翻滚，会向前再冲出一格。
+你的死灵法术变得更为强大。这个变异达到第二级，就会增强你的死灵术的法力。
 %%%%
-这个变异达到第二级，魔力和生命值的恢复速度会同时提升。
+acrobatic mutation
 
-Your magical nature helps you tumble your hollow bones around acrobatically,
-allowing you to evade attacks while moving or waiting.
+你那神奇的天性有助于你杂技般地翻滚你的空心骨头，从而能在移动或等待时躲避攻击。
 %%%%
 evasive flight mutation
 
-You fly evasively through the air, increasing your evasion somewhat.
+你地在空中扑闪，闪避能力得到一定提升。
 %%%%
 big wings mutation
 
-You have big, strong wings, capable of bearing you through the air.
+你长出巨大、强壮的翅膀，它能够承载你在空中飞行。
 %%%%
 float mutation
 
-当你受伤时，你有可能暂时无法饮用药水。
+你在空中悬浮，永远摆脱了大地的束缚。
 %%%%
 innate caster mutation
 
-You cannot learn spells from books. Instead, as you gain experience, spells
-当你受伤时，你有可能暂时无法阅读卷轴。
-这个变异每升一级，几率就会增加1％。
-spell schools - you can either train all spell schools at once, or none.
+你无法从书本习得法术。取而代之的是，随着你经验的增加，
+越来越高级的法术从你炽热的内心中涌现。
+这些法术是不可预知的，且不受你皈依的神影响。
+你无法训练特定的法术流派——要么同时都进行训练，要么一个都不进行训练。
 %%%%
 hp casting mutation
 
-你不能使用双手武器、装备盾牌、发起徒手攻击或一次使用多个魔法戒指。
-MP has no effect on you. When casting spells, using abilities, or doing anything
-else that *costs* MP for normal species, you spend HP instead.
+你没有独立的魔力储备，任何会影响魔力的都将对你失效。
+当施展法术、使用能力或做任何对其他物种来说需要花费魔力的事时，
+你将转而消耗生命值。
 %%%%
-你无法潜行。
+extra vitality mutation
 
-You are built differently from most species, making you slightly harder to kill.
-Each level of this mutation increases your maximum health by 4 points.
+你的身体结构与大多数物种不同，这让你略难被杀死。
+这个变异每升一级，你的生命值上限就会增加4点。
 %%%%
-你无法通过符咒、药水或其他任何方式自行改变形态。
+strong legs mutation
 
-Your uniquely muscular legs allow you to hop short distances in the blink of an
-eye with <input>$cmd[CMD_USE_ABILITY]</input>, though your walking speed is
-below average.
-
-其中包括魔杖和大多数需要通过<input>$cmd[CMD_EVOKE]</input>激活的物品，
+你的腿又大又壮，可以通过<input>$cmd[CMD_USE_ABILITY]</input>进行跳跃，
+尽管可能不会完美落到目标地点。这个变异达到第二级，你就能跳得更远。
+每当你跳跃后，都需要休息一会儿，然后才能再跳。
 %%%%
 forlorn mutation
 
-You cannot, will not, and will never worship any god.
+你不能、不会、也永远无法皈依任何神。
 %%%%
-简单、没有意识的魔法造物，比如幽灵武器、毁灭球和作战球则不受此影响。
+nightstalker mutation
 
-You are attuned to the shadows, reducing the distance that you can see or be
-seen from.
-%%%%
-你的法术威力、近战和远程攻击杀怪物的能力都会受到削弱。
-
-You are born to the light, increasing the distance that you can see and be seen
-from.
-%%%%
-你施法的失误几率会更高。这个舍弃每升一级，施法就越容易失误。
-
-You are made of living stone which is very resistant to damage. You gain a
-large bonus to your AC, which increases with your experience level, and are
-你提升技能需要更多经验。这个舍弃每升一级，技能成本就会更高。
-%%%%
-cold-blooded mutation
-
-你很容易受到创伤，你的防具的增益受到削弱。
-%%%%
-stealthy paws mutation
-
-你的反应很慢，敌人很容易攻击你。
-damage in the same way as a human with a short blade might.
-%%%%
-four strong arms mutation
-
-You have two pairs of two arms, allowing you to wield two-handed weapons with
-one pair and a shield with the other, as well as wear a second pair of gloves.
-You can even wield extremely large weapons like giant clubs, though this takes
-你失去了一只眼睛，降低了你的物理和魔法攻击的命中率。
-%%%%
-retaliatory headbutt mutation
-
-你无法饮用药水。
-gore your attacker with your horns. You can perform this against a given enemy
-no more than once per player action.
-%%%%
-你无法装备武器或投掷物品。
-
-Every third experience level, you gain an extra life. If you are slain while
-you still have a life remaining, you will reappear elsewhere on the current
-你无法装备防具。
-experience level, but you can't have more than two extra lives at a time.
-%%%%
-# 技能出现，技能消失。无法解释那个！
-
-Whenever you gain experience, it is split between all of your skills. You
-cannot choose to focus. Effects that prevent you from training certain skills,
-你的闪避技能等级为0，你也无法训练它。
-%%%%
-nimble swimmer mutation
-
-你的护甲技能等级为0，你也无法训练它。
-gaining Stealth+. The second level of this mutation also grants you improved
-evasion and increases your movement speed when in or above water.
-%%%%
-你的气系魔法技能等级为0，你也无法训练它。
-
-Your divine heritage dramatically boosts your attribute gain (Strength,
-Intelligence, and Dexterity) as you level up relative to other species, both
-你的塑能技能等级为0，你也无法训练它。
-levels, you choose an attribute to increase by four points.
-%%%%
-tentacles mutation
-
-Your gelatinous body has eight tentacles that help you move around in shallow
-or deep water and can be used to constrict enemies while attacking them in
-melee. Each tentacle can wear a ring, but you need four of them to move around,
-你的火系魔法技能等级为0，你也无法训练它。
-two tentacles to hold a shield.
-
-Your tentacles will try to constrict foes which you attack in melee. (You cannot
-你的妖术技能等级为0，你也无法训练它。
-of launching a damaging 'squeeze' attack whenever you attack in melee.
-%%%%
-mertail mutation
-
-Your morphogenic matrix is unstable, allowing your lower body to shift to
-a powerful aquatic tail when in shallow or deep water. It will quickly
-reform into legs once you leave the water. When in merform, your tail allows
-你的死灵术技能等级为0，你也无法训练它。
+你适应了阴影，减小了你能看到和被看到的距离。
 %%%%
 +LOS mutation
 
-你的炼金术技能等级为0，你也无法训练它。
-ranged attack (+1 line of sight), but also allowing you to be seen and
-potentially targeted from further away.
+你生来就向着光，增加了你能看到和被看到的距离。
 %%%%
-你的召唤技能等级为0，你也无法训练它。
+petrification resistance mutation
 
-You do not regenerate health while resting, and are unable to receive the
-effects of magic that hastens the speed of regeneration. Sources of HP gain
-你的移位技能等级为0，你也无法训练它。
-divine invocations can temporarily grant you the ability to regenerate.
-To compensate, you are able to heal yourself via the
-<input>$cmd[CMD_USE_ABILITY]</input> key, at the cost of permanent MP.
+你免疫石化。
 %%%%
-treasure sense mutation
+cold-blooded mutation
 
-You have an uncanny knack for knowing where items can be found. As you explore
-the dungeon, nearby item locations that you cannot directly see will gain a
-marker for as-yet-undiscovered items.
+当受到寒冷攻击时，你可能会变慢，直到你的血液再次变暖。
 %%%%
-# ------ Jiyva muts ------
+stealthy paws mutation
+
+当你攻击没有意识或失去行动能力的敌人时，你会造成额外的伤害，
+就像人类使用短刀一样。
+%%%%
+four strong arms mutation
+
+你有两对双臂，可以一对手持双手武器，另一对手持盾牌。
+你甚至可以挥舞极其巨大的武器，比如大棒，不过这需要两对手臂的配合。
+每对手臂的副臂的形状都很奇怪，因此你无法戴上额外的手套或魔法戒指。
+%%%%
+retaliatory headbutt mutation
+
+当敌人未在近战中击中你时，你可能会本能地进行报复，试图用你的角顶伤攻击者。
+%%%%
+multi-lived mutation
+
+每过三级，你将获得额外的生命。
+如果你被杀的时候还有一条命，你会在当前楼层的其他地方重新出现。
+即使你达到了最高的经验等级，你也可以继续获得额外的生命，
+但最多只能有两条额外生命。
+%%%%
+distributed training mutation
+
+无论你何时获得经验，它都会分配到你的所有技能之中。
+你无法选择技能进行着重训练。
+此效果让你无法训练特定技能，仿佛是神的限制，不会让你的其他技能提升得更快。
+%%%%
+nimble swimmer mutation
+
+你在水中游泳或在水面上飞行时能融入波浪，潜行获得加成。
+这个变异达到第二级，还会提升你在水中或水上的闪避能力和移动速度。
+%%%%
+vampiric mutation
+
+你受到吸血鬼诅咒，在虚假的生命和无血无肉的死亡之间挣扎。
+你可以通过<input>$cmd[CMD_USE_ABILITY]</input>放血或再一次充血。
+%%%%
+divine attributes mutation
+
+当你与其他物种相比，无论是在数值还是在发育程度的掌控上，
+神圣属性都显著提升了你的属性增益（力量、智力和敏捷）。
+每过三级，你可以选一个属性，提升四点。
+%%%%
+tentacles mutation
+
+你的胶状身体有八个触手，可以帮助你在浅水或深水中移动，并能在近战时束缚敌人。
+每只触手都可以戴上戒指，但你需要四只触手用来移动，根据武器的大小，
+两只或四只触手可以拿一把武器，两只触手可以拿一面盾牌。
+
+当你近战时，你的触手会尝试束缚敌人。（你无法束缚比你大的怪物。）
+顺便一提，每当你近战攻击时，你有三分之二的机会发动破坏性的“挤压”攻击。
+%%%%
+mertail mutation
+
+你的基体形态不稳定，当你在浅水或深水中，
+你的下半身会变成强有力的水生生物的尾巴。一旦你离开水面，它会很快变成腿。
+处于人鱼形态时，你的尾巴在近战时能够扫打敌人。
+%%%%
++LOS mutation
+
+在你的道路上黑暗会遁形，从而扩大了视野和远程攻击范围（+1视线），
+但也使得你能从更远的地方被发现并成为潜在目标。
+%%%%
+no regeneration mutation
+
+你在休息时无法恢复健康，也无法获得提升恢复速度的魔法效果。
+至于提升生命力的手段，像药水和虔诚的祈祷仍能治疗你，
+某些神圣祈祷能力可以短暂赋予你自愈的能力。
+作为补偿，你可以通过<input>$cmd[CMD_USE_ABILITY]</input> 键治疗自己，
+但代价是要永久地失去一些魔力。
+%%%%
+strong nose mutation
+
+你有着一个敏锐的鼻子，它熟悉地牢里的气息，从而可以找出宝藏藏在哪里。
+当你探索地牢时，附近的那些无法直接看到的物品，
+如果它没有被探索过，其位置会标出标记。
+%%%%
+# ------ 吉瓦的变异 ------
 gelatinous body mutation
 
-Your body is rubbery, and your foes like glue. Each level of this mutation
-confers +1 AC and +1 EV.
+你的身体富有弹性，你的敌人就像胶水。这个变异每升一级会加1点防护和1点闪避。
 %%%%
 eyeballs mutation
 
-Golden eyeballs sprout from your flesh like mushrooms, confusing your foes.
-Each level of this mutation improves your accuracy with weapons, unarmed
-attacks, auxiliary attacks, and spells. The third level of this mutation also
-allows you to see invisible foes.
+金色的眼球像蘑菇一样从你的肉里长出来，能够混乱你的敌人。
+这个变异每升一级，就能提升你的武器、徒手攻击、辅助攻击和法术的命中率。
+这个变异达到第三级，你将能够看到隐形的敌人。
 %%%%
 translucent skin mutation
 
-Your skin is transparent, improving your stealth and reducing the accuracy of
-your foes' attacks against you. Each level of this mutation reduces your foes'
-accuracy further.
-%%%%
-slime shroud mutation
-
-When struck in melee, the slimy shroud covering your body may deflect the
-attack. Such deflection will break the shroud, however, and it will take time
-for it to reconstitute itself.
+你的皮肤是透明的，你的潜行能力得到提升，敌人攻击你的命中率会降低。
+这个变异每升一级，就会削弱你的敌人的命中率。
 %%%%
 tendrils mutation
 
-When struck in melee, the slimy tendrils covering your body may grab your
-attacker's weapon and yank it from their grasp, disarming them.
+受到近战伤害时，覆盖在你身体上的黏稠卷须可能会抓住攻击者的武器，
+并从他手上将其拽出，解除他们的武装。
 %%%%
 jelly sensing items mutation
 
-You have a small jelly attached to you that senses nearby items.
+你身上附有一个小胶冻，它可以感知周围物品。
 %%%%
 jelly absorbing missiles mutation
 
-When struck by a missile (such as an arrow or crossbow bolt), a jelly on your
-body may eat it, healing you somewhat.
-%%%%
-ooze flood mutation
-
-Your melee attacks may flood the airways of your foes with ooze. Those that need
-to breathe air will be silenced and take asphyxiation damage over time.
+当你被飞弹击中时（比如箭或弩箭），你身上的胶冻可能会吞掉它，并进行一定治疗。
 %%%%
 otherworldly mutation
 
-You are foreign to this world, easily perceived by dark forces. You have only
-one-tenth the normal time on each dungeon floor before Zot finds you and
-permanently reduces your health.
-%%%%
-foul shadow mutation
-
-Your body is shadowed by foul flame. Foes hit you less often, and your stealth
-is greatly enhanced. Foes who strike you in melee are sometimes seared by the
-foul flame; undead and demonic foes take less damage from it, while holy beings
-and good god worshippers take more.
+你与这个世界格格不入，很容易被黑暗势力察觉。
+在佐特找到你并永久降低你的生命值之前，你在每层地牢的时间只有正常时间的十分之一。
 %%%%
 explore regen mutation
 
-You are invigorated by the discovery of the unknown. As you explore the dungeon,
-your wounds will heal and your magic will replenish.
+探索未知会让你精神振奋。当你探索地牢时，你的伤口会愈合，你的魔力会恢复。
 %%%%
 faith mutation
 
-You were embalmed with holy oils and sacred spices and bound about with blessed
-cloth. Now you have a special connection with the divine, allowing you to gain
-favour with your chosen god more quickly.
+你被熏了圣油和圣香料，被蒙福的布裹着。
+现在你与神有一种特殊的联系，你会更快被你皈依的神所赏识。
 %%%%
 devour on kill mutation
 
-When you kill living creatures you have a chance to devour their life force
-and restore health.
+当你杀死生物时，你有机会吞噬它们的生命力并恢复健康。
 %%%%
 rollpage mutation
 
-You instinctively roll as you move toward enemies, rampaging forward an
-additional space. This mutation grants magic regeneration when rolling; the
-second level of this mutation regenerates both magic and health.
+当你移向敌人时会本能地翻滚，会向前再冲出一格。
+这个变异能在你滚动时提升魔力恢复速度；
+这个变异达到第二级，魔力和生命值的恢复速度会同时提升。
 %%%%
 double potion healing mutation
 
-Whenever a potion restores your health or magic, it restores twice as much.
+每当药水恢复你的生命值或魔力时，其恢复量是原先的两倍。
 %%%%
 drunken brawling mutation
 
-Whenever you drink a potion that restores health or magic, you perform an
-immediate attack against all enemies adjacent to you.
+当你喝下恢复健康或魔力的药水时，你会立即攻击附近的所有敌人。
 
-(This includes potions of curing, heal wounds, magic, and ambrosia.)
+（这包括治疗、愈伤、魔力和琼浆药水。）
 %%%%
-artefact enchanting mutation
+# ------ 入要求的舍弃 ------
+inability to drink after injury mutation
 
-You can use scrolls of enchant weapon and armour upon random artefacts.
-
-This cannot raise their enchantment above what would normally be possible on a
-mundane item of the same type, and cannot affect especially unusual artefacts
-at all.
+当你受伤时，你有可能暂时无法饮用药水。
+这个变异每升一级，几率就会增加1％。
 %%%%
-runic magic mutation
+inability to read after injury mutation
 
-You cast spells with the assistance of glyphs marked upon your armour, greatly
-reducing the complex movements which would otherwise be required.
-
-(The encumbrance rating of all armour you wear is reduced by 1/2 for purposes
-of spell success.)
-%%%%
-off-hand wielding mutation
-
-You can wield a one-handed weapon in your off-hand, if not wielding a
-two-handed weapon or wearing a shield or orb. You will follow up attacks from
-your primary weapon with your off-hand weapon, with attack delay determined
-by the average of the two. Ranged weapons can only follow attacks by ranged
-weapons, and likewise melee weapons.
-%%%%
-slow wielding mutation
-
-You must recalibrate your grasping arms when wielding or unwielding weapons.
-This takes as long as donning armour.
-%%%%
-warmup strikes mutation
-
-Your grasping arms need time to limber up, making your first few attacks in
-each fight less effective. Slow, heavy attacks help more than fast attacks.
-Both weapon-based and unarmed attacks are affected.
-%%%%
-no rings mutation
-
-Your hands are embedded into the controls for your grasping arms, leaving you
-with no place to wear magical rings without disastrous magical interference.
-%%%%
-iron-fused scales mutation
-
-Your scales are fused with a thick layer of iron, giving them resilience akin to
-a suit of armour (+5 AC).
-%%%%
-inviolate magic mutation
-
-Your magic is resistant to distruption by outside forces. Hostile effects which
-drain your MP drain only 1/3 as much and you are immune to having your magical
-effects be removed by anyone but yourself.
-%%%%
-formless mutation
-
-You have no physical body and instead interact with the world through haunting
-objects. This allows you to 'equip' up to 6 boots, gloves, cloaks, or helmets in
-any combination, but body armour is too large for you to usefully manipulate in
-this fashion.
-
-At higher levels, you can even send the armour you are haunting out to attack
-enemies independently for short periods of time.
-%%%%
-trickster mutation
-
-Your connection to the realm of the living grows stronger as you spread
-misfortune.
-
-Whenever you or your allies inflict new negative status effects upon nearby
-enemies (other than poison), your AC temporarily increases. This bonus improves
-with the number of different enemies affected, but will decay over time if you
-do not continue to inflict new misfortune.
-
-At your current XL, you can gain a maximum bonus of
-{{return 6 + you.xl() * 4 / 5;}} AC this way.
-%%%%
-mnemnophage mutation
-
-You devour the memories and even the very existence of those you kill, subsuming
-them in the unholy fire that wreathes your body.
-
-Once you have accumulated enough memories, you may choose to burn them all away
-as fuel to greatly enhance your spellcasting for a short period of time.
-
-At your current experience level, you can hold enough memories to cast a maximum
-of {{return 3 + math.floor(you.xl() * 3 / 20);}} spells in a row this way.
-%%%%
-spellclaws mutation
-
-You instinctually channel destructive magic through your claws. When casting a
-damage-dealing spell, you also perform a melee attack against the most healthy
-enemy in your attack range.
-
-This attack does reduced damage if your attack speed is slower than your casting
-speed.
-%%%%
-accursed mutation
-
-Your accursed nature makes it harder to dispel malignant energies from your
-being, reducing the rate at which you can recover from Doom and Banes.
-# ------ Fakemut descriptions ------
-%%%%
-vampire fangs mutation
-
-When you perform a stab attack against a living monster with blood, you heal for
-a portion of the total damage dealt. When you are at 50% of your max HP or less,
-this has a 2/3 chance to happen on all melee attacks.
-%%%%
-bloodcurse mutation
-
-When you kill a living monster with a stab attack, they may rise again to serve
-you as a vampiric thrall. Thralls possess all the abilities they had in life,
-but are undead, and gain a vampiric bite attack as well as increased melee
-damage against sleeping foes. Spellcaster thralls will also gain knowledge of
-the Vampiric Draining spell.
-
-You can only create a thrall if you do not have one already, and they will
-inevitably turn to dust after a short time.
-%%%%
-insubstantial mutation
-
-You are insubstantial and immune to many effects that require a solid body. You
-cannot be constricted, petrified, skewered by barbs, covered in sticky flame, or
-caught by webs, nets, or bolas.
-%%%%
-frigid aura mutation
-
-Your breath radiates an intense chill which freezes nearby walls solid as you
-fight.
-
-Whenever you attack, you turn a random wall adjacent to your target or yourself
-frigid. Frigid walls deal damage to any enemies adjacent to them each turn - up
-to twice as much when an enemy is adjacent to as many as possible. This damage
-increases with your shapeshifting skill.
-
-The walls will rapidly melt again if you stop attacking.
-%%%%
-hive swarm mutation
-
-Whenever an injury reduces your health to less than 50%, angry bees will swarm
-out of your body to defend you.
-
-This effect cannot happen again until your health is fully recovered.
-%%%%
-water reaching mutation
-
-Your body is formed of elemental water that changes shape flexibly, allowing you
-to reach and perform melee attacks from several tiles away - including auxiliary
-attacks of all sorts.
-
-The precision required to preform stab attacks is still impossible unless you're
-adjacent to your target, and axes can only cleave to enemies adjacent to you,
-regardless of where you strike.
-%%%%
-water splatter mutation
-
-When injured, parts of your watery body may splatter as puddles of shallow
-water nearby. The more damage you take at once, the more water is spread around.
-%%%%
-freeze response mutation
-
-Whenever you are exposed to cold damage, you have a chance to become Frozen,
-lowering your movement speed for a short while.
-%%%%
-steam response mutation
-
-Whenever you take fire damage from a projectile, you have a chance (increasing
-with the damage suffered) to spread steam clouds around yourself.
-%%%%
-airstrike attack mutation
-
-Whenever you strike an enemy in melee, the wind twists around and strikes them
-for additional damage which is increased for each empty space adjacent to them.
-%%%%
-hex mastery mutation
-
-Your Hexes spells are much easier to cast (reduced miscast chance and severity)
-and enemies have reduced willpower against all your effects.
-%%%%
-riddle compulsion mutation
-
-You compulsively pose riddles to enemies when you encounter them. Every now and
-again, these may confuse or vex them, but mostly they just attract their
-attention.
-%%%%
-werefury mutation
-
-Whenever you kill an enemy with a melee attack, you gain a temporary slaying
-bonus that increases with your Shapeshifting skill.
-
-This bonus stacks up to +12 and will not expire so long as you continue to
-perform melee attacks.
-%%%%
-werehowl mutation
-
-When you kill an enemy in melee, if your werefury bonus is at least 5, you may
-unleash a terrifying howl that attempts to freeze all nearby enemies in place
-with fear if it overcomes their willpower.
-%%%%
-stinger hair mutation
-
-Your hair is made of long prehensile jellyfish-like tendrils. Whenever you
-attack in melee, they will lash out and attempt to poison several visible
-enemies within 2 tiles of the player at random.
-
-The number of enemies they can afflict at once is improved by Shapeshifting
-skill.
-%%%%
-lithotoxin mutation
-
-When your health drops to 60% of your max HP or less, your tendrils reflexively
-attempt to petrify all poisoned enemies within 3 tiles of you.
-
-This effect cannot activate again until you fully heal and its success chance
-improves with your Shapeshifting skill.
-%%%%
-contaminating mutation
-
-When you strike an enemy in melee, a portion of the transmutational energy
-surging through will contaminate them. Upon landing the third strike in a row,
-this contamination will grow so acute that it will twist their bodily form,
-inflicting significant AC-ignoring damage and malmutating them.
-%%%%
-maw attack mutation
-
-Your maw sometimes bites enemies in melee, at a rate independant of your own
-attack speed (once per 15 aut, on average). Its base damage is directly
-increased by 75% of your strength.
-%%%%
-devouring maw mutation
-
-When you kill an edible enemy in melee (any hostile, non-summoned, living or
-plant monster), your maw devours it, greatly increasing your regeneration for a
-short while. More powerful enemies provide a longer duration of this effect.
-%%%%
-growling stomach mutation
-
-Your maw's appetite is insatiable. Whenever you first encounter an edible
-monster, there is a chance to become mesmerised by it and let out a loud growl.
-%%%%
-eel punch mutation
-
-Your melee hits have a 50% chance of discharging an arc of electricity that
-travels between several connected enemies.
-%%%%
-eeljolt mutation
-
-When your health drops to 40% of your max HP, your eels violently discharge
-electricity, striking all connected targets within 2 tiles of yourself - be they
-friend or foe - for twice the damage their electricity normally does.
-
-This effect cannot activate again until you fully heal.
-%%%%
-blade parry mutation
-
-You briefly gain SH equal to your slaying whenever you perform a melee attack
-(with an additional flat bonus based on your Shapeshifting skill).
-%%%%
-sporulate mutation
-
-Your melee attacks cause multiple burstshrooms to begin growing on unoccupied
-tiles behind your target. If they are allowed to grow for several turns, they
-will explode in a burst of spores that damages nearby enemies and can briefly
-daze them.
-%%%%
-armoured shell mutation
-
-Your body armour is fused into your shell, multiplying its base AC by a factor
-that increases with your Shapeshifting skill. The effectiveness of its ego and
-most artefact properties will also be doubled, though certain rare artefacts may
-be too unusual to enhance this way.
-%%%%
-hypnotic gaze mutation
-
-Your gaze has a hypnotic effect on many creatures. Whenever a living, demonic,
-or holy monster first notices you, it may become momentarily dazed, preventing
-it from shouting. Creatures which fail a Willpower check will be dazed for even
-longer.
-%%%%
-# ------ Makhleb destruction flavours ------
-Gehenna destruction mutation
-
-Your Unleash Destruction ability is empowered by Gehenna. You are able to hurl
-bolts of magma instead of cold, and your bolts of fire can strip away their
-victims' fire resistance.
-%%%%
-Cocytus destruction mutation
-
-Your Unleash Destruction ability is empowered by Cocytus. You are able to hurl
-bolts of ice instead of fire, and your bolts of cold freeze victims solid,
-slowing their movement.
-%%%%
-Tartarus destruction mutation
-
-Your Unleash Destruction ability is empowered by Tartarus. You are able to hurl
-bolts of devastation which lower their victims' willpower instead of lightning,
-and your bolts of negative energy are more powerful.
-%%%%
-Dis destruction mutation
-
-Your Unleash Destruction ability is empowered by Dis. You are able to hurl bolts
-of corrosive acid and metal splinters instead of negative energy.
-%%%%
-# ------ Makhleb marks ------
-Mark of the Tyrant mutation
-
-Your Infernal Servants have a longer duration, and you can summon even stronger
-ones at very high Invocations (at the cost of additional piety). When you slay
-enemies, a random servant may gain one of: Haste, Might, Regeneration, or
-Brilliance.
-%%%%
-Mark of Carnage mutation
-
-Your Infernal Servants are now summoned adjacent to a random enemy instead of
-near you. When they appear, they do so in a blast of your characteristic
-Destruction (which cannot hurt you or other allies).
-
-(Your servants unleash blasts of either
-{{
-    if you.get_base_mutation_level("Dis destruction") == 1 then
-        return "acid or metal splinters"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "negative energy or devastation"
-    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "fire or lava"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "cold or ice"
-    end
-}}.)
-%%%%
-Mark of the Legion mutation
-
-Your Infernal Servant ability is replaced with Infernal Legion, allowing you to
-call in a small army of demons over time. While individually short-lived, their
-numbers are inexhaustible for as long as the status lasts, and they will never
-be hostile to you.
-
-You may also unleash Makhleb's Destruction through your summoned allies without
-harming them.
-%%%%
-Mark of Annihilation mutation
-
-Your Infernal Servant ability is replaced with Globe of Annihilation, allowing
-you to hurl slow-moving spheres of intense destructive force that detonate
-in an enormous blast of your characteristic Destruction.
-
-(Your globes of annihilation unleash either
-{{
-    if you.get_base_mutation_level("Dis destruction") == 1 then
-        return "acid or metal splinters"
-    elseif you.get_base_mutation_level("Tartarus destruction") == 1 then
-        return "negative energy or devastation"
-    elseif you.get_base_mutation_level("Gehenna destruction") == 1 then
-        return "fire or lava"
-    elseif you.get_base_mutation_level("Cocytus destruction") == 1 then
-        return "cold or ice"
-    end
-}}.)
-%%%%
-Mark of Haemoclasm mutation
-
-When you kill enemies, they have a small chance to explode in a violent rain of
-gore, which damages adjacent foes proportional to the victim's maximum health.
-
-Enemies who die to this explosion will always explode themselves.
-%%%%
-Mark of the Celebrant mutation
-
-Whenever you fall below 50% of your maximum HP, you perform an infernal rite,
-unleashing a flurry of blood arrows aimed at nearby enemies. You will fire at
-least one arrow for every valid target, but may fire additional ones if few are
-present. Invocations increases the damage of these arrows, and Makhleb will
-always bestow healing upon you for enemies killed by them.
-
-After performing a blood rite, you cannot perform another until your HP has
-fully recovered.
-%%%%
-Mark of Execution mutation
-
-A demonic incarnation of murder lies dormant within your soul. Whenever you kill
-an enemy in melee, there is a small chance for it to awaken and manifest as a
-maelstrom of scythe-like blades enveloping you. These blades will attack
-whenever you do and also retaliate whenever you successfully dodge an enemy
-attack.
-
-You have the ability to rampage swiftly towards enemies while possessed, but if
-you spend more than a short while doing anything other than attacking, the
-demonic presence will go dormant inside you once again.
-%%%%
-Mark of Atrocity mutation
-
-Your Unleash Destruction is empowered the more times you use it consecutively
-without pause, increasing in both damage and health cost. Upon using it a fourth
-time in a row, you will automatically unleash a wild barrage of additional bolts
-aimed at random targets and reset this boost.
-%%%%
-Mark of the Fanatic mutation
-
-Grants you the Vessel of Slaughter ability, allowing you to transform into a
-powerful demonic avatar with greatly boosted offence and defence for a short
-period of time, in exchange for being dragged down into the Crucible of Flesh
-afterward and made to fight for your freedom.
-%%%%
-# ------ Ru sacrifices ------
-renounce potions mutation
-
-You refuse to drink potions in combat unless badly injured. While enemies are in
-your line of sight (and for several turns afterward), you will be unable to
-drink anything unless your HP is below 50% of its maximum.
-%%%%
-renounce scrolls mutation
-
-You refuse to read scrolls in combat unless badly injured. While enemies are in
-your line of sight (and for several turns afterward), you will be unable to
-read anything unless your HP is below 50% of its maximum.
+当你受伤时，你有可能暂时无法阅读卷轴。
+这个变异每升一级，几率就会增加1％。
 %%%%
 missing a hand mutation
 
-You are considerably less handy than you used to be. You cannot wield
-two-handed weapons, wear a shield, launch off-handed attacks, or use more than
-one magical ring at a time.
+你的手要比以前不方便得多。
+你不能使用双手武器、装备盾牌、发起徒手攻击或一次使用多个魔法戒指。
 %%%%
 no stealth mutation
 
-You have no Stealth. You will always alert monsters when they see you, and
-they will track you very effectively.
+你无法潜行。
+当敌人能看到你时，你总是能引起他们的警觉，并且他们能够轻易追踪你。
 %%%%
 no forms mutation
 
-You cannot voluntarily change forms, via talismans, potions, or any other means.
-You may still be involuntarily transformed by effects such as wands of polymorph.
+你无法通过符咒、药水或其他任何方式自行改变形态。
+但你仍有可能会被变形魔杖等方式不由自主地改变形态。
 %%%%
 inability to use devices mutation
 
-You cannot use magical devices. This includes wands and most items evoked with
-<input>$cmd[CMD_EVOKE]</input>, excepting reaching weapons, talismans, and
-ziggurat figurines. This also renders magical staves much less effective in
-melee.
+你无法使用魔法设备。
+其中包括魔杖和大多数需要通过<input>$cmd[CMD_EVOKE]</input>激活的物品，
+但不包括获得的武器、符咒和金字塔雕像。这也使得法杖在近战时的威力大大降低。
 %%%%
 hated by all mutation
 
-You are hated by all and cannot acquire allies, temporarily or permanently, by
-any means. Simplistic, unthinking magical constructs, such as spectral weapons,
-orbs of destruction, and battlespheres, are unaffected.
+你被所有怪物憎恨，无法以任何方式获得暂时或永久的盟友。
+简单、没有意识的魔法造物，比如幽灵武器、毁灭球和作战球则不受此影响。
 %%%%
 cowardly mutation
 
-Seeing threatening monsters fills you with dread, reducing the power of your
-spells and your ability to slay monsters with melee and ranged attacks. Seeing
-multiple such monsters at once, or extremely threatening monsters, renders this
-even worse.
+看到有威胁的怪物会让你充满恐惧，
+你的法术威力、近战和远程攻击杀怪物的能力都会受到削弱。
+一次看到多个这样的怪物，或极其危险的怪物，会让情况变得更糟。
 %%%%
 disrupted magic mutation
 
-Your chance to miscast spells is higher. Each level of this sacrifice increases
-the chance to miscast further.
+你施法的失误几率会更高。这个舍弃每升一级，施法就越容易失误。
 %%%%
 unskilled mutation
 
-It takes you more experience to improve your skills. Each level of this
-sacrifice makes your skills cost even more.
+你提升技能需要更多经验。这个舍弃每升一级，技能成本就会更高。
 %%%%
 reduced AC mutation
 
-You are easily battered and bruised, reducing the benefits of your armour.
+你很容易受到创伤，你的防具的增益受到削弱。
 %%%%
 reduced EV mutation
 
-Your reflexes are slow, making it easier for foes to hit you.
+你的反应很慢，敌人很容易攻击你。
 %%%%
 inexperienced mutation
 
-You are inexperienced and unable to fully gain 27 levels.
+你缺乏经验，无法完全升到27级。
 %%%%
 missing an eye mutation
 
-You are missing an eye, reducing the accuracy of your physical and magical
-attacks.
+你失去了一只眼睛，降低了你的物理和魔法攻击的命中率。
 %%%%
 no potions mutation
 
-You are unable to quaff potions.
+你无法饮用药水。
 %%%%
 no weapons or thrown items mutation
 
-You are incapable of wielding weapons or throwing items.
+你无法装备武器或投掷物品。
 %%%%
 no armour mutation
 
-You cannot wear armour.
+你无法装备防具。
 %%%%
-# ------ Skill suppression ------
-# skills go in, skills go out. Can't explain that!
-# XXX - might be cool to deduplicate this
+# ------ 技能受制 ------
+# 技能出现，技能消失。无法解释那个！
+# XXX - 消除它可能会很酷
 inability to train dodging mutation
 
-Your Dodging skill is 0 and you cannot train the skill.
+你的闪避技能等级为0，你也无法训练它。
 %%%%
 inability to train armour mutation
 
-Your Armour skill is 0 and you cannot train the skill.
+你的护甲技能等级为0，你也无法训练它。
 %%%%
 no air magic mutation
 
-Your Air Magic skill is 0 and you cannot train the skill.
+你的气系魔法技能等级为0，你也无法训练它。
 %%%%
 no conjurations magic mutation
 
-Your Conjurations skill is 0 and you cannot train the skill.
+你的塑能技能等级为0，你也无法训练它。
 %%%%
 no earth magic mutation
 
-Your Earth Magic skill is 0 and you cannot train the skill.
+你的土系魔法技能等级为0，你也无法训练它。
 %%%%
 no fire magic mutation
 
-Your Fire Magic skill is 0 and you cannot train the skill.
+你的火系魔法技能等级为0，你也无法训练它。
 %%%%
 no hexes magic mutation
 
-Your Hexes skill is 0 and you cannot train the skill.
+你的妖术技能等级为0，你也无法训练它。
 %%%%
 no ice magic mutation
 
-Your Ice Magic skill is 0 and you cannot train the skill.
+你的冰系魔法技能等级为0，你也无法训练它。
 %%%%
 no necromancy magic mutation
 
-Your Necromancy skill is 0 and you cannot train the skill.
+你的死灵术技能等级为0，你也无法训练它。
 %%%%
 no alchemy magic mutation
 
-Your Alchemy skill is 0 and you cannot train the skill.
+你的炼金术技能等级为0，你也无法训练它。
 %%%%
 no summoning magic mutation
 
-Your Summoning skill is 0 and you cannot train the skill.
+你的召唤技能等级为0，你也无法训练它。
 %%%%
 no translocations magic mutation
 
-Your Translocations skill is 0 and you cannot train the skill.
+你的移位技能等级为0，你也无法训练它。
 %%%%
-no forgecraft magic mutation
-
-Your Forgecraft skill is 0 and you cannot train the skill.
-%%%%
-# ------ Banes ------
-lethargy bane
-
-You cover ground slowly - moving to new positions takes you 30% more time than
-normal. This has no effect on other types of actions, like attacking or casting
-spells.
-%%%%
-heatstroke bane
-
-When you are damaged by fire, you have a high chance to become slowed for a
-moderate length of time. This chance is decreased by your current level of fire
-resistance.
-%%%%
-snow-blindness bane
-
-When you are damaged by cold, you have a high chance to become weak and blind
-for a moderate length of time. This chance is decreased by your current level of
-cold resistance.
-%%%%
-electrospasm bane
-
-When you are damaged by electricity, you have a chance to become bound in place
-and unable to move for a short length of time. This chance is decreased by your
-current level of electrical resistance.
-%%%%
-claustrophobia bane
-
-You suffer a penalty to the damage and accuracy of your attacks and the power of
-your spells based on the number of solid feature you are currently adjacent to.
-(-2 slaying and -10% spell power per solid feature.)
-%%%%
-stumbling bane
-
-Your evasion is decreased by 25 on any turn where you either moved or waited in
-place without doing anything else.
-%%%%
-succour bane
-
-Whenever you kill an enemy, all other nearby enemies are healed for a large
-fraction of that enemy's maximum health.
-%%%%
-multiplicity bane
-
-Enemies in sight of you have a small chance each turn to create multiple clones
-of themselves. These clones are very fragile and do reduced damage with attacks
-and spells, but will not expire on their own.
-%%%%
-dilettante bane
-
-Your skill with your highest weapon skill (at the time of becoming afflicted by
-this bane) is reduced by 50% and your skill with your two highest skills among
-magical schools, Invocations, and Evocations are reduced by 25%.
-%%%%
-paradox bane
-
-Whenever you first spot a monster, it has a chance to become Touched by Paradox,
-giving it the ability to use Manifold Assault as a natural ability (and a small
-chance to blink randomly after doing so).
-%%%%
-warding bane
-
-Groups of enemies you encounter may have Warding, preventing all damage they
-would take from any source which is not currently adjacent to them (including
-clouds, if their creator is currently non-adjacent).
-%%%%
-hunted bane
-
-Whenever an enemy summons monsters against you, they will usually appear
-adjacent to you instead of their summoner. Their duration is also increased and
-they will never lose track of your position, no matter where you flee.
-%%%%
-mortality bane
-
-When you are badly injured and alone, a reaper may come to claim you. These reapers
-will be immune to all damage from non-adjacent sources and, if your XL is less
-than 14, will additionally be slow. At higher XL, multiple reapers may appear at
-once.
-
-When this bane is lifted, all reapers summoned this way will immediately vanish.

@@ -5,7 +5,7 @@ item := item_glyph
 item += potion:lightgrey
 item += scroll:lightgrey
 
-# 这些颜色故意与 Intory 相同（请参阅 menu_colours.txt）：
+# 这些颜色故意与 Inventory 相同（请参阅 menu_colours.txt）：
 item += good_item.*(potion|scroll):cyan
 item += emergency_item.*(potion|scroll):yellow
 item += dangerous_item.*(potion|scroll):magenta

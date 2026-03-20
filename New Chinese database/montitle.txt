@@ -43,307 +43,287 @@ Boris title
 
 鲍里斯，生死大师
 %%%%
-Cassandra title
+Cerebov title
 
 赛里鲍夫，火与钢之恶魔领主
 %%%%
-Cerebov title
+Chuck title
 
 收集者查克
 %%%%
-Chuck title
+Crazy Yiuf title
 
 开悟者疯狂的伊夫
 %%%%
-Crazy Yiuf title
+Dispater title
 
 迪斯帕特，铁城领主
 %%%%
-Dispater title
+Dissolution title
 
 分解者，吉瓦的高级祭司
 %%%%
-Dissolution title
+Donald title
 
 冒险者唐纳德
 %%%%
-Donald title
+Dowan title
 
 多万，多维莎的哥哥
 %%%%
-Dowan title
+Duvessa title
 
 多维莎，多万的妹妹
 %%%%
-Duvessa title
+Edmund title
 
 年少者埃德蒙
 %%%%
-Edmund title
+Ereshkigal title
 
 埃列什基伽勒，塔尔塔罗斯的女王
 %%%%
-Ereshkigal title
+Erica title
 
 暴躁的埃里卡
 %%%%
-Erica title
+Erolcha title
 
 狡猾的厄洛卡
 %%%%
-Erolcha title
+Eustachio title
 
 奇伟的埃乌斯塔乔
 %%%%
-Eustachio title
+Fannar title
 
 冷酷的范纳尔
 %%%%
-Fannar title
+Frances title
 
 弗朗西丝，魔窟的女公爵
 %%%%
-Frances title
+Frederick title
 
 完美的弗雷德里克
 %%%%
-Frederick title
+Gastronok title
 
 沉思的加斯特罗克
 %%%%
-Gastronok title
+Geryon title
 
 吉里昂，地狱的守门人
 %%%%
-Geryon title
+Gloorx Vloq title
 
 克罗克斯·弗拉克，暗之恶魔领主
 %%%%
-Gloorx Vloq title
+Grum title
 
 猎手格鲁姆
 %%%%
-Grum title
+Grunn title
 
 被惩罚的格鲁
 %%%%
-Grunn title
+Harold title
 
 饱经风霜的哈罗德
 %%%%
-Harold title
+Ignacio title
 
 伊格纳西欧，剧痛大师
 %%%%
-Ignacio title
+Ilsuiw title
 
 伊尔斯，潮汐女巫
 %%%%
-Ilsuiw title
+Ijyb title
 
 爱钻研的伊吉布
 %%%%
-Ijyb title
+Jessica title
 
 见习女术师杰西卡
 %%%%
-Jessica title
+Jeremiah title
 
 耶利米，蛙人神游者
 %%%%
-Jeremiah title
+Jorgrun title
 
 撼地者约格伦
 %%%%
-Jorgrun title
+Jory title
 
 血腥伯爵乔里
 %%%%
-Jory title
+Joseph title
 
 约瑟夫，雇佣兵
 %%%%
-Joseph title
+Josephina title
 
 冰巫妖约瑟芬娜
 %%%%
-Josephina title
+Josephine title
 
 腐朽的死灵法师约瑟芬
 %%%%
-Josephine title
+Khufu title
 
 不朽的法老胡夫
 %%%%
-Khufu title
+Kirke title
 
 喀耳刻，神话编织者
 %%%%
-Kirke title
+Lodul title
 
 雷霆洛杜尔
 %%%%
-Lodul title
+Lom Lobon title
 
 洛姆·洛邦，禁忌知识之恶魔领主
 %%%%
-Lom Lobon title
+Louise title
 
 腐化的路易丝
 %%%%
-Louise title
+Maggie title
 
 自负的玛吉
 %%%%
-Maggie title
+Mara title
 
 玛拉，幻象领主
 %%%%
-Mara title
+Margery title
 
 屠龙者玛杰丽
 %%%%
-Margery title
+Maurice title
 
 盗贼莫里斯
 %%%%
-Maurice title
+Menkaure title
 
 孟卡拉，尘土王子
 %%%%
-Menkaure title
+Mennas title
 
 梅纳斯，辛的代言人
 %%%%
-Mennas title
+Mlioglotl title
 
 姆利格洛特，无形的恐怖
 %%%%
-Mlioglotl title
+Mnoleg title
 
 姆诺莱格，混沌之恶魔领主
 %%%%
-Mnoleg title
+Murray title
 
 会说话的恶魔头骨默里
 %%%%
-Murray title
+Natasha title
 
 娜塔莎，生死仆从
 %%%%
-Natasha title
+Nellie title
 
 内莉，演出明星
 %%%%
-Nellie title
+Nergalle title
 
 缚魂者内尔伽莉
 %%%%
-Nergalle title
+Nessos title
 
 精英半人马内萨斯
 %%%%
-Nessos title
+Nikola title
 
 疯狂的发明家尼古拉
 %%%%
-Nikola title
+Norris title
 
 哲人诺里斯
 %%%%
-Nobody title
+Parghit title
 
 强大的帕吉特
 %%%%
-Norris title
+Pargi title
 
 柔弱的帕吉
 %%%%
-Parghit title
+Pikel title
 
 皮克尔，灵魂商人
 %%%%
-Pargi title
+Polyphemus title
 
 警惕的牧羊人波吕斐摩斯
 %%%%
-Pikel title
+Robin title
 
 强臂罗宾
 %%%%
-Polyphemus title
+Roxanne title
 
 罗克珊，名誉堪舆师
 %%%%
-Robin title
+Rupert title
 
 野人鲁珀特
 %%%%
-Roxanne title
+Saint Roka title
 
 弥赛亚圣罗卡
 %%%%
-Rupert title
+Sigmund title
 
 可怕的西格蒙德
 %%%%
-Saint Roka title
+Snorg title
 
 饕餮的史诺格
 %%%%
-Sigmund title
+Sojobo title
 
 僧正坊，天狗女王
 %%%%
-Snorg title
+Sonja title
 
 索尼娅，优雅的刺客
 %%%%
-Sojobo title
+Terence title
 
 鲁莽的泰伦斯
 %%%%
-Sonja title
+Tiamat title
 
 提亚玛特，龙神的化身
 %%%%
-Sprozz title
+Urug title
 
 兽人弩炮尤鲁格
 %%%%
-Terence title
+Vashnia title
 
 上层精英纳迦瓦什妮亚
 %%%%
-Tiamat title
+Vv title
 
 流亡的薇薇
 %%%%
-Urug title
+Xtahua title
 
 古老的西泰华
 %%%%
-Wiglaf title
-
-塞奈达，西泽的追寻者
-%%%%
-Vashnia title
-
-Vashnia the Elite Marksnaga
-%%%%
-Vv title
-
-Vv the Exile
-%%%%
-Xak'krixis title
-
-Xak'krixis, Royal Expeditionary Alchemist
-%%%%
-Xtahua title
-
-Xtahua the Ancient
-%%%%
 Zenata title
 
-Zenata, Seeker of Sheza
+塞奈达，西泽的追寻者
 %%%%
