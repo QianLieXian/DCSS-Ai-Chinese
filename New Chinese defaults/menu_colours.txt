@@ -1,75 +1,75 @@
-# Changing colours of items in the inventory and other menus
+# 更改库存和其他菜单中项目的颜色
 
 menu := menu_colour
 ae   := autopickup_exceptions
 
-# Items currently not affecting you or (in some cases) not usable
+# 目前对您没有影响或（在某些情况下）不可用的物品
 menu += darkgrey:(melded)
 menu += darkgrey:(inert)
 
-# Bad items
+# 不良物品
 menu += lightred:.*bad_item.*
 
-# Useless items, comes here to override artefacts etc.
+# 无用的物品，来这里是为了覆盖人工制品等。
 menu += darkgrey:.*useless_item.*
 
-# Items disliked by your god.
+# 你的神不喜欢的物品。
 menu += $forbidden:.*forbidden.*
 
-# Handle cursed and equipped items early to override other colour settings.
+# 尽早处理被诅咒和装备的物品以覆盖其他颜色设置。
 menu += lightred:.*equipped.* cursed
 menu += red: (a|the) cursed
 menu += lightgreen:.*equipped.*
 
-# Important game items
+# 重要的游戏物品
 #
 menu += lightmagenta:rune of Zot
 menu += lightmagenta:.*orb.*Zot
 
-# Artefacts
+# 文物
 #
 menu += lightcyan:unrand.*artefact
 
 menu += white:.*artefact.*
 
-#menu += white:.*identified.*artefact.*
-#menu += lightblue:.*unidentified.*artefact.*
+#menu += white:.*已识别。*人工制品。*
+#menu += lightblue:.*身份不明。*人工制品。*
 
-# Possible egos
+# 可能的自我
 menu += lightblue:^unidentified .*weapon.*(runed|glowing)
 menu += lightblue:^unidentified .*armour.*(runed|glowing|embroidered|shiny|dyed)
 
-# Enchanté
+# 魅惑
 menu += green:enchanted
 menu += green:staff of
 menu += green:ego
 
-# Emergency items
+# 紧急物品
 menu += yellow:.*emergency_item.*
 
-# Good items
+# 好东西
 menu += cyan:.*good_item.*
 
-# Dangerous (but still useful) items
+# 危险（但仍然有用）的物品
 menu += $dangerous:.*dangerous_item.*
 menu += $dangerous:misc.*ziggurat
 
-# Evokers come after dangerous items to allow tremorstones to be properly purple
+# 唤魔者追寻危险物品，让震颤石变成适当的紫色
 menu += lightcyan:evoker.*
 
-# Defaults for normal items
+# 普通项目的默认值
 menu += lightblue:unidentified.*(potion|scroll|wand|jewellery|magical staff)
 
 
-# Colouring of autoinscribed god gifts
+# 自动铭刻的上帝礼物的着色
 menu_colour += pickup:green:god gift
 
-# Highlight (partly) selected items
-# XX this shouldn't be done this way!
+# 突出显示（部分）选定的项目
+# XX 这不应该这样做！
 menu_colour += inventory:white:\w \+\s
 menu_colour += inventory:white:\w \#\s
 menu_colour += inventory:white:\w \*\s
 
 
-# Not really menu.
+# 不是真正的菜单。
 menu_colour += notes:white:Reached XP level

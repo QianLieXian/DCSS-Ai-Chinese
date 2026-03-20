@@ -1,26 +1,26 @@
-# This file contains the messages used to "announce" a spell, like
-# "The wizard mumbles some strange words."  The messages are looked
+# 该文件包含用于“宣告”法术的消息，如“巫师咕哝着一些奇怪的话。”
+# 游戏会按以下关键词的顺序匹配消息：
 # up in the following order by the following keys:
 #
-# 1) The name of the spell being cast:
-#   a) First try with the type, then the species, the the genus.
-#   b) If a wizard, "wizard"; similarly for priest, magical, and natural.
-#   c) If being cast by a wizard or priest monster with arms, first try
-#      with the suffix "real".
-#   d) If being cast by a monster of normal or higher intelligence with arms,
-#      try with the suffix "gestures".
-#   e) Next, try without any suffix.
-# 2) The name of the monster's type, then species, then genus.
-# 3) "priest" if the spell is an invocation, "wizard" if it's a wizard spell,
+#   a) 首先尝试类型，然后是物种，接着是属。
+#   b) 如果是由巫师施放的，则为“wizard”，祭司、魔法、自然能力也是如此。
+#   c) 如果是由巫师或祭司用手施放的，首先尝试后缀“real”。
+#   d) 如果是由正常或更高智力的怪物用手施放的，尝试后缀“gestures”。
+#   e) 接下来，尝试不带任何后缀。
+# 2) 怪物的类型，然后是物种，接着是属。
+# 3) 如果法术是种祈祷，则为“priest”；如果是巫师法术，则为“wizard”；
+# 如果是魔力，则为“magical”。
+# 4) 如果该法术是定向的、可见的波束：
+#   a) “<波束简称> beam”。
 #    or "magical" if it's magical.
 # 4) If the spell uses a targeted, visible beam:
-#   a) "<beam_short_name> beam".
-#   b) "beam catchall".
+# 对于2和3，如果法术有一个目标，
+# 匹配关键词时首先会加入带后缀“targeted”的条目，然后尝试不带该后缀的条目。
 #
-# For 2 and 3, if the spell has a target it will first add the suffix
-# "targeted" to the lookup key before trying without the suffix.
+# 对于其中任一情形，如果巫师没有手臂，
+# 它将使用“non-humanoid wizard”而不是“wizard” 。
 #
-# For any of them, if a wizard has no arms, it will use "non-humanoid wizard"
+# 比如，一个纳迦罗阇施放传送自己：
 # instead of "wizard."
 #
 # For example, a nagaraja casting Teleport Self:
@@ -33,7 +33,7 @@
 # * Teleport Self cast
 # * nagaraja cast
 # * naga cast
-# * naga cast
+# 一个怪物“施放”喷吐毒液：
 # * wizard cast
 #
 # And one "casting" Spit Poison:
@@ -50,13 +50,13 @@
 # * naga cast
 # * naga cast targeted
 # * naga cast
-# * poison beam cast
-# * catchall beam cast
+# 在所有匹配情形中，如果是玩家看不见的怪物，匹配时关键词前会添加“unseen”，
+# 如果玩家或怪物被沉默了，关键词前会添加“silent”
 #
-# For all lookups, if the monster is unseen by the player it will add the
-# prefix "unseen" to the key, or if the player or monster is silenced
+# 如果使用前缀“silent”没有结果，它将重试没有前缀的情况，
+# 假定该法术不产生声音。
 # it will prefix "silent" to the key (if the monster is both unseen and
-# unheard no message is ever given). If using the prefix "silent" gives
+# 如果不给出消息，则使用字符串“__NONE”。
 # no results it will try again without the prefix, assuming that the
 # spell has no sound component.
 #
@@ -68,141 +68,141 @@
 %%%%
 Airstrike cast
 
-@The_monster@ waves @possessive@ @arms@ in wide circles.
+你听到刮风的声音。
 %%%%
 unseen Airstrike cast
 
-You hear blowing wind.
+你听到@something@在呼唤死者。
 %%%%
 Blinkbolt cast
 
-@The_monster@ bursts into living lightning!
+@The_monster@一边吟诵，一边向周围区域做着手势。
 %%%%
-unseen Blinkbolt cast
+@The_monster@一边吟诵，一边张开@arms@。
 
 Living lightning bursts into view!
 %%%%
-branch summon cast prefix
+@The_monster@向周围区域做着手势。
 
-@The_monster@ calls forth creatures from
+@The_monster@张开@arms@。
 %%%%
 Call Lost Souls cast
 
-@The_monster@ beckons forth restless souls!
+@The_monster@咆哮着发出战吼！
 %%%%
 Call of Chaos cast
 
-@The_monster@ calls on the powers of chaos!
+@The_monster@发出狩猎呼唤！
 %%%%
 unseen Call of Chaos cast
 
-@The_something@ calls on the powers of chaos!
+@The_monster@迸发成活体闪电！
 %%%%
 Call Down Lightning cast
 
-Electricity crackles from @the_monster_possessive@ apparatus.
+活体闪电在眼前迸发！
 %%%%
 Cantrip cast
 
-@The_monster@ casts a cantrip, but nothing happens.
+@The_monster@召唤出生物，他们来自
 
 @The_monster@ begins to cast a cantrip, but forgets the words!
 
-@The_monster@ miscasts a cantrip.
+@The_monster@施放了一个咒语，但什么也没发生。
 
-@The_monster@ looks braver for a moment.
+@The_monster@开始施放咒语，却忘了词！
 
-@The_monster@ looks encouraged for a moment.
+@The_monster@的一个咒语施放失败。
 
-@The_monster@ looks satisfied for a moment.
+有那么一会儿，@The_monster@看起来更勇敢了。
 %%%%
-Conjure Living Spells cast
+有那么一会儿，@The_monster@看起来受到了鼓励。
 
-@The_monster@ erupts in a flurry of living spells!
+有那么一会儿，@The_monster@看起来很满意。
 %%%%
 Creeping Frost cast
 
-@The_monster@ calls freezing cold from the walls.
+@The_monster@激起墙壁中刺骨的寒意。
 %%%%
 Divine Armament cast
 
-@The_monster@ beseeches @My_God@ to grant them a weapon.
+@The_monster@煽动着附近的野兽。
 %%%%
 Druid's Call cast
 
-@The_monster@ calls out to the beasts of the wild!
+电流在@the_monster@的装置上噼啪作响。
 %%%%
 Eruption cast
 
-@The_monster@ rends the earth beneath @target@!
+奇怪的能量在@the_monster@的装置上噼啪作响。
 %%%%
 Grasping Roots cast
 
-@The_monster@ reaches out to the roots within the earth.
+@The_monster@编织出一个幻象。
 %%%%
-Grasping Roots natural cast
+@The_monster@发出微光。
 
 @The_monster@ runs its roots beneath @target@!
 %%%%
-Harpoon Shot cast
+有什么东西编织出了一个幻象！
 
 @The_monster@ fires a harpoon shot @at@ @target@.
 %%%%
-Hellfire Court cast
+@The_monster@召来黑暗的力量！
 
 @The_monster@ calls forth @possessive@ servants.
 %%%%
-Hellfire Mortar cast
+@The_something@召来黑暗的力量！
 
 @The_monster@ blasts a torrent of magma @at@ @target@.
 %%%%
-Hoarfrost Bullet cast
+@The_monster@编织出一个发光的能量球。
 
 @The_monster@ fires a salvo of icy shards.
 %%%%
-Hoarfrost Bullet cast finale
+@The_monster@生成了一个发光的球体。
 
-@The_monster@ launches the last of @reflexive@ @at@ @target@ with a shrill rumble.
+@The_monster@生成了一个纯魔力球。
 %%%%
-Holy Flames cast
+@The_monster@射出一个毁灭性的魔力球。
 
 @The_monster@ calls forth blessed flames!
 %%%%
-unseen Holy Flames cast
+@The_something@生成了一个发光球体。
 
 Blessed flames are called forth!
 %%%%
-Launch Bomblet cast
+@The_monster@向@target@喷射燃烧的粘稠物。
 
 @The_monster@ launches a bomblet.
 %%%%
-Legendary Destruction cast
+@The_monster@召唤出神圣的火焰！
 
 @Major Destruction cast@
 %%%%
-Major Destruction cast
+神圣的火焰被召唤出来！
 
 @The_monster@ conjures a destructive force in the name of @possessive_God@!
 %%%%
-Mara Summon cast
+@The_monster@开始吟诵召回之语！
 
 @The_monster@ weaves an illusion.
 
-@The_monster@ shimmers.
+@The_monster@召唤出不安分的灵魂！
 %%%%
 unseen Mara summon cast
 
-Something weaves an illusion!
+@The_monster@以@possessive_God@的名义，生成了一股毁灭性的力量！
 %%%%
 Orb of Destruction orb spider cast
 
-@The_monster@ weaves a glowing orb of energy.
+@The_monster@让飞扬的武器投入战斗！
 %%%%
-Orb of Destruction cast
+@The_monster@做出手势，武器飞入空中！
 
 @The_monster@ conjures a glowing orb.
 
-@The_monster@ conjures an orb of pure magic.
+@The_monster@呼唤着野兽！
 
 @The_monster@ launches a ball of destructive magic.
 %%%%
@@ -210,43 +210,43 @@ unseen Orb of Destruction cast
 
 @The_something@ conjures a glowing orb.
 %%%%
-Phantom Blitz cast
+@The_monster@编织出一个幻象。
 
 @The_monster@ weaves a phantasmal image and fires it @at@ @target@.
 %%%%
-unseen Phantom Blitz cast
+@The_monster@从熔岩中召唤出一团团火焰！
 
 @The_something@ weaves a phantasmal image and casts it forth!
 %%%%
-Phantom Mirror cast
+@The_monster@撕裂了你下方的大地！
 
 @The_monster@ weaves an illusion.
 %%%%
-Pyroclastic Surge cast
+@The_monster@召来混沌的力量！
 
 @The_monster@ calls gouts of flame from the lava!
 %%%%
-Shadow Shot cast
+@The_something@召来混沌的力量！
 
 @The_monster@ fires @at@ @target@.
 %%%%
-Siphon Essence cast
+@The_monster@生成一股猛烈的大风！
 
 @The_monster@ draws nearby souls into @reflexive@!
 %%%%
-Symbol of Torment cast
+@The_monster@射出的一个鱼叉@at@ @target@。
 
 @The_monster@ calls on the powers of darkness!
 %%%%
-unseen Symbol of Torment cast
+@The_monster@恶毒地向@target@扔出派！
 
 @The_something@ calls on the powers of darkness!
 %%%%
-Sheza's Dance cast
+@The_monster@射出的一道电脉冲@at@ @target@。
 
 @The_monster@ sends weapons flying into battle!
 
-@The_monster@ gestures, and weapons take to the air!
+@The_monster@喷出一团团活体魔法！
 %%%%
 Sojourning Bolt cast
 
@@ -264,7 +264,7 @@ Stunning Burst cast
 
 @The_monster@ fires a burst of electricity @at@ @target@.
 %%%%
-Throw Bolas cast
+# 自然法术（吐息和喷吐）。
 
 @The_monster@ hurls a bolas @at@ @target@.
 %%%%
@@ -289,15 +289,15 @@ Word of Recall cast
 %%%%
 Siren Song cast
 
-__NONE
+稀薄的空气中冒出一串黏性的网。
 %%%%
 Avatar Song cast
 
-__NONE
+你听到一声咆哮。
 %%%%
 Seal Doors cast
 
-__NONE
+@The_monster@吐息的@beam@ @at@ @target@。
 #####################################################
 # Individual natural spells (breathing and spitting).
 #####################################################
@@ -310,27 +310,27 @@ _unseen_spit_cast_
 
 You hear a spitting sound.
 %%%%
-Spit Acid cast
+@The_monster@吐息的@beam@ @at@ @target@。
 
 @The_monster@ spits acid @at@ @target@.
 %%%%
-unseen Spit Acid cast
+@The_monster@吐息的@beam@ @at@ @target@。
 
 @_unseen_spit_cast_@
 %%%%
-Acid Splash cast
+@The_monster@吐息的@beam@ @at@ @target@。
 
 @The_monster@ spits acid @at@ @target@.
 %%%%
-unseen Acid Splash cast
+@The_monster@吐息的@beam@ @at@ @target@。
 
 @_unseen_spit_cast_@
 %%%%
-Battlecry cast
+@The_monster@吐息的@beam@ @at@ @target@。
 
 @The_monster@ roars a battlecry!
 %%%%
-# Shadow dragon ghost breath
+你听到一声咆哮。
 Bolt of Draining natural cast
 
 @The_monster@ breathes @beam@ @at@ @target@.
@@ -409,7 +409,7 @@ Spit Lava cast
 %%%%
 Spit Poison cast
 
-@The_monster@ spits poison @at@ @target@.
+@The_monster@[发|投射]出其受害者的悲伤。
 %%%%
 unseen Spit Poison cast
 
@@ -425,56 +425,56 @@ Steam Ball natural cast
 %%%%
 Paralysis Gaze cast
 
-@The_monster@ gazes piercingly through @target@!
+@The_monster@问：“@My_God@，你为什么抛弃我？”
 %%%%
 Volley of Thorns cast
 
-@The_monster@ fires a volley of thorns @at@ @target@.
+@The_monster@低沉地咯咯叫，呼唤着黏液同伴。
 %%%%
-Warning Cry cast
+@The_monster@说：“@My_God@洞察一切！”
 
 @The_monster@ howls a warning cry!
 %%%%
-unseen Warning Cry cast
+@The_monster@低沉地咯咯叫。
 
 You hear a loud warning cry!
 %%%%
-Weakening Gaze cast
+@The_monster@呢喃着可怕的言语。
 
-@The_monster@ gazes fiercely through @target@!
+@The_monster@低声说着难以弄懂的话。
 %%%%
-Woodweal cast
+@The_monster@吟诵着源于恶魔之口的语句。
 
-@The_monster@ touches a tree and draws upon its vitality.
+@The_monster@喊出有力的话语！
 %%%%
 Seismic Stomp cast
 
-@The_monster@ stomps @possessive@ heavy feet.
+@The_monster@高兴地起着泡泡。
 %%%%
-Hurl Torchlight cast
+VISUAL:@The_monster@发出鲜亮的樱桃色光芒。
 
-@The_monster@ raises the black torch.
+VISUAL:@The_monster@疯狂地晃动着。
 %%%%
-Landbreaker natural cast
+VISUAL:@The_monster@的眼柄伸展开来，然后又恢复到正常大小。
 
-@The_monster@ fractures the ground with @possessive@ footsteps.
+你晃动着。
 ########################################################################
-# Unique monsters
+你的脸色有点发绿。
 ########################################################################
 %%%%
 Ensnare Arachne cast
 
 @The_monster@ points @possessive@ staff @at@ @target@, shooting a stream of webbing.
 
-@The_monster_possessive@ staff shoots out a stream of webbing.
+你突然有种冲动，想转动你那并不存在的眼柄。
 %%%%
 unseen Ensnare Arachne cast
 
-A stream of webbing shoots out from thin air.
+@The_monster@在吟诵时，投射的目光@at@ @target@。
 %%%%
-March of Sorrows Boris cast
+@The_monster@在咕哝着一些奇怪的话时，投射的目光@at@ @target@。
 
-@The_monster@ [casts|pitches] forth @possessive@ victims' sorrows.
+@The_monster@施展的一个法术@at@ @target@。
 
 w:5
 @The_monster@ rolls out @possessive@ victims' [laments|suffering].
@@ -494,7 +494,7 @@ Cantrip Dissolution cast
 @The_monster@ says, "Become one with my sorrow!"
 
 w:1
-@The_monster@ asks, "Why have you forsaken me @My_God@?"
+# 罗克珊无法做手势或是指点。
 %%%%
 Summon Eyeballs Dissolution cast
 
@@ -535,11 +535,11 @@ You feel briefly sluggish.
 You feel a sudden, passing aversion to salt.
 
 w:5
-You feel a sudden urge to swivel your nonexistent eyestalks around.
+VISUAL:@The_monster@猛烈地做着手势。
 %%%%
-Gastronok cast targeted
+VISUAL:@The_monster@跺着脚。
 
-@The_monster@ looks @at@ @target@ while chanting.
+VISUAL:@The_monster@用力拍打手掌。
 
 @The_monster@ looks @at@ @target@ and mumbles some strange words.
 
@@ -561,43 +561,43 @@ Geryon cast
 %%%%
 unseen Geryon cast
 
-You hear a weird and mournful sound.
+# 个别怪物
 %%%%
 Smiting Jeremiah cast
 
-@The_monster@ lets out a twisted cry.
+@The_monster@鼓鼓的脑袋在悸动。
 
-@The_monster@ mumbles a slurred invocation.
+@The_monster@悸动的脑袋在搏动。
 
 VISUAL:@The_monster@ throws @possessive@ arms up pleadingly.
 
-@The_monster@ cries, "Fearful master, protect me!"
+@The_monster@悸动着。
 
 @The_monster@ shouts, "O dreadful one, destroy my foe!"
 %%%%
-Mennas cast
+@The_monster@痛苦地无声呻吟着。
 
-VISUAL:@The_monster@ gestures frantically.
+@The_monster@投射的带有痛苦的恶意凝视@at@ @foe@。
 %%%%
 Vanquished Vanguard Nergalle cast
 
-@The_monster@ calls out: "@orc name@, @orc name@, @orc name@ - to me!"
+@The_monster@投射的带有痛苦的恶意凝视@at@ @foe@。
 
-@The_monster@ cries out, "Spectres! Fight for the home you helped make!"
+@The_monster@喊道：“承受我承受的！”
 %%%%
-Primal Wave Norris cast
+@The_monster@喊道：“感受我感受的！”
 
 @The_monster@ invokes the aid of something beyond life against @target@.
 
-@The_monster@ calmly calls forth the wrath of something past death upon @target@.
+@The_monster@甩动着尾巴。
 
 @The_monster@ prays to the universe for peace to reach @target@.
 %%%%
-Antimagic Gaze Norris cast
+@The_monster@闪闪发光。
 
 Something numinous underneath @the_monster_possessive@ waves suddenly gazes at @target@.
 
-@The_monster_possessive@ eyes shimmer, overwhelming @target@ with visions from beyond.
+@The_monster@将尖利的凝视固定在@target@上。
 %%%%
 # Roxanne can't gesture or point either.
 Roxanne cast
@@ -618,13 +618,13 @@ Rupert cast targeted
 
 @The_monster@ yells loudly @at@ @target@.
 %%%%
-Vv cast
+@The_monster@咕哝着一些奇怪的话。
 
-VISUAL:@The_monster@ gestures sharply.
+@The_monster@施展了一个法术。
 
 VISUAL:@The_monster@ stamps @possessive@ foot.
 
-VISUAL:@The_monster@ slams @possessive@ palms together.
+@The_monster@投射的尖利凝视@at@ @target@。
 
 w:3
 VISUAL:@The_monster@ makes an elaborate arcing motion.
@@ -648,7 +648,7 @@ Paralyse Xtahua cast
 @The_monster@ thunders ferociously @at@ @target@!
 %%%%
 ########################################################################
-# Individual monsters
+@The_monster@呼出一股猛烈的大风！
 ########################################################################
 %%%%
 basilisk cast targeted
@@ -712,85 +712,85 @@ Beckoning Gale chonchon cast
 w:5
 @The_monster@ screeches @at@ @target@ while spinning and swirling.
 %%%%
-cognitogaunt cast
+@The_monster@没入黑暗。
 
 @The_monster@ glimmers violently.
 %%%%
-clockroach cast
+@The_monster@投射的凝视@at@ @target@。
 
 @The_monster@ sprays sand from its hourglass @at@ @target@.
 %%%%
-crystal echidna cast targeted
+@The_monster@环顾四周。
 
 @The_monster@ flicks its quills @at@ @target@.
 %%%%
-Crystallising Shot crystal guardian cast
+你感觉你被什么东西注视着。@player_only@
 
 @The_monster@ fires a shard of @reflexive@ @at@ @target@.
 %%%%
-culicivora cast targeted
+@The_monster@闪烁的目光@at@ @target@。
 
 @The_monster@ chitters @at@ @target@.
 %%%%
-curse skull cast
+@The_monster@[倾泻出|宣泄出]不绝于耳的抽泣声。
 
-@The_monster@ rattles @possessive@ jaw.
+@The_monster@的痛苦[倾泻而出|满溢而出]。
 %%%%
 silent curse skull cast
 
-@The_monster@ rattles @possessive@ jaw silently.
+@The_monster@的痛苦[倾泻而出|满溢而出]。
 %%%%
 unseen curse skull cast
 
-You hear the clattering of teeth.
+你听到不绝于耳的抽泣声。
 %%%%
 Minor Healing dryad cast
 
-@The_monster@ draws upon the vitality of nature.
+@The_monster@恶意地咯咯笑。
 %%%%
-dryad cast
+@The_monster@不屑一顾地胡言乱语。
 
-@The_monster@ calls out to the forest.
+@The_monster@发出恶毒的轰然大笑。
 %%%%
 eidolon cast targeted
 
-@The_monster@ stares piercingly @at@ @target@.
+@The_monster@嘲弄地无声咯咯笑。
 %%%%
-Lightning Bolt electric golem cast
+@The_monster@欢快、猛烈地发出咯咯声。
 
 @The_monster@ hurls @beam@ @at@ @target@.
 %%%%
-Primal Wave elemental wellspring cast
+你听到恶意的咯咯笑声。
 
-A torrent of water rises up through @the_monster@!
+你听到不屑一顾的胡言乱语。
 %%%%
 Summon Water Elementals elemental wellspring cast
 
-Water spirits pour forth from @the_monster@!
+@The_monster@摇晃着，嘎嘎作响。
 %%%%
 eye of draining cast
 
-@The_monster@ smirks and gazes @at@ @target@.
+@The_monster@摇晃着，震耳欲聋地嘎嘎作响！
 %%%%
 flayed ghost cast
 
-@The_monster@ stares @at@ @foe@ with tortured malice.
+你听到震耳欲聋的嘎嘎响声！
 
 @The_monster@ cries, "Suffer as I suffered!"
 
-@The_monster@ cries, "Feel what I felt!"
+@The_monster@做出的僵硬手势@at@ @target@。
 %%%%
 silent flayed ghost cast
 
-@The_monster@ moans in silent anguish.
+@The_monster@猛烈地释出鬼火。
 
 @The_monster@ stares @at@ @foe@ with tortured malice.
 %%%%
-formless jellyfish cast
+@The_monster@在@target@周围生成幽灵迷雾。
 
 @The_monster@ shimmers eerily.
 %%%%
-Summon Mortal Champion fravashi cast
+@The_monster@做出的猛烈手势@at@ @target@。
 
 @The_monster@ beckons forth its champion.
 %%%%
@@ -798,31 +798,31 @@ Stone Arrow gargoyle cast
 
 @The_monster@ hurls a @beam@ @at@ @target@.
 %%%%
-ghost moth cast
+@The_monster@向友方呼喊，发出警戒！
 
 @The_monster@ looks around.
 %%%%
-ghost moth cast targeted
+你听到一声响亮的警戒叫号！
 
 @The_monster@ stares @at@ @target@.
 %%%%
-unseen ghost moth cast targeted
+@The_monster@吟唱了一首有力的圣歌！
 
 You feel you are being watched by something. @player_only@
 %%%%
-glowing orange brain cast
+@The_monster@喷吐的一块冰碎片@at@ @target@。
 
 @The_monster@ pulsates.
 %%%%
-golden eye cast targeted
+@The_monster@掷出的一束@beam@ @at@ @target@。
 
 @The_monster@ blinks @at@ @target@.
 %%%%
-guardian serpent cast targeted
+你听到可怕的尖叫声！
 
 @The_monster@ coils @reflexive@ and waves @possessive@ upper body @at@ @target@.
 
-@The_monster@ gestures with @possessive@ tail @at@ @target@.
+@The_monster@尖叫着以示警戒！
 
 w:3
 @The_monster@ weaves intricate patterns with the tip of @possessive@ tongue.
@@ -873,27 +873,27 @@ laughing skull cast
 
 @The_monster@ cackles spitefully.
 
-@The_monster@ gibbers with scorn.
+# 怪物的种族和属的消息
 
 @The_monster@ lets out a vicious peal of laughter.
 %%%%
-silent laughing skull cast
+@The_monster@呼唤@possessive_God@的愤怒，将其施加到@target@身上。
 
 @The_monster@ mockingly cackles in silence.
 
-@The_monster@ violently rattles with glee.
+@The_monster@吐息的@beam@ @at@ @target@。
 %%%%
 unseen laughing skull cast
 
-You hear spiteful cackling.
+@The_monster@吐息的@beam@ @at@ @target@。
 
 You hear scornful gibbering.
 %%%%
-manticore cast
+@The_monster@咆哮着！
 
 @The_monster@ flicks @possessive@ tail.
 %%%%
-Bolt of Magma molten gargoyle cast
+你听到一声咆哮。
 
 @The_monster@ blasts magma @at@ @target@!
 %%%%
@@ -901,23 +901,23 @@ orange crystal statue cast
 
 @The_monster@ glitters.
 %%%%
-orange crystal statue cast targeted
+@The_monster@摇晃着颌骨。
 
 @The_monster@ fixes @possessive@ piercing gaze on @target@.
 %%%%
-orb of fire cast
+@The_monster@无声地摇晃着颌骨。
 
 @The_monster@ glows yellow.
 
-@The_monster@ glows bright magenta.
+你听到了牙齿的撞击声。
 
 @The_monster@ glows deep purple.
 
-@The_monster@ glows red.
+@The_monster@投射的凝视@at@ @target@。
 
 @The_monster@ emits a lurid red light.
 %%%%
-orb of entropy cast
+@The_monster@环顾四周。
 
 w:20
 @The_monster@ [pulses|vibrates].
@@ -935,43 +935,43 @@ orb of winter cast
 @The_monster@ swirls like a blizzard.
 
 w:30
-@The_monster@ glows [icy blue|with a pale light|sapphire].
+@The_monster@用尾巴做着肢体动作。
 %%%%
-obsidian statue cast
+@The_monster@用舌尖缠绕出错综复杂的图案。
 
 @The_monster_possessive@ eyes glow briefly.
 %%%%
-Bolt of Fire ophan cast
+@The_monster@掌控着火的净化力量！
 
 @The_monster@ harnesses the cleansing power of fire!
 %%%%
-unseen Bolt of Fire ophan cast
+有什么东西掌控着火的净化力量！
 
 Something harnesses the cleansing power of fire!
 %%%%
-Force Lance polterguardian cast
+@The_monster@释放出一股细小的卷须状的电流。
 
 @The_monster@ focuses its will @at@ @target@.
 %%%%
-Ghostly Fireball revenant cast
+@The_monster@发出电的噼啪声！
 
 @The_monster@ lashes out with ghostly flames.
 %%%%
-Spectral Cloud revenant cast
+@The_monster@搏动着怪异的光！
 
 @The_monster@ conjures spectral mists around @target@.
 %%%%
-Dispel Undead revenant cast
+@The_monster@投射出自身@at@ @target@。
 
 @The_monster@ gestures violently @at@ @target@.
 %%%%
-Blink Away revenant cast
+@The_monster@喷出的可燃液体@at@ @target@。
 
 __NONE
 %%%%
-Battlecry satyr cast
+@The_monster@猛烈地扑打着翅膀。
 
-@The_monster@ plays a rousing melody on @possessive@ pipes!
+# 牧师和巫师的通用消息，这些消息已被改动为可适用于没有手的东西。
 %%%%
 Cause Fear satyr cast
 
@@ -991,19 +991,19 @@ Lee's Rapid Deconstruction screaming refraction cast
 
 An echo of @the_monster@ flickers and hopelessly wails @at@ @target@.
 %%%%
-scrub nettle cast targeted
+@The_monster@呼唤@possessive_God@来加速@target@。
 
 @The_monster@ launches toxic spines @at@ @target@.
 %%%%
-Warning Cry seraph cast
+@The_monster@呼唤@possessive_God@来治疗@target@。
 
 @The_monster@ shouts a warning to @possessive@ allies!
 %%%%
-unseen Warning Cry seraph cast
+@The_monster@呼唤@possessive_God@来加强@target@。
 
 You hear a loud warning shout!
 %%%%
-Invisibility shadowghast cast
+@The_monster@进行黑暗祈祷时，做出指向动作@at@ @target@。
 
 @The_monster@ slips into darkness.
 %%%%
@@ -1011,7 +1011,7 @@ Throw Icicle shard shrike cast
 
 @The_monster@ spits a shard of ice @at@ @target@.
 %%%%
-# Sphinxes can't gesture or point.
+@The_monster@呼唤@possessive_God@的愤怒，将其施加到@target@身上。
 Confuse sphinx marauder cast
 
 @The_monster@ roars a[n obscure| perplexing] riddle with a strange tongue.
@@ -1082,11 +1082,11 @@ unseen Warning Cry ushabti cast
 
 You hear a deafening rattling sound!
 %%%%
-ushabti cast targeted
+# 通用的波束消息。
 
 @The_monster@ gestures stiffly @at@ @target@.
 %%%%
-unseen Warning Cry vault sentinel cast
+@The_monster@掷出的@beam@ @at@ @target@。
 
 You hear a note loudly blown on a horn!
 %%%%

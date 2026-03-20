@@ -1,11 +1,11 @@
-# Changing colours of various glyphs (symbols on the playing field) in console mode
+# 在控制台模式下更改各种字形（运动场上的符号）的颜色
 
 item := item_glyph
 
 item += potion:lightgrey
 item += scroll:lightgrey
 
-# These are intentionally the same colours as for intentory (see menu_colours.txt):
+# 这些颜色故意与 Intory 相同（请参阅 menu_colours.txt）：
 item += good_item.*(potion|scroll):cyan
 item += emergency_item.*(potion|scroll):yellow
 item += dangerous_item.*(potion|scroll):magenta
@@ -14,5 +14,5 @@ item += forbidden.*(potion|scroll):red
 
 item += unidentified.*(potion|scroll|book|jewellery|wand|magical staff).*:lightblue
 
-# Bad items purposefully become darkgrey here (not lightred as in inventory):
+# 不良物品在这里故意变成深灰色（不像库存中那样呈浅红色）：
 item += useless.*(potion|scroll|jewellery):darkgrey

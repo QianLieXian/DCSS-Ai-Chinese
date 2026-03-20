@@ -22,13 +22,13 @@ stop += emerges from the mists of memory
 
 stop += You feel space start to destabilise
 
-# Traps and doors
+# 陷阱和门
 stop += A malevolent force
 stop += A sentinel's mark forms upon you\.
 stop += it creaks loudly
 stop += flies open with a bang
 
-## Zot is coming!
+## 佐特来了！
 stop += You have lingered too long
 stop += Zot draws nearer
 stop += Zot has nearly found you
@@ -36,7 +36,7 @@ stop += Zot already knows
 stop += Zot's attention fixes on you
 stop += Zot's power touches on you
 
-# Announcements of timed portal vaults:
+# 定时传送门vaults公告：
 stop += interdimensional caravan
 stop += distant snort
 stop += roar of battle
@@ -49,13 +49,13 @@ stop += hear a distant wind
 
 stop += You now have enough gold to
 
-# Enchantments
+# 附魔
 #
 ignore += of your corpse armour falls away.
 stop += ^Careful!
 
-# Transformation endings.
-# Badforms (and tree) excluded since we might be resting those off
+# 转变结局。
+# 排除不良形式（和树），因为我们可能会放弃它们
 ignore += transformation is almost over\.
 ignore += transformation has ended\.
 ignore += reverts? to (its|their) normal proportions\.
@@ -68,7 +68,7 @@ ignore += (talons|horns|tentacle spike) disappear
 ignore += feel less shadowy\.
 ignore += you emerge from the shadows\.
 
-# Uskayaw -- ignore all Uskayaw power gain/loss messages since they happen constantly
+# Uskayaw -- 忽略所有 Uskayaw 功率增益/损耗消息，因为它们不断发生
 #
 ignore += .*stomp with the beat.*
 ignore += .*pass through a line of other dancers.*

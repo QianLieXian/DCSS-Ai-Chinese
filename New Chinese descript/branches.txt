@@ -1,0 +1,309 @@
+%%%%
+Dungeon
+
+如何创建这个离奇的地方仍然是个谜。有些人声称这是无聊的神灵的游乐场，
+而另一些人则认为它是由逃离上界躲避光明的各种物种塑造的。
+无论其起源如何，这个深深的洞穴充斥着闻所未闻的财富，
+并对任何闯入者都构成了同样巨大的危险。
+鲜有幸存者能够逃脱，更少有人仍能保持一丝理智来讲述这里的故事。
+some sliver of sanity sufficient to tell the tale.
+%%%%
+Temple
+
+它包含大多数有名的神的祭坛。
+那些重视探索的神，不会在信徒探索神庙时给予虔诚值。
+exploration grant no piety for exploring the Temple.
+%%%%
+Orcish Mines
+
+有雄心的商人在这里建立了贸易站来帮助兽人减轻负担。
+humanoid allies, and piles of freshly mined gold. Enterprising merchants who
+sell to all comers have set up trading posts among the orcs and their brethren
+to make good use of that gold.
+%%%%
+他们的殿堂里堆满了财富，但任何想抢劫的人都会受到致命的欢迎。
+
+那是兽人做梦才能得到的！
+the sun long ago. Their halls are filled with riches, but a deadly welcome
+awaits any would-be robbers. In their long seclusion, the deep elves have
+perfected dark sorceries of a power the orcs can only dream of!
+%%%%
+事实上，在之前你总被砍成碎片、烧成灰烬或者被刺穿，
+
+Most adventurers find the Lair of Beasts to be an exciting change of climate.
+兽穴包含沼泽或海滩、蛇穴或蜘蛛巢以及黏液坑洞的入口。
+rather than sliced, burnt or stabbed.
+
+The Lair contains the entrances to one of the Swamp or the Shoals, one of the
+一片潮湿的荒地，沼泽中满是软泥、腐质、苍蝇和大型流着口水的食肉类怪物。
+%%%%
+地牢只有一个沼泽或海滩分支。
+
+A swampy wasteland, the Swamp is filled with ooze, muck, flies and large
+slavering carnivorous monsters.
+
+鱼人和许多可怕的海洋生物在这里安家。
+%%%%
+地牢只有一个沼泽或海滩分支。
+
+The exotic underground beaches of the Shoals make up a few small islands in a
+seemingly endless sea. The merfolk have made it their home, alongside many
+蛇穴中的通道是各种蛇类的家，在这里也栖息着纳迦和火蜥蜴的群落。
+
+地牢只有一个蛇穴或蜘蛛巢分支。
+%%%%
+Snake Pit
+
+摇摇欲坠、布满蛛网的蜘蛛洞中满是有毒的节肢动物和
+各种各样令人毛骨悚然的爬行动物。
+
+地牢只有一个蜘蛛巢或蛇穴分支。
+%%%%
+Spider Nest
+
+黏液坑洞是酸、胶冻和黏液的不定形领域。甚至墙上也滴着致命的酸。
+任何智慧生物的痕迹早已被分解了。尽管如此，
+
+A dungeon features only one of the Spider Nest and Snake Pit branches.
+%%%%
+Slime Pits
+
+入口周围散落着的血表明这儿也存在一定程度的暴力行为。
+walls drip with painful acid. Any trace of intelligent beings has long been
+dissolved. Still, there are rumours of great treasures deep down, hidden safely
+away in secret chambers without any entrance.
+%%%%
+到处都散落骨头，每个噪音都会不安地回荡着，扰动着墓地那肃杀一切的寂静。
+
+The Vaults are said to be home to great treasures and sealed evils alike, its
+origin known only to its guardians: the Ironbound Order. Intruders face an
+远古坟冢是个被诅咒的地方，是由最邪恶的死灵系魔法激发的恐怖之地。
+载有从这个纯粹的死亡之地生还的人的名单非常短。
+%%%%
+Crypt
+
+地狱前庭由吉里昂和来自各个地狱的生物看守着。
+fetid, the walls cold and damp. Bones are strewn liberally everywhere, and
+通往地狱前庭的传送门在地底随处可见。
+%%%%
+Tomb
+
+狄斯铁城是许多最为坚韧的地狱守卫的家园。
+那些不属于狄斯城殿堂的人会发现甚至大地都在和他们作对。
+death is exceedingly short.
+%%%%
+Hell
+
+The Vestibule of Hell is guarded by Geryon, along with various denizens of
+欣嫩谷是熔岩、炽焰和诅咒的领域。那些逗留在此的人必然会淋上火和硫磺雨。
+
+刺鼻的烟雾使得无法阅读卷轴。
+%%%%
+Dis
+
+悲叹河是个严酷的、冰封的荒地。
+闯入者会发现刺骨的寒风和废地上的冷酷的栖息者阻碍了他们的前进。
+opposing them.
+
+The malice of this metal realm corrodes equipment.
+%%%%
+Gehenna
+
+随着时间的流逝，亡灵和恶魔能吸尽任何胆敢进入的人的生命。
+fire and brimstone rained down upon them.
+
+The acrid smoke renders scrolls unreadable.
+%%%%
+Cocytus
+
+它被锁得很牢固，防止随便闯入。
+只有最痴狂的冒险者才敢收集领取所需的钥匙，打破封印，
+
+The frigid cold congeals potions.
+%%%%
+Tartarus
+
+里面充满了各种怪物，大多是恶魔类的，他们的共同目标是享用闯入者。
+这也是许多术士的废料堆，
+
+据说，这些混乱是有一定组织的，卢格努似乎在和当地居民在这里策划阴谋。
+%%%%
+在地底可以发现许多通往深渊的传送门。
+
+深渊有七个无尽的层面。深渊的佐特符文可能会从第三层起找到，
+在更深的地方更常见。
+返回地牢的出口散布在深渊中，在更深的地方或携带深渊符文时会更常出现。
+keys, break the seal and penetrate deeper — all in the vain hope for a fabled
+当冒险者在深渊逗留，会发现自己难以抗拒地陷入其中。
+%%%%
+继续在深渊中存留，会磨出坑来，从而跌入更深的层面。
+
+以后再到深渊时总是会把他们至少弄到那么远。
+with all sorts of monsters, mostly of demonic nature, whose common aim is to
+feast on intruders. It is also the garbage dump for many sorcerers, who delight
+in sending would-be champions like you to these proving grounds of madness.
+魔窟是个有着无尽痛苦和折磨的领域。尽管在那里可以找到许多宝藏，
+但它们由残酷的恶魔和更为残酷的恶魔领主守卫着。
+
+可以在地底发现大量通往魔窟的传送门。
+
+魔窟是无尽的。
+魔窟的每个区域都小概率包含返回地牢或是直接通往深渊的传送门。
+Portals back to the dungeon are scattered throughout the Abyss, and are found
+在魔窟至少可以找到五种佐特符文：
+
+ •发光符文可以在受污染的姆诺莱格地区找到
+ •魔法符文由洛姆·洛邦的奥术力量守护
+ •黑暗符文藏于克罗克斯·弗拉克的阴暗住所中
+
+The fabric of the Abyss takes greater notice of the powerful; no matter how
+they arrive, more experienced adventurers will find themselves drawn deeper
+within the maddening expanse of that realm.
+%%%%
+每个都比上一个有着更多的财富和更大的危险。
+
+即使是最勇敢，最熟练的冒险者也可能终结在这里。
+虽然每层都有通向安全的传送门，但一旦离开，就无法重新进入金字塔。
+crueller demon lords.
+
+传说中，在每一个金字塔的底部都能找到一件魔法物品，
+
+据说在远古坟冢的底部也能找到这样的物品。
+每次攻克完金字塔，从最后一层离开，
+
+No fewer than five runes of Zot can be found in Pandemonium:
+ • the fiery rune resides in the blazing realm of Cerebov
+ • the glowing rune can be found in the contaminated domain of Mnoleg
+一个精心设计的复杂结构，旨在吸引莽撞的冒险者寻求财富和荣耀。
+那些进入的人必须选择一条路径穿越几个战斗场所，
+每个战斗场所都包含被危险的，有时是奇异的怪物保护的宝藏。
+%%%%
+他看守着从愚蠢的冒险者身上取下的大量战利品。
+
+请注意，竞技场中强大的魔法阻止远程传送。
+arenas, each containing greater wealth and even greater danger than the last.
+Beware, for a ziggurat is not a place for the faint of heart: even the bravest
+and most skilled adventurers have met their ends in one. While a portal to
+一些商人在地牢开店，而另一些商人则组成商队从一个地方到另一个地方。
+这些行商的集市有许多不同的商店，通常比那些固定的店面有更好的存货，
+
+One ziggurat is guaranteed in the Depths. Tales tell of a magical item found
+at the bottom of each ziggurat, granting access to a new ziggurat in turn. Such
+an item is also said to be found at the bottom of the Tomb of the Ancients. Each
+很久以前，一个有胆识的小偷和巫师创造了一个传送门系统，
+通向富人的宝库和密室。他们自己不敢抢劫，
+%%%%
+Gauntlet
+
+这个巫师已经死了很久了，即使活着，他也从不保证给退款。
+glory. Those who enter must choose a path through several combat arenas, each
+of which contains treasure guarded by dangerous and sometimes exotic creatures.
+At the end awaits a fearsome minotaur, guarding a large hoard of loot taken from
+任何有人居住的地方都需要处理垃圾。
+
+但对于某些肮脏或走投无路的生物而言却是绝佳的藏身之处。
+%%%%
+传说还提到了一些无意中被冲进下水管道的宝物，
+
+While some merchants set up shop in the dungeon, others travel in caravans from
+place to place. The bazaars of these itinerant traders feature a number of
+different shops and often have better stock than the sedentary ones, sometimes
+埋骨地是一个小坟墓，里面有法老的一些远亲的遗体和陪葬品，
+%%%%
+毫无疑问，它布满了陷阱，而且它的亡灵居民不大可能乐于被搜刮。
+
+Once upon a time, an enterprising thief and wizard created a system of portals
+leading into the secret treasure troves and chambers of the rich. Too scared to
+堡场是个仍被兽人领主占领的要塞，守卫森严。
+里面的宝藏被物理屏障和大量装备精良的人形战士保护着。
+
+The items inside such troves are likely to be useful, but beware: the wizard is
+long dead, and even while alive he never offered a money-back guarantee.
+%%%%
+Necropolis
+
+是一个由坚冰形成的荒凉的洞穴，充满了野兽嚎叫的回声。
+那些曾排列在墙上的复杂的浮雕和雕像，
+经过几个世纪的缓慢融化和重新冻结，已经变得扭曲而模糊。
+tended to by the maintenance staff recreating both their lives and their moments
+of death, helping visitors bid farewell to the departed. With the advent of
+adventurers seeking the Orb of Zot, these realms have been repurposed: such
+火山由巨大的黑曜石构成，其闷热的房间可能曾经是某个奇怪神灵的庙宇，
+也可能是一个强大的火巨人的住所。
+%%%%
+Sewer
+
+Every inhabited place needs to dispose of its waste products. The Dungeon too
+在过去的时代中，最强大的法师会经常寻求或建造与世隔绝的小领域，
+他们可以在那里隔绝外界，以追求越来越崇高的魔法知识和力量。
+法师早已离去，但许多他们的奥术实验室仍然存在，堆满了他们的实验结果。
+那些愿意探索这些实验室的人可能会发现强大的魔法宝藏，
+但要警告：任何能够建设这样一个领域的巫师担得起其享有的名声。
+caverns.
+%%%%
+Ossuary
+
+但不会被认为是后者的一部分。
+distant relatives of the pharaohs, along with the corpses of their retainers
+and household animals. It is undoubtedly riddled with many traps, and its
+undead denizens are unlikely to take kindly to looting.
+%%%%
+在这对可怕的双胞胎被打倒之后，善神把他们以前的领域变成了一片盐地，
+
+在废墟中，只剩最后的死神的信徒、他们的异教建筑，
+和邪教的传奇宝藏的守护者。
+of well-armed humanoid warriors.
+%%%%
+Ice Cave
+
+The {{ if you.branch() == "Elf" or you.branch() == "Swamp" or
+奥卡瓦鲁赐予了他最宠幸的追随者进入角斗场与敌人决斗的权限。
+then return "glacial chasm"; else return "ice cave"; end }} is a desolate cavern
+shaped from solid ice and filled with the echoes of bestial howls. The intricate
+carvings and statues which once lined its walls have been warped and obscured by
+centuries of slow melting and refreezing.
+%%%%
+Volcano
+
+Built from enormous blocks of obsidian, the volcano's sweltering chambers may
+once have served as a temple to some strange deity, or perhaps the dwelling of
+a mighty fire giant. The air shimmers with oppressive heat, and the dull roar
+of the volcano's heart never ceases.
+%%%%
+Wizlab
+
+In ages past, the most powerful mages would frequently find or construct small
+realms sealed off from the rest of the world, where they could isolate
+themselves in the pursuit of ever-greater magical knowledge and power. The
+mages are long gone, but many of their arcane laboratories still exist, filled
+with the results of their experiments. Those willing to explore these
+laboratories may find powerful magical treasures, but be warned: any wizard
+capable of constructing such a realm deserved their reputation.
+%%%%
+Depths
+
+The Depths are the deepest part of the dungeon proper, subject to the
+corrupting influence of the Realm of Zot without being considered a part of it.
+%%%%
+Desolation
+
+The Desolation was once ruled by the divines Sheza and Sargol. After the dread
+twins were cast down, the good gods reduced their former realm to salt, that
+such a terrible cult would never rise again. Amidst the ruins, only the last
+cultists of the dead gods, their heretical constructs, and the guardians
+of the cult's legendary treasure yet remain.
+
+# important note: the Twins were religion '2', as TSO is '1'. Not 'S'.
+%%%%
+Arena
+
+Okawaru's most favoured followers are granted access to the Arena to duel
+against their foes.
+%%%%
+Crucible
+
+The Crucible of Flesh is an infernal pit where Makhleb's most devoted and
+detested alike are made to sanctify themselves in blood. No sane mortal would
+ever choose to come here, and yet even victims of the Destroyer's greatest ire
+may be granted passage out once more, should they mete out mutilation equal to
+the demonic torturers of this realm.
