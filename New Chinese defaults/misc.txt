@@ -3,7 +3,7 @@ drop_filter += useless_item
 auto_exclude += oklob,statue,roxanne,lightning spire
 auto_exclude += scrub nettle,starflower,strange machine
 
-# Interrupting run and rest compound commands:
+# 中断运行和休息复合 commands:
 runrest_ignore_monster += ^butterfly$:1
 runrest_ignore_monster += ^wandering mushroom$:1
 delay_safe_poison = 80:100
@@ -17,15 +17,15 @@ note_monsters += ancient lich, dread lich, Sigmund
 
 monster_item_view_features += stair, trap, runelight
 
-# Dangerous and non-tactical items
+# 危险和非战术物品
 action_panel_filter  = attraction,moonshine,experience,mutation
 action_panel_filter += acquirement,amnesia,brand,enchant,identify,noise,torment
 
-# These items cause monsters to display with unusual threat highlighting:
+# 这些物品会导致怪物显示出不寻常的威胁highlighting：
 unusual_monster_items  = wand
 unusual_monster_items += disto,chaos
 unusual_monster_items += curare,atropa,datura,dispersal,disjunction
 unusual_monster_items += throwing net
 unusual_monster_items += vulnerable:holy_wrath, vulnerable:entangling
-# For regular items and artefacts
+# 对于普通物品和文物
 unusual_monster_items += reflect,Reflect

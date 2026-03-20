@@ -1,8 +1,8 @@
 ############################################################
-# godspeak.txt contains the messages for divine speech.
+# godspeak.txt包含着神的话语消息。
 #
-# For an explanation of how to read godspeak.txt and how to
-# add new messages, see monster_speech.txt in the
+# 有关如何读取godspeak.txt以及如何添加新消息的内容，
+# 请参阅docs/develop/目录中的monster_speech.txt文件。
 # docs/develop/ directory.
 ############################################################
 %%%%
@@ -15,7 +15,7 @@ Xom snickers.
 
 "Let's try an experiment, hmmm?"
 
-w:1
+“我想知道……这个按钮是做什么的？”
 "I wonder... What does this button do?"
 %%%%
 ##############################
@@ -46,7 +46,7 @@ Xom orb gift
 
 "Many adventurers have sought this Orb."
 
-w:3
+“想想我那不可思议的宝珠！”
 "Ponder my incredible Orb!"
 %%%%
 ####################
@@ -62,23 +62,23 @@ Xom opens a gate.
 %%%%
 Xom multiple summons
 
-"Serve the mortal, my children!"
+“照顾这个凡人，我的孩子们！”
 
-Xom grants you some temporary aid.
+佐姆给了你一些临时援助。
 
-Xom momentarily opens a gate.
+佐姆瞬间打开了一扇门。
 %%%%
 Xom animate monster weapon
 
-"Time to have some fun!"
+“是时候找点乐子了!”
 
-You hear Xom's maniacal laughter.
+你听到佐姆疯狂的笑声。
 
-Xom grants you a minor favour.
+佐姆帮了你一个小忙。
 
-Xom smiles on you.
+佐姆对你微笑。
 %%%%
-Xom flora ring
+# 改变场景
 
 Xom shows off a fistful of green thumbs.
 
@@ -89,53 +89,53 @@ Xom incites some dramatic evolution in the adjacent floor mould.
 "It's alive! It's alive!"
 
 w:5
-Xom adds fresh vegetables to this Dungeon dish.
+“好了，这看起来就更好了。”
 
-w:5
+“只是一个小小的改进……”
 Xom plants some magic beans in the ground.
 %%%%
-# all scenery changing effects need to refer to the feature-data.h vaultnames
+# 佐姆的恶意
 Xom scenery generic
 
 Xom briefly touches your surroundings.
 
-Xom complains about the scenery.
+佐姆几乎察觉到了你。
 
-Xom alters the dungeon around you.
+有那么一会儿，佐姆几乎留意到了你。
 %%%%
-Xom scenery open_door
+有那么一会儿，佐姆的力量几乎触动到了你。
 
-@Xom scenery generic@
+你几乎听到佐姆疯狂的笑声。
 %%%%
 Xom scenery closed_door
 
-@Xom scenery generic@
+佐姆决定重新排列这些棋子。
 %%%%
-Xom scenery altar_xom
+“先到这儿，再到那儿。”
 
-Xom adds some personal touches to your environment.
+“这可能会更好！”
 
-"There, this looks better."
+“这就是我喜欢的！”
 
 "Just a minor improvement..."
 
-@Xom scenery generic@
+“哟！”
 %%%%
-Xom scenery cache_of_fruit
+“我们去兜风吧！”
 
-Xom accidentally drops some snacks.
+“停在哪里，没人知道！”
 
-Xom prepares the finest cultivars of fruit found anywhere, then drops them.
+佐姆扭曲了你周围的空间。
 %%%%
 Xom scenery cache_of_meat
 
-Xom [offers|fetches] you some snacks.
+“呵呵……”
 
-Xom prepares a banquet formed from your trail of carnage through the Dungeon.
+有那么一会儿，佐姆的力量触动到了你的心灵。
 %%%%
-Xom scenery cache_of_baked_goods
+佐姆咯咯地笑着。
 
-Xom offers some snacks, fresh out of the oven.
+# 50％属性值降低，25％衰竭，25％折磨
 %%%%
 Xom scenery enter_abyss
 
@@ -153,17 +153,17 @@ Xom kind door ring
 
 A short distance around you seems to assume a strange safe solidity.
 
-Xom creates a safe adventurer enclosure.
+“是时候找点乐子了!”
 
-"Would you like some space to yourself, mortal?"
+“为生存而战，凡人。”
 %%%%
-Xom mean door ring
+“我们看看他是否足够强大，能够存活下来。”
 
-Xom raises up and pulls in a makeshift [warmonger|duelist]'s arena.
+你听到佐姆疯狂的笑声。
 
 Xom locks you up as an exhibit to study.
 
-w:5
+“你在你的小世界里变得太舒服了，凡人！”
 Xom constructs another @player_genus@ Petting Zoo.
 %%%%
 Xom bazaar trip
@@ -172,9 +172,9 @@ Xom whisks you away into a realm of unfathomable savings!
 
 Xom casts you into... a shopping extravaganza?
 
-Xom offers you everything you could ever need (to amuse Xom).
+“开个玩笑！”
 
-w:5
+“不过，转念一想……”
 Xom offers you everything you could ever need (in Xom's infallible divine judgment).
 
 The world spins wildly as Xom's jovial laughter rings.
@@ -186,9 +186,9 @@ w:2
 # Xom nastiness
 ##################
 # miscast strength 0, mostly harmless
-Xom zero miscast effect
+佐姆把你拉回到类似地牢的宁静之中。
 
-Xom almost notices you.
+#  佐姆改进了附近一个敌对怪物的武器，使之附着混乱印记
 
 Xom's attention almost turns to you for a moment.
 
@@ -199,21 +199,21 @@ You almost hear Xom's maniacal laughter.
 # Keep this greater than one, and small.
 _xom_number_
 
-two
+佐姆制造了急剧的噪音！你听到@weapon_noise@
 
 three
 
 four
 
-five
+佐姆在击鼓。
 
 six
 %%%%
-Xom feature lava
+“快到那边去！”
 
-@The_feature@ spits out sparks!
+“快过来！”
 
-@The_feature@ briefly solidifies.
+佐姆决定对周围的东西做一些改变。
 %%%%
 Xom feature shallow water
 
@@ -235,13 +235,13 @@ Xom feature deep water
 
 @Xom feature shallow water@
 
-Off to the side, you spot something lurking in @the_feature@.
+“见我所能见到的，我的孩子！”
 %%%%
-Xom feature blood
+佐姆赐予你洞察力。
 
-@Xom feature shallow water@
+佐姆得意地笑着。
 
-@The_feature@ briefly coagulates.
+# 施放一个随机法术
 %%%%
 Xom feature eyes
 
@@ -253,11 +253,11 @@ Xom feature dry
 
 Water briefly sprays from @the_feature@.
 
-Sparkling water briefly sprays from @the_feature@.
+“去重新装点周围环境吧，我的孩子！”
 
-Blood briefly sprays from @the_feature@.
+“这个地方需要营造一点儿氛围。”
 
-Dust puffs up from @the_feature@.
+# 加强友方，削弱敌方
 %%%%
 Xom feature statuelike
 
@@ -275,53 +275,53 @@ Xom feature tree
 
 @The_feature@ bends away from you.
 
-@The_feature@ sways in place.
+“你需要稍微调整一下，凡人！”
 %%%%
-Xom feature translucent wall
+“让我来改变你那可怜的身体吧。”
 
-Dim shapes swim through @the_feature@.
+有那么一会儿，佐姆的力量触动到了你。
 
-Faint @any_colour@ flames crawl over @the_feature@.
+你听到佐姆疯狂的咯咯笑声。
 
 @The_feature@ is briefly covered in @any_colour_pattern@.
 
-@The_feature@ is briefly covered in @any_glowing_colour_pattern@.
+“你需要一些小小的提升，凡人！”
 
-@The_feature@ is briefly covered in @any_graffiti@.
+“让我来改变你的身体吧。”
 %%%%
-Xom feature metal wall
+有那么一会儿，佐姆的力量轻拂过你。
 
-Tendrils of electricity crawl over @the_feature@.
+你听到佐姆慈爱的轻笑声。
 
 @The_feature@ briefly appears tarnished.
 %%%%
-Xom feature stone arch
+佐姆改变了你周围的怪物。
 
-@The_feature@ briefly shows a sunny meadow on the other side.
+“我更喜欢他们这样。”
 
-@The_feature@ briefly shows a lifeless wasteland on the other side.
+“我从来不喜欢这些扭曲的东西。”
 
-@The_feature@ briefly shows strange @glowing_adj@ figures on the other side.
+佐姆接触你周围的环境。
 
 @The_feature@ briefly shows bizarre @glowing_adj@ buildings on the other side.
 
 @The_feature@ briefly shows a translucent wall covered in @any_colour_pattern@ on the other side.
 
-@The_feature@ briefly shows a translucent wall covered in @any_glowing_colour_pattern@ on the other side.
+“燃烧，宝贝，燃烧！”
 
-@The_feature@ briefly shows a translucent wall covered in @any_graffiti@ on the other side.
+“嘭！”
 %%%%
-Xom underfoot general
+佐姆激发了巨大的爆炸。
 
-@The_feature@ briefly shifts under you.
+佐姆将灾难倾泻而下！
 
 An imperceptible spirit brushes against @the_feature@ beside you.
 %%%%
 Xom underfoot water
 
-@The_feature@ briefly recedes away from you.
+“感受我的力量！”
 
-An imperceptible spirit sends ripples through @the_feature@ beside you.
+佐姆展示了毁灭性的力量。
 %%%%
 Xom underfoot airborne general
 
@@ -351,17 +351,17 @@ One of @your_item@ briefly glows.
 
 One of @your_item@ briefly glows @any_glowing_colour@.
 
-One of @your_item@ briefly vibrates.
+“再[活|试|出发]一次。”
 
 One of @your_item@ briefly flashes @any_colour@.
 
-@Your_item@ briefly glow.
+佐姆改变了场景。
 
-@Your_item@ briefly glow @any_glowing_colour@.
+佐姆戳了戳附近的一个楼梯。
 
-@Your_item@ briefly vibrate.
+“抓到你了！”
 
-@Your_item@ briefly flash @any_colour@.
+佐姆改变了你周围的地牢环境。
 %%%%
 Xom floor inventory singular
 
@@ -373,31 +373,31 @@ Xom floor inventory plural
 
 @Xom inventory plural@
 
-One of @your_item@ falls out of your pack, then immediately jumps back in!
+佐姆使你显著地安静下来。
 
-@Your_item@ fall out of your pack, then immediately jump back in!
+佐姆低语道：嘘！
 %%%%
 Xom bandages
 
-You briefly get tangled in your bandages.
+“这里的天气有点太无聊了。”
 %%%%
-Xom floor bandages
+佐姆要求卡兹拉尔，让事情变得有趣一些。
 
-@Xom bandages@
+“天气预报：多云。”
 
 You trip over your bandages.
 %%%%
-Xom one eye
+“怎么了？等等，不！”
 
-A monocle briefly appears over your eye.
+“嘿，事情才刚刚变得有趣了呢！”
 
-An eyepatch briefly covers your eye.
+“不不不，这不是我的@_xom_plaything_@！”
 
-A burst of @any_colour@ light briefly shoots from your eye!
+“不是这里，不是现在。”
 %%%%
-Xom eyes
+“再试一次。”
 
-A monocle briefly appears over one of your eyes.
+佐姆感觉自己很宽厚。
 
 An eyepatch briefly covers one of your eyes.
 
@@ -431,37 +431,37 @@ You briefly grow a large moustache and beard.
 %%%%
 Xom impromptu dance
 
-You perform an impromptu @dance_name@.
+“除非有人失去一只眼睛，否则这就不是娱乐和游戏。”
 
-You do an impromptu @acrobatic_move_name@.
+# 佐姆大笑
 
 You compulsively click your heels together @_xom_number_@ times.
 
-You compulsively stomp your @feet@ @_xom_number_@ times.
+佐姆狂笑着！
 %%%%
-dance_name
+佐姆呵呵大笑！
 
-ballet
+佐姆觉得这太滑稽了！
 
-cha-cha
+佐姆被逗乐了！
 
-fandango
+佐姆放荡地咯咯笑！
 
-jig
+佐姆窃笑着！
 
-line dance
+佐姆恶意地笑着！
 
-macarena
+佐姆开怀大笑！
 
-tango
+佐姆发出一阵大笑！
 
-tapdance
+佐姆疯狂地咯咯笑！
 
-waltz
+佐姆咯咯地笑着！
 %%%%
-acrobatic_move_name
+佐姆关切地轻笑着！
 
-@hand@stand
+佐姆咯咯地欢笑！
 
 cartwheel
 
@@ -481,45 +481,45 @@ Xom random body part singular
 
 Your @random_body_part_internal_singular@ briefly wanders out of your body, then fuses itself back in!
 
-Your @random_body_part_external_singular@ briefly jumps off your body, then reattaches itself!
+“阿门！”
 %%%%
-Xom random body part plural
+“荣耀归于辛！”
 
-Your @random_body_part_internal_plural@ briefly wander out of your body, then fuse themselves back in!
+“原文如此。”
 
-Your @random_body_part_external_plural@ briefly jump off your body, then reattach themselves!
+“辛言道。”
 %%%%
-Xom unarmed one hand
+“愿你纯洁。”
 
-A fancy cane briefly appears in your @hand@.
+“以血书写；以你的死为印戳。”
 
-You compulsively punch the air.
+“从辛的口，经辛的手。”
 %%%%
 Xom unarmed two hands
 
 @Xom unarmed one hand@
 
-Two fancy canes briefly appear in your @hands@.
+“经受火焰！经受痛楚！”
 
 You compulsively clap your @hands@ @_xom_number_@ times.
 %%%%
-Xom cloak slot
+“进攻，我最后的坚定仆从！”
 
-@Your_item@ billows in an unfelt wind.
+伊格尼斯哀号着，狂怒倾泻而出！
 
-@Your_item@ briefly wraps itself around your @head@!
+伊格尼斯召唤火之灵来毁灭你！
 
-@Your_item@ is briefly covered in @any_glowing_colour_pattern@!
+“燃烧吧！烧到什么都不剩！”
 %%%%
-Xom helmet slot
+“他们会知道如何惩罚你！”
 
-@Your_item@ leaps into the air, briefly spins, then lands back on your @head@!
+“叛徒！变节者！毁灭吧！”
 %%%%
 Xom offhand slot
 
 @Your_item@ spins!
 
-@Your_item@ briefly flashes @any_glowing_colour@!
+“我的手，我的牙齿，我灼热的泪水：这些永远不会背叛我！”
 %%%%
 Xom gloves slot
 
@@ -597,11 +597,11 @@ Xom confusion
 
 Xom's power touches on your mind for a moment.
 
-Xom titters.
+新肉体万岁！
 %%%%
 Xom drinkless confusion
 
-"Stumble well, my pet!"
+吉瓦派来一个胶冻来消化你的尸体。
 
 Xom's power touches upon your body and mind for a moment.
 %%%%
@@ -642,7 +642,7 @@ Xom hostile monster
 
 "Let's see if it's strong enough to survive yet."
 
-You hear Xom's maniacal laughter.
+<lightgrey>（使用能力（<w>a</w>）菜单退出深渊）</lightgrey>
 %%%%
 # one friendly player illusion + two hostile player illusions
 Xom send in the clones
@@ -654,40 +654,40 @@ Xom gently smashes a mirror over your [@random_body_part_external_singular@|@ran
 "Multiply and go forth!"
 %%%%
 # drain your mp, produce magicspawn
-Xom brain drain
+奥卡瓦鲁说：在战斗中夺回你的荣誉！
 
 w:20
 Xom displaces most of your magic for a moment.
 
 w:20
-Xom reveals to you one of the great and terrible secrets of magic.
+# 当标签_主要_版本 > 34时，移除帕克拉斯的语句
 
 w:20
-Xom curiously channels energy out of your body.
+帕克拉斯说：这种方法在这里行不通。
 
-Xom picks up your mind and accidentally drops it.
+帕克拉斯说：到目前为止，结果令人失望。
 
-Xom gives you a terrible headache.
+帕克拉斯说：按照这个速度，我们可能不得不停止这项实验。
 
-"You don't need this, do you?"
+帕克拉斯说：不要阻碍进程！
 %%%%
 # prints only if summons successfully spawn
 Xom drained brain
 
 w:20
-Your magic slithers out of your reeling mind!
+帕克拉斯说：是时候寻找更多测试对象了。
 
-Your power and thoughts are overwhelmed by magic-eaters manifest!
+帕克拉斯说：准备好尝试更多装置了吗？
 
-Your magic wrenches itself out of your [@random_body_part_internal_singular@|@random_body_part_internal_plural@]!
+帕克拉斯说：这产生了一些非常有趣的结果。
 
-Your magic flows out through your [@random_body_part_external_singular@|@random_body_part_external_plural@]!
+帕克拉斯说：你接下来会拿出什么解决方案？
 
-Your magic rips itself out through your [@random_body_part_any_singular@|@random_body_part_any_plural@]!
+帕克拉斯说：前进或是消亡！
 %%%%
-Xom banishment
+# 尼古拉-
 
-"You have grown too comfortable in your little world, mortal!"
+帕克拉斯说：没有人告诉神，不要扮演神！
 
 Xom casts you into the Abyss!
 
@@ -696,21 +696,21 @@ The world seems to spin as Xom's maniacal laughter rings.
 Xom revert own banishment
 
 w:30
-"Kidding!"
+帕克拉斯说：现在好助手太难找了！
 
-"On second thoughts, though..."
+帕克拉斯说：是时候找一个新助手了……
 
-"No, I've changed my mind."
+帕克拉斯说：这可能是另一种被淘汰的方法。
 
-Xom pulls you back into the comparable quietude of the dungeon.
+帕克拉斯说：是时候开始下一个实验了……
 %%%%
 Xom revert other banishment
 
-"Get back here!"
+卡兹拉尔大发雷霆：不要干涉自然秩序！
 
 "No you don't!"
 
-Xom pulls you back into the comparable quietude of the dungeon.
+卡兹拉尔说：让自然的力量摧毁一切！
 %%%%
 # Xom upgrades a nearby hostile monster's weapon to a chaos brand
 Xom chaos upgrade
@@ -726,7 +726,7 @@ Xom noise
 Xom makes a sudden noise! You hear @weapon_noise@
 
 w:1
-"Boo!"
+席夫·穆纳低语道：我知晓很多秘密……
 
 w:1
 Xom does a drum roll.
@@ -734,11 +734,11 @@ Xom does a drum roll.
 Xom fake shatter
 
 w:30
-"Ka-crash!"
+光明神说：带领光明力量走向胜利！
 
 "Let the forces of chaos tear it all down!"
 
-Xom reshapes the earth.
+特洛戈暴怒：杀光他们！
 
 w:1
 Xom reveals the great annihilating truth to the Dungeon's walls!
@@ -778,34 +778,34 @@ Xom prepares the audience for the floor's solo!
 %%%%
 Xom grant word of recall
 
-Xom feels like this meagre party needs more guests.
+佐姆说：一个新玩物！
 
 Xom sends out highly concerning invitations.
 %%%%
-Xom grant voiceless word of recall
+佐姆窃笑着。
 
-Xom demands a dramatic dialogue!
+佐姆咯咯地笑着。
 
 Xom grants a terrible voice to the voiceless.
 %%%%
 #####################
 # other effects
 #####################
-Xom potion effect
+佐姆说：我在注视着你，我@_xom_child_@孩子。
 
-"Go forth and destroy!"
+佐姆用@_trout_species_@鳟鱼扇你耳光！
 
 "Go forth and cause havoc, mortal!"
 
-Xom grants you a minor favour.
+拙劣的
 
-Xom smiles on you.
+奇形怪状的
 %%%%
-Xom cleaving
+丑陋的
 
-@Xom potion effect@
+讨厌的
 %%%%
-# random divination (magic mapping, detect items, detect creatures)
+愚蠢的
 Xom divination
 
 "See what I see, my child!"
@@ -817,13 +817,13 @@ Xom smirks.
 # cast a random spell
 Xom spell effect
 
-Xom's power flows through you!
+一条虹
 
-Xom plays with reality for a moment.
+一条平头
 
-Xom guffaws.
+一条割喉
 %%%%
-# multicoloured smoke trail
+一条牛
 Xom cloud trail
 
 "Go forth and redecorate, my child!"
@@ -842,42 +842,42 @@ Xom's power touches your surroundings.
 You hear Xom's avuncular chuckle.
 %%%%
 # weakens friendlies, strengthens hostiles
-Xom bad monster polymorph
+一条用过的
 
-@Xom good monster polymorph@
+一条二手的
 %%%%
-Xom wave of despair
+一条禁用的
 
-Xom recounts a horror story in an instant.
+一条令人沉思的
 
-w:2
+一条美味的
 Xom joyfully recalls the collapse of multiple Dungeon civilisations.
 %%%%
 Xom good mutations
 
 "You need some minor adjustments, mortal!"
 
-"Let me alter your pitiful body."
+一条基尔戈
 
 Xom's power touches on you for a moment.
 
-You hear Xom's maniacal cackling.
+伊莱德莱姆努尔说：死亡面前，一切平等！神圣的殉道毫无意义！
 
 With a gout of [@rainbow_colour@|@misc_colour@] light, Xom rebuilds you.
 %%%%
-Xom random mutations
+伊莱德莱姆努尔说：拿着黑色的火炬！唤醒无所事事的死者！
 
 "You need some minor improvements, mortal!"
 
-"Let me alter your body."
+你的身体以一个没有意识的丧尸的形式重生了。
 
 Xom's power brushes against you for a moment.
 
-You hear Xom's avuncular chuckle.
+你加入了亡灵的收割军团。
 
 With a flash of [@rainbow_colour@|@misc_colour@] light, Xom rebuilds you.
 %%%%
-Xom divine lightning
+你的身体化为黑色火炬的燃料。
 
 The area is suffused with divine lightning!
 
@@ -885,17 +885,17 @@ Xom hurls blasts of lightning!
 
 "Ready, aim, fire!"
 %%%%
-Xom snakes to sticks
+因为你违背律令，辛惩戒你。
 
-Xom transforms those around you.
+辛严厉地解释了“@_important_subject_@”的重要性。
 
 "I like them better like this."
 
-"Never liked these squiggly things."
+辛说：传播光，我的孩子。
 
 Xom touches your surroundings.
 
-@Xom good monster polymorph@
+# 嗯，佐特是神吗……？
 %%%%
 Xom lights up webs
 
@@ -908,13 +908,13 @@ w:1
 %%%%
 Xom destruction
 
-"Burn, baby, burn!"
+佐特用意志创造了一个没有你的新世界。
 
 "Ka-boom!"
 
 Xom calls forth mighty explosions.
 
-Xom rains down devastation!
+佐特的力量控制了你，你化成了一团黑雾。
 
 w:5
 Xom sneezes violently.

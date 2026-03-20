@@ -1,0 +1,279 @@
+%%%%
+Fighting
+
+格斗技能增加你的物理攻击的命中率和伤害，同时还能提升你的生命力上限。
+also increases your maximum health.
+%%%%
+Short Blades
+
+Short Blades are more effective than any other weapon type at stabbing helpless
+提升短刃技能能提升你使用此类武器的攻击速度、命中率和攻击力。
+
+提升短刃技能能同时提升你的长刃技能，反之亦然。
+weapons of this type, as well as increasing your accuracy and damage with them.
+
+Being skilled with Short Blades increases your effectiveness with Long Blades,
+提升长刃技能能提升你使用此类武器的攻击速度、命中率和攻击力。
+%%%%
+提升长刃技能能同时提升你的短刃技能，反之亦然。
+
+Being skilled with Long Blades will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
+
+Being skilled with Long Blades increases your effectiveness with Short Blades,
+提升斧技能能提升你使用此类武器的攻击速度、命中率和攻击力。
+%%%%
+提升斧技能能同时提升你的棍棒技能和长柄武器技能，反之亦然。
+
+Axes cleave through multiple enemies with a single swing, hitting foes in an
+arc around the wielder.
+
+Being skilled with Axes will allow you to attack more quickly with all weapons
+提升棍棒技能能同时提升你的斧技能和杖技能，反之亦然。
+
+Being skilled with Axes increases your effectiveness with Maces & Flails and
+Polearms, and vice versa.
+%%%%
+Maces & Flails
+
+Being skilled with Maces & Flails will allow you to attack more quickly with
+提升长柄武器技能能同时提升你的斧技能和杖技能，反之亦然。
+them.
+
+Being skilled with Maces & Flails increases your effectiveness with Axes and
+不需要很高的技能等级就能精通杖类武器，
+%%%%
+Polearms
+
+Polearms can be evoked with ‘v’ to attack enemies from two spaces away.
+
+Being skilled with Polearms will allow you to attack more quickly with all
+weapons of this type, as well as increasing your accuracy and damage with them.
+
+提升远程武器技能能提升你使用所有弓、弩和投石索的攻击速度、命中率和攻击力。
+and vice versa.
+%%%%
+Staves
+
+它还能提升回旋镖投出后回到投掷者的几率，并让某些魔法飞镖更容易生效。
+although they lack the high damage potential of some other weapon classes.
+
+Being skilled with Staves will allow you to attack more quickly with all
+护甲技能使穿戴各种护甲（包括铠甲、披风、手套等）所获得的防护成倍增加。
+
+Being skilled with Staves increases your effectiveness with Maces & Flails and
+Polearms, and vice versa.
+%%%%
+闪避技能会影响你躲开敌人攻击（包括近战、远程和魔法攻击）的几率。
+
+Being skilled with Ranged Weapons will let you attack more quickly with all
+bows, crossbows and slings, as well as increasing your accuracy and damage with
+them.
+%%%%
+你从怪物的视野中消失后，他们也会更难进行追踪。
+
+Training Throwing will make thrown weapons (such as javelins) more accurate
+提升潜行技能和你所装备的武器的武器技能，
+在攻击不警觉的敌人时会增加造成额外伤害的几率和攻击力。
+%%%%
+Armour
+
+强大的格挡技能可以帮助你用装备的盾牌阻挡近战攻击或投射物
+（无论是魔法还是非魔法），
+并减小盾牌对你的闪避、攻击速度和施法成功率的负面影响。
+%%%%
+Dodging
+
+提升徒手格斗技能会增加你在近战时空手战斗的命中率、攻击力和攻击速度。
+ranged or magical. Certain types of attack cannot be dodged, however, such as
+enchantments (which must be resisted with willpower) and explosions.
+%%%%
+Stealth
+
+        return "提升施法技能会提升施法的成功率和"..
+               "法术威力。"
+losing track of you after you leave their vision. Note that more powerful
+        return "提升施法技能会提升施法的成功率和" ..
+
+                "魔力储备。训练施法技能也会获得更多的法术" ..
+                "槽，以放置新的法术。"
+distracted or helpless creature, as well as the amount of extra damage dealt.
+%%%%
+Shields
+
+A high Shields skill helps you block melee attacks or projectiles (both magical
+塑能系魔法是关注战斗的魔法流派，
+旨在塑造出一团短暂存在的物质并将其推向敌人以造成伤害。
+%%%%
+Unarmed Combat
+
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+speed in melee combat when barehanded.
+%%%%
+Spellcasting
+
+{{
+尽管妖术通常需要击垮敌人的意志力才能生效。
+提升妖术技能有助于击垮敌人的意志力。
+               "power of all spells."
+训练妖术技能会提升妖术系法术的成功率和强度。许多法术属于多个魔法流派，
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+                "rate and spell power of all spells, along with increasing your " ..
+                "magical reserves. Training Spellcasting also gives you more spell " ..
+                "slots to spend on new spells."
+召唤系魔法旨在从另一个现实位面召唤生物来暂时帮助你。
+}}
+%%%%
+Conjurations
+
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+chunk of short-lived matter and propelling it towards the victim to deal direct
+damage. Being skilled in Conjurations usually increases the damage and accuracy
+of such spells, and sometimes affects their range or the size of the area
+死灵术是汲取和获取生命的艺术，即使它通常与丧尸和其他亡灵有关。
+
+从创造或破坏亡灵的法术到用各种形式进行邪恶治疗的法术。
+spells in this school. Many spells belong to a combination of several schools,
+提升死灵术技能会提升死灵系法术的成功率和强度。许多法术属于多个魔法流派，
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+%%%%
+Hexes
+
+移位系魔法关注生物和物体在空间中的移动，这一魔法流派包含了很多实用的法术，
+例如使自身快速的移动一小段距离或把身边的敌人传送走。
+although they often require overcoming an opponent's willpower to have an effect.
+提升移位技能会提升移位系法术的成功率和强度。许多法术属于多个魔法流派，
+
+Being skilled in Hexes increases the success rate and spell power of spells in
+this school. Many spells belong to a combination of several schools, in which
+case spellcasting success and power will depend on the average skill in these
+炼金术是毒素和变化的艺术。这一流派的法术可以将物品和生物扭曲成不同的形状，
+%%%%
+Summonings
+
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+temporarily aid you. Increasing Summonings skill may grant a number of effects
+depending on the spell, such as longer duration or more powerful allies. Note
+that summoned beings do not leave corpses and give no experience when killed,
+火系魔法主要关注对敌人造成远程火焰伤害，火系魔法通常与塑能系魔法相结合。
+
+提升火系魔法技能会提升火系法术的成功率和强度。许多法术属于多个魔法流派，
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+冰系魔法包含多种攻击法术，同时也包含一些防御法术，例如创造临时性的冰护甲。
+
+提升冰系魔法技能会提升冰系法术的成功率和强度。许多法术属于多个魔法流派，
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+alongside the caster, as well as create traps and barricades and even turn the
+physical resilience of one's armour into a weapon.
+
+气系魔法包含直接使用风造成伤害的法术，也包含轰鸣而强大的闪电塑能系法术。
+其中也包含一些实用的法术，例如呼唤风来加快移动或阻碍周围区域使用魔法的妖术。
+in which case spellcasting success and power will depend on the average skill
+提升气系魔法技能会提升气系法术的成功率和强度。许多法术属于多个魔法流派，
+%%%%
+Necromancy
+
+Necromancy is the art of draining and gaining life, although most often
+土系魔法包含直接造成大量物理伤害的法术，
+它不会像火系、寒系、电系伤害那样能被抗性抵挡。
+土系魔法也包含一些炼金术法术，比如能液化身边的土地的法术和能石化敌人的法术。
+
+提升土系魔法技能会提升土系法术的成功率和强度。许多法术属于多个魔法流派，
+对于这类法术，法术的成功率和强度由这些流派的技能的平均值决定。
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+祈祷技能影响使用某些神赐予的能力的成功率，通常还影响其强度。
+
+Translocations focus on the spatial movement of beings or objects, including
+useful spells to translocate yourself over short distances quickly or to
+        return "祈祷技能也会影响你的魔力储备，" ..
+
+               "加成最大的技能影响。"
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Alchemy
+
+训练激活技能会提升它们的强度和使用成功率。
+objects and creatures into different shapes, unleash powerful poisons, or even
+unweave the fabric of magic itself.
+
+变身技能可以让人们使用魔法符咒改变自身形态。
+技能足够熟练就能使用更强大的形态而不会严重损害健康。
+精通变身技能也能让大多数形态变得更强大，具体因不同形态而异。
+in these schools.
+%%%%
+Fire Magic
+
+Fire Magic focuses mainly on dealing fire damage over long distances, with many
+effective Conjurations.
+
+Being skilled in Fire Magic increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Ice Magic
+
+Ice Magic contains a range of direct damage spells, as well as some defensive
+effects - for example, crafting temporary ice armour.
+
+Being skilled in Ice Magic increases the success rate and spell power of spells
+in this school. Many spells belong to a combination of several schools, in
+which case spellcasting success and power will depend on the average skill in
+these schools.
+%%%%
+Air Magic
+
+Air Magic provides spells to deal damage directly with the wind, as well as
+noisy but powerful lightning Conjurations. It also provides some utility
+spells, such as a call to the wind to assist your movement or a Hex to prevent
+most use of magic in the area surrounding you.
+
+Being skilled in Air Magic increases the success rate and spell power of spells
+in this school. Many spells belong to a combination of several schools, in
+which case spellcasting success and power will depend on the average skill in
+these schools.
+%%%%
+Earth Magic
+
+Earth Magic contains spells able to deal large amounts of direct physical
+damage, which cannot be resisted like fire, cold and lightning damage can. It
+is also linked with Alchemy, with spells to liquefy the earth around you, or to
+turn your enemies to stone.
+
+Being skilled in Earth Magic increases the success rate and spell power of
+spells in this school. Many spells belong to a combination of several schools,
+in which case spellcasting success and power will depend on the average skill
+in these schools.
+%%%%
+Invocations
+
+Your Invocations skill affects the likelihood that an attempt to use divine
+abilities with certain gods will be successful, and often the power of such
+abilities.
+
+{{
+    if you.race() ~= "Djinni" then
+        return "The Invocations skill also affects your magical reserves, " ..
+               "but to a lesser degree than the Spellcasting skill. Only the " ..
+               "higher contribution is used."
+    end
+}}
+%%%%
+Evocations
+
+Evocations skill affects your ability to use magical items like wands and other
+uncommon objects, increasing the power or success rate of such items.
+%%%%
+Shapeshifting
+
+Shapeshifting enables the use of magical talismans to change oneself into other
+forms. Sufficient skill allows one to use more powerful forms without gravely
+damaging one's health. Being skilled in Shapeshifting also makes most forms
+somewhat stronger, in ways which vary between forms.

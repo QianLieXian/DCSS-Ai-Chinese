@@ -1,30 +1,30 @@
 ae := autopickup_exceptions
 
-### specific inclusions ###
+### 具体包含物 ###
 
-# Autopickup runes by default.
+# 默认情况下自动拾取符文。
 ae = <rune of Zot
 
-# Make it harder to miss out on zigfigs.
+# 让你更难错过 zigfis。
 ae += <figurine of a ziggurat
 
-### exclusions ###
+### 排除 ###
 
-# Exclude items useless in general or for your current character (such as
-# armour you can't wear).
+# 排除一般无用或对你当前角色无用的项目（例如
+# 你不能穿的盔甲）。
 ae += useless_item
 
-# Exclude items which your god disapproves of.
+# 排除你的上帝不赞成的项目。
 ae += forbidden
 
-# ?noise is pretty useless.
+# ?噪音毫无用处。
 ae += scroll of noise
 
-# Autopickup elemental evokers after useless and forbidden exclusions,
-# so that autopickup for these items will respect god conducts.
+# 在无用和禁止的排除后自动拾取元素唤起者，
+# 这样这些物品的自动拾取将尊重上帝的行为。
 ae += <evoker
 
-### good_item backstop (keep last) ###
+### good_item 后挡板（保留最后） ###
 
 ae += <good_item
 
@@ -32,8 +32,8 @@ ae += <good_item
 :   return it.stacks() or nil
 : end)
 
-# Excluding most amulets as you only need one of each. Likewise for some
-# rings. Some items may already be excluded as bad_item, e.g. inaccuracy.
+# 排除大多数护身符，因为您只需要其中一个。对于某些人来说也是如此
+# 响铃。某些项目可能已被排除为 bad_item，例如不准确。
 :add_autopickup_func(function (it, name)
 :  if it.is_redundant then
 :     return false

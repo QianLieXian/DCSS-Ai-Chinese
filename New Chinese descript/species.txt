@@ -1,0 +1,135 @@
+%%%%
+Armataur
+
+甲马是长有鳞片、体形和马一样的哺乳动物，
+他们移向敌人时会快速滚动、身体变得坚韧，但不够敏捷。
+%%%%
+Barachi
+
+蛙人是移动缓慢的人形两栖生物，但可以跳得很远。
+他们的视野更广，但别人也能从更远的地方看到他们。
+%%%%
+Coglin
+
+地底精灵与各种魔法都很亲和，但却非常脆弱。
+wrapping slow-revving metal around their puny goblinoid frames.
+%%%%
+Deep Elf
+
+Deep Elves have a strong affinity for all kinds of magic, but are very fragile.
+They regenerate magical power rapidly.
+%%%%
+魔人一半是人，一半是魔。随着他们的成长，他们可获得强大的魔性变异。
+
+Demigods refuse to worship any god, but make up for this with divine attributes
+and high reserves of health and magic.
+%%%%
+他们不需要书本，自身就能掌握咒语，通过汲取自己的火焰施展法术。
+
+Demonspawn are half human, half demon. They acquire strong demonic mutations as
+they grow.
+%%%%
+Djinni
+
+Djinn are ever-burning spirits. They learn spells automatically as they grow,
+蚁人是人形蚂蚁，善于挖掘。他们四肢非常强壮，但他们却深扎于地面上。
+%%%%
+Draconian
+
+这种有意识的猫有好几条命。但它们无法使用防具或武器。
+a colour.
+%%%%
+Formicid
+
+他们的生命值偏低，但石头身体非常坚硬。
+strong and they live in a state of permanent stasis.
+%%%%
+Felid
+
+Felids are many-lived sentient cats. They cannot use armour or weapons.
+%%%%
+Gargoyle
+
+只有他们才能皈依兽人神比欧弗。
+They have low health, but their stone bodies are incredibly tough.
+%%%%
+Gnoll
+
+Gnolls are canine-like humanoids. They are unable to specialise in any single
+skill, but instead gradually become proficient in all skills at once.
+%%%%
+天狗是鸟人，喜欢飞翔，以及武器和魔法。他们脆弱但敏捷，最终能掌握飞行能力。
+
+Humans are natural explorers. Discovering new places refreshes and invigorates them.
+They are otherwise completely average.
+%%%%
+他们体形小且有点脆弱，但在大多数技能上很有天赋。
+
+Tengu are bird-people who love to fight, both with weapons and spells. They are
+fragile but agile, and eventually learn to fly.
+%%%%
+他们是强大的战士，也擅长使用魔法来帮助作战。
+
+Kobolds are attuned to the shadows and can only see or be seen at a close range.
+They are small and a little fragile, and are talented in most skills.
+%%%%
+他们擅长各种形式的近程和远程战斗。
+
+Half fish, half human, Merfolk are citizens of both water and land. They are
+strong combatants, and adept at using magic to assist in battle.
+%%%%
+擅长死灵术，但学习其他技能的速度很慢。他们无法饮用药水。
+
+Minotaurs are large muscular humans with bovine heads. They excel at all forms
+of close and ranged combat.
+%%%%
+他们移动速度很慢，但却很坚韧。
+
+Mountain Dwarves are strong melee fighters and capable heavy-armoured casters.
+They can use scrolls to enchant even some artefacts.
+%%%%
+他们可以戴八枚戒指，但几乎没有适合他们体形的护甲。
+
+Compelled to walk by an ancient curse, Mummies have innate faith and are adept
+at Necromancy, but learn other skills very slowly. They cannot drink potions.
+%%%%
+他们能够成为出色的打手和施法者，并能从治疗药水中获得更多增益。
+
+Nagas are hybrids: human from the waist up, with a snake-like tail instead of
+legs. They move very slowly but are naturally resilient.
+%%%%
+Octopode
+
+Octopodes are a species of amphibious cephalopods. They can wear eight rings,
+巨魔是有着强大爪子的怪物。他们能快速恢复健康。
+%%%%
+Oni
+
+吸血鬼能游走在生死两种状态间，善于刺杀和施法。
+spellcasters and gain extra benefits from healing potions.
+%%%%
+Poltergeist
+
+其魔力储备可以用来抵消伤害，并能通过撕咬敌人回复魔力。
+different hats, gloves, boots, or cloaks at once, but cannot wear body armour.
+%%%%
+Revenant
+
+Revenants are skeletal undead who are strong at melee combat and can empower
+damage-dealing spells by consuming memories they harvest from their victims.
+%%%%
+Spriggan
+
+Very small, very frail and very fast, Spriggans are highly competent stabbers
+and spellcasters.
+%%%%
+Troll
+
+Trolls are monstrous creatures with powerful claws. They regenerate health
+rapidly.
+%%%%
+Vine Stalker
+
+Frail symbionts, Vine Stalkers cannot regain health from potions. Their magical
+reserves absorb damage, and they pack a magic-restoring bite.
+%%%%

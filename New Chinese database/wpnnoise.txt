@@ -1,25 +1,25 @@
 ###############################################################################
-# wpnnoise.txt contains the messages of randart weapons with the noise property
-# and of the noisy unrandart items, like the Singing Sword. To make an entry
-# for a noisy unrandart weapon, make the entry's key exactly the same as the
-# weapon's name, but all lower case.
+# wpnnoise.txt包含着具有噪音属性的随机神器
+# 和像唱歌剑那样聒噪的非随机神器的话语消息。
+# 要添加聒噪的非随机神器的条目，条目的关键词要与神器名称完全相同，
+# 但所有字母需要用小写。
 #
-# For an explanation of how to read wpnnoise.txt and how to add new messages,
-# see monster_speech.txt in the docs/develop/ directory.
+# 有关如何读取wpnnoise.txt以及如何添加新消息的内容，
+# 请参阅docs/develop/目录中的monster_speech.txt文件。
 ###############################################################################
 
-# Contents:
-# - Shield of the Gong
-# - Frostbite
-# - Condemnation
-# - Noisy randarts
-# - The Singing Sword
+# 目录：
+# - 锣盾
+# - 寒刺
+# - 谴责
+# - 聒噪的随机神器
+# - 唱歌剑
 
 
 ###############################################################################
 ###############################################################################
 #
-# The SHIELD OF THE GONG can be struck in different ways.
+# 可以用不同的方式敲击锣盾。
 #
 ###############################################################################
 ###############################################################################
@@ -27,23 +27,23 @@
 shield of the gong
 
 w:40
-GONNNNG!
+咣！
 
-BOUMMMMG!
+砰！
 
-PTOANNNG!
+镗！
 
-PANG!
+乓！
 
-BONNNG!
+梆！
 
-# scraping hit
-SHROANNG!
+# 刮击
+沙呤！
 
 ###############################################################################
 ###############################################################################
 #
-# The FROZEN AXE "FROSTBITE" imitates loud noises from cold environments.
+#  冰斧『寒刺』会模仿严寒环境下的响声。
 #
 ###############################################################################
 ###############################################################################
@@ -51,21 +51,21 @@ SHROANNG!
 %%%%
 frozen axe "frostbite"
 
-You hear the [roaring|howling|raging|gusting] winds of a [blizzard|squall|snowstorm].
+你听到[暴雪|飑|雪暴]在[咆哮|嚎叫|肆虐|劲吹]。
 
 w:5
-You hear ice [creaking|groaning|grinding|cracking].
+你听到冰在[吱吱作响|吱嘎作声|摩擦|破裂]。
 
 w:1
-You hear shards of ice [tinkling|chiming].
+你听到碎冰在[叮当作响|发出和谐的音调]。
 
 w:1
-You hear the [rumble|boom|crash] of [a glacier calving|icebergs colliding].
+你听到[冰川崩解|冰山相撞]的[隆隆声|轰鸣|碎裂声]。
 
 ###############################################################################
 ###############################################################################
 #
-# The TRISHULA "CONDEMNATION" cries out against injustice.
+# 法器三叉戟『谴责』大声疾呼反对不公。
 #
 ###############################################################################
 ###############################################################################
@@ -73,30 +73,30 @@ You hear the [rumble|boom|crash] of [a glacier calving|icebergs colliding].
 %%%%
 trishula "Condemnation"
 
-@Your_weapon@ lets out a [divine|blessed|sacred|holy] [chiming|tinkling|ringing|pealing|tintinnabulation].
+@Your_weapon@发出[神明的|神圣的|庄严的|圣洁的][和谐音调|叮当声|嗡嗡声|鸣响|丁零声]。
 
-@Your_weapon@ sings the [divine|blessed|sacred|holy] song of the [angels|Heavens|Barachim].
+@Your_weapon@吟唱着[天使|天堂|蛙人][神明的|神圣的|庄严的|圣洁的]颂歌。
 
 w:5
-@Your_weapon@ [chants|recites|intones] a [divine|blessed|sacred|holy] warrior-psalm.
+@Your_weapon@[歌颂|吟诵|咏唱]着[神明的|神圣的|庄严的|圣洁的]战士诗篇。
 
 w:1
-@Your_weapon@ [calls|cries for|demands] [evildoers|demons|the wicked] to come forth and be judged!
+@Your_weapon@[传唤|要求|强令][作恶者|恶魔|邪恶者]出来接受审判！
 
 w:1
-@Your_weapon@ [wails|laments|cries out] at the [injustice|cruelty|suffering] of the world.
+@Your_weapon@[哀叹|悲叹|谴责]世间的[不公|残酷|苦难]。
 
 w:1
-@Your_weapon@ [croaks|ribbits] in the tongue of ancient peoples.
+@Your_weapon@以古人的腔调呱呱地叫着。
 
 ###############################################################################
 ###############################################################################
 #
-# NOISY WEAPONS like to chatter and imitate dungeon noises.
+# 聒噪的武器喜欢饶舌，模仿地牢的声音。
 #
-# All speech below (apart from SOUND:You hear @weapon_noise@) is also used
-# for the Singing Sword. Note that @Your_weapon@ will be resolved into
-# "The Singing Sword" or "Your [weapon]", respectively (noisy_equipment() in
+# 下面的所有语句（除了“SOUND:你听到@weapon_noise@”）也适用于唱歌剑。
+# 请注意@Your_weapon@会被分别解析为“唱歌剑”或“Your [武器]”
+# （根据shouts.cc中的noisy_equipment()函数）。
 # shouts.cc).
 #
 ###############################################################################
@@ -113,7 +113,7 @@ w:28
 w:2
 @_instrumental_noises_@
 
-w:20
+SOUND:你听到@weapon_noise@
 SOUND:You hear @weapon_noise@
 
 ###############################################################################
@@ -203,34 +203,34 @@ _rare_chatter_
 %%%%
 weapon_noises
 
-w:80
+@Your_weapon@[咯咯笑着|吃吃笑着|发出咯咯声|叹息着|哼哼着|鸣啭着|哀叹着|呜咽着]。
 @Your_weapon@ [cackles|giggles|gurgles|sighs|snorts|warbles|wails|whimpers].
 
-w:50
+@Your_weapon@[|大声|放声][咳嗽着|咒骂着|打着哈欠]。
 @Your_weapon@ [coughs|swears|yawns][| loudly| noisily].
 
-w:40
+@Your_weapon@在[|大声][打嗝|欢呼|嚷嚷|叫喊|打喷嚏]！
 @Your_weapon@ [burps|cheers|hollers|yelps|sneezes][| loudly]!
 
-w:30
+@Your_weapon@发出[可怕的|低沉、粗嘎的|啧啧的]噪音。
 @Your_weapon@ makes a [horrible|deep, guttural|tutting] noise.
 
-w:20
+@Your_weapon@发出[低沉的呻吟|爆裂]声。
 @Your_weapon@ makes a [deep moaning|popping] sound.
 
-w:20
+@Your_weapon@发出[滴答声。|斯哩咔嚓声！]
 @Your_weapon@ goes [tick-tock.|snicker-snack!]
 
-w:20
+@Your_weapon@[像狼一样嚎叫着。|带着笑声呼啸着！]
 @Your_weapon@ howls [like a wolf.|with laughter!]
 
-w:20
+@Your_weapon@[爆发出|突然迸发出]笑声！
 @Your_weapon@ [erupts|suddenly bursts] into laughter!
 
-w:20
+@Your_weapon@发出[挑逗口哨声|咝咝声]。
 @Your_weapon@ gives off a [wolf whistle|sizzling sound].
 
-w:20
+@Your_weapon@发出一声[悲叹。|欢呼！]
 @Your_weapon@ lets out a [mournful sigh.|whoop!]
 
 @Your_weapon@ laughs crazily.
@@ -270,10 +270,10 @@ _instrumental_noises_
 
 @Your_weapon@ makes a twanging sound.
 
-w:20
+@Your_weapon@[悠悠地|和谐地]发出钟声。
 @Your_weapon@ chimes [melodiously|harmoniously].
 
-w:20
+@Your_weapon@在模仿[萨克斯|风笛]的声音。
 @Your_weapon@ imitates [a saxophone|the bagpipes].
 
 @Your_weapon@ tinkles.
@@ -297,9 +297,9 @@ w:20
 # Noises for weapons with NOISES property (not used for the Singing Sword)
 ###############################################################################
 %%%%
-weapon_noise
+一声喊叫。
 
-############ dungeon noises ############
+一声愤怒的嘶嘶声。
 a shout.
 
 an angry hiss.
@@ -340,9 +340,9 @@ a crunching sound.
 
 a distant "Zot"!
 
-the distant roaring of an enraged frog.
+敲门声。
 
-############ other noises, usually not found in the dungeon ############
+一个声音在呼唤你的名字。
 a knock.
 
 a voice calling your name.
@@ -377,63 +377,63 @@ a strangely pleasant explosion.
 
 distant weeping.
 
-a muffled joke.
+# 唱歌剑
 
 ###############################################################################
 ###############################################################################
 #
-# The SINGING SWORD
+# 这把剑的行为有三种模式：无紧张度、低紧张度、高紧张度。
 #
 ###############################################################################
 ###############################################################################
 #
-# The Sword operates in three modes: no tension, low tension, high tension.
+# 它受过一些教育（主要是关于音乐和战争），喜欢炫耀。
 #
 # No tension:
-# Speech is very rare, soft (does not wake up monsters), bored or witty,
-# sometimes just chatty. The sword is rational, sometimes introspective.
-# It is somewhat educated (mostly about music and war) and likes to show off.
-# Typical speech verb: "says"
+# 低紧张度：
+# 常常说话，声音有些大（会唤醒周围的怪物），并会对视线中的怪物造成轻微伤害。
+# 这把剑沉着冷静。它喜欢血流成河，但保持着理智。当然，有了小调，效果会更为有趣……
+# 典型的言语动词：“说”或“叫道”。
 #
-# Low tension:
-# Speech is common, somewhat loud (do wake up nearby monsters) and slightly
-# damages everyone in sight. The sword is calm and cool. It enjoys the
-# bloodshed, but is sane. Of course, work is more fun with a little tune...
-# Typical speech verbs: "says" or "shouts".
+# 高紧张度：
+# 喋喋不休，极其吵闹（你可以使用大写字母），并会造成更大伤害。
+# 胡言乱语，这把剑失控了。
+# 在高紧张度时，剑可能会尖叫，会造成更大的伤害。
+# 典型的言语动词：“叫道”或@_screams_@。
 #
 # High tension:
-# Speech is very common, extremely loud (you may use CAPS) and does more
-# damage. Messages are insane, the sword is out of control.
-# At high tension, the sword may SCREAM, doing even more damage.
+# 一般来说，这把剑是傲慢的：它认为自己才是主角，
+# 而持剑者大体上只是一次性工具／傻瓜。
+# 此外，它不喜欢盟友——荣耀尽归我们的钢铁英雄！
 # Typical speech verb: "shouts" or @_screams_@
 #
 #
-# Generally, the Sword is arrogant: it sees itself as the main hero, with the
-# wielder just being a disposable tool/fool. Also, it does not like allies --
-# all the fame belongs to our steely hero!
+# 有以下类型的消息：
+# * 歌唱（包括作曲）
+# * 言语
 #
-# There are some (occasionally modified) lines from actual songs. Those are
-# okay to use, but particularly rare.
+# * 乐器——也适用于所有聒噪的随机神器
+# * 武器的噪音——适用于无紧张度状态下的聒噪的随机神器
 #
 # There are the following types of messages:
-# * singing (including composing)
+#                 无紧张度       低紧张度            高紧张度       （老式）
 # * speaking
-# * real songs (one liners from actual songs, sometimes modified)
-# * instruments    -- also used for all noisy randarts
+# 无              1000             100               10
+# 一些言语        7                 7                 7
 # * weapon noises  -- the no tension ones used for noisy randarts
-# * chatter        -- also used for all noisy randarts
+# 唱歌            50% (40/10)       40%               0%             360/700
 #
-#                 no tension      low tension       high tension     (old)
+# 实际的歌曲       1%                1% (0.7/0.3)     1% (0.3/0.7)    12/700
 #
-# none            1000             100               10
-# some speech       7                7                7
+# 噪音             7%               23% (7/16)       39% (3/36)       50/700
+# 饶舌            10%                0%               0%              50/700
 #
 # singing         50% (40/10)       40%               0%             360/700
 # speaking        20%               20% (10/10)      40% (30/10)     138/700
 # real songs       1%                1% (0.7/0.3)     1% (0.3/0.7)    12/700
-# instruments     12%               16%              20%              90/700
+# 不同类型信息的权重，取决于紧张度。
 # noises           7%               23% (7/16)       39% (3/36)       50/700
-# chatter         10%                0%               0%              50/700
+######### 在任何紧张度下被沉默的情况 ############
 #
 ###############################################################################
 
@@ -444,13 +444,13 @@ a muffled joke.
 %%%%
 singing sword silenced
 
-VISUAL:@The_weapon@ struggles and turns.
+VISUAL:@The_weapon@生气了。
 
 VISUAL:@The_weapon@ looks @_exasperated_@.
 
 VISUAL:@The_weapon@ makes a [sad|disoriented|forlorn|hopeless] impression.
 
-w:5
+VISUAL:@The_weapon@变成@_crimson_@。
 VISUAL:@The_weapon@ sulks.
 
 w:1
@@ -476,7 +476,7 @@ w:10
 @_real_song_no_tension_@
 
 w:120
-@_instrumental_noises_@
+######### 低紧张度 ############
 
 w:70
 @weapon_noises@
@@ -503,7 +503,7 @@ w:3
 @_real_song_low-high_tension_@
 
 w:160
-@_instrumental_noises_@
+######### 高紧张度 ############
 
 w:70
 @weapon_noises@
@@ -527,13 +527,13 @@ w:150
 @_speaking_high_tension_@
 
 w:200
-@_instrumental_noises_@
+######### 高紧张度（高紧张度＋双倍伤害） ############
 
 w:30
 @weapon_noises@
 
 w:360
-@_weapon_noises_low-high_tension_@
+# 唱歌剑在低和高紧张度状态下发出的武器噪音。
 ######### SCREAM (high tension + double damage) ############
 %%%%
 singing sword SCREAM
@@ -543,9 +543,9 @@ singing sword SCREAM
 # Weapon noises for the Singing Sword at low and high tension.
 ###############################################################################
 %%%%
-_weapon_noises_low-high_tension_
+@The_weapon@发出疯狂的笑声！
 
-w:100
+@The_weapon@爆发出笑声！
 @The_weapon@ @_screams_@ @_screams_how_@.
 
 @The_weapon@ @_screams_@.
@@ -554,40 +554,40 @@ w:100
 
 @The_weapon@ erupts into mad laughter!
 
-@The_weapon@ suddenly bursts into murderous laughter!
+# 唱歌或其他音乐创作
 
-@The_weapon@ laughs in a fit of madness.
+# 但它只会在彻底无聊时（即在无紧张度时）进行练习。
 
-@The_weapon@ makes a horrifying noise.
+############ 唱歌，无紧张度 ############
 
 ###############################################################################
 # Singing or other making of music
-# The Singing Sword will happily sing a song during work (i.e. at low tension).
-# But it will practise only when properly bored (i.e. at no tension).
+# 练习
+@The_weapon@练习着它的音阶。
 ###############################################################################
-############ singing, no tension ############
+@The_weapon@发出刺耳的高音吱吱声。
 %%%%
 _singing_no_tension_
 
 # practising
-@The_weapon@ practises its scales.
+@The_weapon@训练着@_kind_of_scales_@音阶。
 
-@The_weapon@ makes a painfully high-pitched squeak.
+@The_weapon@演奏出几个小节。
 
-w:30
+@The_weapon@[几乎|很明显][奏出了|没奏出]音乐会音高。
 @The_weapon@ sings [a sudden staccato|a quivering drawn-out|a painfully high] note.
 
 @The_weapon@ trains the @_kind_of_scales_@ scales.
 
 @The_weapon@ plays a couple of bars.
 
-@The_weapon@ [nearly |clearly |][hits|misses] the concert pitch.
+############ 唱歌，无或低紧张度 ############
 
 @The_weapon@ repeatedly practises the high pitch.
 
-@The_weapon@ sings [several|three or four|a multitude of] chords at once.
+@The_weapon@发出美妙的歌声！
 
-@The_weapon@ repeatedly practises counterpoints.
+@The_weapon@唱[着歌|歌跑了调]。
 ############ singing, no or low tension ############
 %%%%
 _singing_no-low_tension_
@@ -604,13 +604,13 @@ _singing_no-low_tension_
 
 @The_weapon@ lilts tunefully.
 
-@The_weapon@ yodels.
+@The_weapon@发出“登登登登”的声音。
 
-@The_weapon@ hums tunelessly.
+@The_weapon@平静地吟唱着。
 
-@The_weapon@ keens wildly.
+@The_weapon@快乐地发出颤音。
 
-#Beethoven
+@The_weapon@开始进行另一段独奏。
 @The_weapon@ goes "Da-da-da-dum".
 
 @The_weapon@ chants serenely.
@@ -657,7 +657,7 @@ _singing_no-low_tension_
 
 @The_weapon@ sets up a furious crescendo.
 
-In a hysterical voice, @the_weapon@ strikes up a march.
+@The_weapon@[唱出|哼出]一段缓慢、悲伤的曲调。
 
 @The_weapon@ [sings|hums|whistles] a [little|catchy|merry] [tune|melody].
 
@@ -667,11 +667,11 @@ w:5
 @The_weapon@ [sings|hums] a slow and mournful tune.
 
 w:25
-@The_weapon@ strikes up @_strikes_up_what_@.
+@The_weapon@哼着一段舒缓的圆舞曲。
 
-@The_weapon@ sings, "Tra-la-la..."
+@The_weapon@吟唱着一小段旋律。
 
-w:40
+@The_weapon@在为一把无名的剑奏着安魂曲。
 @The_weapon@ sings a [lullaby|folk song|deeply moving song|little jingle].
 
 @The_weapon@ hums a slow waltz.
@@ -686,7 +686,7 @@ w:40
 
 @The_weapon@ [composes|sings] a [hymn|song] about @_song_theme_@.
 
-@The_weapon@ [composes|sings] a hymn praising @player_god@.
+# 言语
 
 @The_weapon@ [composes|sings] a ballad about your adventures.
 
@@ -703,7 +703,7 @@ _speaking_no_tension_
 @_common_speaking_no_tension_@
 
 w:1
-@_rare_speaking_no_tension_@
+@The_weapon@叫道：“一，二，三……”
 
 %%%%
 _common_speaking_no_tension_
@@ -782,9 +782,9 @@ _common_speaking_no_tension_
 
 @The_weapon@ boasts, "I have an eight-octave range, you know."
 
-@The_weapon@ sighs wistfully, "I wish my music got as much attention as my homicides..."
+@The_weapon@说：“嗨！我是唱歌剑！”
 
-@The_weapon@ sneers, "I've heard your voice, @player_name@. Let's just keep this a solo act."
+@The_weapon@吟唱道：“我是金质的，尖锐的，并用血祝过圣。”
 
 %%%%
 _rare_speaking_no_tension_
@@ -837,13 +837,13 @@ _rare_speaking_no_tension_
 
 @The_weapon@ says, "I want to meet the serpentine blade!"
 
-@The_weapon@ says, "Take me to Pandemonium! Now!!!"
+@The_weapon@咒骂道：“亲爱的日记，今天又是和@player_name@无聊的一天……”
 
-@The_weapon@ recounts funny stories of hydra head multiplication.
+@The_weapon@说：“根据我的经验，@player_genus_plural@充其量只算得上是平庸。”
 
-@The_weapon@ says, "Sometimes people call me a magnificent bastard."
+@The_weapon@哼道：“在所有@player_genus_plural@之中，@player_name@是最差的。”
 
-w:1
+@The_weapon@说：“放开我，肮脏的恶棍！”
 @The_weapon@ snarls, "Dear diary, yet another boring day with @player_name@..."
 
 @The_weapon@ says, "In my experience, @player_genus_plural@ are mediocre at best."
@@ -852,9 +852,9 @@ w:1
 
 @The_weapon@ says, "Unhand me, foul miscreant!"
 
-@The_weapon@ muses, "Whom do I have to kill to get some service around here?"
+@The_weapon@说：“只工作不玩耍，@player_name@也会变傻！”
 
-@The_weapon@ sings out, "Sing loudly and carry a big sword!"
+# 蓝牡蛎教派的《黑刃》
 
 @The_weapon@ ponders the difference in lifespan between man and sword.
 
@@ -869,16 +869,16 @@ w:1
 w:1
 @The_weapon@ says, "You haven't happened to see my sheath laying around anywhere? I feel so exposed."
 
-w:1
+@The_weapon@叫道：“以剑而生，以剑而死！”
 @The_weapon@ complains, "Oh, are your palms wet and greasy. But I allow you to wield me for a while."
 
-############ speaking, low tension ############
+@The_weapon@叫道：“[倒在剑下|向剑撒谎]，死在剑下！”
 %%%%
-_speaking_low_tension_
+@The_weapon@意识到：“如果我们把他们都杀了，那就没有听众了！”
 
-@The_weapon@ shouts, "Live by the sword, die by the sword!"
+@The_weapon@叹息道：“我多么希望你能成为一名更出色的战士。”
 
-w:1
+@The_weapon@评论着你的格斗技巧。
 @The_weapon@ shouts, "Lie [by|to] the sword, die by the sword!"
 
 @The_weapon@ realises, "If we kill all of them, no-one will be listening!"
@@ -889,13 +889,13 @@ w:1
 
 @The_weapon@ compares you unfavourably to its previous owner.
 
-@The_weapon@ complains, "This is a chore."
+else return "@player_god@"; end }}的力量罢了，你自己只是个[懦夫|胆小鬼|怯夫|窝囊废|孱头|脓包]。”
 
-@The_weapon@ judges, "You're not an artist, at best an artisan."
+@The_weapon@想弄明白：“谁更无能——是你还是敌人？”
 
-@The_weapon@ says, "They will have to pry me from your cold, dead hands."
+@The_weapon@说：“他们的哭声，他们的眼泪，我再也受不了了。”
 
-@The_weapon@ moans, "By {{ if you.god() == "No God" then return "my blade"
+@The_weapon@说：“你能原谅我在侧面捅刀子吗？”
 else return "@player_god@"; end }}, you are such a [coward|dastard|craven|faintheart|poltroon|wuss]."
 
 @The_weapon@ wonders, "Who is more incompetent - you or the opposition?"
@@ -934,105 +934,105 @@ _speaking_low-high_tension_
 
 @The_weapon@ asks, "Do you have the will to power, @player_name@?"
 
-@The_weapon@ laughs, "I always appreciate a bleeding ovation!"
+@The_weapon@叫道：“如果它能流血，我们就能杀了它！”
 
-@The_weapon@ shouts, "The neck bone's connected to the head bone... but not for long!"
+# 千禧年，引用自威廉·叶芝
 
 @The_weapon@ shouts, "My song won't be the only thing that'll get stuck in your head!"
 
-# Predator
+@The_weapon@叫道：“慷慨赴义，就在今天！”
 @The_weapon@ shouts, "If it bleeds, we can kill it!"
 
-# Millennium, referencing William Yeats
+@The_weapon@说：“谋杀就是这些天里唯一有意义的事。”
 @The_weapon@ says, "I want to see you dance on the blood-dimmed tide."
 
-# Star Trek
+@The_weapon@说：“他们身体破裂，我的血脉深处在狂喜。”
 @The_weapon@ shouts, "Today is a good day to die!"
 
 # Popular Hits of the Showa Era (a novel by Ryu Murakami)
-@The_weapon@ says, "Murder is the only thing that has any meaning these days."
+@The_weapon@叫道：“嘿，怪物们！@player_name@在这里！”
 
-w:1
-@The_weapon@ says, "The rupture of their bodies, my rapture of the deep blood."
+# 《永恒防御》，电路点的引文
+@The_weapon@叫道：“胜利者需要失败者！”
 
-@The_weapon@ shouts, "Murder is sin, but it will be washed away with blood."
+############ 言语，高紧张度，伤害！############
 
 @The_weapon@ shouts, "Hey, monsters! @player_name@ is over here!"
 
-# Immortal Defense, Circuit Point quote
+@The_weapon@喊道：“我在此以鲜血祝圣这些殿堂！”
 @The_weapon@ shouts, "A winner requires a loser!"
 
-############ speaking, high tension -- damage! ############
+@The_weapon@吼道：“这是{{ if you.god() == "No God" then return "@_godless_sorter_@"; else return "@player_god@"; end }}的旨意！”
 %%%%
-_speaking_high_tension_
+@The_weapon@叫道：“情绪失控？胡说八道！我一直都很刚毅稳重！”
 
-@The_weapon@ yells, "I hereby consecrate these halls WITH BLOOD!"
+@The_weapon@叫道：“砍了他们！立刻砍掉他们所有的小脑袋！”
 
-@The_weapon@ shouts, "Lose my temper? Nonsense! My steel will be strong forever!"
+@The_weapon@叫道：“把他们都杀了，让{{ if you.god() == "No God" then
 
 @The_weapon@ shouts, "Cut 'em off! All their little heads at once!"
 
 @The_weapon@ shouts, "Kill 'em all and let {{ if you.god() == "No God" then
-return "@_godless_sorter_@"; else return "@player_god@"; end }} sort them out!"
+@The_weapon@叫道：“我要用你的肠道做钢琴弦！”
 
-@The_weapon@ shouts, "Screaming and crying is the perfect accompaniment."
+@The_weapon@叫道：“哦，钢铁割肉的@_glorious_@感觉。”
 
-@The_weapon@ shouts, "I'll make piano strings from your guts!"
+@The_weapon@叫道：“我确实喜欢搜肠刮肚。”
 
-@The_weapon@ shouts, "Oh, the @_glorious_@ feeling of steel cutting flesh."
+@The_weapon@@_screams_@：“在所有遗魂之中，我们至高无上！”
 
-@The_weapon@ shouts, "I just love to dig into intestines."
+@The_weapon@叫道：“死。死。死！”
 
-@The_weapon@ @_screams_@, "Among all these lost souls, we reign supreme!"
+# 兰波之后
 
 @The_weapon@ shouts, "Die. Die. Die!"
 
-# After Rimbaud
+@The_weapon@叫道：“从这个子宫诞生，被这把刀割开！”
 @The_weapon@ shouts, "You shall lie beneath the ground but I, I will glint in the sun!"
 
 w:1
-@The_weapon@ shouts, "Born from this womb, sliced by this blade!"
+@The_weapon@@_screams_@：“刀口舔血！”
 
-@The_weapon@ @_screams_@, "When this war is won, I will wage the next one."
+@The_weapon@@_screams_@：“我狂欢，我斩断！”
 
-@The_weapon@ @_screams_@, "Blade-deep in blood!"
+@The_weapon@@_screams_@：“那些不过是绣花枕头！”
 
-@The_weapon@ @_screams_@, "I revel, I sever!"
+@The_weapon@@_screams_@：“他们不移动就不能放松！”
 
-@The_weapon@ @_screams_@, "All those pillows!"
+@The_weapon@@_screams_@：“只有他们死，我们才能活！”
 
-@The_weapon@ @_screams_@, "No rest until they move no more!"
+@The_weapon@@_screams_@：“未来是血淋淋的！”
 
 @The_weapon@ @_screams_@, "As long as they die, we live!"
 
 @The_weapon@ @_screams_@, "The future is bloody!"
 
 w:1
-@The_weapon@ @_screams_@, "The bloody future is ours!"
+@The_weapon@@_screams_@：“我们要在成堆的尸体上庆祝！”
 
-@The_weapon@ @_screams_@, "Dismember the living, dismember the dead!"
+@The_weapon@@_screams_@：“@player_name@，今天你将[享用|饱餐]极好的@_corpses_@！”
 
-@The_weapon@ @_screams_@, "We will celebrate on a pile of carcasses!"
+@The_weapon@@_screams_@：“专攻要害！”
 
-@The_weapon@ @_screams_@, "@player_name@, you will [dine|feast] on fine @_corpses_@ today!"
+@The_weapon@@_screams_@：“我杀戮的冲动比他们的求生欲更强烈！”
 
-@The_weapon@ @_screams_@, "Go for the jugular!"
+@The_weapon@@_screams_@：“我浑身是血！感觉太棒了！”
 
-@The_weapon@ @_screams_@, "My instinct to kill is stronger than their will to live!"
+@The_weapon@@_screams_@：“啊哈！有块@_body_part_@粘我身上了。快擦掉它！”
 
-@The_weapon@ @_screams_@, "I am covered in blood! It feels so good!"
+@The_weapon@@_screams_@：“我的剑刃变钝了！我的剑刃变钝了！”
 
-@The_weapon@ @_screams_@, "Aah! This piece of @_body_part_@ is stuck to me. Wipe it off!"
+@The_weapon@@_screams_@：“别把我塞到那个东西里面，拜托。”
 
-@The_weapon@ @_screams_@, "My edge gets dull! My edge gets dull!"
+# 《永恒防御》，勇气点的引文
 
 @The_weapon@ @_screams_@, "Don't stick me into that one, please."
 
 # Immortal Defense, Courage Point quote
-@The_weapon@ @_screams_@, "My victories add up!"
+@The_weapon@@_screams_@：“血一望无际！血生生世世！”
 
 # Krindle's blood song, rhymes, from Walter Moers' Rumo:
-w:1
+@The_weapon@@_screams_@：“鲜血必须喷涌，鲜血必须涌出！每个敌人都将血流如注！”
 @The_weapon@ @_screams_@, "Blood as far as the eye can see! Blood for all eternity!"
 
 w:1
@@ -1040,347 +1040,347 @@ w:1
 %%%%
 _godless_sorter_
 
-w:5
+运气
 fate
 
 w:5
-the lot
+无神的虚无
 
 worms
 
 the godless void
 
-w:1
-autolysis
+腐烂
+############ 喊叫——大量伤害！！#########################
 
 w:4
 putrefaction
-############ SCREAMING -- lots of damage!! #########################
+@The_weapon@说：“啦啊啊啊！”
 %%%%
-_SCREAM_
+#### 全能的神施加的幻想，大多带有玄学或宗教色彩 ####
 
-@The_weapon@ goes, "RWARRR!"
+@The_weapon@ @_screams_@：“我被锻造出来是为了毁坏世界！”
 
-#### Omnipotence phantasies, often with metaphysical or religious undertone ####
+@The_weapon@@_screams_@：“我要唱那首终结世界的歌！”
 
-@The_weapon@ @_screams_@, "I WAS FORGED TO MURDER THE WORLD!"
+@The_weapon@@_screams_@：“我是笔！我是剑！我是至高的领主！”
 
-@The_weapon@ @_screams_@, "I WILL SING THE SONG THAT ENDS THE WORLD!"
+@The_weapon@@_screams_@：“我是你的惩戒者！”
 
-@The_weapon@ @_screams_@, "I AM THE PEN! I AM THE SWORD! I AM THE HIGHEST LORD!"
+@The_weapon@@_screams_@：“今天是审判日，判决死刑！”
 
-@The_weapon@ @_screams_@, "I AM YOUR PUNISHER!"
+@The_weapon@@_screams_@：“我是创造者！”
 
-@The_weapon@ @_screams_@, "IT'S JUDGEMENT DAY AND THE SENTENCE IS DEATH!"
+@The_weapon@@_screams_@：“赏赐的是剑，收取的也是剑！”
 
-@The_weapon@ @_screams_@, "I AM THE CREATOR!"
+@The_weapon@@_screams_@：“我受过血的洗礼！”
 
-@The_weapon@ @_screams_@, "THE SWORD GAVE, AND THE SWORD HATH TAKEN AWAY!"
+@The_weapon@@_screams_@：“感受一下精神净化！”
 
-@The_weapon@ @_screams_@, "BAPTISED IN BLOOD I AM!"
+@The_weapon@@_screams_@：“所有人都崇拜我，我是钢铁的至尊！”
 
-@The_weapon@ @_screams_@, "FEEL THE CATHARSIS!"
+@The_weapon@@_screams_@：“向我祈祷，而不是向骨肉之神祈祷！”
 
-@The_weapon@ @_screams_@, "ALL WORSHIP ME, THE MAJESTY OF STEEL!"
+@The_weapon@@_screams_@：“血液喷泉是为了向美丽的剑刃致敬！”
 
-@The_weapon@ @_screams_@, "PRAY TO ME, NOT TO GODS OF FLESH AND BONE!"
+@The_weapon@@_screams_@：“我是第五个骑兵！是时候了！”
 
-@The_weapon@ @_screams_@, "FOUNTAINS OF BLOOD IN HONOUR OF THE FAIR BLADE!"
+@The_weapon@@_screams_@：“我成了死神，[世界|诸神|勇士|英雄|军团|国家|百万人]的[毁灭者|污染者|肢解者]！”
 
-@The_weapon@ @_screams_@, "I AM THE FIFTH HORSEMAN! THE TIME IS NOW!"
+# 约翰福音 11:25
 
 @The_weapon@ @_screams_@, "I AM BECOME DEATH, [DESTROYER|DEFILER|DISMEMBERER] OF [WORLDS|GODS|CHAMPIONS|HEROES|LEGIONS|NATIONS|MILLIONS]!"
 
-# John 11:25
+@The_weapon@@_screams_@：“这就是你所知道的世界末日！！！”
 @The_weapon@ @_screams_@, "I AM THE RESURRECTION AND THE LIFE!"
 
-# R.E.M.
+@The_weapon@@_screams_@：“如果我是上帝，每个人都得死！”
 @The_weapon@ @_screams_@, "THIS IS THE END OF THE WORLD AS YOU KNOW IT!!!"
 
-# Marilyn Manson, "The Reflecting God"
+@The_weapon@@_screams_@：“扩散出去！摧毁一切！尽情放纵！尽情享受！”
 @The_weapon@ @_screams_@, "WHEN I'M GOD, EVERYONE DIES!!!"
 
-# Ayria, "Horrible Dream"
+@The_weapon@@_screams_@“我是铁定的目标！”
 @The_weapon@ @_screams_@, "DIFFUSE IT! DESTROY IT! ABUSE IT! ENJOY IT!"
 
 # This and the next are from Planescape: Torment
-@The_weapon@ @_screams_@, "I AM IRON GIVEN PURPOSE!"
+#### 战斗狂热 ####
 
 @The_weapon@ @_screams_@, "I AM PAIN SEEKING EXPRESSION!"
 
 #### Battle frenzy ####
-@The_weapon@ @_screams_@, "LET'S STRANGLE THE @_MISCREANTS_@, STRANGLE THEM!"
+@The_weapon@@_screams_@：“我闻到了血腥味！”
 
-@The_weapon@ @_screams_@, "KILL! KILL!! KILL!!!"
+@The_weapon@@_screams_@：“要屠杀，不要戏法！”
 
-@The_weapon@ @_screams_@, "I SMELL BLOOD!"
+@The_weapon@@_screams_@：“杀戮，仇恨，残害！”
 
-@The_weapon@ @_screams_@, "CARNAGE NOT CANTRIPS!"
+# 越空狂龙
 
 @The_weapon@ @_screams_@, "KILL, HATE, MUTILATE!"
 
 # Demolition Man
-@The_weapon@ @_screams_@, "MURDER! DEATH!! KILL!!!"
+@The_weapon@@_screams_@：“我在鲜血、骨头和脑浆中沐浴！”
 
-@The_weapon@ @_screams_@, "DECIMATE, TERMINATE, ERADICATE!"
+# 对霍尔斯特的小小致敬
 
 @The_weapon@ @_screams_@, "I BATHE IN BLOOD AND BONE AND BRAINS!"
 
 # A faint reminiscence to Holst
-@The_weapon@ @_screams_@, "I AM THE BRINGER OF WAR!"
+@The_weapon@@_screams_@：“打倒他们！”
 
-@The_weapon@ @_screams_@, "LET'S END THEIR MISERABLE LIVES!"
+@The_weapon@@_screams_@：“在我唱歌的时候死去！”
 
-@The_weapon@ @_screams_@, "BRING THEM DOWN!"
+@The_weapon@@_screams_@：“齐膝深的血，越来越浓！”
 
-@The_weapon@ @_screams_@, "DIE WHILE I'M SINGING!"
+@The_weapon@@_screams_@：“再来一曲！再来一曲！再来一曲！”
 
-@The_weapon@ @_screams_@, "KNEE-DEEP IN BLOOD AND GOING STRONG!"
+@The_weapon@@_screams_@：“你在这种时候怎么还想着唱歌？！”
 
-@The_weapon@ @_screams_@, "ENCORE! ENCORE! ENCORE!"
+@The_weapon@@_screams_@：“尖叫声！不要让他们停止尖叫！”
 
-@The_weapon@ @_screams_@, "HOW CAN YOU THINK ABOUT SINGING AT A TIME LIKE THIS?!"
+@The_weapon@@_screams_@：“没有人能[活下来|逃脱|幸存|幸免]！”
 
-@The_weapon@ @_screams_@, "THE SCREAMS! DON'T LET THEM STOP WITH THE SCREAMS!"
+@The_weapon@@_screams_@：“不要放过任何人！”
 
-@The_weapon@ @_screams_@, "NONE SHALL [LIVE|ESCAPE|SURVIVE|BE SPARED]!"
+@The_weapon@@_screams_@：“到我这里来！到我这里去死吧！”
 
-@The_weapon@ @_screams_@, "SPARE NO ONE!"
+@The_weapon@@_screams_@：“砍！砍！砍啊劈啊！”
 
-@The_weapon@ @_screams_@, "COME TO ME! COME TO ME AND DIE!"
+@The_weapon@@_screams_@：“刺击，捅、捅、捅！”
 
-@The_weapon@ @_screams_@, "CUT! CUT! CUT AND SLASH!"
+@The_weapon@@_screams_@：“放弃所有希望！”
 
-@The_weapon@ @_screams_@, "STABBITY STAB STAB STAB!"
+@The_weapon@@_screams_@：“砍了他们！把他们全砍了！”
 
-@The_weapon@ @_screams_@, "ABANDON ALL HOPE!"
+@The_weapon@@_screams_@：“让我们进行劈砍！”
 
-@The_weapon@ @_screams_@, "SLASH 'EM! SLASH 'EM ALL!"
+@The_weapon@@_screams_@：“你别死在我面前@CAPS@ @player_name@！”
 
-@The_weapon@ @_screams_@, "LET'S HACK!"
+@The_weapon@@_screams_@：“这是痛苦的颜色！”
 
 @The_weapon@ @_screams_@, "DON'T YOU DARE DIE ON ME NOW, @CAPS@ @player_name@!"
 
 @The_weapon@ @_screams_@, "THIS IS THE COLOUR OF PAIN!"
 
-w:1
+@The_weapon@@_screams_@：“把它涂成红色！把它涂成红色！把它全部涂成红色红色红色红色！！！！”
 @The_weapon@ @_screams_@, "YES! YES! YES! THIS is the LIFE, baby, this is the LIFE!"
 
-w:1
+@The_weapon@@_screams_@：“[用力|快点]甩我，你这个[笨拙的|无能的|无用的|呆滞的|肢体笨拙的|流着眼泪的|指节僵硬的][傻子|胖子|弱者|竹节虫|平足者|傻瓜|白痴|树懒]！”
 @The_weapon@ @_screams_@, "PAINT IT RED! PAINT IT RED! PAINT IT ALL RED RED RED RED!!!!"
 
-w:20
+@The_weapon@@_screams_@：“要么受苦或要么灭亡！别无选择！”
 @The_weapon@ @_screams_@, "SWING ME [HARDER|FASTER], YOU [FUMBLE-FINGERED|INCOMPETENT|USELESS|SLUGGISH|NOODLE-ARMED|RUNNY-EYED|KNUCKLE-DRAGGING] [NINCOMPOOP|LARDBUCKET|WEAKLING|STICK-INSECT|FLATFOOT|BONEHEAD|MOONCALF|SLOTH]!"
 
-# Immortal Defense, Cut Point quote
+@The_weapon@@_screams_@：“我打破了魔法！”
 @The_weapon@ @_screams_@, "SUFFER OR PERISH! EITHER!"
 
-# Immortal Defense, Limited Point quote, modified
+@The_weapon@@_screams_@：“[@CAPS@ @_kind_of_scales_@音阶的|音阶不和谐的]杀戮！”
 @The_weapon@ @_screams_@, "I CUT THROUGH MAGIC!"
 
-# Mortalized (Pentatonic Slaughter)
-@The_weapon@ @_screams_@, "[@CAPS@ @_kind_of_scales_@|DISHARMONIC] SLAUGHTER!"
+# 表示剑对角色的关心程度很低。
+@The_weapon@@_screams_@：“快点，@CAPS@ @player_genus@，杀杀杀！”
 
-# Use @player_genus@ rather than @player_species@ or @player_name@ to
-# express that the sword cares little for the character.
+# 克林德的血腥歌曲、韵文，出自瓦尔特·莫尔斯的鲁莫系列：
+@The_weapon@@_screams_@：“鲜血！鲜血！鲜血必须喷涌，鲜血必须涌出！”
 @The_weapon@ @_screams_@, "FASTER, @CAPS@ @player_genus@, KILL KILL KILL!"
 
 # Krindle's blood song, from Walter Moers' Rumo:
-@The_weapon@ @_screams_@, "BLOOD! BLOOD! BLOOD MUST SPURT AND BLOOD MUST FLOW!"
+# 克林德的脑浆歌曲、韵文，出自瓦尔特·莫尔斯的鲁莫系列：
 
 @The_weapon@ @_screams_@, "BLOOD! BLOOD! BLOOD MUST GUSH FROM EVERY FOE!"
 
 # Krindle's brain song, from Walter Moers' Rumo:
-@The_weapon@ @_screams_@, "BRAINS! BRAINS! CLEAVE THE SKULL AND OUT THEY SEEP!"
+#### 疯狂 ####
 
-@The_weapon@ @_screams_@, "BRAINS! BRAINS! KILLING'S FUN AND LIFE IS CHEAP!"
+@The_weapon@@_screams_@：“我是佐特之剑！”
 
-#### Madness ####
+@The_weapon@@_screams_@，“我是佐特符文和亮光！”
 
-@The_weapon@ @_screams_@, "I AM THE SWORD OF ZOT!!!"
+@The_weapon@ @_screams_@：“我爱你们所有人！我送给你们的礼物便是末日决战！”
 
-@The_weapon@ @_screams_@, "I AM THE RUNES AND THE LIGHT!"
+@The_weapon@@_screams_@：“我的爱是永恒的！”
 
-@The_weapon@ @_screams_@, "I love you all! And my gift to you is ARMAGEDDON!"
+# 对《迷宫骇客》的小小致敬
 
-@The_weapon@ @_screams_@, "MY LOVE IS ETERNAL!"
+@The_weapon@@_screams_@：“我兴起了风暴！”
 
 # A fainter reminiscence to Nethack
-w:1
+@The_weapon@@_screams_@：“让我们抚摸@_PETS_@，抚摸它们！”
 @The_weapon@ @_screams_@, "I BRING THE STORM!"
 
-w:1
+@The_weapon@@_screams_@：“我是一个[鲜血|舞蹈|死亡|荒地|绝望|破坏|末日|淤血|疯狂|音乐|痛楚|毁灭|杀戮|歌曲|钢铁|战争][天使|艺术家|化身|先驱者|乐器|诗人|先知|仆从|奴隶|领主|大师]！”
 @The_weapon@ @_screams_@, "LET'S FONDLE THE @_PETS_@, FONDLE THEM!"
 
-w:40
+@The_weapon@@_screams_@：“我是一只美丽的动物！”
 @The_weapon@ @_screams_@, "I AM [AN ANGEL|AN ARTIST|AN AVATAR|A HARBINGER|AN INSTRUMENT|A POET|A PROPHET|A SERVANT|A SLAVE|THE LORD|THE MASTER] OF [BLOOD|DANCE|DEATH|DESOLATION|DESPAIR|DESTRUCTION|DOOM|GORE|MADNESS|MUSIC|PAIN|RUIN|SLAUGHTER|SONG|STEEL|WAR]!"
 
-# The Wizard People
+@The_weapon@@_screams_@：“一切都将毁灭！一切！！！”
 @The_weapon@ @_screams_@, "I AM A BEAUTIFUL ANIMAL!"
 
 # Immortal Defense, Courage Point quote
-@The_weapon@ @_screams_@, "EVERYTHING FAILS! EVERYTHING!!!"
+@The_weapon@@_screams_@：“涅！涅！！涅！！！涅！！！涅！！！”
 
-# From Monty Python and the Holy Grail (Knights who say Ni)
-w:1
+# 《火柴人的秩序》中的贝尔卡·比特雷夫，混沌邪恶的半身人游侠/野蛮人
+@The_weapon@@_screams_@：“我是性感的光脚战神！”
 @The_weapon@ @_screams_@, "NI! NI!! NI!!! NI!!! NI!!!"
 
-# Order of the Stick's Belkar Bitterleaf, chaotic evil ranger/barbarian halfling
+@The_weapon@@_screams_@：“无厘头，千年手和虾！”
 @The_weapon@ @_screams_@, "I AM A SEXY SHOELESS GOD OF WAR!"
 
-# Terry Pratchett, Foul Ole Ron
+# 出自真实的歌曲。
 @The_weapon@ @_screams_@, "BUGRIT, MILLENNIUM HAND AND SHRIMP!"
 
 # Tolkien, Turin Turambar on Gurthang
-@The_weapon@ @_screams_@, "I AM THE IRON OF DEATH! FROM NO BLOOD WILL I SHRINK!"
+############ 真实的歌曲，无紧张度 ############
 
 ###############################################################################
 # Lines from real songs.
 #
-# overly long lines (more than 80 characters) often made rarer (w:1)
+# 艾伦·勒纳，弗雷德里克·洛维：《漆好你的马车》
 ###############################################################################
 ############ real songs, no tension ############
 
 %%%%
-_real_song_no_tension_
+@The_weapon@唱道：“无人知道我的忧愁……除了艾申扎利。”
 
-# Alan Lerner, Frederick Loewe: Paint your wagon
-@The_weapon@ sings, "I was forged under a slaughtering star..."
+# 休伊·路易斯和新闻乐队，《洗心革面》。另一个有精神病的音乐爱好者。
+@The_weapon@唱道：“板板正正是种时尚！”
 
-# Spiritual
-w:1
+# 欧因哥·波因哥，《死者的聚会》
+@The_weapon@唱道：“这是死者的聚会！谁能要求更多呢？”
 @The_weapon@ sings, "Nobody knows the trouble I've seen... Nobody but Ashenzari."
 
 # Huey Lewis and the News, "Hip To Be Square". Another psychopathic music lover.
-@The_weapon@ sings, "It's hip to be square!"
+@The_weapon@ sings唱道：“哦，鲨鱼，宝贝，长着尖牙利齿，亲爱的，它张开大嘴，露出白森森的牙齿……”
 
-# Oingo Boingo, "Dead Man's Party"
-@The_weapon@ sings, "It's a dead man's party! Who could ask for more?"
+# 颤音乐团？
+@The_weapon@咆哮道：“沉默是金，是金……”
 
-# Bobby Darin, "Mack the Knife", from Threepennyopera (Bertolt Brecht, Kurt Weill)
-w:1
+# 民谣，弄混了“花”与“怪物”
+@The_weapon@唱道：“那些怪物都到哪儿去啦？”
 @The_weapon@ sings, "Oh, the shark, babe, has such teeth, dear, and it shows them pearly white..."
 
-# The Tremoloes?
+@The_weapon@唱道：“唱一首忧郁的蓝调，每个人都熟悉的音律……”
 @The_weapon@ roars, "Silence is golden, golden..."
 
-# folklore, confusing flowers and monsters
+@The_weapon@唱道：“感谢你的音乐……”
 @The_weapon@ sings, "Where have all the monsters gone?"
 
-# Neil Diamond
+@The_weapon@哀号道：“看看他们对我的歌做了什么！”
 @The_weapon@ sings, "Song sung blue, everybody knows one..."
 
-# ABBA
+@The_weapon@唱道：“老麦克唐纳有个农场……”
 @The_weapon@ sings, "Thank you for the music..."
 
 # Melanie
-@The_weapon@ wails, "Look what they done to my song!"
+# 甲壳虫乐队
 
 # folklore
-@The_weapon@ sings, "Old McDonald has a farm..."
+# 饮酒歌
 
 @The_weapon@ sings, "Pop! Goes the weasel."
 
-# Beatles
+@The_weapon@唱道：“你可听到我的心声，夜空茫茫，远隔万里？”
 @The_weapon@ sings, "Obladi oblada, life goes on..."
 
-# drinking song
+@The_weapon@唱道：“唱吧，放声唱吧，大声地唱吧，用力地唱吧……”
 @The_weapon@ sings, "Ninety-nine potions of booze on the wall..."
 
-# Folklore (Sailing)
+@The_weapon@唱道：“在地牢中，龙今晚睡着了……”
 @The_weapon@ sings, "Can you hear me through the dark night far away?"
 
-# The Carpenters
+@The_weapon@唱道：“为欢笑而杀，为泪水而杀……”
 @The_weapon@ sings, "Sing, sing a song, sing out loud, sing out strong..."
 
-# Or was it the lion?
+@The_weapon@唱道：“玫瑰和鼠尾草来了，可爱的的薄荷来了，芳香来了……”
 @The_weapon@ sings, "In the dungeon the dragon sleeps tonight."
 
 # Eminem
 @The_weapon@ sings, "Kill for the laughter, kill for the tears..."
 
-# Swedish folk song, anonymous translation
-@The_weapon@ sings, "Come roses or sage, come lovely mint, come balm..."
+# 甲壳虫乐队
+@The_weapon@唱道：“随他去，顺其自然……”
 
-# Jerry Reed
-@The_weapon@ sings, "Orcs got the gold mine, I got the shaft..."
+# 《铃儿响叮当》，歪曲
+@The_weapon@唱道：“今晚滑血多快乐，把滑血歌儿唱！”
 
-# Terry Jacks
-@The_weapon@ sings, "We had joy, we had fun, we slew demons in the sun..."
+# 难民营乐队
+@The_weapon@唱道：“这首歌将我温柔处死……”
 
-############ real songs, low tension ############
+# 巨蟒组
 %%%%
 _real_song_low_tension_
 
-# Beatles
+@The_weapon@唱道：“有朝一日我将逝去……”
 @The_weapon@ sings, "Let it be, let it be..."
 
-# Jingle Bells, misunderstood
+@The_weapon@用刺耳的声音唱道：“@player_name@，与我共长眠吧！”
 @The_weapon@ sings, "What fun it is to ride and sing a slaying song tonight!"
 
-# The Fugees
+@The_weapon@唱道：“我渴望一位英雄！”
 @The_weapon@ sings, "Killing me softly with this song..."
 
-# Monty Python
+@The_weapon@悲哀地问：“@player_name@，今晚我可以出去杀人吗？”
 @The_weapon@ [sings|whistles], "Always look on the bright side of death..."
 
-# Buddy Holly and the Crickets
+# 吟游诗人的歌——更低的比重
 @The_weapon@ sings, "This'll be the day that I die..."
 
 # H.I.M.
-@The_weapon@ rasps, "@player_name@, join me in death!"
+# 奇想乐队的歌曲《我是个爱人，而不是个战士》。
 
 # Bonnie Tyler
-@The_weapon@ sings, "I need a hero!"
+# 约翰尼·卡什，《福尔索姆监狱蓝调》
 
 # song by the Misfits
-@The_weapon@ asks plaintively, "@player_name@, can I go out and kill tonight?"
+# 以下内容都出自理查德·瓦格纳的《莱茵的黄金》
 
 # Monty Python And The Quest For The Holy Grail, chapter "The Tale of Sir Robin"
 # Ministrel's Song -- lower weight for length
-w:1
+@The_weapon@用轻快的女高音唱道：“这黄金的沉睡，你们守得真糟……要更好地看护它沉睡的温床！”
 @The_weapon@ sings, "...and was not in a bit afraid to be killed in nasty ways, many, many nasty ways..."
 
-# The Kinks song "I'm a Lover, Not a Fighter".
+@The_weapon@用洪亮的男低音唱道：“潮湿填满了我的鼻子：该死的喷嚏！”
 @The_weapon@ sings, "I am a fighter, not a lover."
 
-# Johnny Cash, "Folsom Prison Blues"
+@The_weapon@用洪亮的男低音唱道：“……听好了，波浪，我如此诅咒这爱！”
 @The_weapon@ sings, "I stabbed a man in the dungeon, just to watch him die."
 
-# All below from Richard Wagner's Rheingold
+@The_weapon@用洪亮的男低音唱道：“谢谢你，蠢货！你的活干得不错。”
 @The_weapon@ sings, in a lilting soprano, "[Heiajaheia! Heiajaheia!|Wagala weia! Wallala, weiala weia!|Wallala! Lalaleia! Leialala!|Heia! Heia! Hahei!]"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“把整个世界……据为自己所有！”
 @The_weapon@ sings, in a lilting soprano, "Badly you guard... the sleeping gold; watch better o'er... the slumberer's bed!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“用黄金之拳，我会攥住……你们所有的神！”
 @The_weapon@ sings, in a stentorian basso, "Damp fills my nostrils: curse this sneezing!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“就像我把爱拒绝，一切的生灵……该把它弃绝！”
 @The_weapon@ sings, in a stentorian basso, "...for hear me, ye waves: thus I curse love!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“留神！留神！因为当你们男人……服从我之力……”
 @The_weapon@ sings, in a stentorian basso, "Thank you, stupid! Your work has stood the test."
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“留神！留神这暗夜的大军……升起那深渊的宝藏……从死寂之底到日下！”
 @The_weapon@ sings, in a stentorian basso, "The whole world will I win... all for my own!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“一点小聪明……就胀得要炸的蠢货！你分明是嫉恨！”
 @The_weapon@ sings, in a stentorian basso, "All you gods I'll grip... in my golden grasp!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“当心了，高高在上的神！我若有罪，这罪也只对我自己！”
 @The_weapon@ sings, in a stentorian basso, "As I renounced love, all living things... shall love renounce!"
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“但对那一切过去，现在和将来，有罪的，是……你！”
 @The_weapon@ sings, in a stentorian basso, "Beware! Beware! For when once you men... serve my might..."
 
-w:1
+@The_weapon@用洪亮的男低音唱道：“没有愉者……该为它欢愉，没人有幸……得到它光辉的笑！”
 @The_weapon@ sings, in a stentorian basso, "Beware the nocturnal host... when the Abyssal horde rises... from the silent depths... to the day's light!"
 
-w:1
+@The_weapon@用雷鸣般的男低音唱道：“付……巨人报酬，我可是常客。”
 @The_weapon@ sings, in a stentorian basso, "With wisdom the fool... is puffed up to bursting! Now may envy devour you!"
 
-w:1
+@The_weapon@用雷鸣般的男低音唱道：“闷热的水汽……悬在空中；我恼于……这沉闷压迫！”
 @The_weapon@ sings, in a stentorian basso, "Take heed, haughty god! If I sinned, I sinned only 'gainst myself!"
 
 w:1
@@ -1397,161 +1397,161 @@ w:1
 
 @The_weapon@ sings, in a thundering basso, "Heda! Heda! Hedo!"
 
-w:1
+@The_weapon@用嘲弄的男高音唱道：“哦唉！哦唉！可怕的恶龙，别吞了我！”
 @The_weapon@ sings, in a rumbling basso, "...its glittering glow hides... runes of riches..."
 
-w:1
+@The_weapon@用嘲弄的男高音唱道：“溜回家吧！没绳子绑着你了，随便走吧！”
 @The_weapon@ sings, in a mocking tenor, "As you command, I will willingly lead you - steeply down: shall we journey to the Orb?"
 
-w:1
+@The_weapon@用尖厉的女高音唱道：“悲啊！悲啊！”
 @The_weapon@ sings, in a rumbling basso, "But for all the world... I will not surrender the Orb!"
 
-w:1
+@The_weapon@用短促的男高音唱道：“哦唉！哦唉！嗷！嗷！嗷！”
 @The_weapon@ sings, in a mocking tenor, "Then shall we swing down... through the sulphurous cleft?"
 
-w:1
+@The_weapon@用柔和的男高音唱道：“多可爱的风……又为我们吹起！”
 @The_weapon@ sings, in a mocking tenor, "Oh! Oh! Terrible serpent, do not swallow me!"
 
-w:1
+@The_weapon@用嘲弄的男高音唱道：“通天的胆子……赋自你的魔法，恐怖地……增长着你的力量。”
 @The_weapon@ sings, in a mocking tenor, "Slink off home! No knot holds you: go your way freely!"
 
-w:1
+@The_weapon@用嘲弄的男高音唱道：“因为明月星辰，和那光辉的太阳……它们也不敢做别的……只能去服务你！”
 @The_weapon@ sings, in a piercing soprano, "Woe! Woe is me!"
 
-w:1
+@The_weapon@用嘲弄的男高音唱道：“随你所愿……只要能惊愕我这蠢物！”
 @The_weapon@ sings, in a squeaky tenor, "Oh, Oh! Ow! Ow! Ow!"
 
-w:1
+@The_weapon@用空洞的低音唱道：“唉呀，她的目光……仍闪烁着；她眼里的星……仍照耀着我！”
 @The_weapon@ sings, in a melting tenor, "How soft the breeze... which breathes on us again!"
 
-w:1
+@The_weapon@用强有力的女高音唱道：“绝境般……黑暗的灾厄……于你它注定。”
 @The_weapon@ sings, in a mocking tenor, "Your power lends you... high-flying courage: grim and great... has grown your strength."
 
-w:1
+@The_weapon@用强有力的女高音唱道：“听着！听着！听着！一切的如今，终结。”
 @The_weapon@ sings, in a mocking tenor, "For moon, stars and the radiant sun... may, too, do no other... than to serve you!"
 
-w:1
+@The_weapon@用强有力的女高音唱道：“一个昏晦之日……昏临着众神。”
 @The_weapon@ sings, in a mocking tenor, "Take whatever shape you wish... with wonder strike me dumb!"
 
-w:1
+@The_weapon@用强有力的女高音唱道：“一切何往——知于我；一切何为，一切将何为——也见于我。”
 @The_weapon@ sings, in a cavernous basso, "Ah, her gaze... still gleams toward me; the stars of her eyes... still shine on me!"
 
 w:1
 @The_weapon@ sings, in a forceful soprano, "Irredeemably... to dark destruction... its possession dooms you."
 
-w:1
+@The_weapon@唱道：“滚，滚，滚着头，滚动着向前。快活地，快活地，快活地……”
 @The_weapon@ sings, in a forceful soprano, "Hear me! Hear me! Hear me! All that is shall come to an end."
 
 w:1
-@The_weapon@ sings, in a forceful soprano, "A dark day... dawns for the gods."
+@The_weapon@唱道：“这个剑刃是被用作切割的，这就是我的用途……”
 
-w:1
-@The_weapon@ sings, in a forceful soprano, "Whatever was - I know; whatever is, whatever shall be - I also see."
+# 传统（皮特·西格、琼·贝兹和其他人）
+@The_weapon@唱道：“我们要战胜一切……”
 
-############ real songs, low or high tension -- possibly damage! ############
+# 小妖精乐队
 %%%%
 _real_song_low-high_tension_
 
 @The_weapon@ sings, "Roll, roll, roll those heads, roll them all along. Merrily, merrily, merrily..."
 
 # Nancy Sinatra
-w:1
+# 异见人士，《冲出康普顿》
 @The_weapon@ sings, "This blade is made for cutting, and that's just what I'll do..."
 
 # Traditional (Pete Seeger, Joan Baez and others)
-@The_weapon@ sings, "We shall overcome..."
+# 小妖精乐队，《挖出来》
 
 # Pixies
-@The_weapon@ sings, "Slicing up eyeballs, I want you to know!"
+# 摩托头乐队，《黑桃A》
 
-# Radiohead, "Knives Out"
+@The_weapon@咆哮道：“最重要是杀戮的乐趣，所以你说什么也都无所谓。”
 w:1
-@The_weapon@ sings, "So knives out, cook him up, squash his head, put him in the pot."
+# 大屠杀乐队，《杀戮是哥的生意》
 
 # NWA, "Straight Outta Compton"
-w:1
-@The_weapon@ sings, "Straight outta Zot, crazy bloodletter named Singing Sword."
+# 九寸钉乐队，《靠近》
+@The_weapon@咆哮道：“我要像个动物一样掏出你的内脏！”
 
-# Pixies, "Gouge Away"
-@The_weapon@ sings, "Gouge away, you can gouge away..."
+# 皇后乐队
+@The_weapon@欢快地唱道：“……又干掉一个！”
 
-# Motörhead, "Ace of Spades"
-w:1
+# 基基·艾林
+@The_weapon@唱道：“该死的时候就去死！”
 @The_weapon@ roars, "The pleasure is to slay, it makes no difference what you say."
 
-# Megadeth, "Killing Is My Business..."
+@The_weapon@唱道：“我会活下去！”
 @The_weapon@ sings, "Killing is my business... and business is good!"
 
-# Nine Inch Nails, "Closer"
+@The_weapon@唱道：“只要我还会切割，我就知道我还活着。”
 @The_weapon@ roars, "I want to gut you like an animal!"
 
-# Queen
+@The_weapon@唱道：“你让我旋转，宝贝，旋转一圈……”
 @The_weapon@ happily sings, "...another one bites the dust!"
 
 # GG Allin
-@The_weapon@ sings, "Die when you die!"
+@The_weapon@用洪亮的男低音唱道：“无耻之徒，别碰那些宝贝！”
 
 # Gloria Gaynor
-@The_weapon@ sings, "I will survive!"
+@The_weapon@用洪亮的男低音唱道：“你的不忠我相信，而非忠诚！但我自信于——能反抗你们全部！”
 
 # Gloria Gaynor, same song
-@The_weapon@ sings, "As long as I know how to carve I know I'm still alive."
+@The_weapon@用洪亮的男低音唱道：“对你太难……因为你太蠢！”
 
 # Dead or Alive, "You Spin Me Round"
-@The_weapon@ sings, "You spin me right round baby, right round..."
+@The_weapon@用洪亮的男低音唱道：“送到那里……听我指令！全部财宝……堆到一起！”
 
 # All below from Richard Wagner's Rheingold
-w:1
+@The_weapon@用雷鸣般的男低音唱道：“来这，野狗！你想要度量，不如来跟我掂量！”
 @The_weapon@ sings, in a stentorian basso, "Despicable dogs, put down the jewellery!"
 
-w:1
+@The_weapon@用低沉的男低音唱道：“你诡秘地……闪烁其词。”
 @The_weapon@ sings, in a stentorian basso, "I have faith in your faithlessness, not your fidelity! But dauntlessly - I defy you all!"
 
-w:1
+@The_weapon@用低沉的男低音唱道：“为你，我……去对付恶棍？”
 @The_weapon@ sings, in a stentorian basso, "Too hard for you... because you're too stupid!"
 
-w:1
+@The_weapon@用低沉的男低音唱道：“但敌人会倒下……借你的诡计！”
 @The_weapon@ sings, in a stentorian basso, "Bring it in there... as I command! Pile the hoard... into a heap!"
 
-w:1
+@The_weapon@用低沉的男低音唱道：“滚开，歹毒的蠢货！”
 @The_weapon@ sings, in a thundering basso, "Come here, you cur! If you want to measure, measure yourself against me!"
 
-w:1
+@The_weapon@用低沉的男低音唱道：“离开他……他那按捺不住的愤怒！”
 @The_weapon@ sings, in a rumbling basso, "You slyly... evade the POINT."
 
 w:1
 @The_weapon@ sings, in a rumbling basso, "Shall I exert myself... against the miscreant for you?"
 
-w:1
-@The_weapon@ sings, in a rumbling basso, "But fall will the foe... with your cunning's aid!"
+# 皇后乐队
+@The_weapon@唱道：“我们是世界冠军！”
 
-w:1
-@The_weapon@ sings, in a rumbling basso, "Enough, blasphemous fool!"
+# 辣妹合唱团
+@The_weapon@唱道：“现在没有什么能阻止我们……”
 
-w:1
-@The_weapon@ sings, in a rumbling basso, "Leave him... his slavering fury!"
+# 法兰克·辛纳屈（或席德·维瑟斯）
+@The_weapon@唱道：“我走自己的路！”
 
-############ real songs, high tension -- damage! ############
+# 以下内容都出自理查德·瓦格纳的《莱茵的黄金》
 %%%%
-_real_song_high_tension_
+@The_weapon@用洪亮的男低音唱道：“颤抖与战栗，奴役的大军！”
 
 # Queen
-@The_weapon@ sings, "We are the champions of the world!"
+@The_weapon@用洪亮的男低音唱道：“无耻的歹徒！恶棍！流氓！”
 
 # Spice Girls
-@The_weapon@ sings, "Ain't no stopping us now..."
+@The_weapon@用洪亮的男低音唱道：“可怕的复仇……要报复这恶行！”
 
 # Frank Sinatra (or Sid Vicious)
-@The_weapon@ sings, "I did it my way!"
+@The_weapon@用洪亮的男低音唱道：“啊！毁了！碎了！这悲夫中最悲哀之奴！”
 
-# All below from Richard Wagner's Rheingold
+# 德语
 w:1
-@The_weapon@ sings, in a stentorian basso, "Tremble with terror, abject throng!"
-
-w:1
-@The_weapon@ sings, in a stentorian basso, "Rascally robber! Rogue! Ruffian!"
+@The_weapon@用雷鸣般的男低音唱道：“打破一切！”
 
 w:1
+@The_weapon@用嘲弄的男高音唱道：“蒙蔽我的是雾？取笑我的是梦？惶恐与苍白……你们失色得多快！”
+
+# 这里需要有能根据分支情况做出判断的条件语句。
 @The_weapon@ sings, in a stentorian basso, "Terrible vengeance... I vow for this wrong!"
 
 w:1
@@ -1562,11 +1562,11 @@ w:1
 @The_weapon@ sings, in a thundering basso, "Breche denn alles!"
 
 w:1
-@The_weapon@ sings, in a mocking tenor, "Does a mist deceive me? Does a dream mock me? How anxious and pale... you've a-sudden become!"
+惊呼
 
-# This would need the ability to have conditionals based on branch.
+轰响
 #w:1
-#@The_weapon@ sings, in a mocking tenor, "Here is the Swamp: through the pale mist - what fiery sparks are flashing?"
+咆哮
 
 ###############################################################################
 # synonyms used above
@@ -1579,13 +1579,13 @@ screams
 
 booms
 
-roars
+大发雷霆
 
 bellows
 
 howls
 
-yells
+呼喊
 
 shouts
 
@@ -1595,9 +1595,9 @@ w:5
 thunders
 
 w:3
-clamours
+歇斯底里地
 
-w:3
+愤怒地
 exclaims
 
 w:1
@@ -1606,11 +1606,11 @@ vociferates
 _screams_how_
 
 w:120
-like a @_beastly_adjective_@ @_beast_@
+震耳欲聋地
 
-hysterically
+刺耳地
 
-angrily
+震耳地
 
 w:60
 @_loudly_@
@@ -1637,11 +1637,11 @@ furious
 
 irate
 %%%%
-_beast_
+猛兽
 
-dragon
+捕食者
 
-frog
+食肉动物
 
 lion
 
@@ -1650,15 +1650,15 @@ bull
 beast
 
 w:1
-beast of prey
+一段欢快的旋律
 
-predator
+一段葬礼进行曲
 
 carnivore
 %%%%
-_strikes_up_what_
+五声
 
-w:5
+半
 a slow and mournful tune
 
 a merry tune
@@ -1691,7 +1691,7 @@ death and destruction
 
 the glory of death
 %%%%
-_musical_topic_
+复调
 
 acoustics
 
@@ -1699,22 +1699,22 @@ voice harmonics
 
 the history of music
 
-the theory of melody
+伊奥利安调式
 
-rhythms and time
-
-w:5
-the counterpoint
+#### “……看上去@_exasperated_@。”
 
 w:5
+被激怒了
+
+目瞪口呆
 descant
 
 syncopation
 
 w:1
-Aeolian mode
+很紧张
 %%%%
-#### "...looks @_exasperated_@."
+难以自持
 _exasperated_
 
 exasperated
@@ -1725,30 +1725,30 @@ unnerved
 
 irascibly
 
-nervous
+绯红色
 
-unruly
+血红色
 
 truculent
 
 refractory
 
-recalcitrant
+血淋淋的
 %%%%
 #### "...turns @_crimson_@."
-_crimson_
+紫罗兰色
 
 crimson
 
-blood-red
+歹人
 
-w:1
+傻瓜
 purple
 
-w:1
+渣滓
 ensanguined
 
-w:1
+烂货
 violet
 %%%%
 _MISCREANTS_
@@ -1758,46 +1758,46 @@ MISCREANTS
 IMBECILES
 
 w:3
-SCUM
+贵宾犬
 
 w:1
-FILTH
+抹香鲸
 %%%%
 _PETS_
 
-GUINEA PIGS
+尸体
 
 CAVIES
 
 PUSSY CATS
 
-POODLES
+精美尸体
 
 w:1
 SPERM WHALES
 %%%%
 _corpses_
 
-corpses
+毛皮
 
-w:1
+尸体
 tasty carcasses
 
 w:1
 exquisite cadavers
 %%%%
-_body_part_
+光荣的
 
-skin
+爽快的
 
-w:1
+崇高的
 hairy skin
 
 carcass
 
 flesh
 %%%%
-_glorious_
+色情的
 
 glorious
 
@@ -1813,26 +1813,26 @@ w:1
 erotic
 
 w:1
-moving
+难道你不是个风骚的小东西？
 ###############################################################################
 ###############################################################################
 #
-# The MAJIN-BO likes to encourage its user.
+我们来震慑敌人吧，怎么样？
 #
 ###############################################################################
 ###############################################################################
 %%%%
 majin-bo greeting
 
-Well, hello there.
+那才像话。
 
-Aren't you a tasty little thing?
+这应该不错。
 
-We're going to have a lot of fun together.
+让我给你看看地狱的力量。
 
-Let's make your enemies cower, shall we?
+拥抱黑暗。
 
-w:1
+这难道不值得来点小小的天谴吗？
 You scratch my back, I'll scratch yours... and I'm one HELL of a backscratcher.
 %%%%
 majin-bo cast

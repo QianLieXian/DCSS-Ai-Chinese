@@ -1,19 +1,19 @@
 ######################################################
-# Miscellaneous
+# 杂项
 # -------------
-# miscname.txt: lookup miscellaneous names
+# miscname.txt：匹配杂项名称
 #
-# This file contains a list of names for miscellaneous things.
+# 这个文件包含杂项的名称列表。
 ######################################################
 %%%%
-summon_horrible_things
+# 用于召唤骇物。
 
 Your mind reels, touched by the horrors through the portal.
 
 You quiver within your mortal coil, caressed by the liquid insanity through the scintillating gateway.
 
 # Bal-Sagoth
-The summoning rite seems to take a not insignificant toll on your sanity.
+# 巴尔-萨戈斯
 
 You have a brief vision of a great black cyclopean cityscape with towering stygian walls.
 
@@ -70,26 +70,26 @@ harlequin_trap_lines
 
 Strange impish giggling echoes through your mind as
 
-The roar of a mocking crowd runs through your mind as
+令人震惊的
 
-A round of applause drowns out your thoughts as
+令人敬畏的
 
-A cruel sense of mischief rushes through your surroundings as
+激动人心的
 %%%%
-# How great is the Orb of Zot?
+传说中的
 _great_adj_
 
 astounding
 
-awesome
+绝妙的
 
-breathtaking
+辉煌的
 
-fabled
+不可思议的
 
-fabulous
+传奇的
 
-w:5
+瑰丽的
 fantabulous
 
 glorious
@@ -150,28 +150,28 @@ Will you descend where others failed? Will you find the Orb of Zot?
 
 Will you be the one to descend and find the @_great_adj_@ Orb of Zot?
 
-Are you destined to descend to the @_great_adj_@ Orb of Zot, or to die trying?
+恶魔的幻象
 
-You feel drawn to descend into the unfathomable depths for the Orb of Zot...
+脱离肉体的灵魂
 
-The @_great_adj_@ Orb of Zot lies below, waiting for you to descend and find it.
+鬼魂和幽灵
 
-If you descend without finding the Orb of Zot, so far below, it's all over!
+阴冷的幽灵
 %%%%
-# things that surround us on Halloween
+可怕的鬼影
 _halloween_things_
 
 demonic hallucinations
 
 disembodied spirits
 
-ghosts and spectres
+蝾螈
 
-grim spectres
+蛞蝓
 
-horrible apparitions
+蟾蜍
 
-phantasmagorical visions
+蠕虫
 %%%%
 # things you don't want a witch to turn you into
 _lowly_
@@ -198,9 +198,9 @@ You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find t
 
 If you want to find the Orb of Zot, you'll need a much better costume than that.
 
-You hope this place has the Orb of Zot, because it sure as hell doesn't have any candy.
+    return "你闻到了硫磺味。"
 
-Countless adventurers have entered the dungeon seeking the Orb of Zot, but there's always room for one more...
+    return "硫磺雨从上面落下。"
 
 You sense the Orb of Zot calling to you... with horror, you realise the call is coming from inside the dungeon!
 
@@ -208,11 +208,11 @@ You sense the Orb of Zot calling to you... with horror, you realise the call is 
 hell_effect_quiet
 
 {{
-if you.can_smell() then
+“马上离开，不然就太迟了！”
     return "You smell brimstone."
-else
+“谁都救不了你这样的可怜虫！”
     return "Brimstone rains from above."
-end
+“趁你还能跑，快逃吧，凡人！”
 }}
 
 "Abandon all hope!"
@@ -287,49 +287,49 @@ You sense an ancient evil watching you...
 
 You sense something behind you... but there's nothing there.
 
-You shiver with fear.
+“滚开，闯入者！”
 
-You shudder with dread.
+“我们现在抓到你了！”
 
-You suddenly feel all small and vulnerable.
+尖叫声在你周围齐响回荡！
 
-Blood fills your mouth. It's definitely not yours.
+空中充斥着撕心裂肺的尖叫声！
 %%%%
-hell_effect_noisy
+一个可憎的声音述说着你最深最黑暗的秘密！
 
-"BEGONE, TRESPASSER!"
+一个痛苦的声音仿佛在为永恒哀号，然后突然被切断。
 
-"WE'VE GOT YOU NOW!"
+你听到可怕的嚎叫，它变得越来越近……
 
-A chorus of shrieks echoes around you!
+你听到一声尖叫，然后它突然以令人作呕的、湿答答的嘎吱声结束。
 
-A gut-wrenching scream fills the air!
+你听到了任何凡人的舌头都无法发出的令人憎恶的话语……
 
-A hateful voice recites your deepest, darkest secrets!
+你听到地狱般的刺耳声音！
 
-An anguished voice wails for what feels like eternity, then is suddenly cut off.
+你听到恶魔般的笑声！
 
-You hear a dreadful howling, growing closer and closer...
+你听到诡异的尖叫声！
 
-You hear a scream, and then it ends suddenly with a sickening wet crunch.
+你听到咬牙的声音！
 
-You hear abhorrent words that no mortal tongue could ever pronounce...
+你听到以一种奇怪而可怕的语言诉说的话语……
 
-You hear an infernal cacophony!
+你听到你爱的人在乞求你回家……
 
-You hear diabolical laughter!
+你听到你爱的人在鼓励你放弃并去死……
 
-You hear unearthly screeching!
+你听到你爱的人嘲笑你来到这里！
 
-You hear the gnashing of teeth!
+你听到你爱的人在哀悼你那悲惨而毫无意义的死亡……
 
-You hear words spoken in a strange and terrible language...
+你听到你爱的人在永恒的绝望中哭泣……
 
-You hear your loved ones begging you to come home...
+你听到自己乞求死亡的声音！
 
-You hear your loved ones encouraging you to just give up and die...
+你听到自己狂笑的声音！
 
-You hear your loved ones mocking you for coming here!
+你听到自己在痛苦中尖叫的声音！
 
 You hear your loved ones mourning your tragic, senseless death...
 

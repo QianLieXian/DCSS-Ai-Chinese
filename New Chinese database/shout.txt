@@ -1,174 +1,174 @@
 ############################################################
-# As of Stone Soup 0.3 the previously hardcoded monster
-# speech has been outsourced. This makes changing existing
+# 从石头汤0.3版开始，已将先前硬编码的怪物语句外置。
+# 这会让修改现有信息和添加新消息变得非常容易。
 # messages, and adding new ones really easy.
 #
 # shout.txt holds the utterances (and visual equivalents) of
-# monsters that notice you.
+# 有关如何读取monspeak.txt以及如何添加新消息的内容，
 #
 # For an explanation of how to read monspeak.txt or shout.txt
 # and how to add new messages, see monster_speech.txt in the
 # docs/develop/ directory.
 ############################################################
 %%%%
-__BUGGY
+# 因此如果显示了此行，说明遇到了错误。
 
 # This line should never get displayed to the user, even if
 # monster_shout() in shout.cc detects buggy behaviour,
 # so showing this line would itself be a bug.
-SOUND:You hear doubly buggy behaviour!
+SOUND:你听到一声喊叫！
 %%%%
 __SHOUT
 
-SOUND:You hear a shout!
+SOUND:@The_monster@在喊叫！
 %%%%
 __SHOUT seen
 
-SOUND:@The_monster@ shouts!
+SOUND:你听到一声吠叫！
 %%%%
 __BARK unseen
 
-SOUND:You hear a bark!
+SOUND:@The_monster@在吠叫！
 %%%%
 __BARK seen
 
-SOUND:@The_monster@ barks!
+SOUND:你听到一声嚎叫！
 %%%%
 __HOWL unseen
 
-SOUND:You hear a howl!
+SOUND:@The_monster@在嚎叫！
 %%%%
 __HOWL seen
 
-SOUND:@The_monster@ howls!
+SOUND:你听到两声喊叫！
 %%%%
 __TWO_SHOUTS unseen
 
-SOUND:You hear two shouts!
+SOUND:@The_monster@发出立体声喊叫！
 %%%%
 __TWO_SHOUTS seen
 
-SOUND:@The_monster@ shouts in stereo!
+SOUND:你听到一声咆哮！
 %%%%
 __ROAR unseen
 
-SOUND:You hear a roar!
+SOUND:@The_monster@在咆哮！
 %%%%
 __ROAR seen
 
-SOUND:@The_monster@ roars!
+SOUND:你听到一声可怕的尖叫！
 %%%%
 __SCREAM unseen
 
-SOUND:You hear a hideous shriek!
+SOUND:@The_monster@发出可怕的尖叫！
 %%%%
 __SCREAM seen
 
-SOUND:@The_monster@ gives a hideous shriek!
+SOUND:你听到一声吼叫！
 %%%%
 __BELLOW unseen
 
-SOUND:You hear a bellow!
+SOUND:@The_monster@在吼叫！
 %%%%
 __BELLOW seen
 
-SOUND:@The_monster@ bellows!
+SOUND:你听到一声咩叫！
 %%%%
 __BLEAT unseen
 
-SOUND:You hear a bleat!
+SOUND:@The_monster@在咩叫！
 %%%%
 __BLEAT seen
 
-SOUND:@The_monster@ bleats!
+SOUND:你听到一声吼叫！
 %%%%
 __TRUMPET unseen
 
-SOUND:You hear a trumpeting!
+SOUND:@The_monster@在吼叫！
 %%%%
 __TRUMPET seen
 
-SOUND:@The_monster@ trumpets!
+SOUND:你听到一声尖叫！
 %%%%
 __SCREECH unseen
 
-SOUND:You hear a screech!
+SOUND:@The_monster@在尖叫！
 %%%%
 __SCREECH seen
 
-SOUND:@The_monster@ screeches!
+SOUND:你听到一阵愤怒的嗡嗡声。
 %%%%
 __BUZZ unseen
 
-SOUND:You hear an angry buzzing noise.
+SOUND:@The_monster@在愤怒地嗡嗡叫。
 %%%%
 __BUZZ seen
 
-SOUND:@The_monster@ buzzes angrily.
+SOUND:你听到一声凄凉的呻吟。
 %%%%
 __MOAN unseen
 
-SOUND:You hear a chilling moan.
+SOUND:@The_monster@发出凄凉的呻吟。
 %%%%
 __MOAN seen
 
-SOUND:@The_monster@ gives a chilling moan.
+SOUND:你听到可怕的咯咯声！
 %%%%
 __GURGLE unseen
 
-SOUND:You hear a horrible gurgling sound!
+SOUND:@The_monster@发出可怕的咯咯声！
 %%%%
 __GURGLE seen
 
-SOUND:@The_monster@ gurgles horribly!
+SOUND:你听到一声响亮、低沉的呱呱叫！
 %%%%
-__CROAK unseen
+SOUND:你听到一声呱呱叫！
 
 SOUND:You hear a loud, deep croak!
 
-SOUND:You hear a croak.
+SOUND:@The_monster@发出响亮、低沉的呱呱叫！
 %%%%
-__CROAK seen
+SOUND:@The_monster@在呱呱叫。
 
 SOUND:@The_monster@ gives a loud, deep croak!
 
-SOUND:@The_monster@ croaks.
+SOUND:你听到一声愤怒的咆哮。
 %%%%
 __GROWL unseen
 
-SOUND:You hear an angry growl.
+SOUND:@The_monster@在愤怒地咆哮。
 %%%%
 __GROWL seen
 
-SOUND:@The_monster@ growls angrily.
+SOUND:你听到一声愤怒的嘶嘶声。
 %%%%
 __HISS unseen
 
-SOUND:You hear an angry hiss.
+SOUND:@The_monster@愤怒地发出嘶嘶声。
 %%%%
 __HISS seen
 
-SOUND:@The_monster@ hisses angrily.
+SOUND:你听到窜行的声音。
 %%%%
 __SKITTER unseen
 
-SOUND:You hear a skittering sound.
+SOUND:@The_monster@的多条腿在窜行。
 %%%%
 __SKITTER seen
 
-SOUND:@The_monster_possessive@ many legs skitter.
+SOUND:你听到微弱的窜行声音。
 %%%%
 __FAINT_SKITTER unseen
 
-SOUND:You hear a faint skittering sound.
+SOUND:@The_monster@的多条腿在微微窜行。
 %%%%
 __FAINT_SKITTER seen
 
-SOUND:@The_monster_possessive@ many legs skitter faintly.
+SOUND:你听到一声愤怒的尖叫。
 %%%%
 __SQUEAL unseen
 
-SOUND:You hear an angry squeal.
+SOUND:@The_monster@在愤怒地尖叫。
 %%%%
 __SQUEAL seen
 
@@ -176,59 +176,59 @@ SOUND:@The_monster@ squeals angrily.
 %%%%
 __DEMON_TAUNT
 
-@The_monster@ @says@, "@demon_taunt@"
+SOUND:@The_monster@的鹰头在尖叫！
 %%%%
-__CHERUB seen
+SOUND:@The_monster@的狮头在咆哮！
 
-SOUND:@The_monster_possessive@ eagle head screeches!
+SOUND:@The_monster@的牛头在哞叫！
 
-SOUND:@The_monster_possessive@ lion head roars!
+SOUND:@The_monster@的人头在喊叫！
 
 SOUND:@The_monster_possessive@ ox head lows!
 
-SOUND:@The_monster_possessive@ human head shouts!
+SOUND:你听到一声喊叫。
 %%%%
-__CHERUB unseen
+SOUND:你听到一声尖叫。
 
-SOUND:You hear a shout.
+SOUND:你听到一声咆哮。
 
-SOUND:You hear a screech.
+SOUND:你听到一声哞叫。
 
 SOUND:You hear a roar.
 
-SOUND:You hear a low.
+SOUND:你听到一声震耳欲聋的咆哮！
 %%%%
 __LOUD_ROAR unseen
 
-SOUND:You hear a deafening roar!
+SOUND:@The_monster@发出震耳欲聋的咆哮！
 %%%%
 __LOUD_ROAR seen
 
-SOUND:@The_monster@ roars deafeningly!
+SOUND:你听到响亮的沙沙声。
 %%%%
 __RUSTLE unseen
 
-SOUND:You hear a loud rustle.
+SOUND:@The_monster@的书页发出响亮的沙沙声。
 %%%%
 __RUSTLE seen
 
-SOUND:@The_monster_possessive@ pages rustle loudly.
+SOUND:你听到响亮的吱吱声。
 %%%%
 __SQUEAK unseen
 
-SOUND:You hear a loud squeak.
+SOUND:@The_monster@发出响亮的吱吱声。
 %%%%
 __SQUEAK seen
 
 SOUND:@The_monster@ squeaks loudly.
 %%%%
-__CAW seen
+# 玩家鬼魂喊叫。
 
 SOUND:@The_monster@ caws.
 %%%%
 __CAW unseen
 
-SOUND:You hear a loud caw.
+VISUAL:@The_monster@恶毒地凝视着你。
 %%%%
 __LAUGH seen
 
@@ -310,7 +310,7 @@ Alchemist player ghost
 
 @player ghost@
 %%%%
-Chaos Knight player ghost
+# 怪物符号的喊叫
 
 @player ghost@
 %%%%
@@ -330,20 +330,20 @@ Wanderer player ghost
 
 @player ghost@
 ########################################
-# Shouts by monster symbol
+VISUAL:@The_monster@将眼柄转向你。
 ########################################
 %%%%
 '&'
 
 @__DEMON_TAUNT@
 %%%%
-'cap-G'
+VISUAL:@The_monster@摆动着根茎。
 
 VISUAL:@The_monster@ turns @possessive@ gaze towards you.
 %%%%
-'cap-J'
+VISUAL:@The_monster@将注意力转向你。
 
-VISUAL:@The_monster@ quivers.
+# 钢铁小恶魔、暗影小恶魔和白色小恶魔都复制于小恶魔。
 ########################################
 # Shouts by monster genus
 ########################################
@@ -367,13 +367,13 @@ VISUAL:@The_monster@ turns @possessive@ attention towards you.
 imp
 
 # Shout one half the time, taunt the other half.
-@__SHOUT@
+# 某些独特怪物的喊叫
 
 SOUND:@The_monster@ @says@, "@imp_taunt@"
 %%%%
 moth of wrath
 
-VISUAL:@The_monster_possessive@ fur bristles in rage as it notices you.
+SOUND:@The_monster@喊道：“进攻，我的宠物！进攻！”
 %%%%
 iron imp
 

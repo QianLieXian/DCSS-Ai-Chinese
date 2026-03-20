@@ -1,0 +1,1290 @@
+%%%%
+Fast status
+
+你的所有行动加速50%。
+%%%%
+Invis status
+
+你隐身了。
+大多数敌人看不到你，其命中率会受到负面影响，尽管他们也能猜到你的大概位置。
+随时间推移，这会造成魔法污染，如果你在出现此状况前已经被污染了，
+这会有一定危险。如果这个状态是灰色的，表明它是生效的（包括造成了魔法污染），
+但仍会因一些原因而失效（比如你因为魔法污染而身体发光，或是站在浅水中）。
+%%%%
+Tele status
+
+你很快就会传送。在等待传送的时候，如果再次进行传送（比如读了一个传送卷轴），
+就会取消本次传送。
+teleportation.
+%%%%
+!Tele! status
+
+大多数飞行能力有时间限制，快到时间的时候，可得当心飞在什么上面！
+happens, attempting to teleport again (such as by using a scroll of
+teleportation) will cancel this teleportation.
+%%%%
+你敏捷超群，闪避也有所增强。
+
+You are flying above the ground, and are able to cross water and lava or fight
+above shallow water without penalties. Most types of flight will time out – be
+你聪明异常，法术的威力增强，同时其消耗的法力减半（四舍五入）。
+%%%%
+Agi status
+
+你异常强壮，物理攻击力大大增强。
+%%%%
+Brill status
+
+你恢复健康的速度非常快。该状态只在临时性的加速回血时显示。
+as halving their magic cost (rounding up).
+%%%%
+Might status
+
+You are unnaturally mighty, doing significantly more damage in physical combat.
+%%%%
+Regen status
+
+You regenerate health at an unnaturally fast rate. This is only shown for
+temporary regeneration.
+%%%%
+你的攻击不会造成伤害，但可能使怪物进入混乱状态。
+
+Your health has stopped regenerating due to the presence of nearby monsters.
+%%%%
+你的意志力变得更强，能抵御许多魔法效果。
+
+You regenerate health and magic at an unnaturally fast rate. This is only shown
+for temporary regeneration.
+%%%%
+但除了移动和攻击， 无法进行其他大多动作。
+
+当狂暴结束后，使用者将被减速，短时间内无法再次狂暴。
+hit.
+%%%%
+Will++ status
+
+Your willpower is much stronger, protecting against many magical effects.
+%%%%
+Regen Will++ status
+
+你的速度变快，能造成灰熊般的重击，生命值得到大幅提升，
+但除了移动和重击敌人外无法做其他事情。
+除非你在攻击怪物，否则此状态很快会消失。
+%%%%
+Berserk status
+
+You are hasted, deal increased damage in combat, and have increased health, but
+你中毒了，会持续失去生命值。
+中毒时，你当前的生命值的一部分会重新着色，以显示最终将受到的毒害。
+服用治疗药水可立刻解毒。
+duration.
+%%%%
+-Berserk status
+
+你在尝试移动或攻击时会撞向随机的方向，并且不能施法或使用大多道具，除了药水。
+服用治疗药水可立刻解除混乱状态。
+%%%%
+Bearserk status
+
+你散发着诱变辐射。长此以往你会变异，通常会导致负面效果。
+状态的颜色标识严重程度，第一级（灰色）只是警告，
+不会造成变异或对潜行产生负面影响。
+are attacking, and when it expires you will be slowed and unable to bearserk
+again for a short duration.
+%%%%
+你的最大生命值暂时因负能量而流逝。
+
+You are poisoned and will continually lose health. While poisoned, your current
+health will be partially recoloured to display the eventual poison damage that
+will be dealt. Poison can be cured immediately by potions of curing.
+%%%%
+Conf status
+
+You are confused. You may stumble in a random direction when attempting to move
+你精疲力尽，在状态结束前无法使用导致疲惫的神圣能力。
+Confusion can be cured immediately by potions of curing.
+%%%%
+Contam status
+
+You are glowing with mutagenic radiation. This can inflict mutations over time
+(usually negative) or even cause you to suffer damage as the unstable magic
+explodes violently. In addition, your glow prevents invisibility and reduces
+你被麻痹了，完全无法行动。
+{{
+    local dmg = you.contam_max_damage();
+    if dmg > 0 then
+你睡着了，完全无法行动。受到伤害时会被唤醒。
+               "inflict up to " .. dmg .. " damage."
+    end
+}}
+%%%%
+Drain status
+
+Your maximum health has been temporarily drained by negative energy. This
+你被敌人所束缚，会受到更多伤害。
+你无法从敌人那里走开（或闪现），
+%%%%
+-Breath status
+
+You are catching your breath, and are unable to use your innate breath ability
+你被迷住了，无法远离让你着迷的怪物。
+%%%%
+Breath status
+
+Indicates how many uses of your draconian breath weapon are available. If the
+你被恐惧所支配，无法移向让你心生恐惧的怪物。
+要打破该效果，可以杀死该怪物、使其混乱，或打断其视线。
+%%%%
+Breath+ status
+
+你无法传送或闪现。
+%%%%
+Breath++ status
+
+你无法行走、飞行、滑翔，等等。
+%%%%
+Exh status
+
+You are exhausted, and are unable to activate divine powers that cause
+因踏入陷阱或被施法，你的位置被标示。
+%%%%
+Slow status
+
+All your actions take 50% longer.
+%%%%
+进行移动能更快地灭火，如果进入水中能立即扑灭火焰。
+
+You are paralysed, and completely unable to act.
+%%%%
+Sleep status
+
+You are asleep, and completely unable to act. Taking damage will wake you.
+%%%%
+Held status
+
+You are held in a net or a spider web. You cannot move freely and will instead
+try to struggle free.
+%%%%
+Constr status
+
+You are being constricted by an enemy. Your evasion is impaired, and you will
+有刺扎入你的皮肤，移动时会受到伤害。
+在原地休息一阵子，可以排出这些刺而不会受到伤害。
+likely to succeed and break the constriction when doing so multiple times.
+%%%%
+Mesm status
+
+You are mesmerised and cannot move away from the monster mesmerising you. The
+effect can be broken by killing or confusing the responsible monster or by
+breaking line of sight with them.
+%%%%
+Fear status
+
+You are overcome with fear and cannot move towards the monster causing fear in
+你被腐蚀了，你的物理攻击力和防护被削弱，削弱程度取决于腐蚀的严重程度。
+or by breaking line of sight with them.
+%%%%
+-Tele status
+
+摧毁幻觉来源可以恢复剥皮损失的所有生命值。
+%%%%
+-Move status
+
+你近战攻击造成的伤害减少25%。
+and can still be moved via translocations or by being pushed, pulled, and so on.
+%%%%
+Mark status
+
+Your location is marked due to the effects of a trap or a spell, and monsters
+will hunt you down more precisely and will be able to detect you even if you
+are not in their vision.
+%%%%
+Fire status
+
+You are covered with sticky fire, which causes damage over a moderate duration.
+你无法施放法术。
+it immediately.
+%%%%
+Fire+ status
+
+<Fire status>
+%%%%
+Fire++ status
+
+并增加、维持了你的力量、智力和敏捷。
+%%%%
+Corona status
+
+你的意志力变弱，容易受到许多魔法效果的影响。
+easier to hit.
+%%%%
+Barbs status
+
+There are barbs embedded in your skin, and moving around will cause you to take
+damage. Remaining in place for a short time will allow you to remove the barbs
+without taking damage.
+%%%%
+你的行动被减慢，会轻微减少所受的伤害，不久会完全石化（变为石状态）。
+
+You have been sickened, and your health will no longer regenerate.
+%%%%
+你更能抵抗火、寒、电、毒和酸。
+
+You are disoriented and dizzy, reducing your accuracy, evasion, and
+spellcasting success rate.
+%%%%
+下一个击中的活物或有形的亡灵生物会变成一个中立的黏液。
+
+You are corroded, reducing your damage in physical combat and your armour by an
+amount depending on the severity of the corrosion.
+%%%%
+Flay status
+
+You are covered in illusionary wounds, causing severe damage while the effect
+你在缓慢地移动。
+lost to the flaying.
+%%%%
+Weak status
+
+法术失效后，不能立即重施。
+%%%%
+Frozen status
+
+你离死亡之门仍然很近，短时间内无法重施死亡之门。
+%%%%
+Sap status
+
+四倍伤害！
+magic, briefly preventing you from casting any further spells.
+%%%%
+-Cast status
+
+这种压抑、不自然的效果会极大地阻碍你的潜行。
+%%%%
+Crippled status
+
+你的潜行大幅增强。
+below. You will act slowly until this situation is remedied.
+%%%%
+DChan status
+
+You are channelling the dead, causing any living creatures killed in your
+vicinity to be raised as spectral servants.
+%%%%
+你被不稳定的云所环绕，短时间内无法重施极地旋涡。
+
+You are divinely vitalised, providing protection from poison, confusion,
+petrification, and sickness, and increasing and sustaining your strength,
+你正在液化周围地面，这片区域中所有生物的移动会减慢。
+%%%%
+Will/2 status
+
+你的战斗技能暂时得到提升。
+%%%%
+Stone status
+
+你的战斗技能暂时得到提升。
+but all damage taken is substantially reduced.
+%%%%
+Petr status
+
+You are turning to stone. Your actions are slowed, all damage taken is slightly
+reduced, and you will soon be completely petrified (gaining the Stone status).
+%%%%
+你在打破周围环境的稳定，附近的怪物会随机地被闪送走。
+
+You are more resistant to fire, cold, electricity, poison and acid.
+%%%%
+你的武器暂时被诅咒的灵魂增强，每杀死一个敌人，你的杀戮加成就会提升。
+
+Your wielded weapon or your fists are coated in slime, and will turn the next
+living or corporeal undead monster you hit into a neutral slime.
+%%%%
+你已经入不敷出了。在你取得足以抵消债务的钱前，你无法使用金币进行消费。
+
+You are covering ground swiftly.
+%%%%
+你散发着有毒的能量，会持续对周围所有生物造成毒害。
+
+You are covering ground slowly.
+%%%%
+你在向附近的怪物吟诵辛的律令，并会产生一系列因目标而异的影响。
+
+You are temporarily invulnerable to harm, but are brought close to death in the
+process and cannot be affected by healing while the effect is active. After the
+spell expires, it cannot be immediately recast.
+%%%%
+-DDoor status
+
+You are still close to death's doorway, and cannot recast Death's Door for a
+你更容易被火伤害。
+%%%%
+Quad status
+
+你更容易被毒伤害。
+%%%%
+Sil status
+
+你已经用次元靶心瞄准了一个敌人，这会使你向不同敌人投射的弹药会被传送到目标。
+abilities, or shouting impossible.
+%%%%
+Flooded status
+
+Your lungs are filled with liquid, preventing you from breathing properly. This
+makes reading scrolls, casting spells, and invoking divine abilities impossible.
+You will also take asphyxiation damage every turn.
+%%%%
+召唤结束后，短时间内无法再次施展它。
+
+Your stealth is greatly increased.
+%%%%
+你刚召唤过龙，短时间内无法再次施展龙的呼唤了。
+
+You are in the eye of a mighty ice storm. After the vortex fades, it cannot be
+called forth again for a short time.
+%%%%
+-Vortex status
+
+You are surrounded by unstable winds, and cannot recast Polar Vortex for a short
+你对火的抗性有所提高。
+%%%%
+Liquid status
+
+你对寒的抗性有所提高。
+in the area.
+%%%%
+Hero status
+
+Your combat skills are temporarily increased.
+%%%%
+Finesse status
+
+Your combat speed is greatly increased.
+%%%%
+Duel status
+
+You are duelling a foe in Okawaru's Arena, and will be returned whence you came
+if you are victorious.
+%%%%
+你近战时能够顺劈，可以击中所有邻近目标。
+
+You are destabilising space around yourself, causing nearby monsters to be
+randomly blinked away from you.
+%%%%
+Fugue status
+
+Your weapon is temporarily enhanced by the souls of the damned, providing
+你下次使用可激活装置时，其力量会被增强，同时会消耗你的一些魔力。
+foes adjacent to your attacks' targets suffer pain damage.
+%%%%
+Debt status
+
+You have lived beyond your means. You cannot spend gold again until you earn
+enough to cancel out your debt.
+%%%%
+你的身体被凝固的血覆盖，当你受重伤时，它可以充当盔甲。
+
+You are radiating toxic energy, and will continuously inflict poison on all
+nearby creatures.
+%%%%
+Recite status
+
+You are reciting Zin's laws to nearby monsters, with a range of effects
+你正在引导魔法能量。
+for a short time.
+%%%%
+-Recite status
+
+You have recently finished reciting Zin's laws, and cannot recite again for a
+任何手套、披风、帽子和靴子都会被融合。
+%%%%
+rF- status
+
+你在基面上是不稳定的。你每次触碰敌人，都能造成危险程度的魔法污染。
+%%%%
+rP- status
+
+你还发着光，会削弱潜行并导致无法隐身，
+%%%%
+Bullseye status
+
+You have targeted an enemy with a dimensional bullseye, causing missiles fired
+or thrown at a different enemy to also be teleported at the target.
+%%%%
+    return "长长的、针般薄的刀片从你的" .. hands
+
+You are calling a forested plane into temporary existence, and awakening nearby
+装备的武器、盾牌和手套都会被融合。
+%%%%
+Dragoncall status
+
+你变成了一条抗毒的、决意将敌人缠绕、挤压至死的冷血巨蛇。
+answers the call will drain your magical energy. After the call ends, it cannot
+装备的武器和防具都会被融合。
+%%%%
+-Dragoncall status
+
+你的腹部变成了一个咬牙切齿、准备吞食敌人的大嘴。
+这张嘴巴可以吞食被杀死的生物并治疗你，你的变身技能和被吞食的生物越强，
+%%%%
+-Potion status
+
+You are unable to quaff potions.
+%%%%
+rF+ status
+
+你的近战攻击，无论是徒手还是使用武器，都大大增强了。
+%%%%
+rC+ status
+
+You are more resistant to cold.
+%%%%
+rElec+ status
+
+    local desc = "你变成了强大的"
+%%%%
+Horr status
+
+You are terrified of nearby monsters, reducing your damage and accuracy in
+            desc = desc .. "，任何固有的吐息攻击的威力增强了"
+%%%%
+-Scroll status
+
+                           "毒有很强的抗性，但易受寒的伤害"
+%%%%
+            desc = desc .. "。你对寒和" ..
+
+Your melee attacks cleave, hitting all adjacent targets.
+%%%%
+Ambros status
+
+                           "并对毒有着抗性"
+confusion will also end the regeneration.
+%%%%
+        desc = desc .. "，吐息火焰的龙。你能很好地抵抗" ..
+
+                       "寒的伤害"
+of some of your magic.
+%%%%
+Howl status
+
+A terrifying howl is echoing in your mind, calling forth powerful creatures to
+}}你的近战攻击会造成难以置信的伤害，身体也变得更结实，但闪避受到削弱。
+%%%%
+装备的武器和防具都会被融合。
+
+Your body is covered in congealed blood, serving as armour for as long as you
+remain seriously injured.
+%%%%
+你在近战中攻击力得到加强，并带有电属性，会打击到所有相邻的敌人。
+
+你获得了如同闪电箭那样，向敌人投射自己的能力。
+%%%%
+装备的武器和盔甲都会被融合。
+
+You have been transformed into a monstrous, furry were-beast. The ferocious
+energy pulsing through your limbs keeps you ready to kill.
+%%%%
+Flux status
+
+你还可以通过折磨附近的活物敌人来治疗自己。
+此外，你能抵抗寒冷，意志力会增强，并免疫毒、瘴气、负能量和折磨。
+不幸的是，你易受神圣攻击和驱散亡灵的伤害，且无法服用药水。
+
+However, this instability makes you unable to use weapons, shields, or
+body armour. You also glow, reducing stealth and preventing invisibility,
+你变成了行动迅捷的吸血蝠，闪避能力得到提升，但近战攻击力受到削弱。
+%%%%
+装备的武器、防具和戒指都会被融合，且无法施展法术。{{
+
+        return "你的近战攻击效果" ..
+               "在这种形态下取决于经验等级而不是" ..
+%%%%
+Maw status
+
+Your midsection has transformed into a giant mouth, gnashing and ready to devour
+foes. The mouth may devour slain creatures, healing you to an extent increased
+by your Shapeshifting skill and the power of the creature eaten. Skill also
+你变成了猪。你移动很快，但近战受到削弱。
+%%%%
+装备的武器、防具和戒指都会被融合，且无法施展法术。
+
+You have been transformed into a slow but extremely robust stone statue.
+Your melee damage, both unarmed and with weapons, is substantially increased.
+Your stone body is immune to poison and miasma, and gains resistance to
+electricity, negative energy and torment.
+%%%%
+        return "你的一根触手上长出了邪恶的刺，" ..
+
+{{
+        return "你的身体上长出异常的角或爪，" ..
+
+    if you.race():find("Draconian") then
+        desc = desc .. " dragon"
+        if you.race() ~= "Grey Draconian" then
+            desc = desc .. ", increasing the power of any innate breath attacks"
+        end
+你变成了扎根于地面的树，无法移动或传送。
+你更难闪避，但生命值和自身防护得到增强，有着毒抗，并免疫折磨和溺水。
+                           "resistant to poison, but vulnerable to cold"
+装备的披风、头盔、手套、靴子和铠甲都会被融合。
+            desc = desc .. ". You are highly resistant to cold and " ..
+                           "resistant to poison, but vulnerable to fire"
+        elseif you.race() == "Green Draconian" then
+你变成无形的气体。你有着高闪避，并能抵抗火、寒、电和酸，并免疫毒和负能量。
+        else
+装备的武器、防具和首饰都会被融合，且无法施展法术。
+在这种形态下你的近战效果取决于经验等级而不是徒手格斗技能。
+        end
+    else
+        desc = desc .. ", fire-breathing dragon. You are highly resistant " ..
+你变成了有意识的真菌。
+你有着高闪避，在近战攻击时可以释放孢子造成混乱，但当敌方生物出现时无法移动。
+你有着毒抗，并免疫负能量。
+
+装备的武器和防具都会被融合，且无法施展法术。
+
+    return desc
+}} Your melee attacks deal incredible damage, and you are much more robust but
+less evasive.
+%%%%
+所有受到的伤害会减半，受到任何攻击都会使你流出烟，并且你将拥有无限的意志力。
+
+在受到伤害时，你的最大生命值会流失。
+are strengthened and electrified, and strike all adjacent foes. You gain flight,
+increased evasion, immunity to poison, miasma, petrification, and constriction,
+and resistance to electricity. You gain the ability to launch yourself at foes
+你在靠近（或持有）佐特宝珠时，其能量会扰乱位移魔法。
+%%%%
+Death status
+
+You have been transformed into an undying offence against life itself.
+
+你需要花几个回合停下来休整，才能从这个状态恢复过来。
+（其他动作，比如攻击或施法，是可行的。）
+cold, have enhanced willpower, and are immune to poison, miasma, negative
+energy, and torment. Unfortunately, you are vulnerable to holy damage and
+Dispel Undead, and cannot consume potions.
+%%%%
+按<w>.</w>或<w>s</w>在原地等待，将保持并增强射线，每回合会消耗1魔力。
+
+You have been transformed into a swift-moving bat, increasing your evasion but
+substantially weakening your melee attacks.
+
+Any equipped weapons, armour and rings are melded, and you are unable to cast
+spells. The effectiveness of your melee attacks while in this form is based on
+experience level instead of on Unarmed Combat skill.
+%%%%
+Pig status
+
+You have been transformed into a pig. You move quickly but are less effective
+in melee.
+
+以这种方式移动时，任何武术攻击都会增强且总能命中。
+spells. The effectiveness of your melee attacks while in this form is based on
+experience level instead of on Unarmed Combat skill.
+%%%%
+你被天云风暴所围绕。
+
+{{
+风暴会随着时间的推移而减弱，所给的加成达到零就会消失。
+天云阻止了隐形，也模糊了风暴外的怪物的视线。
+               "increasing the damage of your extra tentacle attacks."
+    else
+        return "Monstrous horns or talons have grown from your body, " ..
+在液体地面上，你的移动速度变慢了。
+    end
+}}
+%%%%
+你充满了血液，很快能恢复健康。
+
+You have been transformed into a tree and are rooted to the ground, unable to
+move or teleport. You have minimal evasion but increased health and natural
+你获得与生命值成比例的施法和杀戮加成。
+
+Any equipped cloak, helmet, gloves, boots and body armour are melded.
+%%%%
+你可以通过附近的祭司，向洞穴兽人之神比欧弗宣誓效忠。
+
+You have been transformed into an insubstantial wisp of gas. You are highly
+evasive and are resistant to fire, cold, electricity and acid, and immune to
+poison, and negative energy.
+
+你免疫毒和负能量，并有着很强的寒抗，还能抵抗折磨。
+cast spells. The effectiveness of your melee attacks while in this form is based
+on experience level instead of on Unarmed Combat skill.
+%%%%
+你在贿赂当前分支的栖息者。
+
+You have been transformed into a sentient fungus. You are highly evasive and
+can release spores to cause confusion when attacking in melee, but are unable
+你位于云中。
+immune to negative energy.
+
+Any equipped weapons and armour are melded, and you are unable to cast spells.
+这里的空气太过平静，无法形成云雾。
+experience level instead of on Unarmed Combat skill.
+%%%%
+Shadow status
+
+You have been transformed into a swirling mass of dark shadows. You are
+permanently invisible and are immune to poison, draining, and torment. All
+incoming damage is halved, you bleed smoke on any incoming attack, and you have
+你的健康和/或魔法，还有你盟友的健康正在快速恢复。
+ranged attacks is halved, your spellcasting power is greatly hampered, and your
+maximum health is further drained when taking damage.
+%%%%
+你同时受到减速和加速的效果。
+
+You are near (or perhaps holding) the Orb of Zot, whose energies disrupt
+translocation magic. Teleportation will take longer and scrolls of blinking may
+你正在飞越岩浆。
+%%%%
+Orb? status
+
+你在召回你的盟友。
+magic. Teleportation will take longer and scrolls of blinking may transport you
+a short distance away from your intended destination.
+%%%%
+    local verb = you.flying() and "飞越" or
+
+Your legs are tired, and you are unable to hop. This status will only recover
+after you spend several turns not moving. (Other actions, such as attacking or
+    if feat ~= "深水" and feat ~= "浅水" then
+%%%%
+        verb = "越过"
+
+You are currently channelling a ray of searing magical energy. Pressing
+    return "你正" .. verb .. "" .. feat .. "。"
+the cost of 1 MP per turn. Any other action, including recasting the spell,
+will end it.
+%%%%
+Ray+ status
+
+<Ray status>
+%%%%
+Ray++ status
+
+如果你在这个分支上耗尽了指定的回合数，但没有下到新的楼层，
+%%%%
+Lash status
+
+You are moving at supernatural speed, causing movement actions to become
+如果你在这个分支上耗尽了指定的回合数，但没有下到新的楼层，
+佐特将会发现你，并对你的健康造成永久性伤害。
+%%%%
+Heavenly status
+
+如果你在这个分支上耗尽了指定的回合数，其中的宝石就会被佐特的力量发现并被粉碎。
+evasion and combat accuracy and damage are substantially increased, and
+striking enemies with martial attacks increases this bonus. The storm weakens
+over time and fades away once the bonus reaches zero. The heavenly clouds
+伊格尼斯的愤怒让你无法抵御火。
+%%%%
+SlowM status
+
+你不稳定，短时间内无法施放闪现魔法或激活闪现能力。
+%%%%
+就像那些不受你控制的、能诱发闪现的外因一样。
+
+You are full of blood, and regenerate health quickly.
+%%%%
+你刚从闪电形态中恢复正常，短时间无法再次使用闪现箭。
+
+You receive spellcasting and slaying bonuses that scale with your health.
+%%%%
+你正在引导电荷。按<w>.</w>或<w>s</w>在原地等待，
+
+任何其他动作，包括重施这个法术，电荷会无害地消散。
+To do so, use the Convert to Beogh ability in the ability menu.
+%%%%
+Bloodless status
+
+Your body is entirely devoid of blood, reducing your maximum health and
+preventing you from regenerating health when monsters are visible. You are
+immune to poison and negative energy, significantly resist cold, and resist
+torment.
+%%%%
+Bribe status
+
+You are bribing the inhabitants of the current branch.
+%%%%
+Cloud status
+
+你正在引导火焰波。按<w>.</w>或<w>s</w>在原地等待，
+%%%%
+任何其他动作，包括重施这个法术，会打断它。
+
+The air is too still for clouds to form.
+%%%%
+Dig status
+
+You are digging.
+%%%%
+你正在冰封周围的墙。如果你移动到新位置，冰会破裂、脱落。
+
+Your health and/or magic are being rapidly restored, as well as the health of
+your allies.
+%%%%
+一旦它在你的视线之外，你将无力维持这个变化。
+
+You are under both slowing and hasting effects.
+%%%%
+你接触到了更为宏大的真理，提升了对那些与意志力挂钩的效果的抵抗力。
+
+You are currently flying over lava.
+%%%%
+Recall status
+
+You are recalling your allies.
+%%%%
+Water status
+{{
+    local verb = you.flying() and "flying over" or
+                 you.race() == "Merfolk" and "swimming in" or "standing in"
+    local feat = view.feature_at(0, 0):gsub("_", " ")
+
+你可以自由返回前一层，但一旦在此楼层上采取任何行动，所有返回的楼梯都将坍塌。
+        feat = "water"
+        verb = "over"
+    end
+
+    return "You are currently " .. verb .. " " .. feat .. "."
+}}
+%%%%
+酸性软泥从你周围的墙上渗出。
+
+Enemies are magically translocated toward you. (This won't wake them up.)
+%%%%
+Zot status
+
+You have spent too much time in one branch, allowing the malevolent power of Zot
+to notice you. If you spend the indicated number of turns in the branch without
+descending to a new floor, Zot will find you, causing permanent health damage.
+%%%%
+Zot count status
+
+If you spend the indicated number of turns in this branch without descending to
+你刚吸取过生者的精华，短时间内无法再次吸取它。
+%%%%
+Gem status
+
+你刚刚念出过混乱之语，短时间内无法再次念诵它。
+and shattered by the power of Zot.
+%%%%
+Gem (*) status
+
+当视线中没有敌人时，这些灵体会迅速消散。
+intact.
+%%%%
+你正朝着天花板向上飘浮。在短暂延迟之后，伊格尼斯的力量会把你轰入上层。
+
+The wrath of Ignis prevents you from resisting fire.
+%%%%
+-Blink status
+
+You are unstable and cannot cast Blink or activate evoked blink abilities
+for a short period of time. Powerful sources of translocation magic such as
+scrolls of blinking ignore this limitation, as do external sources of blinking
+outside of your control.
+%%%%
+-Bbolt status
+
+You are recovering from becoming lightning, and are unable to blinkbolt again
+for a short duration.
+%%%%
+Charge- status
+
+You are currently channelling electrical charge. Pressing <w>.</w> or <w>s</w>
+to wait in place will maintain and continue this process until it discharges.
+Any other action, including recasting the spell, will dissipate the charge
+harmlessly.
+%%%%
+Charge/ status
+
+<Charge- status>
+%%%%
+Charge\ status
+
+<Charge- status>
+%%%%
+Charge| status
+
+<Charge- status>
+%%%%
+Wave status
+
+You are currently channelling waves of flames. Pressing <w>.</w> or <w>s</w>
+to wait in place will maintain and intensify the waves, at the cost of 1 MP per
+turn. Any other action, including recasting the spell, will end it.
+%%%%
+Wave+ status
+
+<Wave status>
+%%%%
+Ramparts status
+
+You are encasing nearby walls in ice. The ice will crack and fall away if you
+move to a new position.
+%%%%
+Bog status
+
+You are creating a toxic bog in the nearby area, and are immune to its effects.
+You cannot sustain this transformation in areas out of your line of sight.
+%%%%
+Enlightened status
+
+You are in touch with a greater truth, increasing your resistance to effects
+which target your willpower. Tragically, this epiphany won't last.
+%%%%
+Will+ status
+
+<Enlightened status>
+%%%%
+Reap status
+
+The dead are hopping! Living creatures you kill may rise as zombified servants.
+%%%%
+Peek status
+
+You are peering down the stairs. You can freely return to the previous level, but
+once you take any action on this floor, all stairs leading back up will collapse.
+%%%%
+Fragile status
+
+Your body is as fragile and brittle as glass, increasing the damage you take from
+all sources.
+%%%%
+Ooze status
+
+Acidic ooze creeps out of the walls around you. Each turn, foes are damaged
+depending on the number of slimy walls they remain adjacent to.
+%%%%
+Dog status
+
+You have summoned your canine familiar.
+%%%%
+-Dog status
+
+Your canine familiar is recovering from its injuries, and cannot be summoned
+again for a short time.
+%%%%
+-Siphon status
+
+You have recently siphoned the essence of the living, and cannot do so again for
+a short time.
+%%%%
+-Word status
+
+You are fatigued from recently speaking a word of chaos, and are unable to do so
+again for a short time.
+%%%%
+Jinx status
+
+Jinxing spirits encircle you. When you attack foes, those who fail a Will check
+are jinxed, taking damage and becoming drained. The spirits depart quickly when
+no foes are in sight.
+%%%%
+Rise status
+
+You are hovering upward toward the ceiling. After a short delay, Ignis' power
+will blast you into the level above.
+%%%%
+Challenge status
+
+You have been challenged by a chosen apostle of Beogh, who will know your
+location no matter where on the floor you are. Defeat them, and you may recruit
+them to join you. If you flee the floor, Beogh will punish you by temporarily
+depriving you of allies.
+%%%%
+Vengeance status
+
+One of your apostles has been killed, and you have not yet killed all foes who
+were involved in their death. If you do so, Beogh will resurrect them sooner.
+%%%%
+Pray status
+
+You have invoked divine aid in avenging the death of a fallen apostle. Orcs will
+continuously rally to your side, though your prayer will end more rapidly when
+there are no more foes around to fight.
+%%%%
+Recruit status
+
+An orcish apostle is available to recruit as a permanent companion.
+(Use the Recruit Apostle ability)
+%%%%
+Torch status
+
+You carry the Black Torch. If this indicator is dark, the torch is unlit; if it
+is bright, you have called upon Yredelemnul to light the torch. So long as the
+torch burns, you will gain piety for kills. With sufficient piety, you will be
+able to use its umbral fire to empower your undead servants and damage your
+enemies.
+%%%%
+Shackles status
+
+Yredelemnul's grip is engulfing an area in life-stealing chains.
+%%%%
+Rev status
+
+You're starting to limber up. Your weapon-based and unarmed attacks are closer
+to full strength, and will continue to grow more powerful with each swing.
+%%%%
+Rev+ status
+
+You're limbering up. Your weapon-based and unarmed attacks are close to full
+strength, and will continue to grow more powerful with each swing.
+%%%%
+Rev* status
+
+You're limbered up. Your weapon-based and unarmed attacks are at full strength,
+and will remain so as long as you keep swinging and for a short while afterward.
+%%%%
+-Gavotte status
+
+Gravity around you is still unstable, and you cannot cast Gell's Gavotte again
+until it settles back down.
+%%%%
+Fusillade status
+
+You are hurling conjured alchemical reagents at nearby monsters.
+%%%%
+Nightfall status
+
+You are channelling the deepest night, greatly reducing your sight range. It
+will gradually return to normal over time.
+%%%%
+Blind status
+
+Your vision is badly impaired. All spells and attacks you perform (which do not
+automatically hit) have an increased chance to miss. This chance is much greater
+the further away you are from your target.
+%%%%
+Ruin status
+
+You are marked with the sign of ruin, causing any melee attacks which damage you
+to heavily drain and randomly slow, weaken, or blind you.
+%%%%
+-GClaw status
+
+You have not yet harvested enough death to cast Grave Claw again.
+%%%%
+Legion status
+
+You are beckoning the legions of chaos; short-lived demons will be periodically
+summoned near you.
+%%%%
+-Bloodrite status
+
+You have recently performed an infernal blood rite and must fully heal before
+being able to perform another.
+%%%%
+Execution status
+
+You are sharing your body with an Executioner, giving you a powerful auxiliary
+attack that also triggers when you dodge attacks, as well as letting you rampage
+towards foes. This will expire quickly if you stop attacking.
+%%%%
+Destr status
+
+Your Unleash Destruction is growing more powerful as you use it consecutively.
+%%%%
+Destr+ status
+
+<Destr status>
+%%%%
+Destr++ status
+
+<Destr status>
+%%%%
+Destr+++ status
+
+<Destr status>
+If you use it again, it will unleash a salvo of additional bolts aimed at random
+targets and this bonus will reset.
+%%%%
+Slaughter status
+
+You are an instrument of Makhleb's destructive will. Your power and defences are
+greatly enhanced, but you must endure the Crucible of Flesh once this effect
+ends.
+%%%%
+Pact status
+
+Makhleb has come to collect on certain promises made to them.
+{{ if you.religion == "Makhleb" then
+        return "Fulfill your oath as their instrument by slaying the terrified " ..
+               "mortals that have been gathered here, and they may grant you " ..
+               "freedom once again."
+   else
+        return "Fight and bleed and you may be granted freedom once again."
+    end}}
+%%%%
+Escape! status
+
+A path out of the Crucible has opened. Find it and claim your freedom again. For
+a time.
+%%%%
+Shield status
+
+You are protected by a divine shield. Enemies that strike it in melee will have
+their attacks completely blocked, and they may also be blinded by its light.
+%%%%
+Blast status
+
+You are preparing to unleash a kinetic shockwave and cannot move until this is
+complete.
+%%%%
+Blast. status
+
+<Blast status>
+%%%%
+Blast.. status
+
+<Blast status>
+%%%%
+Blast... status
+
+<Blast status>
+%%%%
+Winding status
+
+You are winding up your clockwork bee. It cannot attack its target until it is
+fully wound up.
+%%%%
+Winding. status
+
+<Winding status>
+%%%%
+Winding.. status
+
+<Winding status>
+%%%%
+Winding... status
+
+<Winding status>
+%%%%
+Unstable status
+
+You have become untethered in space, blinking randomly each turn and suffering a
+small amount of damage each time you do so.
+%%%%
+Vainglory status
+
+You have recently announced your regal presence and it simply would not do to
+leave the floor again so soon afterward.
+%%%%
+Protected status
+
+Your platinum paragon is close enough to you to sometimes parry attacks directed
+at you.
+%%%%
+Vexed status
+
+Your mind is clouded by frustration. For the next several turns, you will
+uncontrollably attack random adjacent creatures (whether friendly or enemy) or
+even empty space.
+%%%%
+Drowsy status
+
+You are rapidly growing sleepy and may soon fall asleep completely.
+%%%%
+Vampire status
+
+You are a vampire - a creature that straddles the border between life and
+undeath. You can drink the lifeblood of the living to heal, and even turn those
+you slay stealthily into vampiric thralls, but do not heal in the presence of
+monsters.
+%%%%
+Swarm status
+
+You have transformed into a swarm of vampire bats, allowing you to move quickly
+and evasively. You may trail clouds of bats in your wake.
+%%%%
+Memories status
+
+This indicates how many spells you could cast from accumulated memories if you
+Enkindled now.
+%%%%
+Enkindled status
+
+You are burning accumulated memories for power. Each damage-dealing spell you
+cast will consume a memory. In exchange, their power and spell success are
+increased, encumbrance penalties are ignored, and your spellclaw attacks do
+bonus damage proportional to the spell level and heal you based on the damage
+dealt.
+%%%%
+Cacophony status
+
+You are noisily attacking with all of your armour. Every piece of armour you
+haunt currently moves of its own volition; any damage it takes will not affect
+you, you can freely fire through it, and its attacks may daze, drain, or confuse
+your enemies.
+%%%%
+Catalyst status
+
+You have an explosive catalyst readied. The catalyst will detonate, dealing fire
+damage to the primary target of each of your melee attacks and any enemy
+adjacent to them, with each hit. Attacking will extend the duration of the
+catalyst even if you miss.
+%%%%
+Shroud status
+
+You are covered by a thin shroud of slime that may deflect a melee attack. When
+it does, the shroud will break for a short time, though it will soon repair
+itself naturally.
+%%%%
+Yak status
+
+You are a rime yak, fur encrusted with ice.
+%%%%
+Spider status
+
+You are an agile jumping spider whose attacks can web enemies.
+%%%%
+Quill status
+
+You have spiny quills growing out of your body which may damage melee attackers.
+%%%%
+Hive status
+
+You are a living beehive, abuzz with busy insects.
+%%%%
+-Swarm status
+
+The insects that dwell within you have recently swarmed to your defence. This
+will not happen again until your health fully recovers.
+%%%%
+Aqua status
+
+Your body is composed of elemental water that can reach to attack and drown
+enemies.
+%%%%
+Sphinx status
+
+You are a cunning, riddle-loving sphinx, with the force of a windstorm in your
+paws.
+%%%%
+Werewolf status
+
+You are a vicious werewolf.
+%%%%
+Slay status
+
+The damage and accuracy of your attacks is temporarily increased.
+%%%%
+Scroll status
+
+You are a walking scroll, parchment crisp and full of magic.
+%%%%
+Crab status
+
+You are a heavily-armoured crab with rusting breath.
+%%%%
+Scarab status
+
+You are a sun scarab, with solar fire blazing beside you.
+%%%%
+Medusa status
+
+You have a mane of venomous tendrils for hair.
+%%%%
+-Lithotox status
+
+Your lithotoxin has recently activated and will not do so again until you fully
+heal.
+%%%%
+Doom status
+
+A malevolent fate is gathering around you. If your Doom reaches 100%, you will
+be afflicted by a random bane and your Doom will reset to 0. Banes have diverse
+negative effects that can significantly endanger your character for an extended
+period of time.
+
+Both Doom and Banes are only cured by gaining experience, though Banes typically
+last much longer.
+%%%%
+Ostracised status
+
+Your connection to the divine has been partially cut-off, temporarily reducing
+your effective piety. Gaining experience will eventually recover all piety that
+has been locked away this way.
+%%%%
+Tesseract status
+
+A Boundless Tesseract is drawing in forces from a parallel reality. New monsters
+will steadily appear at random locations across the floor until either of the
+tesseracts is destroyed. If this is allowed to continue for a very long time,
+those monsters may sometimes appear near your location instead.
+%%%%
+-Star status
+
+Your orb of stardust has recently expended its energy. It will recharge once
+several turns pass while your MP is full and there are no enemies in sight.
+%%%%
+-Mesm status
+
+Your orb of mesmerism has recently expended its energy. It will recharge after
+a short length of time (but cannot recharge on turns where you move).
+%%%%
+Phobia status
+
+Your claustrophobia has given you a slaying malus. This is dependent on the
+number of walls surrounding you.
+%%%%
+Dim status
+
+The power of all your spells is reduced by half.
+%%%%
+Sunder status
+
+Your next attack will have increased accuracy, inflict three times its normal
+damage, and cleave at an increased range. This bonus is lost if you perform any
+action besides attacking.
+%%%%
+Devious status
+
+Your evasion and slaying are increased. This stacks up to 3 times and will never
+expire so long as you continue to perform melee attacks.
+%%%%
+Slimifying status
+
+Your body is slowly being turned into slime. Even if a full transformation
+occurs, you have enough force of will to eventually revert back.
+%%%%
+Jelly status
+
+You have been temporarily transformed into a jelly. You have several unusual
+resistances and extra health, but heavily weakened spells.
+
+Any equipped weapons and armour are melded. The effectiveness of your
+newly-acidic melee attacks while in this form is based on your experience level
+rather than Unarmed Combat skill.
+%%%%
+OozeRegen status
+
+You are covered in regenerative ooze from your recent trip down the stairs. For
+a brief time, your wounds will heal rapidly and your reserves of magic will
+recover quickly.
+%%%%
+-Hellfire status
+
+You are unable to cast Hellfire Mortar again until the effect of your last cast
+ends.
+%%%%
+Engorged status
+
+Your maw has just consumed a delicious meal, greatly increasing your
+regeneration until it finishes digesting it.
+%%%%
+Eel status
+
+Your arms are a pair of electric eels.
+%%%%
+Blade status
+
+Multiple vicious blades are growing out of your body.
+%%%%
+Spore status
+
+Your arm is a mass of multicoloured fungus.

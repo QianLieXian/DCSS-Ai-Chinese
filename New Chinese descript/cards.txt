@@ -1,0 +1,174 @@
+%%%%
+# 逃脱
+Velocity card
+
+这张牌上描绘着一双破旧、空着的靴子。靴底沾着沙子、灰和草皮。
+coat the boots' soles.
+
+Drawing this card can grant great speed to allies or terrible slowness to foes.
+%%%%
+the Tomb card
+
+The card depicts a royal crypt, its entrance sealed by a heavy stone slab.
+
+在能量不高或有相邻生物时，这个墓可能有缺陷。
+At lower power levels or with adjacent creatures, the tomb may be imperfect.
+
+The tomb is sustained by the presence of its creator within it, and moving from
+the centre of the tomb will cause its walls to crumble away.
+%%%%
+这张牌上描绘着源源不断的手从一个张着大口的传送门伸出，
+
+The card depicts ceaseless hands from a yawning portal overcoming a panicked
+抽出此牌可以将附近的一个或多个怪物放逐到深渊，能量越高，放逐的生物越多。
+
+Drawing this card can banish nearby creatures to the abyss, with more being banished
+at higher power levels. It will never banish the user.
+%%%%
+这张牌上描绘着一名旅人跌入其下方的裂口。
+
+抽出此牌会在使用者下方生成地洞，也有可能生成在敌人的脚下。
+them.
+
+Drawing this card will create a shaft beneath the user, and possibly beneath
+这张牌上描绘着一个由九个圣杯组成的自鸣得意的微笑。
+%%%%
+抽出此牌可以快速恢复使用者的健康和魔法。
+
+The card depicts a smug smile formed out of nine chalices.
+
+这张牌上描绘着一扇被笼罩在薄雾中的铁门。
+%%%%
+抽出此牌，使用者的的敌人会被笼罩在一圈云层中。
+
+The card depicts an iron gate enshrouded in mist.
+
+Drawing this card enshrouds the user's foes in rings of detrimental clouds. The
+effects of such clouds will vary with card power.
+%%%%
+# Destruction
+抽出此牌，会释放一个腐蚀性攻击法术。
+
+The card depicts an oklob plant, dripping with its distinctive corrosive sap.
+
+这张牌上描绘着在海上的雷暴中沉没的一艘船。
+%%%%
+抽出此牌会释放风暴和电流。
+
+The card depicts a ship at sea sinking in a thunderstorm.
+
+Drawing this card unleashes a storm of wind and electrical discharges.
+这张牌上描绘着一个布有尖刺，被血锈蚀的充满威胁的铁轮。
+numerous discharges.
+%%%%
+Pain card
+
+The card depicts an iron wheel, menacing with spikes and rusted with blood.
+
+Drawing this card unleashes a necromantic attack spell.
+%%%%
+the Orb card
+
+The card depicts a figure surrounded by floating, glowing orbs of energy.
+
+Drawing this card unleashes one or possibly more destructive orbs of pure magic.
+%%%%
+Degeneration card
+
+The card depicts a dragon whose scales are sloughing off, revealing a sheep
+这张牌上描绘着一个被烧焦的尖顶巫师帽，置在一堆灰烬上。
+
+抽出此牌会导致狂野魔法（就像是误施了法术）作用于使用者的敌人。
+每当有生物受影响，就会恢复使用者的一些魔力。
+%%%%
+Wild Magic card
+
+The card depicts a pointy wizard's hat, scorched and resting on a pile of ashes.
+
+Drawing this card causes wild magic (as if from miscasting a spell) to act upon
+抽出此牌，会从四类元素怪物中召唤三个野兽。
+magic.
+# Summoning
+%%%%
+这张牌上描绘着由邪教徒在地板上所刻画的仪式五角星图案。
+
+抽出此牌将召唤一对恶魔，来援助使用者。有小概率其中一个恶魔是敌对的。
+
+Drawing this card will summon three beasts of the four elements.
+%%%%
+这张牌上描绘着一个衣着过度华丽、戴着面具的人在一个宽敞的房间里独自起舞。
+
+抽出此牌将召唤出一把飞舞的武器。其质量、印记和友好程度都受卡牌力量影响。
+
+Drawing this card will summon a pair of demons to the user's aid. There is a
+small chance one of the demons will be hostile.
+%%%%
+the Dance card
+
+The card depicts an extravagantly-dressed, masked figure dancing alone in a
+vast room.
+
+这张牌上描绘着正中靶心一支箭，同时被第二支箭劈开。
+friendliness are all affected by card power.
+%%%%
+the Swarm card
+
+The card depicts a bear surrounded by a swarm of bees. It hums ominously.
+
+Drawing this card will summon bees.
+%%%%
+the Rangers card
+
+The card depicts an arrow in a bull's-eye, which has been split by a second
+arrow.
+
+Drawing this card will summon several archers.
+%%%%
+the Illusion card
+
+The card depicts someone standing in a hall of mirrors, surrounded by their own
+这张牌上什么也没有。
+
+抽出此牌会让使用者衰竭。
+upon one's own.
+%%%%
+# Punishment
+这张牌上描绘着几只野猪在泥坑中打滚。
+
+抽出此牌，使用者会变成寻找松露的粉色的猪。
+furious lightning.
+
+Drawing this card will draw a god's wrath against the user.
+%%%%
+the Wraith card
+
+The card depicts absolutely nothing.
+
+Drawing this card will drain the user.
+%%%%
+这张牌上描绘着一个Crawl玩家在向Mantis提交错误报告。
+
+如果你抽到此牌，说明遇到错误了。
+
+Drawing this card will make its user turn pink and root for truffles.
+%%%%
+这张牌上描绘着一些Crawl玩家气愤地向Mantis提交许多错误报告。
+
+如果你抽到此牌，说明遇到错误了。
+
+Drawing this card will cause agonising injury to the user.
+%%%%
+# buggy cards
+a buggy card
+
+The card depicts a Crawl player filing a bug report on Mantis.
+
+Drawing this card is a bug, if one ever encounters it as such.
+%%%%
+a very buggy card
+
+The card depicts several Crawl players angrily filing several bug reports on
+Mantis.
+
+Drawing this card is a bug, if one ever encounters it as such.
+%%%%

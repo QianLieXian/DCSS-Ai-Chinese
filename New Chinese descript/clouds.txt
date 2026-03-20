@@ -1,0 +1,214 @@
+%%%%
+flame cloud
+
+一团猛烈燃烧的火云。任何生物，
+如果没有对火的完全免疫，身处其中就会受到伤害。
+
+穿过此云的远程寒冰攻击会被降低射程，并同时消散了云层。
+range, dissipating the cloud in the process.
+
+If placed near or over water, the heat will generate steam nearby.
+%%%%
+noxious fumes cloud
+
+任何生物身处其中，都有被气体混乱的危险，除非具有毒抗。
+越坚韧、经验等级越高的怪物不太会受此影响。
+more experienced creatures are less likely to be affected.
+%%%%
+freezing vapour cloud
+
+A cloud of freezing air. Any creature not entirely immune to cold will be hurt
+穿过此云的远程火焰攻击会被降低射程，并同时消散了云层。
+
+Ranged fire attacks passing through the cloud are substantially reduced in
+range, dissipating the cloud in the process.
+%%%%
+poison gas cloud
+
+A cloud of deadly poison. Any creature without resistance to poison will be
+一团有色的烟云。无害，除了对哮喘病人。
+%%%%
+_smoke_cloud_
+
+A cloud of coloured smoke. Harmless, except to the asthmatic.
+%%%%
+black smoke cloud
+
+<_smoke_cloud_>
+%%%%
+grey smoke cloud
+
+<_smoke_cloud_>
+%%%%
+blue smoke cloud
+
+<_smoke_cloud_>
+%%%%
+purple smoke cloud
+
+这是某个最近来过这里的生物的残留物。
+%%%%
+一些巫师说，这是宇宙产生的一种“过敏反应”，
+
+也许在形而上学意义上是恶心的，但在其他方面无害。
+nearby, across the level, or out of reality itself, all the way into the Abyss.
+Some wizards say these are a kind of "allergic reaction" the universe
+produces, in response to magic that warps space in impossible ways; a cosmic
+一团熊熊的森林大火。任何生物，如果没有对火的完全免疫，
+%%%%
+不幸的是，附近的树木，常常自己会变成更多的火种。
+
+穿过此云的远程寒冰攻击会被降低射程，并同时消散了云层。
+time spent in the flames. The flames will intermittently flare up and fill
+如果在水边或水上释放，高温会蒸腾出大量蒸汽。
+will often find themselves transformed into more kindling for the fire.
+
+Ranged cold attacks passing through the cloud are substantially reduced in
+一团灼热的蒸汽云。在其中的生物会轻微受伤，火抗属性会大大抵消伤害。
+
+If placed near or over water, the heat will generate steam nearby.
+%%%%
+一团墨云，里面完全是水。
+
+A cloud of scalding steam. Creatures caught within will be mildly injured,
+and fire resistance will further reduce the damage.
+%%%%
+尽管更有经验的生物也许能够抵抗这种影响。
+
+A cloud of ink, completely filling the water.
+%%%%
+一团圣火云，充满了神圣的力量。那些服侍善神的将不受影响。
+
+A petrifying cloud. Creatures caught in the cloud for any length of time will
+find themselves turning to stone, though more experienced creatures may be able
+to resist the effects.
+%%%%
+一团腐臭的瘟疫云。任何身处其中的活物都会发现他们自己中了毒，
+
+A cloud of divine fire, imbued with holy power. Those in the service of one of
+the good gods will be unaffected by it. All other creatures will be hurt by it,
+with undead and demonic creatures being greatly harmed.
+%%%%
+foul pestilence cloud
+
+# XXX: clarify gargoyles
+一团翻腾的混乱云。身处云中会受到各种不可预测的影响，
+从隐身到狂暴，到完全麻痹。
+%%%%
+thin mist cloud
+
+一个极度集中的暴风雨。它可能形成浅水池，或临时加深现有水池。
+%%%%
+seething chaos cloud
+
+A cloud of seething chaos. A wide variety of unpredictable effects apply to
+一团纯净、无结构的魔法，凝结成一团闪烁的薄雾，本质上是有毒的魔法废料。
+冒险进入其中的生物会发现自己逐渐受到魔法辐射的污染，
+%%%%
+rain cloud
+
+An extremely localised rainstorm. It may produce short-lived pools of shallow
+某种高度集中的魔法能量被唤醒，本身是完全无害的。
+%%%%
+mutagenic fog cloud
+
+一个极地旋涡之风。它将对其内的任何怪物造成严重伤害，
+只有一部分伤害能通过寒抗而减轻。
+themselves increasingly contaminated with magical radiation, sufficient amounts
+of which will inflict negative mutations when dissipating.
+%%%%
+一团薄灰云。营造氛围的，但无害。
+
+The wake of some highly concentrated magical energy, itself entirely harmless.
+%%%%
+一团幽灵迷雾云。它对除亡灵以外的所有生物造成轻微伤害。
+
+The winds of a polar vortex. It will deal severe damage to anyone within it,
+only partially mitigated by resistance to cold.
+%%%%
+一团腐蚀肉身的酸液云雾，对身处其中的生物造成伤害和酸蚀。
+
+A cloud of sparse dust. Atmospheric, but harmless.
+%%%%
+spectral mist cloud
+
+对那些没有电抗的造成巨大伤害。
+the undead. Dangerous but short-lived spectral undead creatures will coalesce
+from the mist over time.
+%%%%
+一团萦绕的绝望和死灵能量云。
+
+尽管对负能量的防护可以减轻其效果。
+those within it. Resistance to corrosion will provide immunity to its effects.
+%%%%
+thunder cloud
+
+A dark storm cloud. It will intermittently strike those within with lightning,
+dealing severe damage to those without resistance to electricity.
+%%%%
+一团急速旋转的尘和盐云。
+
+A cloud of lingering despair and necromantic energy. Living creatures trapped
+within will repeatedly lose small fractions of their maximum health, though
+protection from negative energy will mitigate the effects.
+%%%%
+white fluffiness cloud
+
+A white, fluffy cloud. Not actually solid enough to use as a pillow, and yet
+一道火花和一缕烟。营造氛围的，但无害。
+%%%%
+salt cloud
+
+一团由浓缩的衰退药水形成的云。冒险进入其中的生物将迅速失去力量、敏捷和智力。
+creatures caught within, although it is ultimately harmless.
+%%%%
+golden dust cloud
+
+其震荡性的爆炸，会对邻近生物造成冲击。
+gain tremendous strength in combat.
+%%%%
+smouldering embers cloud
+
+A cloud of smouldering embers. It can easily be smothered by any creature
+standing over it, but if left alone will ignite into a blazing cloud of flame.
+%%%%
+wisps of flame cloud
+
+A trail of sparks and wisps of flame. Atmospheric, but harmless.
+%%%%
+alcoholic mist cloud
+
+A haze of aerosolised moonshine so thick that creatures can become drunk just
+walking through it.
+%%%%
+blastmotes cloud
+
+A cloud of volatile blastmotes. These explode on contact with flame or creatures.
+The explosion is concussive, knocking adjacent creatures away.
+%%%%
+sparks cloud
+
+A trail of electric sparks. Atmospheric, but harmless.
+%%%%
+faint pestilence cloud
+
+The faintest hint of foul pestilence, seeping out from somewhere. While not
+dense enough to be harmful yet, it is thickening rapidly.
+%%%%
+magnetised fragments cloud
+
+A cloud of countless tiny fragments of magnetised metal, still vibrating
+slightly from a recent electrical discharge. They will function as an attractor
+for the Magnavolt spell until they dissipate.
+%%%%
+bats cloud
+
+A swarm of tiny vampire bats, so dense that it is impossible to count them all.
+They will relentlessly assail anything but the undead who stands in their midst,
+gradually lulling them to sleep with their soporific bites - and continuing to
+feed off their helpless body, once they fall.
+%%%%
+rust cloud
+
+A cloud of oxidising vapour that continuously corrodes and weakens the attacks
+of whatever stands inside it (but does only minimal damage).

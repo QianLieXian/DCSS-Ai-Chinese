@@ -1,10 +1,10 @@
-### Highlighting of various messages
+### 各种消息的突出显示
 
-# See also "note_messages" in misc.txt
+# 另请参阅misc.txt 中的“note_messages”
 
 msc := message_colour
 
-# Really important messages
+# 非常重要的消息
 #
 msc += $danger:drains you
 msc += $danger:feel (heavily|very heavily|extremely) drained
@@ -19,7 +19,7 @@ msc += $danger:you are engulfed in calcifying dust
 msc += $danger:is moving more slowly
 msc += $danger:You turn into a( bat| filthy swine| sentient fungus)
 msc += $danger:You turn into a( tree| lump of jelly|n insubstantial wisp)
-# Don't recolour acquirement messages along with messages about invisible monsters.
+# 不要将获取消息与有关隐形怪物的消息一起重新着色。
 msc += lightgrey:Something appears (at your feet|before you)
 msc += $danger:^Something .* you
 msc += $danger:you block its attack
@@ -32,7 +32,7 @@ msc += $danger:corrodes you
 msc += $danger:Your body becomes as fragile as glass
 msc += lightmagenta:malevolent force fills
 
-# Less urgent, but still significant messages
+# 不太紧急，但仍然很重要的消息
 #
 msc += $warning:feel drained
 msc += $warning:solemn chanting
@@ -73,7 +73,7 @@ msc += $warning:guards? the .* runes? of Zot
 msc += $warning:rune of Zot may be found here
 msc += $warning:Beware. you cannot shaft yourself on this level
 
-# Unimportant messages and combat clutter
+# 不重要的消息和战斗混乱
 #
 msc += $boring:You start (resting|waiting)
 msc += $boring:Unknown command
@@ -85,11 +85,11 @@ msc += $boring:waved at by a branch
 msc += $boring:lunges up near
 msc += $boring:is recalled by Beogh
 
-# Ignore Uskayaw *** and **** power loss messages by default; they're spammy.
+# 默认忽略 Uskayaw *** 和 **** 断电消息；他们是垃圾邮件。
 msc += mute:Uskayaw will no longer force your foes to helplessly watch your dance\.
 msc += mute:Uskayaw will no longer force your foes to share their pain\.
 
-## Messages so important to require a --more--
+## 消息非常重要，需要 --more--
 
 force_more_message += You have reached level
 force_more_message += Your scales start
@@ -108,7 +108,7 @@ force_more_message += malevolent force fills
 force_more_message += malevolence running through your instability
 force_more_message += You feel space start to destabilise
 
-## Zot is coming!
+## 佐特来了！
 force_more_message += You have lingered too long
 force_more_message += Zot draws nearer
 force_more_message += Zot has nearly found you
@@ -117,10 +117,10 @@ force_more_message += Zot's attention fixes on you
 force_more_message += Zot's power touches on you
 force_more_message += You feel the power of Zot begin to gather
 
-## Reduce chance of draining because flight or form runs out:
+## 减少因航班或表格运行而流失的机会 out：
 force_more_message += ^Careful!
 
-# Announcements of timed portal vaults:
+# 定时传送门vaults公告：
 force_more_message += interdimensional caravan
 force_more_message += solemn chanting
 force_more_message += distant snort
@@ -133,61 +133,61 @@ force_more_message += crackle of arcane power
 force_more_message += hear a distant wind
 force_more_message += Beware! This is a limited time offer
 
-# Religion
+＃ 宗教
 force_more_message += press .* to convert to Beogh
 force_more_message += welcomes you( back)?!
 force_more_message += You have lost your religion
 
-# Dangerous weapons
+# 危险武器
 force_more_message += is wielding.*distortion
-# dancing weapons require special handling...
+# 跳舞武器需要特殊处理...
 force_more_message += there is a.*distortion
 force_more_message += of distortion comes into view
 force_more_message += encounter a dancing.* distortion
 
-# Banishment
+# 放逐
 force_more_message += You are cast into the Abyss
 force_more_message += You are cast deeper into the Abyss
 force_more_message += The Abyss bends around you
 
-# Petrification
+# 石化
 force_more_message += You are slowing down
 
-# Sleep
+＃ 睡觉
 force_more_message += You fall asleep
 
-# Banes
+# 贝恩斯
 force_more_message += befalls you\.
 force_more_message += upon you is lifted
 
-# Abyss exits and rune
+# 深渊出口和符文
 force_more_message += Found a gateway leading out of the Abyss
 force_more_message += a gateway leading .* appears
 force_more_message += You detect the abyssal rune
 force_more_message += the detected abyssal rune vanishes
 force_more_message += Found .* abyssal rune of Zot
 
-# Water nymph stair temp-drowning - people seem to miss these...
+# 水仙女楼梯温度溺水 - 人们似乎想念这些......
 force_more_message += watery aura .* (staircase|hatch)
 
-# Generally exciting things that are somewhat automated
+# 通常令人兴奋的事情都是自动化的
 force_more_message += You pick up the .* rune and feel its power
 force_more_message += You pick up the .* gem and feel its .* weight
 
-# Rune unlock
+# 符文解锁
 force_more_message += The lock glows eerily
 force_more_message += Heavy smoke blows from the lock
 force_more_message += The gate opens wide
 force_more_message += With a soft hiss the gate opens wide
 
-# Rune lock
+# 符文锁
 force_more_message += The door slams shut behind you
 
-# Gems
+# 宝石
 force_more_message += Zot will shatter your .* gem
 force_more_message += Zot senses .* your .* gem
 
-# God gifts
+#上帝的礼物
 force_more_message += grants you (a gift|throwing weapons|a weapon)
 force_more_message += offers you (knowledge of|a choice of)
 force_more_message += will grant you a choice
@@ -201,16 +201,16 @@ force_more_message += will allow you to brand your body
 
 force_more_message += Beogh speaks to you:
 
-# Xom doing things you really shouldn't miss
+# Xom 正在做你不应该错过的事情
 force_more_message += is forced to slowly start .* word of recall
 
-# Crucible exit notification
+# 坩埚退出通知
 force_more_message += Makhleb acknowledges your contrition
 
-# Show passwall message while still in the starting position
+# 仍处于起始位置时显示密码墙消息
 force_more_message += You finish merging with the rock
 
-# Pause before showing a menu that hides the message
+# 在显示隐藏消息的菜单之前暂停
 force_more_message += You bow before the missionary of Beogh
 force_more_message += You .* the altar of
 force_more_message += will bless one of your weapons

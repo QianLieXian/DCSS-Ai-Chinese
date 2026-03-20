@@ -1,0 +1,1545 @@
+########################################################################
+### 祭坛
+########################################################################
+A detected altar
+
+某种祭坛。如果不走近它，你就无法知道它是供奉什么神的。
+approaching it.
+%%%%
+A faded altar of an unknown god
+
+在那里祈祷，将会皈依一个未知的神。
+祭坛的神灵会非常感念于你在这样古老的礼拜场所进行皈依。
+will greatly appreciate conversion at so ancient a site of worship.
+%%%%
+A glowing golden altar of the Shining One
+
+An altar to the Shining One, made from the purest gold and almost blinding in
+its radiance.
+%%%%
+当艾申扎利被诅咒的时候，这座水晶祭坛也随之破碎。
+
+黑色的光环将碎片定格在爆炸中期，悬停在时间和空间上，就像它们所昭示的神。
+still a great power remaining within it: a dark aura holds the shards in
+mid-explosion, suspended in time and space much like the god they herald.
+%%%%
+比欧弗的祭坛，做工粗糙，一眼就能看出是出自兽人工匠之手。
+
+An altar to Beogh, unmistakably roughly hewn by orcish artisans.
+%%%%
+深思者切布理亚多的祭坛。
+
+A timeless altar to Cheibriados the Contemplative.
+%%%%
+隐没者迪斯姆诺的祭坛。它似乎在吸收四周的光。
+
+An altar to Dithmenos the Shadowed. It seems to absorb light from its
+surroundings.
+%%%%
+A white marble altar of Elyvilon
+
+An altar to Elyvilon the Healer, made from purest white marble and topped by a
+费德哈·莽动的祭坛，上面覆盖着生机盎然、色彩艳丽植物。
+%%%%
+A blossoming altar of Fedhas
+
+贪婪者哥萨戈·亿·赛格斯的祭坛，金光闪闪、饰以珠宝，
+%%%%
+An opulent altar of Gozag
+
+A glittering golden and bejewelled altar to Gozag Ym Sagoz the Greedy, gleaming
+遗忘者惠普利亚卡纳的祭坛，被笼罩在薄雾中，难以清晰辨认。
+%%%%
+A hazy altar of Hepliaklqana
+
+An altar to Hepliaklqana the Forgotten, shrouded in mist and difficult to make
+曳焰伊格尼斯的祭坛。上面摆满了各种形状和大小的蜡烛，
+但只有一根还亮着，它纤细的火焰在微风中摇曳。
+%%%%
+A candlelit altar of Ignis
+
+吉瓦的祭坛，黏滑、在不断变形。
+你不确定这祭坛到底是用什么材料制造的，而且你也不想知道。
+slightest breeze.
+%%%%
+A viscous altar of Jiyva
+
+A slimy, ever-shifting altar to Jiyva. You're not sure what it's made from, and
+you don't really want to know.
+%%%%
+无形之神卢格努的祭坛，
+
+An altar created from piles of ancient bones, dedicated to the terrible
+Demon-God Kikubaaqudgha.
+%%%%
+毁灭者马科列布的祭坛，上面永远燃烧着火焰。
+
+An altar to Lugonu the Unformed, possibly dedicated to some other power before
+it was irrevocably corrupted.
+%%%%
+这座祭坛上的灯光比任何一个赌场都要亮，
+
+An ever-burning altar to Makhleb the Destroyer. Strange, twisting shapes are
+visible in the flames.
+%%%%
+一座供奉战争之主奥卡瓦鲁的钢铁祭坛。祭坛的边缘出奇地锋利。
+
+An altar sparkling with a lightshow brighter than any gambling den's, to
+attract followers for Nemelex Xobeh.
+%%%%
+被包裹在狂风、闪电、喷涌的烈火和岩浆之中，时而与之震颤。
+
+An altar of iron and steel dedicated to the Warmaster Okawaru. Its edges are
+surprisingly sharp.
+%%%%
+其外形是个天平，一个托盘中放有心，而另一个托盘中的符号象征力量和觉悟。
+
+An altar dedicated to Qazlal Stormbringer, surrounded by fierce winds,
+electrical discharges, puffs of fire and magma, and the occasional tremor.
+%%%%
+在深蓝色的基座上，盘旋着纯净的魔法凝结的光芒。
+
+An altar to Ru the Awakened in the shape of a pair of scales, with a heart in
+one scale and a pictogram representing power and enlightenment in the other.
+%%%%
+A shimmering blue altar of Sif Muna
+
+An altar to Sif Muna the Loreminder, covered in intricate patterns and writings
+狂欢者阿斯卡亚的祭坛。
+它似乎是中空的，被一层皮覆盖着，形成了能够共振的表面。
+%%%%
+A bloodstained altar of Trog
+
+An altar to Trog the Wrathful, crudely made by what seem to be the hands of
+这座祭坛闪耀在伊斯肯德伦之光中，好像在对来人许诺：
+%%%%
+A hide-covered altar of Uskayaw
+
+An altar to Uskayaw the Reveller. It appears to be hollow and covered in a hide,
+无间门派的红金相间的祭坛。锋利的钢片在周围安静的空气中飘过。
+could be dancing or loving or fighting.
+%%%%
+A radiant altar of Vehumet
+
+和这座祭坛所供奉的神祗无常之主佐姆一样，变幻莫测。
+powers to those who would follow Vehumet.
+%%%%
+An ornate altar of the Wu Jian Council
+
+A red and gold altar to the Wu Jian Council. Sharp slivers of steel drift
+through the quiet air surrounding it.
+%%%%
+定法者辛的祭坛，由银制成，与辛的追随者们所期望的一样纯净，柔和地发着光。
+
+An altar constantly shimmering in all visible colours, and probably some
+### 地面
+%%%%
+A basalt altar of Yredelemnul
+
+一片火与硫磺的海洋，一望不知边际。任何冒险要穿越它的人，都会立刻被烤死。
+%%%%
+A glowing silver altar of Zin
+
+地面。
+are expected to be, and glowing gently.
+%%%%
+########################################################################
+一个深水池。
+########################################################################
+The endless lava
+
+A sea of fire and brimstone as far as the eye can see. Anyone venturing across
+一个炽热的熔岩池，喷吐着硫磺烟云。
+%%%%
+The floor
+
+The floor.
+%%%%
+水性好的可以游过水，并能正常攻击。
+
+但大型生物能够以正常速度移动，以保持平衡，避免摔倒。
+those well-adapted to water can swim through it; for the rest, the only way
+through is to fly over.
+%%%%
+一个肮脏、有毒的淤泥池，深及腰部。
+
+水性好的可以游过它，并能正常攻击。
+不会游泳的必须缓慢地涉水，在趟过浅水时，有时会在近战中失手；
+%%%%
+Some shallow water
+
+A pool of cloudy, waist-deep water. Those well-adapted to water can swim
+一层厚厚的含有沙砾的泥。
+and will occasionally fail to attack in melee when wading through shallow
+water; although large creatures are able to keep their balance, move at a
+normal speed, and avoid fumbling.
+%%%%
+前方只有无尽的风浪，在你视野可及之处都没有一座灯塔。
+
+A filthy pool of poisonous, waist-deep sludge. Wading or swimming through the
+sludge will damage and poison any creature, even those resistant to poison.
+Those well-adapted to water can swim through it and attack normally.
+这面墙被注入魔力，坚不可摧。
+attack in melee when wading through shallow water; although large creatures are
+able to keep their balance, move at a normal speed, and avoid fumbling.
+%%%%
+这面墙由构筑魔窟的奇特材料制成。在其他大多数方面，似乎都和岩石一样。
+
+A thick layer of gritty mud. [[liquefied]]
+%%%%
+这面墙由抛光水晶制成，充满了奥术魔力。
+
+An expanse of endless wind and waves, with not a lighthouse in sight. Anyone
+venturing across it would be lost beyond all hope in short order.
+%%%%
+这面岩墙由一种像优质玻璃那样透明的矿物制成。
+
+A wall imbued with magic that makes it indestructible.
+%%%%
+A wall of the weird stuff which makes up Pandemonium
+
+这面墙壁被注入奥术魔法，因此变成了透明的。
+like rock in most other aspects.
+%%%%
+A crystal wall
+
+A wall made from polished crystal and imbued with arcane magics. They prevent
+its easy destruction, and make it reflect heat and cold.
+%%%%
+这是比岩墙更难对付的障碍。只有最强力的魔法才能打碎石墙。
+
+A rock wall made from a mineral as translucent as good quality glass. Whether
+it is natural or magical, you cannot tell.
+%%%%
+A translucent stone wall
+
+A harder obstacle than rock walls. Only the mightiest magic can shatter stone
+一面蓝灰色金属墙。地牢中的每个电工都知道，它甚至能让闪电箭接地。
+%%%%
+A translucent unnaturally hard rock wall
+
+这仅仅是一面岩墙。
+it translucent like glass.
+%%%%
+### 地标
+
+A harder obstacle than rock walls. Only the mightiest magic can shatter stone
+walls.
+%%%%
+这里的商店不能还价，不会退款，而且也不会从你那里购买任何东西。
+
+A rock wall coated with acidic green slime; just standing near it is enough to
+cause temporary corrosion.
+%%%%
+一个通往下层的楼梯。
+
+A wall of bluish-grey metal. As every dungeon electrician knows, it will ground
+even magical bolts of lightning.
+%%%%
+A rock wall
+
+A wall consisting of simple rock.
+%%%%
+但有些地方，受到费德哈的关照，在地下生长的树木也长得和地表的一样大。
+
+A wall that radiates a chill so intense it can damage enemies which stand next
+to it.
+%%%%
+########################################################################
+### Features
+########################################################################
+一棵被混乱的恶魔力量扭曲的树。
+
+A shop in the dungeon, beyond sight of the world above, manned by a secretive
+and reclusive shopkeeper who cannot be bargained with, grants no refunds, and
+is interested in nothing you may have to sell. Some shops hawk antiques of
+这间商店已经被废弃了。
+goods.
+%%%%
+A stone staircase leading down
+
+A staircase leading further down.
+%%%%
+A stone staircase leading up
+
+A staircase leading back up.
+%%%%
+# For the Vaults:5 staircases in and out.
+地牢的地面上一个单向逃生口，
+
+A staircase leading down to the grand vaults containing the silver rune of Zot,
+whose wealth attracts the most powerful champions from across the Dungeon to its
+defence.
+%%%%
+A metal staircase leading up
+
+A staircase leading up from the grand vaults containing the silver rune of Zot,
+地面上的一个洞，通往更深一层或多层的地牢。
+defence.
+%%%%
+A slimy stone staircase leading down
+
+A stone staircase leading further down.
+
+{{
+一条上行的通道，被魔法路障牢固地封印着。只要魔力一直存在，就不可能穿过它。
+        return "It is slick with slippery slime, but that is no obstacle for one " ..
+               "such as yourself who has embraced the way of all slime."
+    else
+一个石拱门，看起来无法通往任何地方。
+               "for you to climb back up again until the power ruling this place " ..
+# mmap/探知/etc
+               "this slime will greatly increase your HP and MP regenaration for " ..
+               "short while afterward."
+某种入口。你不接近它就无法知道它通往哪里。
+}}
+%%%%
+A slimy stone staircase leading up
+
+只要有任何东西通过这个传送门，它就会立刻关闭。
+
+{{
+    if you.god() == "Jiyva" then
+现实空间中的一道伤口般的裂缝，揭示着某个可怕的、繁星点点的另一个世界。
+幸运的是，打开这道裂缝的魔法同时也会阻止它将视线中的一切东西尽数吞没。
+    else
+        return "It is slick with slippery slime, making it impossible for you to " ..
+               "climb until the power ruling this place is destroyed (or you choose " ..
+一座石像，其形象早已被时间消磨。
+    end
+}}
+%%%%
+一面纯银制成的墙，由辛的力量生成，用来将一个怪物暂时囚禁起来。
+
+A large tree. While in most places the dim light of the dungeon is not bright
+enough to sustain large plants, there are spots where, with the grace of
+一个干涸的喷泉，见证过美好的岁月。
+%%%%
+A mangrove
+
+一个装饰性喷泉，水流清澈。
+too thick to see through.
+%%%%
+A demonic tree
+
+A tree hideously warped by the demonic forces of chaos. Despite its bizarre
+appearance and occasional, unsettling movement, it seems harmless.
+%%%%
+一个装饰性喷泉，流淌着闪烁、起泡的水。
+
+An ancient tree, long ago passed from biology into geology. While no longer
+wooden in a material sense, it retains the spiritual qualities of a tree.
+%%%%
+附近肯定有个佐特符文，它溢出的能量生成出这一壮观的景象。
+
+# 毁坏的立柱
+%%%%
+An orcish idol
+
+An idol of the orc god Beogh.
+%%%%
+An iron grate
+
+走这条通道的冒险者，到达所通往的楼层后，需要找到其他能够返回楼梯。
+quite easily. It is too strong to be breakable by hand, however.
+%%%%
+An escape hatch in the floor
+
+走这条通道的冒险者，到达所通往的楼层后，需要找到其他能够返回楼梯。
+adventurer beset by adversaries to exchange the perils of this level for the
+perils of the next.
+%%%%
+An escape hatch in the ceiling
+
+A spring-loaded one-way escape hatch set in the ceiling.
+%%%%
+A shaft
+
+A hole in the ground, leading to a dungeon level one or more floors deeper.
+%%%%
+A sealed passage leading down
+
+A descending passage sealed tightly by a magical barricade. It is impossible to
+一个通往另一个魔窟的大门。魔窟是无穷无尽的。
+%%%%
+A sealed passage leading up
+
+一个通往魔窟的无尽大厅的大门。
+climb through it so long as the magic holds.
+%%%%
+An empty arch of ancient stone
+
+A stone archway that seems to lead to nowhere in particular.
+%%%%
+# mmap/antennae/etc
+一个通往佐特领域的大门。
+
+A gateway of some kind. You cannot tell where it leads without approaching it.
+%%%%
+这道大门能让你做到一件通常被认为不可能的事：活着逃出地狱。
+
+An unstable gateway that allows instantaneous travel to another nearby passage
+of Golubria, and will close behind anything passing through it.
+%%%%
+A portal to somewhere
+
+A gash-like tear in reality that looks into some terrifying, starry otherworld.
+一个出奇平静的入口，坐落在深渊那混沌的景象中。它通向深渊的更深处。
+and swallowing everything in sight.
+%%%%
+A granite statue
+
+A stone statue whose features have long since withered away.
+%%%%
+A gleaming silver wall
+
+A wall made of pure silver, formed by the power of Zin to temporarily imprison
+a monster within its confines.
+%%%%
+一个返回地狱前庭的出口。
+
+A dried-up decorative fountain that has seen better days.
+%%%%
+一个通往地狱前庭的入口。很少有人自愿前往那个地方。
+
+A decorative fountain, flowing with clear water.
+%%%%
+一个通往狄斯铁城的入口。
+
+A decorative fountain, spurting with foul-looking blood.
+%%%%
+A fountain of eyes
+
+A decorative fountain, bubbling over with listless and unmoving eyes.
+%%%%
+一个通往塔尔塔罗斯的入口。
+
+A decorative fountain, flowing with brightly sparkling, faintly magic water.
+%%%%
+A cache of baked goods
+
+A hoard of breadstuffs, baked and fried from minor divine gifts of flour and
+growth cultures, granted extended shelflife through sacred succour. You already
+一个通往悲叹河的入口。
+shouldn't hurt.
+%%%%
+A cache of fruit
+
+A pile of assorted fruit, ranging from common dungeon staples like chokos and
+snozzcumbers, to rarer treats such as apples and oranges. You already carry as
+much food as you will ever need for this journey, but the occasional nibble
+wouldn't hurt.
+%%%%
+A cache of meat
+
+A stash of preserved meats of varied origins and preparations: strips of jerky,
+一个通往深渊的入口。
+much food as you will ever need for this journey, but this could offer the rare
+chance to try out yak...
+%%%%
+一个返回兽穴的出口。
+
+An unearthly, glittering light, floating and twisting in midair. A Rune of
+Zot is surely nearby, its power overspilling to cause this spectacular sight.
+%%%%
+# column_ruins
+A broken pillar
+
+一个返回你遇到过的地牢楼层的楼梯。
+%%%%
+A one-way staircase leading down
+
+一个返回兽穴的楼梯。
+return back up the stairs. Adventurers taking this passage will need to find a
+return stairway somewhere else on the level where they arrive.
+%%%%
+一个返回兽人矿井的楼梯。
+
+A cursed staircase leading up, imbued with magic to prevent any return back
+down the stairs. Adventurers taking this passage will need to find a return
+一个返回宝库的楼梯。
+%%%%
+The orb dais
+
+这个楼梯，穿过它能离开地牢。
+the dungeon itself, it cannot be destroyed or transformed by any means.
+%%%%
+A statue of an orb of fire
+
+A statue of a terrifying globe of raw primordial fire, said to dwell within the
+一个返回墓室的楼梯。
+%%%%
+A statue of an orb of winter
+
+一个通往墓室的楼梯。
+Realm of Zot.
+%%%%
+A statue of an orb of entropy
+
+A statue of a terrifying globe of profound nothingness, said to dwell within the
+Realm of Zot.
+%%%%
+########################################################################
+### Branch entrances and exits
+########################################################################
+A gate leading back out of this place
+
+A gate that will let you return whence you came.
+%%%%
+A gate leading out of Pandemonium
+
+A gate leading back to the dungeon.
+%%%%
+A gate leading to another region of Pandemonium
+
+A gate leading to yet another region of Pandemonium. There'll always be more.
+%%%%
+A one-way gate leading to the halls of Pandemonium
+
+A gate leading to the endless halls of Pandemonium.
+%%%%
+A staircase to the Depths
+
+A staircase leading to the Depths.
+%%%%
+A gate to the Realm of Zot
+
+A gate leading to the Realm of Zot.
+%%%%
+A gateway back into the Dungeon
+
+A gate which allows a feat popularly thought to be impossible: escaping Hell
+alive.
+%%%%
+一个通往宝库的入口。
+
+A gateway out of the Abyss, shimmering and shifting in the impermanent
+landscape.
+%%%%
+当使用了这个传送门，旁边的盟友和怪物也会随你一起到达另一边。
+
+A strangely calm gateway amid the roiling landscape of the Abyss. It leads
+further into the depths of the Abyss.
+%%%%
+A gateway to a ziggurat
+
+## 门
+%%%%
+A gateway to the ashen valley of Gehenna
+
+一扇打开的木门。如果被怪物重新打开，它可能会破裂。
+%%%%
+A gateway leading out of Gehenna
+
+一扇关闭的木门。如果被怪物打开，它可能会破裂。
+%%%%
+A gateway to Hell
+
+一扇令人失望、维护不善的木门。要想恰当地关闭它，只有魔法能做到。
+%%%%
+A gateway to the Iron City of Dis
+
+这扇打开的门由神奇的半透明木材制成。如果被怪物重新打开，它可能会破裂。
+%%%%
+A gateway leading out of Dis
+
+这扇关闭的门由神奇的半透明木材制成。如果被怪物打开，它可能会破裂。
+%%%%
+A gateway to the decaying netherworld of Tartarus
+
+A gateway leading to Tartarus.
+%%%%
+A gateway leading out of Tartarus
+
+这扇门被奥术符文牢固地封印着。只有被这扇门上面的魔法承认的生物才能打开它。
+%%%%
+A gateway to the freezing wastes of Cocytus
+
+这扇门上满是符文记号。
+%%%%
+像打开其他门那样就能破坏符文，但地牢里的生物可不敢尝试。
+
+<A gateway leading out of Gehenna>
+%%%%
+
+A hole to the Spider Nest
+
+A passage leading to the Spider Nest.
+%%%%
+A one-way gate to the infinite horrors of the Abyss
+
+A gateway leading to the Abyss.
+%%%%
+A crawl-hole back to the Lair
+
+A passage leading back to the Lair of Beasts.
+%%%%
+An exit through the horrors of the Abyss
+
+A gateway leading back to the dungeon via the madness of the Abyss.
+%%%%
+A staircase back to the Dungeon
+
+A staircase leading back up to the familiarity of the dungeon.
+%%%%
+A staircase back to the Lair
+
+A staircase leading back up to the Lair of Beasts.
+%%%%
+A staircase back to the Mines
+
+A staircase leading back to the Orcish Mines.
+%%%%
+A staircase back to the Vaults
+
+A staircase leading back to the Vaults.
+%%%%
+A staircase leading out of the dungeon
+
+This staircase leads back out of the dungeon.
+
+A staircase leading out of the dungeon. Climbing these stairs will end your
+quest, whether you carry the Orb with you or not.
+%%%%
+A staircase back to the Crypt
+
+A staircase leading back to the Crypt.
+%%%%
+A staircase to the Crypt
+
+A staircase leading to the Crypt.
+%%%%
+A staircase to the Ecumenical Temple
+
+A staircase leading to the Ecumenical Temple.
+%%%%
+A staircase to the Elven Halls
+
+A staircase leading to the Elven Halls.
+%%%%
+A staircase to the Lair
+
+A staircase leading to the Lair of Beasts.
+%%%%
+A staircase to the Orcish Mines
+
+A staircase leading to the Orcish Mines.
+%%%%
+A staircase to the Shoals
+
+A staircase leading to the Shoals.
+%%%%
+A staircase to the Slime Pits
+
+A staircase leading to the Slime Pits.
+%%%%
+A staircase to the Snake Pit
+
+A staircase leading to the Snake Pit.
+%%%%
+A staircase to the Swamp
+
+A staircase leading to the Swamp.
+%%%%
+A staircase to the Tomb
+
+A staircase leading to the Tomb of the Ancients.
+%%%%
+A gate to the Vaults
+
+A gateway leading to the Vaults.
+%%%%
+A transporter
+
+A one-way portal to another place on this level. When using a transporter,
+adjacent allies and monsters will travel with you to the other side.
+%%%%
+A transporter landing site
+
+### 陷阱
+this location to return back through the transporter.
+%%%%
+########################################################################
+这个陷阱会发出很大的噪音引来附近的怪物。
+########################################################################
+敌对的怪物可能会故意触发这个陷阱从而对你引起效果，而你的盟友会避免踩到它。
+
+An open wooden door. If closed again, all monsters that can wield equipment,
+and some of them that can't, could open it again. If it is closed and reopened
+任何踩上这个陷阱的人都会将自己和视野中的其他怪物转移到附近的新位置。
+%%%%
+A closed door
+
+A closed wooden door. All monsters that can wield equipment, and some of them
+一个挂在地牢天花板上的巨大而隐蔽的网。
+它被佐特注入魔力，每当有智慧生物来到这里——无论是敌是友——网只会落你身上。
+%%%%
+A broken door
+
+某种触发机关。你无法确定它所连接的陷阱的类型。
+它有着复杂的探测系统，即便是飞过也会触发陷阱。
+%%%%
+An open translucent door
+
+这个魔力陷阱，任何经过它的人会被传送到这层地牢的一个随机地点。
+它会被消磨，一旦被激活就会消散。
+it is closed and reopened by a monster that is aware of you, it has a chance of
+breaking.
+%%%%
+这个魔力陷阱，任何经过它的人会被传送到这层地牢的一个随机地点。
+
+A closed door made from magically translucent wood. All monsters that can wield
+equipment, and some of them that can't, may open it again. If it is opened by a
+一个蜘蛛网。留下这张网的蜘蛛肯定是个大家伙，
+%%%%
+A broken translucent door
+
+<A broken door>
+%%%%
+你可能会发现自己陷入深渊，被大量的野性魔法污染，
+
+敌对的怪物可能会故意触发这个陷阱从而对你引起效果，而你的盟友会避免踩到它。
+recognised by its magic.
+%%%%
+### 进入宝库的门户
+
+A door, covered in runic writing. It looks like there is something special
+behind it — perhaps danger, perhaps treasure. You may break the runes by
+一个通往堡场的门户，会随着旗帜降至地面而逐渐消失。
+to try.
+%%%%
+A runed translucent door
+
+A door, covered in runic writing, made from magically translucent wood. It has
+# 限时的集市
+runes by opening it like any other door, but creatures of the dungeon will not
+dare to try.
+%%%%
+他们永远不会在一个地方呆很长时间。
+
+# 永久的集市
+%%%%
+A runed translucent gate
+
+他们会等你，但一旦你浏览过他们的存货，商家将出发寻找其他客户。
+%%%%
+A huge runed translucent gate
+
+一个通往冰窟的门户。拱门在渐渐融化。
+%%%%
+A large open door
+
+一个通往冰川裂缝的门户，比地牢浅层的冰窟危险得多。拱门在渐渐融化。
+%%%%
+An open gate
+
+一个通往埋骨地的楼梯。沙子在不断倾泻，会逐渐封住入口。
+%%%%
+A huge open gate
+
+一个通往下水道的通道。它在逐渐锈蚀。
+%%%%
+A large closed door
+
+一个通往库藏的门户。这个门户一旦被使用过就会变得不稳定，并会崩溃。
+%%%%
+A closed gate
+
+一个通往火山的门户。岩石不断从隧道顶部和侧面落下，将会堵住入口。
+%%%%
+A huge closed gate
+
+一个被盐渍的拱门，上面雕满了诸善神，以求掩盖其中的邪恶。
+%%%%
+遥远的土地上倾泻着刺骨的微风。
+
+<A runed door>
+%%%%
+一个通往巫师实验室的门户。它在逐渐消失。
+
+# 这些应改为自定义名称。目前使用的：冰窟、埋骨地、
+%%%%
+A huge runed gate
+
+这个坍塌的通道，无法继续使用。
+%%%%
+A large sealed door
+
+<A sealed door>
+%%%%
+A sealed gate
+
+这个隧道不可继续通行。
+%%%%
+A huge sealed gate
+
+一个火山岩体中不稳定的通道，外面的冷空气可以从中进入。
+%%%%
+A large broken door
+
+<A broken door>
+%%%%
+这个闪着微光的魔法门导向你回到原来的地方。一旦你穿过它，就再也无法回来了。
+
+# 巫师实验室：乌卡德·穆
+%%%%
+A huge broken gate
+
+红色和金色的树叶从树枝上落下，优雅地飘在半空中，
+%%%%
+A large translucent open door
+
+<An open translucent door>
+%%%%
+An open translucent gate
+
+<An open translucent door>
+%%%%
+还是它的主题就是什么恶魔和邪恶的东西？
+
+# 巫师实验室：多洛克罗赫
+%%%%
+A large translucent closed door
+
+<A closed translucent door>
+%%%%
+A closed translucent gate
+
+<A closed translucent door>
+%%%%
+A huge closed translucent gate
+
+<A closed translucent door>
+%%%%
+A large translucent broken door
+
+这里的墙壁似乎在分泌一种黏性液体。看起来真恶心。
+%%%%
+A broken translucent gate
+
+这面墙看起来像奇怪有机体，但却惊人地坚韧。
+%%%%
+A huge broken translucent gate
+
+这层奇怪的膜很薄，可以透过它看东西。
+%%%%
+########################################################################
+### Traps
+########################################################################
+An alarm trap
+
+A trap that creates a loud noise to attract nearby monsters. In addition to the
+noise it creates, it will apply an enchantment making monsters all over the
+宗古多克家的一块墓碑，上面还滴着微咸的灵液。
+to invoke its effects against you, but your allies will avoid stepping on it.
+%%%%
+An archmage's trap
+
+A magical trap crafted by some avaricious master wizard. When you or a hostile
+# 巫师实验室：格鲁布里亚
+the strongest hostile spellcasters in sight will have their spells empowered.
+Your allies will avoid stepping on it.
+%%%%
+你不可能踏入这片黑色虚空，也不可能改变它。
+
+A magical trap linked by divine cruelty to the stomachs of some unfathomable
+interdimensional predators. When you or a hostile monster steps on it, it has a
+high chance it will expel digestive acid onto you, corroding you. Your allies
+will avoid stepping on it.
+%%%%
+A dispersal trap
+
+地面。它永远保持潮湿，这可能是因为有潮气或云在不断流动。
+to a new location nearby. Hostile monsters may trigger this trap, but your
+allies will avoid stepping on it.
+
+这面墙由次等水晶制成，有着乳白色的光芒。
+%%%%
+# 巫师实验室：地狱捆缚者
+
+[[A dispersal trap]]
+
+It is currently recharging and will become active again in a short while.
+%%%%
+A harlequin's trap
+
+A magical trap left behind by the ineffable, spectacular revues of chaos. When
+you or a hostile monster steps on it, up to three of the strongest monsters in
+sight will have their attacks temporarily interwoven with a touch of chaos. Your
+一棵死去已久的树的干枯残骸。
+%%%%
+A net trap
+
+一棵死去已久的红树的干枯残骸。
+the power of Zot, whenever an intelligent creature steps here - whether friend
+or foe - the net will land only on you.
+%%%%
+一座其他风格雕塑的基本款雕塑。如果你碰到这个，请提交错误报告。
+
+# 狄斯城：7
+the same dungeon level.
+%%%%
+一尊古代战士的雕像，上面饰有从手下败将那里获得的战利品。
+
+A trigger of some sort. You cannot tell what kind of trap it is attached to.
+# 欣嫩谷：7
+over it.
+%%%%
+灰烬和余烬，其中散落着早已陨落的王国的破碎的珍宝和毫无价值的硬币。
+
+A magical contraption which skewers nearby monsters with sharp spikes. It will
+disintegrate after a short length of time or if the caster strays too far away
+这面墙由黄铜和镍制成，上面覆盖着的一层薄薄金箔在持续的高温下不断脱落。
+%%%%
+A teleport trap
+
+A magical trap which will displace anyone passing over it to a random place on
+the same dungeon level. It is worn with age, and will dissipate on use.
+%%%%
+表层下有扭曲的脸在怒目而视，这张愤怒和背叛的怪相永远被定格着。
+
+A magical trap built to bolster the armies of some conquering despot. When you
+or a hostile monster steps on it, your melee attacks will be weakened to make
+这面石墙上有一层厚厚的冰霜。
+表层下有扭曲的脸在怒目而视，这张愤怒和背叛的怪相永远被定格着。
+%%%%
+A web
+
+这片地面永远被凝结在冰霜和寒冷之中。
+它似乎是永驻的、不变的，仿佛这种状态已存在了永恒的时光。
+%%%%
+# 哥萨戈和光明神宝库。
+
+A trap which inflicts dangerously unpredictable magical effects on those
+一尊纯金的圣人雕像。
+with enormous amounts of wild magic, have mighty fiends summoned against you,
+# 辛的宝库和宝库分支。
+effects against you, but your allies will avoid stepping on it.
+%%%%
+########################################################################
+### Portal vault entrances
+########################################################################
+A flagged portal
+
+一座神奇的变幻着的雕塑，似乎满足于在此为难以言喻的宇宙混乱游戏献上微光和舞蹈。
+to the ground.
+%%%%
+A gauntlet entrance
+
+一个奇怪但坚固的金属结构，在收集和分析原始的环境魔法能量。
+%%%%
+# timed bazaar
+A flickering gateway to a bazaar
+
+一个奇怪但坚固的金属结构，在收集和分析原始的环境魔法能量。
+如果它被足够强大的魔法摧毁破坏，其恶毒的诅咒能量会无害地消散。
+%%%%
+# permanent bazaar
+A gateway to a bazaar
+
+如果它被足够强大的魔法摧毁破坏，其界外能量会无害地消散。
+wares. They will wait for you, but once you get a chance to browse their
+inventory, the merchants will depart in search of other customers.
+%%%%
+一个奇怪但坚固的金属结构，在收集和分析原始的环境魔法能量。
+
+A portal leading to one of many Necropolis repositories, where the freshly slain
+and deeply resentful are sealed away. This wandering rift will eventually move
+elsewhere to receive further dead.
+%%%%
+如果它被足够强大的魔法摧毁破坏，其搅动的有毒能量会无害地消散。
+
+A portal leading to an ice cave. The archway is gradually melting away.
+%%%%
+一个奇怪但坚固的金属结构，在收集和分析原始的环境魔法能量。
+
+A portal leading to a glacial chasm, far more dangerous than the icy caverns
+found in the shallower reaches of the Dungeon. The archway is gradually melting
+away.
+%%%%
+如果它被足够强大的魔法摧毁破坏，其冷酷的能量会无害地消散。
+
+A staircase leading to an ossuary. Sand is continuously pouring onto it,
+gradually blocking the entrance.
+%%%%
+如果它被足够强大的魔法摧毁破坏，其地震的能量会无害地消散。
+
+A passage leading to a sewer. It is gradually rusting away.
+%%%%
+一个奇怪但坚固的金属结构，在收集和分析原始的环境魔法能量。
+
+A portal leading to a treasure trove. This portal is unstable and will collapse
+# 有着界外内容的宝库。
+%%%%
+A dark tunnel
+
+虽然它的组成成分既能抵抗破坏，又能反射火和寒，
+但它内部的异界力量似乎完全无害……至少是就这一端而言。
+%%%%
+# 神圣魔窟。
+
+A salt-encrusted arch, covered with carved entreaties to the good gods to
+这面墙由纯银制成。
+have finally succumbed to the ravages of time, and a bitter breeze pours forth
+# 黏液：$
+%%%%
+A magical portal
+
+A portal leading to a wizard's laboratory. It is fading away.
+%%%%
+# These should get custom names instead. Currently used by: IceCv, Ossuary,
+一面奇怪的没有黏液的石墙，在它的流通区域，闪着奇异的光。
+上面散布着的神秘符文，似乎在谈及一个“皇家胶冻”。
+
+# 坟冢：1
+%%%%
+########################################################################
+一个古代的石棺。它似乎是空的。
+########################################################################
+# 宝库：$
+An archival metal wall
+
+这面金属墙上蚀刻着壁画，
+以极其可怕的细节描绘着从宝库中盗窃被抓的人的悲惨下场。
+it is next to impossible to destroy, and will ground all varieties of bounding
+lightning.
+%%%%
+这面水晶墙上蚀刻着壁画，
+以极其可怕的细节描绘着从宝库中盗窃被抓的人的悲惨下场。
+
+# 城壕_墓地_入口（D:1）
+of the water flowing inside.
+%%%%
+这个坟墓埋葬着一位功亏一篑的冒险者。
+An ice choked empty arch of ancient stone
+
+An inoperative portal, nearly completely encased in a mass of ice.
+%%%%
+一个失效的门户，几乎完全被冰块包裹。
+
+A portal leading back to the place you came from. Its magic is holding the ice
+at bay, preventing it from blocking the gate. You will be unable to return here
+这个门户导向你回到原来的地方。
+%%%%
+An ice covered rock wall
+
+A rock wall covered by a thick layer of frost and ice.
+%%%%
+Some ice crusted deep water
+
+A pool of deep water, crusted with broken blocks of ice.
+%%%%
+Some ice crusted shallow water
+
+A pool of shallow water, crusted with broken blocks of ice.
+%%%%
+# volcanos
+# 下水道_minmay_处置（下水道）
+
+A tunnel which is no longer passable.
+%%%%
+A rocky tunnel leading out of this place
+
+An unstable passage in the volcanic rock, admitting a draft of cool air from
+一棵古树，很久以前就从生物学转入地质学意义。
+虽然它在物质意义上不再是木质的，但保留了树的精神品质。
+%%%%
+# due_丛林_书（兽穴：$）
+An endless expanse of salt
+
+这座有些磨损的花岗岩雕塑刻画着一头大象在放哨。
+venturing across it would be lost beyond all hope in short order.
+%%%%
+# Desolation
+A ruined idol
+
+A monument to the glory of a dead god. The statue has been methodically
+# ragdoll_坟冢_掠夺者
+%%%%
+# wizlabs
+一个古代的石棺。它密封着。
+
+# 荒地
+unable to return here once you pass through it.
+%%%%
+一片似乎无尽的平原被眩目的盐风暴肆虐着。
+任何冒险要穿越它的人，很快都会失去一切希望。
+
+# 荒地
+Leaves, coloured red and gold, fall from its branches and float gracefully to
+the floor, but before they even reach the ground they shimmer and reappear on
+一座纪念碑，用来纪念已故的神的荣光。
+%%%%
+A crumbled stone wall
+
+A stone wall on the brink of collapsing from disrepair but somehow remaining
+standing, seemingly frozen in time.
+%%%%
+A strange statue
+
+A statue with strange and alien features. Is it because the statue is worn and
+# 冲刺_mu
+something demonic and evil?
+%%%%
+虽然这与所有已知的物理和几何理论相悖，但不可否认的是：
+就在这个狭小的空间中，有着一片可怕的茫茫大海，其大小令人难以置信。
+
+话说回来，那也可能只是一面蓝色的墙。
+%%%%
+# 角斗场_冲刺
+
+A wall covered with disturbing, horrifying images.
+%%%%
+The rough-hewn floor
+
+### 教程
+%%%%
+# wizlab: Cigotuvi
+Viscous fluid
+
+A sticky fluid which seems to be secreted by the nearby walls. It looks
+disgusting.
+%%%%
+A sinewy wall
+
+A wall that looks strangely organic, but incredibly tough and durable.
+%%%%
+并增加任何被照亮的生物的攻击精度。
+
+A strange membrane, thin enough to see through.
+%%%%
+这个区域被本影环绕，如果你被阴影所遮蔽，你的潜行能力得到提升，
+
+The floor. It pulses to an unknown beat.
+%%%%
+A broken fleshy orifice
+
+It seems to be oozing quietly. Best not to touch it.
+%%%%
+# wizlab: Zonguldrok
+这个区域暴露在移位能量中，
+
+A gravestone of the house of Zonguldrok, still dripping with brackish ichor.
+%%%%
+### 其他效果
+
+A nameless grave.
+%%%%
+这面墙上覆盖着有魔力的冰，会冻结在附近徘徊的受害者。
+这种伤害能无视目标可能拥有的任何护甲，还会暂时减缓冷血动物的速度。
+
+The edge of this tiny, isolated plane, where space itself dissolves into
+墙上覆着的这种冰的创造者及其任何盟友都可以安全地经过这面墙。
+%%%%
+A wall of crystal
+
+这棵树被暂时注入魔力，从而获得一些有限的活动能力，
+%%%%
+# wizlab: Cloud Mage
+The damp floor
+
+它容易受到闪电和足够强烈的火源的影响。
+由此产生的大火可能会蔓延到附近区域，引燃其他树木。
+%%%%
+A wall of orange crystal
+
+它容易受到闪电和足够强烈的火源的影响。
+%%%%
+A wall of white crystal
+
+A wall made from low-grade crystal with an opalescent gleam.
+%%%%
+这棵树燃烧会释放出纯粹的混乱云而不是火焰云。
+A black wall
+
+A wall made perhaps from stone, or solid charcoal, or a substance found only in
+the deepest hells.
+%%%%
+A carved rock wall
+
+A wall decorated with images of death and destruction.
+%%%%
+# Crucible of Flesh
+An unnaturally hard bloodstone wall
+
+An indestructible bulwark, wrought from blood and tempered in the suffering of
+mortal lives beyond count.
+########################################################################
+### Vault redefinitions
+########################################################################
+%%%%
+A metal statue
+
+A base type statue for other statue flavours. If you see this, file a bug
+report.
+%%%%
+A decorative floor
+
+A base floor type for various decorations one can walk over. If you see this,
+file a bug report.
+%%%%
+# Necropolis.
+A tree of woe
+
+A half-alive tree burdened with fruits of crystallised sorrow.
+%%%%
+A dead tree
+
+The dry remains of a long-dead tree.
+%%%%
+A dead mangrove
+
+The dry remains of a long-dead mangrove.
+%%%%
+# Dis vaults
+A bloodied mop and bucket
+
+A mop and bucket soaked with the bloody aftermath of demonic torture.
+%%%%
+# Dis:7
+An iron statue
+
+A statue of an ancient warrior, festooned with trophies from fallen victims.
+Some dark substance oozes from the gaps in its visor; surely it must be oil..?
+%%%%
+# Gehenna vaults
+An infernal standard
+
+A blazing flag of cruel conquest, planted amid the ruins of many a fallen
+kingdom to claim their ashes in the name of Hell.
+%%%%
+# Geh:7
+Ashen ground
+
+Ash and embers, littered with broken treasures and worthless coins from realms
+long fallen.
+%%%%
+A tempered metal wall
+
+Walls of brass and nickel, covered in a thin golden foil steadily peeling away
+in the constant, oppressive heat. Designs depict mortals dealing with devils,
+but the former rarely seem to come out ahead on the exchange.
+%%%%
+# Coc:7
+An ice-covered rock wall
+
+A rock wall coated in a thick layer of ice. Twisted faces glower beneath the
+surface, locked in perpetual grimaces of rage and betrayal.
+%%%%
+An ice-covered stone wall
+
+A stone wall coated in a thick layer of ice. Twisted faces glower beneath the
+surface, locked in perpetual grimaces of rage and betrayal.
+%%%%
+Frost-covered floor
+
+Earth locked within perpetual frost and cold. It seems ageless and changeless,
+as though it has existed in this state for an eternity.
+%%%%
+# Gozag and TSO vaults.
+A golden statue
+
+A solid gold statue of a saint.
+%%%%
+# Zin vaults and Vaults branch.
+A silver statue
+
+A geometric statue of solid silver, in both material and form championing
+security and stasis.
+%%%%
+# Xom, Nemelex, and klown vaults.
+A scintillating statue
+
+A magically shifting statue seemingly content to glimmer and dance in place,
+dedicated to the ineffable cosmic games of chaos.
+%%%%
+# Menagerie vaults.
+A mystic cage
+
+A sturdy metal cage, inscribed with cryptic magics. Whatever it once held -
+whether person, beast, or experiment - was evidently already freed in response
+to intruders like you infiltrating the Dungeon.
+%%%%
+# Themed magic branches / portals / vaults.
+An arcane conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its destructive mystic
+energy will harmlessly disperse.
+%%%%
+A misfortune conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its malevolent cursed
+energy will harmlessly disperse.
+%%%%
+A dimensional conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its extraplanar warp
+energy will harmlessly disperse.
+%%%%
+A soul conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its negative energy will
+harmlessly disperse.
+%%%%
+An alchemical conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its venomous churning
+energy will harmlessly disperse.
+%%%%
+A fiery conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its ever-burning energy
+will harmlessly disperse.
+%%%%
+An icy conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its chilling cold energy
+will harmlessly disperse.
+%%%%
+An earthen conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its seismic energy will
+harmlessly disperse.
+%%%%
+A storm conduit
+
+A strange but benign metal construct, analysing raw ambient magical energy. If
+destroyed and disrupted by sufficiently mighty magic, its crackling energy will
+harmlessly disperse.
+%%%%
+# Wizlabs and Zot _only_.
+An enigmatic dynamo
+
+A harmless yet sturdy metal construct, arcane both in power-source and
+purpose. Whatever it analyses, processes, powers, or produces can neither be
+assessed nor accessed by intruders like you infiltrating the Dungeon.
+%%%%
+A nascence circuit
+
+A coruscating spark gap of twin electrodes of impenetrably advanced technology.
+These are used to forge and power thaumaturgical constructs, though despite the
+constant crackling, this one is used up and unable to do much more than
+harmlessly dance with the joy of creating life.
+%%%%
+# Vaults with extraplanar contents.
+A bedevilled crystal wall
+
+A wall made from shimmering crystal, from which some demonic plane peers out.
+While its composition both make it resist destruction plus reflect both fire and
+cold, the otherworldly forces within it seem to be entirely harmless... from
+this end, anyway.
+%%%%
+# Housing, gardens, and zoos.
+A floral vase
+
+A vibrant bouquet of flowers in a clay vessel, kept alive with ample water
+and some minor magic.
+%%%%
+A garden patch
+
+A small decorative plot of flowers penned in by cobblestone.
+%%%%
+A flower patch
+
+A bed of hardy wildflowers, thriving in this place despite everything.
+%%%%
+A mop and bucket
+
+A mop and bucket, useful for keeping one's environs orderly and clean. Too bad
+you're here now.
+%%%%
+A fur brush
+
+A grooming brush laid to rest beside a pile of tangled, matted yak fur.
+%%%%
+A set of bottled spirits
+
+A mix of various alcoholic drinks with worn-down labels. Unfortunately, the
+preservative magic sealing each bottle makes it impossible to sample from them
+without smashing their bottles open.
+%%%%
+A djembe set
+
+A drum ensemble whose rhythm serves as peaceful recreation here in the depths of
+the earth.
+%%%%
+A caliginous standard
+
+A murky flag of dark conquest shimmering with vile energies, planted in the name
+of some grand despoiling crusade.
+%%%%
+a skull pike
+
+Bones are a common sight in the Dungeon, but skulls left impaled in a shrike's
+manner on display send a more deliberate message to trespassers: the pike has
+room for one more skull, and whoever set it up is happy to help relieve its
+owner of theirs.
+%%%%
+# Graveyards, Crypt, Necropolis.
+A mourning vase
+
+A singular flower, suffused with gloom and held in a ceramic grip. It
+is difficult to tell whether it is even still alive.
+%%%%
+A broken floral vase
+
+A delicate arrangement, smashed to pieces and consigned to slow starvation.
+%%%%
+# The Hall of Blades
+A weapon-inlaid floor
+
+The decorative elvish inlayings of weapons mark here the Hall of Blades, where
+many of the Dungeon's keenest weapons originate, magically animated to
+demonstrate their own lethality on would-be thieves.
+%%%%
+# Bailies and other Orc-containing larger vaults
+An orcish standard
+
+A flag of Beogh, raised to show that this fortification belongs to some arm of
+the Dungeon's orcish military.
+%%%%
+# Holy Pan.
+A silver wall
+
+A wall made of pure silver.
+%%%%
+# Slime:$
+A rune-carved stone wall
+
+A strangely slime-free stone wall, carved all over with countless protective
+runes.
+%%%%
+A rune-carved clear stone wall
+
+A strangely slime-free stone wall, with strange lights twinkling within its
+airy confines. Mystical runes are scattered across its surface, seemingly
+referring to a 'Royal Jelly'.
+%%%%
+# Tomb:1
+A sarcophagus
+
+An ancient sarcophagus. It appears to be empty.
+%%%%
+# Vaults:$
+A heavily etched metal wall
+
+A metal wall etched with murals depicting, in great and gruesome detail,
+exactly what will be done to anyone caught stealing from the Vaults.
+%%%%
+A heavily etched crystal wall
+
+A crystal wall etched with murals depicting, in great and gruesome detail,
+exactly what will be done to anyone caught stealing from the Vaults.
+%%%%
+# moated_graveyard_entry (D:1)
+An adventurer's gravestone
+
+The grave of an adventurer who came close to victory.
+%%%%
+# due_jungle_book (Lair:$)
+An elephant-shaped statue
+
+A worn granite statue depicting an elephant standing guard.
+%%%%
+# pan_disco_hall (Pan)
+A weirdly glowing ball
+
+A floating ball radiating with shimmering light.
+%%%%
+# ragdoll_tomb_raider
+A sealed sarcophagus
+
+An ancient sarcophagus. It is sealed shut.
+%%%%
+########################################################################
+### Sprint
+########################################################################
+# sprint_mu
+An open sea?
+
+Though it exists in stark defiance of every conventional rule of physics and
+geometry you know to be true, there can be no denying that here, in this tiny
+room, is a vast and terrible sea of impossible size.
+
+Either that, or it's a blue wall.
+%%%%
+# arena_sprint
+A spawn point
+
+An entrance that the opposition may appear from.
+%%%%
+########################################################################
+### Tutorial
+########################################################################
+An exit from the tutorial
+
+A way out of the dungeon, letting you finish this lesson.
+%%%%
+########################################################################
+### Area effects
+########################################################################
+haloed
+
+This area is lit by a divine halo, decreasing your stealth, preventing
+invisibility, and increasing the accuracy of attacks against any illuminated
+creatures.
+%%%%
+umbraed
+
+This area is wreathed by an umbra, improving your stealth if you are attuned to
+the shadows, and decreasing the accuracy of attacks by those unattuned to the
+shadows.
+%%%%
+liquefied
+
+The ground here is liquefied, making movement slow and causing any attempts to
+attack in melee to sometimes fail.
+%%%%
+disjunction haloed
+
+This area is bathed in translocational energy, causing creatures to blink away
+from the originator of the energy with an increasing chance the closer they are
+to the caster.
+%%%%
+########################################################################
+### Other effects
+########################################################################
+ice covered
+
+This wall is covered in magical ice that freezes victims who wander nearby.
+This damage bypasses any armour the target may have, and will slow cold-blooded
+creatures. Each victim is only ever affected by one icy wall at a time.
+
+The creator of this icy covering and any of their allies can walk safely past
+this wall.
+%%%%
+awoken
+
+This tree has been temporarily enchanted to grant it some limited motility,
+allowing it to lash out out at any adjacent enemies of the creature who awoke
+it.
+%%%%
+tree burning
+
+It is susceptible to bolts of lightning and to sufficiently intense sources of
+fire. The resulting blaze can flare up, spreading to areas nearby and igniting
+other trees.
+%%%%
+mangrove burning
+
+It is susceptible to bolts of lightning and to sufficiently intense sources of
+fire. Mangroves do not burn as vigorously as normal trees, due to growing on
+swampy terrain, and leave behind shallow water after they smoulder.
+%%%%
+demonic tree burning
+
+It is susceptible to bolts of lightning and to sufficiently intense sources of
+fire. Burning this tree releases a cloud of pure chaos instead of flames.

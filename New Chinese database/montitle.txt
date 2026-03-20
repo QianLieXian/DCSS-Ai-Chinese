@@ -1,331 +1,331 @@
 ###############################################################################
-# Monster titles.
-# Displayed when they first come into view and on their description screen.
+# 怪物称号。
+# 在他们第一次出现时、在他们的描述界面中进行显示。
 #########
 %%%%
 Agnes title
 
-Agnes the Wanderer
+漫游者艾格尼丝
 %%%%
 Aizul title
 
-Aizul the Neglectful Guardian
+疏忽的守卫艾祖
 %%%%
 Amaemon title
 
-Amaemon the Diabolical Poisoner
+恶魔投毒者亚麦依蒙
 %%%%
 Antaeus title
 
-Antaeus, Guardian of Cocytus
+安泰俄斯，悲叹河的守卫
 %%%%
 Arachne title
 
-Arachne the Outcast
+编织者阿拉克尼
 %%%%
 Asmodeus title
 
-Asmodeus, Prince of Gehenna
+阿斯蒙蒂斯，欣嫩谷的王子
 %%%%
 Asterion title
 
-Asterion the Fallen King
+堕落之王阿斯忒里翁
 %%%%
 Azrael title
 
-Azrael the Boundless Flame
+无边烈焰亚兹拉尔
 %%%%
 Bai Suzhen title
 
-Bai Suzhen, Madame White Snake
+白素贞，白蛇夫人
 %%%%
 Boris title
 
-Boris, Master of Life and Death
+鲍里斯，生死大师
 %%%%
 Cassandra title
 
-Cassandra the Doomed Oracle
+赛里鲍夫，火与钢之恶魔领主
 %%%%
 Cerebov title
 
-Cerebov, Demon Lord of Fire and Steel
+收集者查克
 %%%%
 Chuck title
 
-Chuck the Collector
+开悟者疯狂的伊夫
 %%%%
 Crazy Yiuf title
 
-Crazy Yiuf the Enlightened
+迪斯帕特，铁城领主
 %%%%
 Dispater title
 
-Dispater, Lord of the Iron City
+分解者，吉瓦的高级祭司
 %%%%
 Dissolution title
 
-Dissolution, High Priest of Jiyva
+冒险者唐纳德
 %%%%
 Donald title
 
-Donald the Adventurer
+多万，多维莎的哥哥
 %%%%
 Dowan title
 
-Dowan, Brother of Duvessa
+多维莎，多万的妹妹
 %%%%
 Duvessa title
 
-Duvessa, Sister of Dowan
+年少者埃德蒙
 %%%%
 Edmund title
 
-Edmund the Younger
+埃列什基伽勒，塔尔塔罗斯的女王
 %%%%
 Ereshkigal title
 
-Ereshkigal, Queen of Tartarus
+暴躁的埃里卡
 %%%%
 Erica title
 
-Erica the Fiery-Tempered
+狡猾的厄洛卡
 %%%%
 Erolcha title
 
-Erolcha the Cunning
+奇伟的埃乌斯塔乔
 %%%%
 Eustachio title
 
-Eustachio the Magnificent
+冷酷的范纳尔
 %%%%
 Fannar title
 
-Fannar the Cold-Hearted
+弗朗西丝，魔窟的女公爵
 %%%%
 Frances title
 
-Frances, Duchess of Pandemonium
+完美的弗雷德里克
 %%%%
 Frederick title
 
-Frederick the Flawless
+沉思的加斯特罗克
 %%%%
 Gastronok title
 
-Gastronok the Ponderous
+吉里昂，地狱的守门人
 %%%%
 Geryon title
 
-Geryon, Gatekeeper of Hell
+克罗克斯·弗拉克，暗之恶魔领主
 %%%%
 Gloorx Vloq title
 
-Gloorx Vloq, Demon Lord of Darkness
+猎手格鲁姆
 %%%%
 Grum title
 
-Grum the Hunter
+被惩罚的格鲁
 %%%%
 Grunn title
 
-Grunn the Punished
+饱经风霜的哈罗德
 %%%%
 Harold title
 
-Harold the Weathered
+伊格纳西欧，剧痛大师
 %%%%
 Ignacio title
 
-Ignacio, Master of Excruciating Pain
+伊尔斯，潮汐女巫
 %%%%
 Ilsuiw title
 
-Ilsuiw, Witch of the Tides
+爱钻研的伊吉布
 %%%%
 Ijyb title
 
-Ijyb the Inquisitive
+见习女术师杰西卡
 %%%%
 Jessica title
 
-Jessica the Apprentice Sorceress
+耶利米，蛙人神游者
 %%%%
 Jeremiah title
 
-Jeremiah, Barachi Dreamer
+撼地者约格伦
 %%%%
 Jorgrun title
 
-Jorgrun Earthshaker
+血腥伯爵乔里
 %%%%
 Jory title
 
-Jory the Bloodstained Count
+约瑟夫，雇佣兵
 %%%%
 Joseph title
 
-Joseph, a Mercenary
+冰巫妖约瑟芬娜
 %%%%
 Josephina title
 
-Josephina the Ice-Lich
+腐朽的死灵法师约瑟芬
 %%%%
 Josephine title
 
-Josephine the Decaying Necromancer
+不朽的法老胡夫
 %%%%
 Khufu title
 
-Khufu the Undying Pharaoh
+喀耳刻，神话编织者
 %%%%
 Kirke title
 
-Kirke, Weaver of Myths
+雷霆洛杜尔
 %%%%
 Lodul title
 
-Lodul the Thunderous
+洛姆·洛邦，禁忌知识之恶魔领主
 %%%%
 Lom Lobon title
 
-Lom Lobon, Demon Lord of Forbidden Knowledge
+腐化的路易丝
 %%%%
 Louise title
 
-Louise the Corrupted
+自负的玛吉
 %%%%
 Maggie title
 
-Maggie the Vainglorious
+玛拉，幻象领主
 %%%%
 Mara title
 
-Mara, Lord of Illusions
+屠龙者玛杰丽
 %%%%
 Margery title
 
-Margery the Dragonslayer
+盗贼莫里斯
 %%%%
 Maurice title
 
-Maurice the Thief
+孟卡拉，尘土王子
 %%%%
 Menkaure title
 
-Menkaure, Prince of Dust
+梅纳斯，辛的代言人
 %%%%
 Mennas title
 
-Mennas, the Voice of Zin
+姆利格洛特，无形的恐怖
 %%%%
 Mlioglotl title
 
-Mlioglotl, the Unformed Horror
+姆诺莱格，混沌之恶魔领主
 %%%%
 Mnoleg title
 
-Mnoleg, Demon Lord of Chaos
+会说话的恶魔头骨默里
 %%%%
 Murray title
 
-Murray the Demonic Talking Skull
+娜塔莎，生死仆从
 %%%%
 Natasha title
 
-Natasha, Servant of Life and Death
+内莉，演出明星
 %%%%
 Nellie title
 
-Nellie, Star of the Show
+缚魂者内尔伽莉
 %%%%
 Nergalle title
 
-Nergalle, Lorekeeper of the Fallen
+精英半人马内萨斯
 %%%%
 Nessos title
 
-Nessos the Markscentaur
+疯狂的发明家尼古拉
 %%%%
 Nikola title
 
-Nikola the Mad Inventor
+哲人诺里斯
 %%%%
 Nobody title
 
-Nobody, Grudge of the Unmourned
+强大的帕吉特
 %%%%
 Norris title
 
-Norris the Philosopher
+柔弱的帕吉
 %%%%
 Parghit title
 
-Parghit the Mighty
+皮克尔，灵魂商人
 %%%%
 Pargi title
 
-Pargi the Meek
+警惕的牧羊人波吕斐摩斯
 %%%%
 Pikel title
 
-Pikel, Merchant of Souls
+强臂罗宾
 %%%%
 Polyphemus title
 
-Polyphemus the Watchful Shepherd
+罗克珊，名誉堪舆师
 %%%%
 Robin title
 
-Robin of the Strong Arm
+野人鲁珀特
 %%%%
 Roxanne title
 
-Roxanne, Geomancer Emeritus
+弥赛亚圣罗卡
 %%%%
 Rupert title
 
-Rupert the Wild
+可怕的西格蒙德
 %%%%
 Saint Roka title
 
-Saint Roka the Messiah
+饕餮的史诺格
 %%%%
 Sigmund title
 
-Sigmund the Dreaded
+僧正坊，天狗女王
 %%%%
 Snorg title
 
-Snorg the Insatiable
+索尼娅，优雅的刺客
 %%%%
 Sojobo title
 
-Sojobo, Queen of Tengu
+鲁莽的泰伦斯
 %%%%
 Sonja title
 
-Sonja, the Graceful Assassin
+提亚玛特，龙神的化身
 %%%%
 Sprozz title
 
-Sprozz, Inventive Apiarist
+兽人弩炮尤鲁格
 %%%%
 Terence title
 
-Terence the Veteran
+上层精英纳迦瓦什妮亚
 %%%%
 Tiamat title
 
-Tiamat, Avatar of the Dragonlord
+流亡的薇薇
 %%%%
 Urug title
 
-Urug the Orcish Ballista
+古老的西泰华
 %%%%
 Wiglaf title
 
-Wiglaf the Gunnerdwarf
+塞奈达，西泽的追寻者
 %%%%
 Vashnia title
 
