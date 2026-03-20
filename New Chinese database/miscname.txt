@@ -7,80 +7,80 @@
 ######################################################
 %%%%
 # 用于召唤骇物。
+SHT_int_loss
 
-Your mind reels, touched by the horrors through the portal.
+你被传送门里的恐怖事物所触动，精神变得恍惚。
 
-You quiver within your mortal coil, caressed by the liquid insanity through the scintillating gateway.
+你在你的尘世羁绊里颤抖着，被闪烁的大门中流动的疯狂抚摩着。
 
-# Bal-Sagoth
 # 巴尔-萨戈斯
+召唤仪式似乎对你的理智造成了不小的伤害。
 
-You have a brief vision of a great black cyclopean cityscape with towering stygian walls.
+你瞥见一个巨大、黑色的独眼巨人城市，它有着高耸、阴森的墙壁。
 
-Your vision is obscured by outlandish glyphs which seem to writhe squamously and alter their shape.
+奇异的文字模糊了你的视线，这些文字似乎呈鳞片状扭动并变换着形状。
 
-You feel inexorably dogged by some nameless and implacable gloom.
+你感觉被某种不可名状、无法平息的忧郁事物无情地纠缠着。
 #-----------
 
-You reel in agony as your mind is raked by horrors beyond mortal ken.
+你在痛苦中挣扎，因为你的心灵被凡人无法理解的恐怖所折磨。
 
-Your mind is seduced by sublime insanity as you glimpse through the portal into the nether beyond.
+当你透过传送门瞥见远处的幽冥时，你被极端的疯狂吸引了。
 
-You cackle madly at the sight of the eldritch monstrosity.
+你一看到怪异的怪物就疯狂地咯咯笑。
 
-You are seized by madness!
+你疯了！
 
-Attempting to comprehend the unknowable depths of infinity takes a toll on your sanity.
+试图理解无限的不可知的深度会损害你的理智。
 
-Your thoughts are inescapably tormented by a ceaseless, buzzing drone.
+你的思维无法逃避地受到无休止的嗡嗡声的折磨。
 
-Your mind collapses in madness at the sight of this blasphemy against creation!
+你看到这种对创造的亵渎，精神在疯狂中崩溃了！
 
-Your mind briefly shatters, though you barely manage to hold yourself together.
+你的精神短暂地崩溃了，尽管你勉强控制住了自己。
 
-You feel your tenuous grasp on sanity beginning to erode.
+你感觉你本就脆弱的对理智的控制力开始受到侵蚀。
 
-Penetrating whispers of deepest heresy ceaselessly assail your thoughts.
+尖锐的低语所诉说的最深奥的异端邪说，不断侵袭你的思想。
 
-Your mind aches with revulsion at the sight of the undulating horrors you have wrought.
+一看到你所制造的起伏的恐怖，你的头脑就会因厌恶而疼痛。
 
-For but a moment your mind is laid bare before the towering infinitude of the unimaginable.
+在那不可想象、卓越的无限事物面前，你的精神只会在一瞬间暴露无遗。
 
-Your skull pulses and throbs as words spoken in an unspeakable tongue drift across your psyche.
+一个无法形容的舌头所诉说的言语萦绕在你的心头时，你的头骨跳动着。
 
-A thin, monotonous whinny from outside of time grows ever louder.
+从时间之外传来的微弱、单调的嗡嗡声在你的耳朵里变得越来越响。
 
-Shapeless horrors persist on the edge of your vision, drawing ever closer.
+不定形的恐怖存留在你的视野边缘，离你越来越近。
 
-You are overcome with an inexorable feeling of implacable gloom.
+你被一种不可抗拒的悲观情绪所压倒。
 
-Coherent, reasonable thoughts seem alien to you.
+连贯、理智的想法似乎对你来说很陌生。
 
-Tendrils of madness seep and wend into the darkest crevices of your mind.
+疯狂的触须渗入你心灵中最黑暗的缝隙。
 
-You struggle to grasp the nature of the incomprehensible forces at work.
+你吃力地领会着那些费解的起作用的力量本质。
 
-Nightmarish fiends assault your waking thoughts!
+噩梦般的恶魔侵袭你清醒的思绪！
 
-Seething terrors besiege your sanity!
+强烈的恐惧困扰着你的理智！
 
-Lucidity slithers from your feeble grasp.
+冷静理智从你虚弱的掌控中溜走。
 %%%%
-harlequin_trap_lines
-
-Strange impish giggling echoes through your mind as
+# 佐特宝珠有多棒？
+_great_adj_
 
 令人震惊的
 
 令人敬畏的
 
 激动人心的
-%%%%
+
 传说中的
-_great_adj_
 
-astounding
+难以置信的
 
+w:5
 绝妙的
 
 辉煌的
@@ -90,65 +90,65 @@ astounding
 传奇的
 
 瑰丽的
-fantabulous
 
-glorious
+威严的
 
-incredible
+超自然的
 
-legendary
+华丽的
 
-magnificent
+崇高的
 
-majestic
+可怕的
 
-marvelous
+超然的
 
-splendid
-
-stupendous
-
-sublime
-
-terrific
-
-transcendent
-
-wondrous
+奇妙的
 %%%%
 welcome_spam
 
-Will you prevail where others failed? Will you find the Orb of Zot?
+你会在别人失败的地方取胜吗？你会找到佐特宝珠吗？
 
-The heart of this dungeon contains the @_great_adj_@ artefact, the Orb of Zot.
+这座地牢的核心包含着@_great_adj_@神器，佐特宝珠。
 
-Will you be the one to retrieve the @_great_adj_@ Orb of Zot from the depths?
+你会是那个能从地牢深处取回@_great_adj_@佐特宝珠的家伙吗？
 
-It is said that the Orb of Zot exists deep within this dungeon.
+据说佐特宝珠就藏在这个地牢的深处。
 
-Are you destined to find the @_great_adj_@ Orb of Zot, or to die trying?
+你注定会找到@_great_adj_@佐特宝珠，还是注定会在尝试中死去？
 
-Everyone else who sought the Orb of Zot has failed. Will you be different?
+其他寻找佐特宝珠的人都失败了。你会有所不同吗？
 
-They say the Orb of Zot lies within this dungeon, but they say a lot of things.
+他们说佐特宝珠就在这个地牢里，但他们还说了很多事情。
 
-The @_great_adj_@ Orb of Zot lies far below, as if waiting for you to find it.
+@_great_adj_@佐特宝珠就在深处，像是在等着你去找到它。
 
-Below lies the Orb of Zot, rumoured to be powerful enough to resurrect a god...
+佐特宝珠位于下方，传说它的力量足以复活一位神明……
 
-The Orb of Zot is coveted for many reasons. Will you seize it for your own?
+人们渴望获得佐特宝珠的原因有很多。你会为了自己夺取它吗？
 
-A smirking vizier told you that the Orb of Zot is just within this dungeon.
+一个傻笑的大臣告诉你，佐特宝珠就在这个地牢。
 
-If you return without finding the Orb of Zot, so far below, it's all over!
+如果你没找到佐特宝珠就回来了，那一切都完了！
 
-It's a long way down to the Orb of Zot, but that shouldn't be any trouble.
+距离佐特宝珠还有很长的路要走，但应该不会有什么麻烦？
 %%%%
 welcome_spam dungeon descent
 
-Will you descend where others failed? Will you find the Orb of Zot?
+你会深入别人失败的地方吗？你会找到佐特宝珠吗？
 
-Will you be the one to descend and find the @_great_adj_@ Orb of Zot?
+你会是那个深入地牢并找到@_great_adj_@佐特宝珠的人吗？
+
+你注定会深入地牢找到@_great_adj_@佐特宝珠，还是会在尝试中死去？
+
+你感觉自己被吸引了，要去深不可测的地方寻找佐特宝珠……
+
+@_great_adj_@佐特宝珠就在深处，正等着你深入地牢去找到它。
+
+如果你深入那么远的地方没找到佐特宝珠，那一切都完了！
+%%%%
+# 万圣节时的事物
+_halloween_things_
 
 恶魔的幻象
 
@@ -157,13 +157,13 @@ Will you be the one to descend and find the @_great_adj_@ Orb of Zot?
 鬼魂和幽灵
 
 阴冷的幽灵
-%%%%
+
 可怕的鬼影
-_halloween_things_
 
-demonic hallucinations
-
-disembodied spirits
+变幻无常的景象
+%%%%
+# 你不想被女巫变成的东西
+_lowly_
 
 蝾螈
 
@@ -173,119 +173,119 @@ disembodied spirits
 
 蠕虫
 %%%%
-# things you don't want a witch to turn you into
-_lowly_
-
-newt
-
-slug
-
-toad
-
-worm
-%%%%
 welcome_spam Halloween
 
-@welcome_spam@ Be careful! Halloween tonight.
+@welcome_spam@小心！今晚是万圣节。
 
-The monsters here aren't big trick-or-treat fans. If they won't give you the Orb of Zot, you'll have to take it.
+这里的怪物不太喜欢玩“不给糖就捣蛋”。如果他们不给你佐特宝珠，那你就自己去取。
 
-A terrible geas has sent you after the Orb of Zot. What a horrible night to have a curse!
+一个可怕的意念驱使你去寻找佐特宝珠。多么可怕的有着诅咒的夜晚啊！
 
-As you descend in search of the Orb, @_halloween_things_@ flock about you. This place is haunted!
+当你深入地牢寻找宝珠时，@_halloween_things_@聚集在你的身边。这个地方在闹鬼！
 
-You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a @_lowly_@!
+你听到突然传到地牢的女巫的咯咯笑声。如果你没能找到佐特宝珠，你就会变成@_lowly_@！
 
-If you want to find the Orb of Zot, you'll need a much better costume than that.
+如果你想找到佐特宝珠，你需要一套更好的服装。
 
-    return "你闻到了硫磺味。"
+你希望这个地方至少有个佐特宝珠，因为这片地狱里完全没有什么糖果。
 
-    return "硫磺雨从上面落下。"
+无数冒险者进入地牢寻找佐特宝珠，但这里总有房间会向下一位冒险者敞开……
 
-You sense the Orb of Zot calling to you... with horror, you realise the call is coming from inside the dungeon!
+你意识到佐特宝珠在呼唤你……恐怖的是，你意识到呼叫是从地牢里传来的！
 
 %%%%
 hell_effect_quiet
 
 {{
-“马上离开，不然就太迟了！”
-    return "You smell brimstone."
-“谁都救不了你这样的可怜虫！”
-    return "Brimstone rains from above."
-“趁你还能跑，快逃吧，凡人！”
+if you.can_smell() then
+    return "你闻到了硫磺味。"
+else
+    return "硫磺雨从上面落下。"
+end
 }}
 
-"Abandon all hope!"
+“放弃一切希望吧！”
 
-"Die, mortal!"
+“去死吧，凡人！”
 
-"Leave now, before it is too late!"
+“马上离开，不然就太迟了！”
 
-"No one will save a wretch like you!"
+“谁都救不了你这样的可怜虫！”
 
-"Run while you still can, mortal!"
+“趁你还能跑，快逃吧，凡人！”
 
-"Trespassers are not welcome here!"
+“这里不欢迎闯入者！”
 
-"We do not forgive those who trespass against us!"
+“我们不会宽恕那些闯入者！”
 
-"We have such sights to show you!"
+“我们要给你看这样的场景！”
 
-"We have you now!"
+“我们抓到你了！”
 
-"We will enjoy watching you die!"
+“我们会享受看着你死去的乐趣！”
 
-"Whatever you seek here, you will find only death!"
+“无论你在这里寻找什么，你只会是在找死！”
 
-"You are not welcome here!"
+“这里不欢迎你！”
 
-"You do not belong in this place!"
+“你不属于这个地方！”
 
-"You have come here to die, fool!"
+“你是来送死的，傻瓜！”
 
-"You should have left when you had the chance!"
+“趁还有机会，你应该离开！”
 
-"You should not have come here!"
+“你不该来这儿！”
 
-"You will never escape!"
+“你永远都逃不了！”
 
-"You will not leave this place!"
+“你无法离开这个地方！”
 
-For a moment, everything goes dark.
+一时间，一切都变黑了。
 
-Something frightening happens.
+一些可怕的事情发生了。
 
-Something moves in the shadows at the edge of your vision.
+有东西在你视线边缘的阴影里移动。
 
-You catch a glimpse of your own reflection and are repulsed by what you see.
+你瞥见自己的倒影，却被看到的东西所嫌恶。
 
-You feel abandoned and deserted...
+你感觉自己被抛弃了……
 
-You feel a strange tug, urging you deeper into the mouth of Hell...
+你感觉到一种奇怪的拉力，在推动你深入地狱之口……
 
-You feel a terrible foreboding...
+你有一种不祥的预感……
 
-You feel like no one will even care if you die here...
+你感觉即使你死在这里，也没人在乎你……
 
-You feel like you've forgotten something very important...
+你感觉你忘了什么非常重要的事物……
 
-You feel lost and a long, long way from home...
+你感觉迷茫，这里离家很远很远……
 
-You feel so tired, so weak... it would be so nice to just lie down... forever...
+你感觉很累，很虚弱……只要永远……躺下来就好了……
 
-You feel totally surrounded, and yet so utterly alone...
+你感觉自己被完全包围了，却又如此孤独……
 
-You have a premonition of your own gruesome death.
+你有一种大限将至的不祥预感。
 
-You have a vision of yourself being tormented eternally.
+你有一种自己永远会被折磨的幻觉。
 
-You regret coming to this forsaken place.
+你后悔来到这个被遗弃的地方。
 
-You sense a hostile presence.
+你感觉到一种敌意的存在。
 
-You sense an ancient evil watching you...
+你感觉到一个古老的邪恶事物在注视着你……
 
-You sense something behind you... but there's nothing there.
+你感觉到有什么东西在你身后……但那里什么都没有。
+
+你害怕得颤抖。
+
+你恐惧得发抖。
+
+你突然感觉自己很渺小、很脆弱。
+
+你尝到嘴里有血的味道。它绝对不会是你的。
+
+%%%%
+hell_effect_noisy
 
 “滚开，闯入者！”
 
@@ -294,7 +294,7 @@ You sense something behind you... but there's nothing there.
 尖叫声在你周围齐响回荡！
 
 空中充斥着撕心裂肺的尖叫声！
-%%%%
+
 一个可憎的声音述说着你最深最黑暗的秘密！
 
 一个痛苦的声音仿佛在为永恒哀号，然后突然被切断。
@@ -331,15 +331,4 @@ You sense something behind you... but there's nothing there.
 
 你听到自己在痛苦中尖叫的声音！
 
-You hear your loved ones mourning your tragic, senseless death...
-
-You hear your loved ones weeping in eternal, hopeless despair...
-
-You hear your own voice begging for death!
-
-You hear your own voice laughing maniacally!
-
-You hear your own voice screaming in agony!
-
-You hear your own voice wailing miserably!
 %%%%
