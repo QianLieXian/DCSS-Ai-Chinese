@@ -1,413 +1,413 @@
 ########################################################
-# Frequently Asked Questions (FAQ.txt)
+#经常被问到的问题(FAQ.txt)
 ########################################################
-# This file lists a number of Frequently Asked Questions and their
-# answers, and sometimes also questions we wish were asked more often.
-# :)
+#此文件列出了一些常被问到的问题及其
+#答案,有时也会更经常地提出我们希望提出的问题。
+#:) (中文(简体) .
 #
-# Syntax is as follows:
-#  Q:key word, for the question
-#  A:key word, for the corresponding answer
+#语法如下:
+#问题的关键词
+#A:关键词,用于相应的答案
 #
-# Questions are pushed into a menu in the order the questions are
-# defined in this file. Answers need not necessarily be right next to
-# the question, but it's easier to read if they are.
+#问题按顺序被推入菜单
+#在此文件中定义。 答案不一定紧挨着
+#问题,但如果是,更容易读取。
 #
-# There may be at most 52 questions, but it is recommended to keep the
-# number much lower than that.
+#最多可能有52个问题,但建议保留
+#数字比那低得多。
 #
-# This file is not meant as an easy-access spoiler file, but rather
-# intended to answer general questions that crop up from time to time.
+#此文件并非是一个容易访问的破坏文件, 而是
+#目的是回答不时出现的一般性问题。
 #
 ########################################################
 #
-# Translating txt -> html:
+#翻译 txt - > html:
 #
-# * Use util/FAQ2html.pl to create the corresponding html file in the
-#   docs/ directory.
-# * All commands should be encased in single quotes, e.g. '?', which
-#   means they will be displayed in bold in the html. This will only
-#   work for commands that don't contain spaces.
-# * Emphasis using asterisks will be replaced with italics.
-# * Hyperlinks should begin with https:// and should never be directly
-#   followed by a dot (reorder the sentence, if need be), so they can be
-#   turned into properly clickable links.
+#* 使用 util/FAQ2html.pl 创建 html 文件
+#文件/目录。
+#* 所有命令均应以单一引文来拼接,例如“?”
+#表示它们将在 html 中以粗体显示 。 只会这样
+#用于不包含空格的命令。
+#* 将用斜体来取用星号来强调。
+#* 超链接应从https://开始,永远不应是直接的
+#然后是点(如果需要,则重排句子),以便
+#变成合适的可点击链接。
 #
-T:html
+电话:html
 
-Dungeon Crawl Stone Soup - Frequently Asked Questions
+Dungeon Crawl石汤 - 常被问到的问题
 ##############################################
-# Beginners' questions about playing the game.
+#初学者问游戏.
 ##############################################
 %%%%
 Q:goal
 
-What exactly is the goal of this game?
+这个游戏的目标到底是什么?
 %%%%
 A:goal
 
-A: To survive and to win, obviously. For this you need to find the fabled Orb
-of Zot deep down in the dungeon and bring it back to the surface. To enter the
-realm of Zot, you'll first need to collect three runes to be found in various
-branches of the dungeon.
+A:显然是为了生存和取胜。 为此,你需要找到寓言
+在地牢深处的Zot把它带回地表 进入
+佐特的域名,你首先需要收集三个 runes 以找到在各种
+地牢的树枝
 
-However, if you're new to the game, you really shouldn't worry about this. Just
-try to delve as deeply as possible and have fun exploring the many side
-branches in Crawl with various characters of different species, skill sets, and
-religions.
+然而,如果你是新来的游戏, 你真的不应该担心这一点。 刚刚
+尽量深入探索 玩得开心探索多面
+拥有不同物种、技能组合和
+宗教问题。
 %%%%
 Q:userdir
 
-I can't find my save files, morgue and character dumps. Where are they?
+我找不到我保存的文件, 停尸房和角色垃圾。 他们在哪里?
 %%%%
 A:userdir
 
-If you're playing locally (i.e. not on one of the servers), the chardump
-command will tell you where the morgue file is written, and this information is
-also displayed below the highscore at the end of a game.
+如果你在本地玩( 即不是在服务器上玩), 字符串
+命令会告诉你太平间文件写在哪里 而这个信息是
+并在游戏结束时显示在高分以下.
 
-The saves/ directory can be found in the same directory as the morgue/ one.
+保存/目录可以和太平间/ 1在同一目录中找到.
 
-If you'd like to change either location, modify the morgue_dir and/or save_dir
-options in the init file.
+如果您要更改任一位置, 请修改太平间  dir 和/或保存  dir
+选项。
 %%%%
 Q:roguelike difference
 
-What are the biggest differences to other popular roguelike games?
+与其他流行的流氓游戏有什么最大的区别?
 %%%%
 A:roguelike difference
 
-A: First, you might want to read the philosophy section in the manual ('?N') to
-read about general important principles in Stone Soup's game design.
+答: 首先,你也许想读取手册中的哲学部分('?N')到
+阅读了"石头汤"游戏设计中的一般重要原则.
 
-As for specific differences, the most important are probably the following:
+至于具体的差别,最重要的可能是:
 
-* Species is *much* more important than the character background (or "class").
+*物种是* much * 比人物背景(或"阶级")更重要.
 
-* Bones files only contain ghosts, never their equipment or cause of death.
+* Bones文件只包含鬼魂,从来不包含他们的设备或死因.
 
-* You cannot sell items to shops or elsewhere.
+* 你不能向商店或其他地方出售物品。
 
-* Resistances can be gained via mutations or items, never through eating.
+* 抗药性可以通过突变或物品获得,从不通过吃来得到。
 
-* There are inevitable deaths, but new players can win without spoilers, if
-  they learn from their mistakes. Very good players can win several consecutive
-  games.
+* 有不可避免的死亡,但新玩家可以赢 没有破坏者,如果
+他们从错误中吸取教训。 好球员可以连续赢几个
+游戏。
 
-Also, our aim is to give Crawl a really smooth interface, so you should really
-read through the command list ('??') some time. The following commands are
-particularly convenient:
+而且,我们的目标是给Crawl一个非常平滑的界面,所以你应该真的
+通过命令列表读取('?'?')一段时间。 以下命令是
+特别方便:
 
-* 'o', for automatic exploration of an unknown level
+*"o",用于自动探索未知水平
 
-* 'G', for automatic travel to another level ('G?' for help)
+*"G",用于自动前往另一个关卡("G?"寻求帮助).
 
-* 'X', to access the level map for travelling and other tasks ('X?')
+* “ X” ,用于访问用于旅行和其他任务的级别地图( “ X? ” )
 
-* 'Ctrl-F', to find and travel to items you've seen before ('Ctrl-F?')
+*"Ctrl-F",寻找并去往你之前见过的物品("Ctrl-F?").
 
-* 'Tab', to move towards or attack the nearest monster
+*"Tab",向最近的怪物移动或攻击
 %%%%
 Q:survival
 
-How can I avoid dying all the time? Can you give me some playing tips?
+我怎么能永远避免死亡? 你能给我一些小费吗?
 %%%%
 A:survival
 
-A: If you've got trouble even reaching the Temple, you might want to try a game
-or two in hints mode for some general playing hints.
+答:如果你有麻烦甚至到达圣殿,你也许想试试游戏
+或两个在提示模式中,用于一些普通播放提示。
 
-Also, there are easy playing combinations and more challenging ones (marked in
-dark grey on the selection screen). If you are new to Crawl, sticking to the
-easier ones is advisable. In general, treat each new monster you meet with
-utmost caution, try to choose the location where you fight monsters, and keep
-an eye on your health and magic.
+此外,还有容易玩的组合和更具挑战性的组合。
+选择屏幕上的深灰色). 如果你是新来的克劳尔,坚持
+比较容易的最好。 一般来说,对待你遇到的每一个新怪物
+尽量小心,试着选择 与怪物战斗的地点,并保持
+看着你的健康和魔法
 
-For specific hints dealing with a particular character, you can press '#'
-in-game to create a "character dump" in your morgue directory that details your
-equipment, items, skilling, and available spells. You can share this with other
-players to get feedback and advice through any of the community discussion
-resources listed at http://crawl.develz.org/.
+对于处理特定字符的特定提示,您可以按"#"
+在你的停尸房目录中创建一个“典型的垃圾场”, 详细介绍您
+设备、物品、技能以及可用的咒语。 你可以跟别人分享这个
+通过任何社区讨论获得反馈和建议的玩家
+在http://crawl.develz.org/上列出的资源。
 
 %%%%
 Q:downstairs
 
-I can't find any downstairs. Am I missing something?
+我找不到楼下的任何东西。 我漏了什么吗?
 %%%%
 A:downstairs
 
-A: They may be in a part of the level that is not reachable from the upstairs
-you came from. Try going up to the previous level and coming back down from
-there via a different set of stairs. Note that most levels feature three
-downstairs as well as three upstairs, not counting any escape hatches.
+答:他们可能处于从楼上无法达到的水平的一部分。
+你是从哪里来的 尝试升入上一级,然后从下
+穿过另一组楼梯 请注意,大多数级别是三级。
+楼下还有3个 不算有逃生舱门
 
-Alternatively, if you are in one of the branches, you might also have reached
-its lowest level and have to turn around to explore another one. Check the
-dungeon overview ('Ctrl-O') to see how deep you've delved into a given branch,
-or the database ('?/b') for the number of levels for unseen branches.
+或者,如果你在其中一个分支, 你也可能已经到达
+它的最低水平,必须转身去探索另一个水平。 检查
+地牢概况("Ctrl-O'")来看看你对某个分支的探索有多深,
+或数据库('?/b'),用于不见分行的级别。
 %%%%
 Q:cheating
 
-Is there a cheating mode to Crawl where I can play without dying?
+Crawl有不死就能玩的出轨模式吗?
 %%%%
 A:cheating
 
-A: Press '+'!
+A:按"+"键!
 %%%%
 Q:weapons
 
-I've got two cool weapons. How can I tell which one is better?
+我有两个很酷的武器。 我怎么知道哪一个更好?
 %%%%
 A:weapons
 
-A: "Better" depends on a number of factors, such as your weapon skills, whether
-it's one- or two-handed, the randart properties, the weapon brand, and the
-monsters you're about to face. In general, switching from a weapon type at
-which you are already highly skilled to another one that you have no skill in
-is a waste of time. The brands may greatly differ in damage output, but you can
-get a good idea by bashing a few comparatively harmless monsters with each and
-comparing the results.
+答:"更好"取决于一些因素,比如你的武器技能,是否
+单手或双手 兰德特的属性 武器品牌
+你即将面对的怪物。 一般来说,从武器类型转换到
+你已是高超的技艺
+是浪费时间。 这些品牌在损害产出上可能有很大的不同,但你可以
+一个好主意,通过打击一些 相对无害的怪物 与每个和
+比较结果。
 
-The delay in swinging a weapon can be reduced by the corresponding weapon skill.
-You can view your delay and damage rating with a weapon by reading its
-description or pressing '@' while the weapon is equipped. '@' works while
-unarmed too.
+挥发武器的延迟可以通过相应的武器技能来减少.
+你可以通过阅读武器来查看你的延迟和损坏评级
+描述或按下“  TOK0  ” 的操作,同时
+没有武器。
 %%%%
 Q:religion
 
-Which gods would you recommend to a beginning player?
+你会推荐哪个神 给开始的玩家?
 %%%%
 A:religion
 
-A: The most straightforward gods to play are probably Trog or Okawaru (for melee
-combat), Hepliaklqana or Okawaru (for ranged combat), Vehumet or Sif Muna (for
-spellcasting). Also, while unreliable, Xom can be a lot of fun.
+A:最直截了当的神可能就是特洛克或小川鲁(对于我而言)
+战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争等。
+拼写). 另外,虽然不可靠,但Xom可以有很多乐趣.
 
-Whenever you encounter an altar, be sure to read the corresponding god's
-description (by praying on the altar with '>') and take your time in deciding
-whether to pick this deity or not. As a follower, you can reread your god's
-description, now more detailed via the '!' toggle, on the '^' screen.
+当你遇到祭坛时 一定要读到相应的神的
+描述(用'>'在祭坛上祈祷)并慢慢决定
+是否选择这个神。 作为追随者,你可以重读你的神的
+描述,现在通过 “!” 切换,在“^” 屏幕上进行更详细的描述。
 
-You're guaranteed to find altars to almost every god on the first ten levels of
-the main dungeon.
+保证在前10个等级的几乎每个神都能找到祭坛
+主地牢。
 %%%%
 Q:ghosts
 
-I keep getting murdered by my own ghosts. Can I deactivate them?
+我一直被自己的鬼魂谋杀 我能解除他们吗?
 %%%%
 A:ghosts
 
-A: There isn't any such option, and we're not planning to add one, either.
+答:没有这样的选择,我们也没有计划增加一个。
 
-Keep in mind that you don't absolutely have to fight every monster you
-meet, and with ghosts it's even easier: they are generated in sealed
-vaults, and it is your choice whether to open each ghost vault.
+记住,你不必跟每个怪物打
+与鬼相会更简单:它们被密封地产生
+保险库,这是你的选择 是否打开每个鬼库。
 
-Alternatively, you could play a couple characters of strong species/background
-combinations for the sole purpose of busting those ghosts, e.g. Troll
-Berserkers. Or play online, where you'll mostly be killed by others' ghosts
-instead!
+或者,你可以扮演几个角色 强壮的物种/背景
+组合只是为了打倒那些鬼魂,例如"巨魔"
+贝塞尔克人. 或者在网上玩,在那里你大部分会被别人的鬼杀死
+相反!
 %%%%
 Q:abyss
 
-I've somehow ended up in a place called "Abyss". How do I get out of here?
+我不知何故来到了一个叫"阿比斯"的地方 我怎么离开这儿?
 %%%%
 A:abyss
 
-A: If you are in the Abyss for the first time, chances of getting out are
-slim. Still, here are a few general hints:
+答:如果你第一次出现在阿比斯河畔的话,出海的机会是:
+瘦了点 不过,这里还是有一些一般提示:
 
-* You need to find a gateway leading out of the Abyss. These are rare!
+* 你需要找到一条通往阿比斯河的通道 这是罕见的!
 
-* Don't stick around to fight; move as much as possible!
+*不要坚持战斗;走得越快越好!
 
-* If you have it, use defensive equipment (weapons of protection, etc.).
+* 拥有时,使用防御设备(防护武器等)。
 
-* Use teleportation to end up in a completely new part of the Abyss. (But keep
-  in mind that teleportation will take much longer to kick in than in the
-  Dungeon...)
+* 使用电传传送方式最终会到达阿比斯河的一个全新的部分. (但保留)
+考虑到电传传送需要更长的时间才能启动
+邓ge. )
 
-* Consider switching your allegiance to Lugonu, the god of the Abyss. Upon
-  conversion, you will be able to escape the Abyss immediately (but you may
-  anger your previous god!).
+*考虑转而效忠于阿比斯之神卢戈努. 开始
+转换,你将能够立即逃离阿比斯人(但你可以
+愤怒你的前神!
 
-* Descending deeper in the Abyss will increase the chance of finding an exit
-  out, but also increase the danger you face.
+* 阿比斯河更深处的下降会增加找到出口的机会
+出去,但也增加了你面临的危险。
 
-* Killing enemies can create a gateway out, but most enemies will be
-  too dangerous to fight; pick your battles carefully!
+* 杀死敌人可以创造出一个出入口,但大多数敌人将
+危险到打不起来 仔细选战吧
 %%%%
 Q:randart
 
-What do the terms "randart" and "unrandart" signify?
+"放纵"和"放纵"这两个词是什么意思?
 %%%%
 A:randart
 
-A: Apart from the standard items you'll find lying around in the dungeon, you
-might also stumble upon artefacts which come in two varieties:
+答:除了那些你躺在地牢里的标准物品外,
+也可能碰巧发现有两种种类的艺术品:
 
-* randart: a random artefact, usually a weapon, armour or jewellery, with
-  random properties such as conferring resistances or abilities.
+* Randart:一种随机的外科动物,通常是武器、装甲或珠宝,带有
+随机属性,如赋予阻力或能力等.
 
-* unrandart: a rarer variety of artefact that is predefined instead of randomly
-  generated. Most unrandarts are identified on sight, and some come with
-  special effects or unique abilities that are not available elsewhere.
+* unrandart:一种稀有的种类被预先定义而非随机定义的活体
+生成。 大部分的无兰地在目光下被辨认出来 有些带着
+特殊效应或别处不具备的独特能力。
 
-Neither of these types can be enchanted or branded, either temporarily or
-permanently.
+这两种类型都不可能被迷倒或被打上烙印,无论是暂时的还是
+永远。
 %%%%
 Q:interact
 
-Is there a way for me to interact with other players?
+我能和其他玩家互动吗?
 %%%%
 A:interact
 
-A: If you play online you can watch games in progress, other players can watch
-you while you play, and you can kill other players' ghosts. You can even send
-and receive messages.
+答:如果在线播放,可以观看正在进行中的游戏,其他玩家也可以观看
+你玩的时候 你可以杀死其他玩家的鬼魂 你甚至可以发送
+并接收消息,
 
-See http://crawl.develz.org/ to find an online server. The website also lists
-community discussion resources for Discord, Reddit, and IRC.
+见http://crawl.develz.org/找寻在线服务器. 网站还列出
+Discord、Reddit和IRC的社区讨论资源。
 %%%%
 ##############################################
-# Questions about the development process.
+#关于发展进程的问题。
 ##############################################
 Q:version
 
-When will development reach the "stable" version 1.0?
+开发何时能达到"稳定"1.0版?.
 %%%%
 A:version
 
-A: Actually, by now we consider Stone Soup to be reasonably stable for a game
-of such active development, so please don't get hung up about the 0.X
-versioning and give it a try.
+答:实际上,现在我们认为"石汤"对于游戏来说是相当稳定的
+所以请不要挂断0.X
+发音并试一试.
 
-We've mostly kept the versioning for historic reasons and because it might
-cause undue confusion. We might decide to change that at some point, but maybe
-we won't.
+我们之所以保留这个版本 主要是因为历史原因 和它可能
+造成不必要的混乱。 我们可能会决定改变这一点,但也许
+我们不会。
 %%%%
 Q:beta
 
-Is there a way for me to play the new version before it is released?
+有没有办法让我在新版本发行前播放?
 %%%%
 A:beta
 
-A: There certainly is! You can play "trunk" (what will eventually become the
-next version) online on any of the online servers; https://crawl.develz.org
-also hosts Windows and Mac binaries you can download. Note that trunk may be
-buggy, and that very rarely a bug may invalidate your saved games. If that
-doesn't bother you, go ahead and play!
+答:当然有! 你可以玩"trunk"(最终会变成什么)
+在任何在线服务器上联机; https://crawl.develz.org (英语).
+还主机Windows和Mac二进制,可以下载. 注意,树干可能是
+Buggy,而这个bug很少会使被保存的游戏失效. 如果是这样
+不要烦你,去玩吧!
 
-Please report bugs on github (https://github.com/crawl/crawl/issues).
+请在github上报告错误(https://github.com/crawl/crawl/issues).
 
-When doing so, please mention the version (see '?v') you're currently playing,
-in case the bug's already been fixed or the feature already implemented.
+在这样做时,请提及你目前正在播放的版本(参见'?v'),
+以防错误已被修复或特性已执行。
 %%%%
 Q:bug
 
-The game keeps crashing. / I think I found a bug. What do I do?
+游戏不断崩溃。 我该怎么办?
 %%%%
 A:bug
 
-A: Please submit a bug report on github (https://github.com/crawl/crawl/issues),
-and give as much information as you can:
+A:请就github提交错误报告(https://github.com/crawl/crawl/issues),
+并尽可能提供更多信息:
 
-* What were you doing at the time?
+你当时在做什么?
 
-* What did you expect to happen, what happened instead, etc.
+*你期望会发生什么, 发生什么,等等。
 
-* Most importantly, what version are you playing?
-  (If you're not sure, you can check in-game with '?v'.)
+* 最重要的是,你在玩哪个版本?
+(如果你不确定,你可以检查游戏中的'?v'。)
 
-* Console or tiles?
+*控制台还是瓷砖?
 
-For crashes or monsters/items/levels behaving oddly, we probably need a save
-file. If you're playing online console, you can create a copy of your save file
-for the developers to access by selecting the version you are playing and then
-pressing 'A' for Advanced options. Don't forget to include the server and your
-username in your bug report!
+对于撞车或怪物/物品/级别行为奇怪,我们可能需要保存
+文档。 如果您正在玩在线控制台, 您可以创建保存文件的复制件
+通过选择您正在播放的版本然后让开发者访问
+为高级选项按下“ A” 键。 别忘了包括服务器和你的
+错误报告中的用户名 !
 
-Sometimes a screenshot can be helpful. If there are error messages, please
-write them down. Short of a save file, a guide on how to reproduce the crash
-(or bug) can be useful; you can use wizard mode for this.
+有时一个截图可以有所帮助. 如果有错误消息, 请
+把它们写下来。 缺少保存文件、 如何复制崩溃的指南
+(或bug)可以有用;你可以为此使用向导模式.
 
-Thanks in advance!
+事先谢谢!
 %%%%
 Q:idea
 
-I've got a cool idea! What can I do with it?
+我有个好主意! 我能拿它怎么办?
 %%%%
 A:idea
 
-A: If you'd like your idea to get in, your surest bet is to put it in a place
-where a developer can see it. One good place is the official forum, at
-https://tavern.dcss.io/. If it catches the interest of at least one coder,
-chances are it'll make it into the game.
+答:如果你想进去,你最确定的赌注是把它放到一个地方
+在那里,开发者可以看到它。 一个好地方是官方论坛
+https://tavern.dcs.io/ (中文(简体) ). 如果它能吸引到至少一个编码员的利益,
+它有可能进入游戏
 
-Note that your idea has a better chance of being accepted if you present the
-ramifications on gameplay. ("How does [adding/removing X] make the game
-better?") A suggestion for how to improve the interface may go in without much
-ado, but other suggestions will probably require to defend & justify them.
+请注意,你的想法有更好的机会 被接受 如果你提出
+对游戏的影响。 ("如何让 TOK0  使游戏
+更好吗?” 关于如何改进接口的建议可能没有太多
+ado, 但其他建议可能需要为它们辩护和辩护。
 %%%%
 Q:help
 
-I'd like to help improve the game. What can I do?
+我想帮助改进游戏 我能怎么办?
 %%%%
 A:help
 
-A: There are several areas where you can get creative and outside help is much
-appreciated. These are:
+答:有好几个领域你可以获得创意,外部帮助很多
+谢谢 它们是:
 
-* maps/vaults (see dat/ directory, docs/develop/levels/introduction.txt)
+* 地图/地壳(见dat/目录、docs/develop/levels/introduction.txt)
 
-* monster speech (see dat/database/, docs/develop/monster_speech.txt)
+* 怪物演讲(见dat/database/,docs/develop/monster speech.txt)
 
-* monster/item/spell descriptions (see dat/descript/)
+* 怪物/物品/石刻描述(见地标/描述/)
 
-* tiles (see source/rltiles/, docs/develop/tiles_creation.txt)
+* 瓦片(见出处/rlitiles/,docs/develop/tiles create.txt)
 
-Also, if you'd like to write a patch but don't know how to go about it, read
-patch_guide.txt in the docs/develop/ directory. Submit it and other new things
-at our github repository: https://github.com/crawl/crawl/issues
+另外,如果你想写一个补丁,但不知道 如何去做,阅读
+docs/develop/ 目录中的补丁 guide.txt. 提交它和其他新东西
+https://github.com/crawl/crawl/issues 互联网档案馆的存檔,存档日期2013-12-02.
 
-Keep in mind that without previous discussions, we may not be able to use the
-patch, or it might need heavy modification. It's possible that it won't be
-accepted, usually for one of three reasons:
+记住,没有先前的讨论,我们可能无法使用
+补丁,或可能需要大量修改。 可能不会
+通常出于以下三个原因之一:
 
-* It doesn't fit into the Crawl world as we see it.
+* 它不符合我们所看到的爬行世界。
 
-* It violates Crawl's philosophy to avoid grinding and spoiler-heavy stuff.
+*这违反了克劳的哲学,避免了磨损和破坏者重的东西.
 
-* We just don't think it's interesting enough to ever be implemented.
+*我们只是认为它不够有趣 永远被执行。
 
-Thanks a lot for your support!
+谢谢你的支持!
 %%%%
 Q:changes
 
-What did you change in the most recent version?
+最近版本有什么变化?
 %%%%
 A:changes
 
-A: The admittedly highly subjective highlights of the most recent major release
-are listed along with the version information under '?v'. For older releases'
-changes, check out changelog.txt in the docs/ directory.
+答:最近重大发布中无可否认的高度主观性重点
+与“?v”下的版本信息一起列出。 对于旧的释放'
+更改,请检查docs/目录中的changelog.txt。
 %%%%
 Q:tiles lag
 
-The Tiles version is awfully slow! How can I improve that?
+提列斯版本非常缓慢! 我怎样才能改进呢?
 %%%%
 A:tiles lag
 
-A: Crawl renders its graphics using OpenGL and SDL. Because it uses OpenGL, it
-depends on a little bit of hardware acceleration to not run slowly. If your
-system is not set up to enable this, then Crawl will run quite poorly.
+A: Crawl使用OpenGL和SDL来制作其图形. 因为它使用 OpenGL,它
+取决于一点硬件加速 而不是慢运行 。 狦
+系统不是用来启动的,那么Crawl会运行非常糟糕。
 
-On Windows, the default driver that ships with Windows is extremely slow. Make
-sure to update your graphics card driver to the latest one available. On Linux,
-you should be sure to enable DRI.
+在Windows上,与Windows同船的默认驱动程序极其缓慢. 制作
+确定将您的图形卡驱动程序更新到最新可用的 。 在Linux上,
+您应该确定启用 DRI 。
 
-In addition to these suggestions, you can also try to see whether tweaking some
-options will improve performance. See docs/tiles_help.txt for details. If
-things are still too laggy after all of that, you could try the non-graphical
-console version, or wait for a future version that does not depend on OpenGL.
+除了这些建议,你还可以尝试看是否对一些
+选项将改善业绩。 详情请参见docs/tiles help.txt. 若为
+毕竟事情还是太糟糕了 你可以试试非图画
+控制台版本,或等待未来不依赖于OpenGL的版本.
 %%%%
