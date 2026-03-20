@@ -1,468 +1,468 @@
 ######################################################
-# Miscast
+# Miscast 
 # -------------
-# miscast.txt: generate spell miscast messages for players,
-#              monsters, and invisible things
+ # Miscast.txt：为玩家、
+ # 怪物和隐形物体生成法术错误消息 
 #
-# Message keys are expected in the form:
-#   `<spell-school> miscast <player|monster|unseen>`
+ # 消息键的格式为：
+ # `<spell-school> misscast <player|monster|unseen>` 
 ######################################################
 %%%%
-conjuration miscast player
+ 咒语错误施法玩家 
 
-Sparks fly from your @hands@
+ 火花从你的 @hands@ 中飞出
 
-A strange surge of energy strikes you from nowhere
+ 一股奇怪的能量不知从何而来 
 
-A wave of violent energy washes through your body
+ 一股猛烈的能量冲刷你的身体 
 
-Energy rips through your body
+ 能量撕裂你的身体 
 
-You are caught in a violent explosion
+ 你陷入剧烈的爆炸中 
 
-You are blasted with magical energy
+ 你被魔法能量击中 
 %%%%
-conjuration miscast monster
+ 咒语失误怪物 
 
-Sparks fly from @the_monster_possessive@ @hands@
+ 火花从 @the_monster_possessive@ 飞出@hands@ 
 
-@The_monster@ emits a flash of light
+ @The_monster@ 发出闪光 
 
-@The_monster@ lurches violently
+ @The_monster@ 剧烈摇晃 
 
-@The_monster@ jerks violently
+ @The_monster@ 猛烈抽搐 
 
-@The_monster@ is caught in a violent explosion
+ @The_monster@ 陷入剧烈爆炸 
 
-@The_monster@ is blasted with magical energy
+ @The_monster@ 被魔法能量轰击 
 %%%%
-conjuration miscast unseen
+ 召唤失误看不见的 
 
-A violent explosion happens from out of thin air
+ 凭空发生剧烈爆炸 
 
-There is a sudden explosion of magical energy
+ 魔法能量突然爆发 
 %%%%
-hexes miscast player
+ 咒语错误玩家 
 
-Multicoloured lights dance before your eyes
+ 眼前五彩灯光舞动 
 
-You feel a bit tired
+ 你感觉有点累 
 
-The light around you dims momentarily
+ 周围的光线瞬间变暗 
 
-You hear an indistinct dissonance whispering inside your mind
+ 你听到脑海中隐隐约约的不和谐声低语
 
-You feel a strange surge of energy
+ 你感到一股奇怪的能量涌动 
 
-Waves of @any_colour@ light ripple over your body
+ @any_colour@ 的光波在你的身体上荡漾 
 
-You feel enfeebled
+ 你感到虚弱 
 
-Magic surges out from your body
+ 魔法从你的身体中涌出 
 %%%%
-hexes miscast monster
+ 六角形错误的怪物 
 
-Multicoloured lights dance around @the_monster@
+ 多彩的灯光在 @the_monster@ 周围跳舞 
 
-@The_monster@ looks sleepy for a second
+ @The_monster@ 看起来很困一秒钟 
 
-The light around @the_monster@ dims momentarily
+ @the_monster@ 周围的光线瞬间变暗 
 
-@The_monster@ twitches
+ @The_monster@ 抽搐 
 
-@The_monster_possessive@ body glows momentarily
+ @The_monster_possessive@ 身体瞬间发光 
 
-Waves of @any_colour@ light ripple over @the_monster_possessive@ body
+ @any_colour@ 的光波在 @the_monster_possessive@ 身上荡漾 
 
-Magic surges out from @the_monster@
+ 魔法从 @the_monster@ 
 %%%%
-hexes miscast unseen
+ 六角体中涌出看不见的误播
 
-Multicoloured lights dance in the air
+空中舞动五彩光芒 
 
-A patch of light dims momentarily
+ 一片光芒瞬间黯淡 
 
-Magic surges out from thin air
+ 魔法凭空涌出 
 %%%%
-summoning miscast player
+ 召唤失法玩家 
 
-A fistful of eyes flickers past your view
+ 一双眼睛在你眼前闪烁 
 
-Distant voices call out in your mind
+ 远处的声音在你脑海中呼唤 
 
-Something forms from out of thin air
+ 有东西凭空形成 
 
-A chorus of moans calls out in your mind
+ 合唱心中发出呻吟声 
 
-Desperate hands claw out at you
+ 绝望的双手向你伸出爪子 
 %%%%
-summoning miscast monster
+ 召唤误施怪物 
 
-Desperate hands claw out at @the_monster@
+ 绝望的双手向 @the_monster@ 伸出爪子 
 %%%%
-summoning miscast unseen
+ 召唤看不见的误施 
 
-Desperate hands claw out at random
+ 绝望的双手随机伸出 
 %%%%
-necromancy miscast player
+ 死灵法术误施玩家 
 
-You hear strange and distant voices
+ 你听到奇怪而遥远的声音
 
-The world around you seems to dim momentarily
+ 你周围的世界似乎瞬间变暗了 
 
-You feel as though something walked over your grave
+ 你感觉好像有什么东西走过你的坟墓 
 
-You sense a malignant aura
+ 你感觉到一种邪恶的光环 
 
-You feel very uncomfortable
+ 你感觉很不舒服 
 
-Pain shoots through your body
+ 疼痛穿过你的身体 
 
-You feel horribly lethargic
+ 你感觉非常昏昏欲睡 
 
-Your flesh rots away
+ 你的肉体腐烂了 
 
-Flickering shadows surround you
+闪烁的阴影围绕着你 
 
-You are engulfed in negative energy
+ 你被负能量吞噬 
 
-You convulse helplessly as pain tears through your body
+ 你无助地抽搐，疼痛撕裂你的身体 
 %%%%
-necromancy miscast monster
+ 死灵术失误怪物 
 
-@The_monster@ twitches violently
+ @The_monster@ 剧烈抽搐 
 
-@The_monster@ pauses, visibly distraught
+ @The_monster@ 停顿，明显心烦意乱 
 
-@The_monster@ seems to dim momentarily
+ @The_monster@ 似乎暂时变暗 
 
-@The_monster@ looks as though something walked over @possessive@ grave
+ @The_monster@ 看起来好像有什么东西走过 @possessive@ 坟墓 
 
-@The_monster@ is briefly tinged with black
+ @The_monster@ 短暂地染上黑色 
 
-@The_monster@ scowls horribly
+ @The_monster@ 皱着眉头 
 
-@The_monster@ convulses with pain
+ @The_monster@ 疼痛抽搐 
 
-@The_monster@ looks incredibly listless
+ @The_monster@ 看起来极其无精打采 
 
-@The_monster@ rots away
+ @The_monster@ 腐烂消失 
 
-Flickering shadows surround @the_monster@
+ 闪烁的阴影围绕着 @the_monster@ 
 
-@The_monster@ is engulfed in negative energy
+ @The_monster@ 被负能量吞噬 
 
-@The_monster@ convulses helplessly with pain
+ @The_monster@ 疼痛无助地抽搐 
 
-@The_monster@ seems frightened for a moment
+ @The_monster@ 似乎受到了片刻的惊吓 
 %%%%
-necromancy miscast unseen
+ 死灵术失误未见
 
-The air has a black tinge for a moment
+空气瞬间呈现黑色 
 
-Shadows flicker in the thin air
+ 阴影在稀薄的空气中闪烁 
 %%%%
-translocation miscast player
+ 易位错位玩家 
 
-You catch a glimpse of the back of your own head
+ 你瞥见了自己的后脑勺 
 
-You feel a wrenching sensation
+ 你感到一阵绞痛 
 
-You feel off-balance for a moment
+ 你瞬间失去平衡 
 
-The floor and the ceiling briefly switch places
+ 地板和天花板短暂交换位置 
 
-You spin around
+ 你旋转
 
-The world appears momentarily distorted
+ 周围的世界瞬间扭曲 
 
-You are caught in a field of spatial distortion
+ 你陷入了空间扭曲的领域 
 
-Space twists in upon itself
+ 空间自我扭曲 
 
-Space [bends|warps] [crazily |]around you
+ 空间 [bends|warps] [crazily |] 在你周围 
 %%%%
-translocation miscast monster
+ 易位错误施法怪物 
 
-@The_monster@ jerks violently for a moment
+ @The_monster@ 猛烈地抽搐了一下 
 
-@The_monster@ looks off-balance for a moment
+ @The_monster@ 暂时看起来失去平衡 
 
-@The_monster@ spins around
+ @The_monster@ 围绕 
 
-@The_monster@ appears momentarily distorted
+ 旋转 @The_monster@ 出现暂时扭曲 
 
-@The_monster_possessive@ features rearrange themselves for a while
+ @The_monster_possessive@ 功能暂时重新排列 
 
-@The_monster@ is caught in a field of spatial distortion
+ @The_monster@ 陷入空间扭曲领域 
 
-Space [bends|warps] [crazily |]around @the_monster@
+ 空间 [bends|warps] [crazily |]around @the_monster@ 
 %%%%
-translocation miscast unseen
+ 看不见的易位错投 
 
-The space around something warps impossibly
+ 某物周围的空间不可思议地扭曲 
 
-A piece of empty space twists and distorts
+ 一片空旷的空间扭曲变形 
 
-A rift temporarily opens in the fabric of space
+ 空间结构中暂时打开的裂痕 
 %%%%
-fire miscast player
+ 火错投玩家 
 
-[Cinders|Ashes] fly from your @hands@
+ [Cinders|Ashes] 从您的 @hands@ 飞来
 
-The air around you burns with energy
+ 你周围的空气因能量而燃烧 
 
-Heat runs through your body
+ 热量流经你的身体 
 
-You feel uncomfortably hot
+ 你感到不舒服的热 
 
-Fire whirls out from your @hands@
+ 火焰从你的 @hands@ 中旋转 
 
-Flames sear your flesh
+ 火焰灼烧你的肉体 
 
-You are blasted with [searing |][fire|flames]
+ 你被 [searing |][fire|flames] 炸毁 
 
-You are caught in a fiery explosion
+ 你被困在火中爆炸 
 
-There is a sudden and violent explosion of flames
+ 突然猛烈的火焰爆炸 
 %%%%
-fire miscast monster
+ 火误投怪物 
 
-[Cinders|Ashes] fly from @the_monster_possessive@ @hands@
+ [Cinders|Ashes] 从 @the_monster_possessive@ 飞出 @hands@ 
 
-The air around @the_monster@ burns with energy
+ @the_monster@ 周围的空气因能量燃烧 
 
-Dim flames ripple over @the_monster_possessive@ body
+ 暗淡的火焰在 @the_monster_possessive@ 身上荡漾 
 
-Fire whirls out @the_monster_possessive@ @hands@
+ 火旋出@the_monster_possessive@ @hands@ 
 
-Flames sear @the_monster@
+ 火焰灼烧 @the_monster@
 
-@The_monster@ is blasted with [searing |][fire|flames]
+@The_monster@ 与 [searing |][fire|flames] 一起爆炸 
 
-@The_monster@ is caught in a fiery explosion
+ @The_monster@ 陷入剧烈爆炸 
 %%%%
-fire miscast unseen
+ 看不见的火灾误投 
 
-Fire whirls out of nowhere
+ 火焰不知从何而来 
 
-A flame briefly burns in thin air
+ 火焰在稀薄的空气中短暂燃烧 
 
-Fire explodes from out of thin air
+ 火焰从稀薄的空气中爆炸 
 
-A large flame burns hotly for a moment in the thin air
+ 大火焰燃烧稀薄空气中一时炎热 
 %%%%
-ice miscast player
+ 冰错玩家 
 
-You shiver with cold
+ 你冷得瑟瑟发抖 
 
-A chill runs through your body
+ 一股寒意贯穿你的全身 
 
-Your @hands@ feel@hand_conj@ numb with cold
+ 你的 @hands@ 感觉 @hand_conj@ 冷得麻木 
 
-You feel [a little bit|uncomfortably|extremely] cold
+ 你感觉 [a little bit|uncomfortably|extremely] 冷 
 
-[Ice|Frost] covers your body
+ [Ice|Frost] 覆盖你的身体 
 
-You are encased in [ice|frost]
+ 你是被包裹在 [ice|frost] 
 
-You are covered in a thin layer of [ice|frost]
+ 你被一层薄薄的 [ice|frost] 
 
-Heat is drained from your body
+ 热量从你的身体中排出 
 
-You are caught in an explosion of ice and frost
+ 你被冰霜爆炸包围 
 %%%%
-ice miscast monster
+ 冰错铸怪物 
 
-@The_monster@ shivers with cold
+ @The_monster@ 寒冷地颤抖 
 
-Frost covers @the_monster_possessive@ body
+ 霜覆盖 @the_monster_possessive@ 身体
 
-@The_monster@ shivers
+ @The_monster@ 颤抖 
 
-@The_monster@ is covered in a thin layer of [ice|frost]
+ @The_monster@ 被一层薄薄的 [ice|frost] 覆盖 
 
-Heat is drained from @the_monster@
+ 热量从 @the_monster@ 排出 
 
-@The_monster@ is caught in an explosion of ice and frost
+ @The_monster@ 陷入冰霜爆炸中 
 
-@The_monster@ is encased in [ice|frost]
+ @The_monster@ 被包裹在 [ice|frost] 中
 %%%%
-ice miscast unseen
+ 看不见的冰错 
 
-Wisps of condensation drift in the air
+ 空气中飘散的一缕凝结 
 
-Ice and frost explode from out of thin air
+ 冰霜凭空爆炸 
 
-An unseen figure is encased in [ice|frost]
+ [ice|frost] 中包裹着看不见的身影 
 %%%%
-air miscast player
+ 空气错投播放器 
 
-Sparks of electricity dance around you
+ 电火花在你身边舞动 
 
-The air around you crackles with energy
+ 你周围的空气充满能量爆裂声
 
-You are blasted with air
+ 你被空气击中 
 
-There is a short, sharp shower of sparks
+ 有一阵短暂而尖锐的火花 
 
-The wind whips around you
+ 风在你周围呼啸 
 
-You feel a sudden electric shock
+ 你突然感到电击 
 
-Electricity courses through your body
+ 电流穿过你的身体 
 
-You are caught in an explosion of electrical discharges
+ 你陷入放电爆炸 
 %%%%
-air miscast monster
+ 空气误投怪物 
 
-@The_monster@ bobs in the air for a moment
+ @The_monster@在空中晃动了一会儿
 
-Sparks of electricity dance between @the_monster_possessive@ @hands@
+电火花在 @the_monster_possessive@ @hands@ 
 
-The air around @the_monster@ crackles with energy
+ 之间舞动 @the_monster@ 周围的空气因能量而爆裂 
 
-@The_monster@ is blasted with air
+ @The_monster@ 被空气炸开 
 
-@The_monster@ is briefly showered in sparks
+ @The_monster@ 短暂地沐浴在火花中 
 
-The wind whips around @the_monster@
+ 风在 @the_monster@ 周围呼啸 
 
-@The_monster@ is jolted
+ @The_monster@ 被震动
 
-@The_monster@ is caught in an explosion of electrical discharges
+ @The_monster@ 陷入放电爆炸中 
 
-@The_monster@ is struck by twisting air
+ @The_monster@ 被扭曲的空气击中 
 %%%%
-air miscast unseen
+ 看不见的空气错乱 
 
-The wind whips up out of nowhere
+ 风不知从何而来 
 
-Something invisible sparkles with electricity
+ 看不见的东西闪闪发光 
 
-The air around something crackles with energy
+ 某物周围的空气因能量而爆裂 
 
-Electrical discharges explode from out of thin air
+ 放电从外部爆炸稀薄的空气 
 
-The air madly twists around a spot
+ 空气在一个点周围疯狂扭曲 
 %%%%
-earth miscast player
+ 地球误播玩家 
 
-[Sand|Gravel] pours from your @hands@
+ [Sand|Gravel] 从你的 @hands@ 中倾泻而出 
 
-You feel a surge of energy from the ground
+ 你感到一股能量从地面涌来 
 
-The floor [shifts|shudders|quakes|rumbles] beneath you alarmingly
+ 你脚下的地板 [shifts|shudders|quakes|rumbles] 令人震惊 
 
-You are hit by flying rocks
+ 你被飞石击中 
 
-You are blasted with sand
+ 你是被沙子爆破 
 
-Rocks fall onto you out of nowhere
+ 岩石不知从何而来落到你身上 
 
-You are caught in an explosion of flying shrapnel
+ 你被飞来的弹片爆炸所困 
 %%%%
-earth miscast monster
+ 地球误投怪物 
 
-[Sand|Gravel] pours from @the_monster_possessive@ @hands@
+ [Sand|Gravel] 从 @the_monster_possessive@ @hands@ 倾泻而出 
 
-@The_monster@ is hit by flying rocks
+ @The_monster@ 被飞石击中 
 
-@The_monster@ is blasted with sand
+ @The_monster@ 被沙子爆破
 
-Rocks fall onto @the_monster@ out of nowhere
+ 岩石不知从何而来落在 @the_monster@ 上 
 
-@The_monster@ is caught in an explosion of flying shrapnel
+ @The_monster@ 被飞弹片爆炸所困 
 %%%%
-earth miscast unseen
+ 看不见的大地错失 
 
-Flying rocks appear out of thin air
+ 飞石凭空出现 
 
-A miniature sandstorm briefly appears
+ 短暂出现的微型沙尘暴 
 
-Rocks fall out of nowhere
+ 岩石不知从何而来 
 
-Flying shrapnel explodes from thin air
+ 飞弹片从稀薄空气中爆炸 
 %%%%
-alchemy miscast player
+ 炼金术误铸玩家 
 
-You are engulfed in toxic fumes
+ 你被有毒烟雾吞没 
 
-There is a flash of cinnabar
+ 有一道朱砂闪光 
 
-[Mercury|Quicksilver|Fool's gold|Saltpeter|Sulphur|Liquid metal] flows from your @hands@
+ [Mercury|Quicksilver|Fool's gold|Saltpeter|Sulphur|Liquid metal] 从你的 @hands@ 中流出 
 
-Parts of your body briefly turn [golden|silvery|metallic|leaden|crystalline]
+ 你身体的一部分短暂转动 [golden|silvery|metallic|leaden|crystalline] 
 
 w:4
-You are overcome by clouds of @any_colour@ smoke
+ 你被云压倒@any_colour@ 烟雾 
 
 w:4
-The inside of your mouth momentarily tastes like @any_colour@
+ 口腔内瞬间尝起来像 @any_colour@
 
 w:2
-Your skin changes to @any_colour_pattern@
+你的皮肤变成 @any_colour_pattern@ 
 
 w:2
-You are surrounded by clouds of @any_glowing_colour@ dust
+ 你被 @any_glowing_colour@ 粉尘云包围 
 %%%%
-alchemy miscast monster
+ 炼金术误铸怪物 
 
-@The_monster@ is engulfed in toxic fumes
+ @The_monster@ 被有毒烟雾吞没 
 
-@The_monster@ is [blasted|coated] with [cinnabar|sulphur] dust
+ @The_monster@ 是带有 [cinnabar|sulphur] 粉尘的 [blasted|coated] 
 
-@The_monster@ is coated in salt
+ @The_monster@ 被盐覆盖
 
-@The_monster@ starts coughing violently
+ @The_monster@ 开始剧烈咳嗽 
 
-@The_monster@ looks incredibly sick
+ @The_monster@ 看起来病得很厉害 
 
 w:5
-@The_monster@ is overcome by clouds of @any_colour@ smoke
+ @The_monster@ 被 @any_colour@ 烟雾云吞没 
 
 w:5
-@The_monster_possessive@ skin changes to @any_colour_pattern@
+ @The_monster_possessive@ 皮肤变成 @any_colour_pattern@ 
 
 w:5
-@The_monster@ is surrounded by clouds of @any_glowing_colour@ dust
+ @The_monster@ 被 @any_glowing_colour@ 灰尘云包围
 %%%%
-alchemy miscast unseen
+ 看不见的炼金术误铸 
 
-The air has a green tinge for a moment
+ 空气中有一瞬间的绿色调 
 
-Sulphurous heat explodes from thin air
+ 硫磺热量从稀薄的空气中爆炸 
 
-An unseen figure is coated in salt
+ 看不见的人物被盐覆盖 
 %%%%
-forgecraft miscast player
+ 锻造工艺误铸玩家 
 
-You lose structural integrity
+ 你失去了结构的完整性 
 
-You feel yourself deconstruct slightly
+ 你感觉自己在轻微解构
 
-A [buzzing|clanking|creaking|whirring] sound echoes in your mind
+ [buzzing|clanking|creaking|whirring] 声音在你脑海中回响 
 
-Metal odds and ends fall onto you out of nowhere
+ 金属零碎不知从何而来 
 
-You are covered in metallic shards
+ 你被金属碎片覆盖 
 
-You are caught in an explosion of metallic debris
+ 你陷入金属碎片爆炸中 
 %%%%
-forgecraft miscast monster
+ 锻造失误怪物 
 
-@The_monster@ loses structural integrity
+ @The_monster@ 失去结构完整性 
 
-Metal odds and ends fall onto @the_monster@ out of nowhere
+ 金属零碎和碎片末端不知从何而来落到 @the_monster@ 上 
 
-@The_monster@ is covered in metallic shards
+ @The_monster@ 被金属碎片覆盖 
 
-@The_monster@ is caught in an explosion of metallic debris
+ @The_monster@ 陷入金属碎片爆炸中 
 %%%%
-forgecraft miscast unseen
+ 看不见的锻造失误 
 
-Metal odds and ends rain from above
+ 金属零碎从上面落下 
 
-An unseen figure is covered in metallic shards
+ 看不见的人物被金属碎片覆盖 
 
-Metallic debris explodes from thin air
+金属碎片从稀薄的空气中爆炸

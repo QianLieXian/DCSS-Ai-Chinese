@@ -1,469 +1,469 @@
 ############################################################
-# As of Stone Soup 0.3 the previously hardcoded monster
-# speech has been outsourced. This makes changing existing
-# messages, and adding new ones really easy.
+# 从 Stone Soup 0.3 开始，之前硬编码的怪物 
+ # 语音已被外包。这使得更改现有的 
+ # 消息和添加新消息变得非常容易。 
 #
-# shout.txt holds the utterances (and visual equivalents) of
-# monsters that notice you.
+ #shout.txt 包含 
+ # 注意到你的怪物的话语（和视觉等价物）。 
 #
-# For an explanation of how to read monspeak.txt or shout.txt
-# and how to add new messages, see monster_speech.txt in the
-# docs/develop/ directory.
+ # 解释如何阅读 monspeak.txt 或shout.txt 
+ # 以及如何添加新消息的说明，请参阅
+# docs/develop/ 目录中的 monster_speech.txt。
 ############################################################
 %%%%
-__BUGGY
+ __BUGGY 
 
-# This line should never get displayed to the user, even if
-# monster_shout() in shout.cc detects buggy behaviour,
-# so showing this line would itself be a bug.
-SOUND:You hear doubly buggy behaviour!
+ # 此行永远不应该显示给用户，即使 
+ # monster_shout() 在shout.cc 检测到错误行为，
+ # 因此显示此行本身就是一个错误。 
+SOUND: 您听到双重错误行为！ 
 %%%%
-__SHOUT
+ __SHOUT 
 
-SOUND:You hear a shout!
+SOUND: 您听到一声喊叫！ 
 %%%%
-__SHOUT seen
+ __SHOUT 看到 
 
-SOUND:@The_monster@ shouts!
+SOUND: @The_monster@ 喊叫！ 
 %%%%
-__BARK unseen
+ __BARK 看不见 
 
-SOUND:You hear a bark!
+SOUND: 你听到狗叫声！ 
 %%%%
-__BARK seen
+ __BARK 看到 
 
-SOUND:@The_monster@ barks!
+SOUND: @The_monster@ 吠叫！ 
 %%%%
-__HOWL unseen
+ __HOWL 看不见 
 
-SOUND:You hear a howl!
+SOUND: 你听到嚎叫！ 
 %%%%
-__HOWL seen
+ __HOWL 看到 
 
-SOUND:@The_monster@ howls!
+SOUND: @The_monster@ 嚎叫！ 
 %%%%
-__TWO_SHOUTS unseen
+ __TWO_SHOUTS 看不见 
 
-SOUND:You hear two shouts!
+SOUND: 您听到两声喊叫！ 
 %%%%
-__TWO_SHOUTS seen
+ __TWO_SHOUTS 看到 
 
-SOUND:@The_monster@ shouts in stereo!
+SOUND: @The_monster@ 在立体声中喊叫！ 
 %%%%
-__ROAR unseen
+ __ROAR 看不见的 
 
-SOUND:You hear a roar!
+SOUND: 你听到咆哮！ 
 %%%%
-__ROAR seen
+ __ROAR 见过 
 
-SOUND:@The_monster@ roars!
+SOUND: @The_monster@ 咆哮！ 
 %%%%
-__SCREAM unseen
+ __SCREAM 看不见 
 
-SOUND:You hear a hideous shriek!
+SOUND: 你听到可怕的尖叫声！ 
 %%%%
-__SCREAM seen
+ __SCREAM 看到 
 
-SOUND:@The_monster@ gives a hideous shriek!
+SOUND: @The_monster@ 发出可怕的尖叫声！ 
 %%%%
-__BELLOW unseen
+ __BELLOW 看不见 
 
-SOUND:You hear a bellow!
+SOUND: 你听到吼叫！ 
 %%%%
-__BELLOW seen
+ __BELLOW 看到 
 
-SOUND:@The_monster@ bellows!
+SOUND: @The_monster@ 波纹管！ 
 %%%%
-__BLEAT unseen
+ __BLEAT 看不见 
 
-SOUND:You hear a bleat!
+SOUND: 你听到咩咩声！
 %%%%
-__BLEAT seen
+__BLEAT 看到 
 
-SOUND:@The_monster@ bleats!
+SOUND: @The_monster@ 咩咩叫！ 
 %%%%
-__TRUMPET unseen
+ __TRUMPET 看不见 
 
-SOUND:You hear a trumpeting!
+SOUND: 你听到喇叭声！ 
 %%%%
-__TRUMPET seen
+ __TRUMPET 见过
 
-SOUND:@The_monster@ trumpets!
+SOUND: @The_monster@ 小号！ 
 %%%%
-__SCREECH unseen
+ __SCREECH 看不见 
 
-SOUND:You hear a screech!
+SOUND: 你听到尖叫声！ 
 %%%%
-__SCREECH seen
+ __SCRECH 看到 
 
-SOUND:@The_monster@ screeches!
+SOUND: @The_monster@ 尖叫！ 
 %%%%
-__BUZZ unseen
+ __BUZZ 看不见 
 
-SOUND:You hear an angry buzzing noise.
+SOUND: 您听到愤怒的嗡嗡声。 
 %%%%
-__BUZZ seen
+ __BUZZ 看到 
 
-SOUND:@The_monster@ buzzes angrily.
+SOUND: @The_monster@ 愤怒地嗡嗡作响。 
 %%%%
-__MOAN unseen
+ __MOAN 看不见 
 
-SOUND:You hear a chilling moan.
+SOUND: 你听到令人毛骨悚然的呻吟声。 
 %%%%
-__MOAN seen
+ __MOAN 看到 
 
-SOUND:@The_monster@ gives a chilling moan.
+SOUND: @The_monster@ 发出令人毛骨悚然的呻吟声。 
 %%%%
-__GURGLE unseen
+ __GURGLE 看不见的 
 
-SOUND:You hear a horrible gurgling sound!
+SOUND: 您听到可怕的咯咯声！ 
 %%%%
-__GURGLE seen
+ __GURGLE 看到 
 
-SOUND:@The_monster@ gurgles horribly!
+SOUND: @The_monster@ 发出可怕的咯咯声！ 
 %%%%
-__CROAK unseen
+ __CROAK 看不见的 
 
-SOUND:You hear a loud, deep croak!
+SOUND: 您听到一声响亮、深沉的嘎嘎声！ 
 
-SOUND:You hear a croak.
+SOUND: 你听到呱呱叫声。 
 %%%%
-__CROAK seen
+ __CROAK 看到 
 
-SOUND:@The_monster@ gives a loud, deep croak!
+SOUND: @The_monster@ 发出响亮、深沉的嘎嘎声！ 
 
-SOUND:@The_monster@ croaks.
+SOUND: @The_monster@ 呱呱叫。 
 %%%%
-__GROWL unseen
+ __GROWL 看不见 
 
-SOUND:You hear an angry growl.
+SOUND: 您听到愤怒的咆哮。 
 %%%%
-__GROWL seen
+ __GROWL 看到 
 
-SOUND:@The_monster@ growls angrily.
+SOUND: @The_monster@ 愤怒地咆哮。 
 %%%%
-__HISS unseen
+ __HISS 看不见 
 
-SOUND:You hear an angry hiss.
+SOUND: 您听到愤怒的嘶嘶声。 
 %%%%
-__HISS seen
+ __HISS 看到 
 
-SOUND:@The_monster@ hisses angrily.
+SOUND: @The_monster@ 愤怒地发出嘶嘶声。 
 %%%%
-__SKITTER unseen
+ __SKITTER 看不见 
 
-SOUND:You hear a skittering sound.
+SOUND: 您听到掠过的声音。 
 %%%%
-__SKITTER seen
+ __SKITTER 看到 
 
-SOUND:@The_monster_possessive@ many legs skitter.
+SOUND: @The_monster_possessive@ 许多腿滑行。
 %%%%
-__FAINT_SKITTER unseen
+__FAINT_SKITTER 看不见的 
 
-SOUND:You hear a faint skittering sound.
+SOUND: 您听到微弱的掠过声。 
 %%%%
-__FAINT_SKITTER seen
+ __FAINT_SKITTER 看到 
 
-SOUND:@The_monster_possessive@ many legs skitter faintly.
+SOUND: @The_monster_possessive@ 许多腿隐隐约约地掠过。 
 %%%%
-__SQUEAL unseen
+ __SQUEAL 看不见 
 
-SOUND:You hear an angry squeal.
+SOUND: 您听到愤怒的尖叫声。 
 %%%%
-__SQUEAL seen
+ __SQUEAL 看到 
 
-SOUND:@The_monster@ squeals angrily.
+SOUND: @The_monster@ 愤怒地尖叫。 
 %%%%
-__DEMON_TAUNT
+ __DEMON_TAUNT 
 
-@The_monster@ @says@, "@demon_taunt@"
+ @The_monster@ @says@、“@demon_taunt@”
 %%%%
-__CHERUB seen
+ __CHERUB 看到 
 
-SOUND:@The_monster_possessive@ eagle head screeches!
+SOUND: @The_monster_possessive@ 鹰头尖叫！ 
 
-SOUND:@The_monster_possessive@ lion head roars!
+SOUND: @The_monster_possessive@ 狮头怒吼！ 
 
-SOUND:@The_monster_possessive@ ox head lows!
+SOUND: @The_monster_possessive@ 牛头低头！ 
 
-SOUND:@The_monster_possessive@ human head shouts!
+SOUND: @The_monster_possessive@ 人头大喊！ 
 %%%%
-__CHERUB unseen
+ __CHERUB 看不见 
 
-SOUND:You hear a shout.
+SOUND: 你听到一声喊叫。 
 
-SOUND:You hear a screech.
+SOUND: 你听到一声尖叫。 
 
-SOUND:You hear a roar.
+SOUND: 你听到一声咆哮。 
 
-SOUND:You hear a low.
+SOUND: 您听到一声低沉的声音。 
 %%%%
-__LOUD_ROAR unseen
+ __LOUD_ROAR 看不见 
 
-SOUND:You hear a deafening roar!
+SOUND: 你听到震耳欲聋的咆哮！ 
 %%%%
-__LOUD_ROAR seen
+ __LOUD_ROAR 看到
 
-SOUND:@The_monster@ roars deafeningly!
+SOUND: @The_monster@ 震耳欲聋的咆哮！ 
 %%%%
-__RUSTLE unseen
+ __RUSTLE 看不见的 
 
-SOUND:You hear a loud rustle.
+SOUND: 您听到响亮的沙沙声。 
 %%%%
-__RUSTLE seen
+ __RUSTLE 看到 
 
-SOUND:@The_monster_possessive@ pages rustle loudly.
+SOUND: @The_monster_possessive@ 页面沙沙作响。 
 %%%%
-__SQUEAK unseen
+ __SQUEAK 看不见 
 
-SOUND:You hear a loud squeak.
+SOUND: 您听到一声响亮的吱吱声。 
 %%%%
-__SQUEAK seen
+ __SQUEAK 看到 
 
-SOUND:@The_monster@ squeaks loudly.
+SOUND: @The_monster@ 大声吱吱叫。 
 %%%%
-__CAW seen
+ __CAW 看到 
 
-SOUND:@The_monster@ caws.
+SOUND: @The_monster@ 叫声。 
 %%%%
-__CAW unseen
+ __CAW 看不见 
 
-SOUND:You hear a loud caw.
+SOUND: 您听到一声响亮的叫声。 
 %%%%
-__LAUGH seen
+ __LAUGH 看到 
 
-SOUND:@The_monster@ laughs maniacally.
+SOUND: @The_monster@ 疯狂地笑。 
 %%%%
-__LAUGH unseen
+ __笑看不见的 
 
-SOUND:You hear maniacal laughter.
+SOUND: 你听到疯狂的笑声。 
 ############################################
-# End of default shouts
+ # 默认喊叫结束
 ############################################
 ############################################################
-# Player ghost shouts. Potentially different ones for each
-# class, though currently they all just copy the default
-# player ghost.
+# 玩家鬼魂大喊。每个 
+ # 类可能有不同的，尽管目前它们都只是复制默认的 
+ # 玩家幽灵。 
 ############################################################
 %%%%
-player ghost
+ 玩家幽灵 
 
-VISUAL:@The_monster@ turns @possessive@ malevolent gaze towards you.
+VISUAL: @The_monster@ 将 @possessive@ 的恶毒目光转向你。 
 %%%%
-Fighter player ghost
+ 战士玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Hedge Wizard player ghost
+ 对冲巫师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Gladiator player ghost
+ 角斗士玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Necromancer player ghost
+ 死灵法师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Brigand player ghost
+强盗玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Berserker player ghost
+ 狂战士玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Hunter player ghost
+ 猎人玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Conjurer player ghost
+ 魔法师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Enchanter player ghost
+ 魔法师玩家幽灵
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Fire Elementalist player ghost
+ 火元素师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Ice Elementalist player ghost
+ 冰元素师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Summoner player ghost
+ 召唤师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Air Elementalist player ghost
+ 空气元素师玩家幽灵
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Earth Elementalist player ghost
+ 土元素师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Alchemist player ghost
+ 炼金师玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Chaos Knight player ghost
+ 混沌骑士玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Shapeshifter player ghost
+ 变形者玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Monk player ghost
+ 武僧玩家幽灵 
 
-@player ghost@
+ @player ghost@
 %%%%
-Warper player ghost
+Warper 玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 %%%%
-Wanderer player ghost
+ Wanderer 玩家幽灵 
 
-@player ghost@
+ @player ghost@ 
 ########################################
-# Shouts by monster symbol
+ # 通过怪物符号 
 ########################################
 %%%%
 '&'
 
-@__DEMON_TAUNT@
+ @__DEMON_TAUNT@ 
 %%%%
-'cap-G'
+ 'cap-G' 
 
-VISUAL:@The_monster@ turns @possessive@ gaze towards you.
+VISUAL: @The_monster@ 将 @possessive@ 的目光转向你。 
 %%%%
-'cap-J'
+ 'cap-J' 
 
-VISUAL:@The_monster@ quivers.
+VISUAL: @The_monster@ 颤抖。 
 ########################################
-# Shouts by monster genus
-########################################
-%%%%
-giant slug
-
-VISUAL:@The_monster@ swivels @possessive@ eye-stalks towards you.
-########################################
-# Shouts for specific monsters
+ # 怪物属 
 ########################################
 %%%%
-ballistomycete spore
+ 巨型蛞蝓 
 
-VISUAL:@The_monster@ waves @possessive@ rhizomes.
+VISUAL: @The_monster@ 向您旋转 @possessive@ 眼柄。 
+########################################
+ # 为特定怪物喊叫 
+########################################
 %%%%
-glowing orange brain
+ 弹道菌孢子 
 
-VISUAL:@The_monster@ turns @possessive@ attention towards you.
+VISUAL: @The_monster@ 波 @possessive@ 根茎。 
 %%%%
-# Iron imps, shadow imps and white imps copy imps.
-imp
+ 发光的橙色大脑 
 
-# Shout one half the time, taunt the other half.
-@__SHOUT@
-
-SOUND:@The_monster@ @says@, "@imp_taunt@"
+VISUAL: @The_monster@ 将 @possessive@ 的注意力转向您。 
 %%%%
-moth of wrath
+ # 铁小鬼、阴影小鬼和白色小鬼复制小鬼。 
+ 小鬼 
 
-VISUAL:@The_monster_possessive@ fur bristles in rage as it notices you.
+ # 喊一半，嘲讽另一半。 
+ @__SHOUT@ 
+
+SOUND: @The_monster@ @says@、“@imp_taunt@” 
 %%%%
-iron imp
+愤怒飞蛾
 
-@imp@
+VISUAL: @The_monster_possessive@ 当它注意到你时，毛皮会愤怒地竖起。 
 %%%%
-shadow imp
+ 铁小鬼
 
-@imp@
+ @imp@ 
 %%%%
-white imp
+ 阴影小鬼 
 
-@imp@
+ @imp@ 
+%%%%
+ 白色小鬼 
+
+ @imp@ 
 ####################################
-# Shouts for specific uniques
-####################################
-%%%%
-Polyphemus
-
-# This would also work for other monsters that are surrounded by allies.
-SOUND:@The_monster@ shouts, "Attack, my pets! Attack!"
-%%%%
-####################################
-Player sphinx riddle lines
+ # 为特定的独特角色喊叫 
 ####################################
 %%%%
-_riddle_adj_
+波吕斐摩斯
 
-a baffling
+ # 这也适用于被盟友包围的其他怪物。 
+SOUND: @The_monster@ 喊道：“攻击，我的宠物！攻击！” 
+%%%%
+####################################
+ 玩家狮身人面像谜语线 
+####################################
+%%%%
+ _riddle_adj_ 
 
-a brilliant
+ 令人困惑的 
+
+ 辉煌的 
 
 w:20
-a clever
+ 聪明的 
 
-a confusing
+ 令人困惑的 
 
 w:20
-a cunning
+ 狡猾的 
 
-an impossible
+ 不可能的 
 
-an ingenious
+ 巧妙的 
 
-a masterful
+高超的
 
-a mind-bending
+令人费解的 
 
-a perplexing
+ 令人困惑的 
 
-a vexing
+ 令人烦恼的 
 
 %%%%
-_riddle_fail_acknowledged_
+ _riddle_fail_acknowledged_ 
 
-, but @subjective@ doesn't care.
+ ，但 @subjective@ 不在乎。 
 
-, but @subjective@ is unimpressed.
+ ，但 @subjective@ 不为所动。 
 
-, but @subjective@ scoffs.
+ ，但 @subjective@ 嗤之以鼻。 
 %%%%
-_riddle_fail_general_
+ _riddle_fail_general_ 
 
-, but @subjective@ ignores you.
+ ，但 @subjective@ 忽略你。 
 
-, but @subjective@ doesn't understand.
+ ，但 @subjective@ 不明白。 
 
-, but @subjective@ pretends not to notice.
+，但@subjective@假装没有注意到。 
 
-, but @subjective@ ignores you.
+ ，但 @subjective@ 忽略你。 
 
 w:40
-@_riddle_fail_acknowledged_@
+ @_riddle_fail_acknowledged_@ 
 %%%%
-_riddle_prefix_
+ _riddle_prefix_ 
 
-You pose @_riddle_adj_@ riddle to @the_monster@
+ 您向 @the_monster@ 提出 @_riddle_adj_@ 谜语 
 
-You ask @the_monster@ @_riddle_adj_@ riddle
+ 您询问 @the_monster@ @_riddle_adj_@ 谜语 
 
-You challenge @the_monster@ with @_riddle_adj_@ riddle
+ 您用 @_riddle_adj_@ 谜语挑战 @the_monster@ 
 %%%%
-Sphinx riddle success
+ 狮身人面像谜语成功 
 
-@_riddle_prefix_@.
+ @_riddle_prefix_@。 
 %%%%
-Sphinx riddle failure
+ Sphinx 谜语失败 
 
-@_riddle_prefix_@@_riddle_fail_general_@
+ @_riddle_prefix_@@_riddle_fail_general_@ 
 %%%%
-Sphinx riddle failure acknowledged
+ Sphinx 谜语失败已确认 
 
-@_riddle_prefix_@@_riddle_fail_acknowledged_@
+ @_riddle_prefix_@@_riddle_fail_acknowledged_@
 %%%%

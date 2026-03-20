@@ -1,20 +1,20 @@
 ###############################################################################
-# Voices of fleeing monsters.
-# 'flee' is for when they start running.
-# 'fleeing' is for flight in progress (sometimes).
-# 'cornered' is when they realise they have nowhere to go.
+# 逃跑的怪物的声音。
+#“逃离”是指他们开始奔跑时。
+#“逃离”是指正在进行的飞行（有时）。
+#“走投无路”是当他们意识到自己无处可去时。
 #########
 %%%%
-dream sheep flee
+梦羊逃跑
 
 w:30
-@The_monster@ bleats in terror.
+@The_monster@ 惊恐地咩咩叫。
 
-VISUAL:@The_monster@ is struck with panic!
+VISUAL:@The_monster@ 惊慌失措！
 
-VISUAL:@The_monster@ panics and turns to flee.
+VISUAL:@The_monster@ 惊慌失措，转身逃跑。
 
-VISUAL:A frightened @monster@ leaps away.
+VISUAL:受惊的 @monster@ 跳开了。
 
-VISUAL:@The_monster@ stampedes away.
+VISUAL:@The_monster@ 惊慌失措。
 %%%%

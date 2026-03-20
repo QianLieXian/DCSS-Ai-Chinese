@@ -1,169 +1,169 @@
 %%%%
-Zin lastname
+辛姓氏 
 
-Zin the Law-Giver
+ 立法者辛恩 
 %%%%
-Yredelemnul lastname
+ 伊雷德莱姆努尔姓氏 
 
-Yredelemnul the Fallen
+ 堕落者伊雷德莱姆努尔 
 %%%%
-Okawaru lastname
+ 大卡瓦鲁姓氏 
 
-Warmaster Okawaru
+ 战帅奥卡瓦鲁 
 %%%%
-Makhleb lastname
+ 马克莱布姓氏 
 
-Makhleb the Destroyer
+ 毁灭者马克莱布
 %%%%
-Sif Muna lastname
+西夫·穆纳 (Sif Muna)
 
-Sif Muna the Loreminder
+提醒者西夫·穆纳
 %%%%
-Trog lastname
+穴居人姓氏
 
-Trog the Wrathful
+穴居人愤怒
 %%%%
-Elyvilon lastname
+Elyvilon 姓氏
 
-Elyvilon the Healer
+艾利维隆治疗者
 %%%%
-Lugonu lastname
+卢戈努氏
 
-Lugonu the Unformed
+未成形者卢戈努
 %%%%
-Beogh lastname
+贝奥氏
 
-Beogh the Shepherd
+Beogh 牧羊人
 %%%%
-Fedhas lastname
+费达斯
 
-Fedhas Madash
+费哈斯·马达什
 %%%%
-Cheibriados lastname
+切布里亚多斯
 
-Cheibriados the Contemplative
+沉思者 Cheibriados
 %%%%
-Ashenzari lastname
+阿什扎里氏
 
-Ashenzari the Shackled
+被束缚的阿什扎里
 %%%%
-Dithmenos lastname
+迪特美诺斯氏
 
-Dithmenos the Shrouded
+Dithmenos 裹尸布
 %%%%
-Nemelex Xobeh lastname
+Nemelex Xobeh 姓氏
 
-Nemelex Xobeh the Trickster
+Nemelex Xobeh 骗子
 %%%%
-Gozag lastname
+戈扎格氏
 
-Gozag Ym Sagoz the Greedy
+Gozag Ym Sagoz 贪婪者
 %%%%
-Qazlal lastname
+卡兹拉尔氏
 
-Qazlal Stormbringer
+ 卡兹拉尔风暴使者 
 %%%%
-Ru lastname
+ 茹姓 
 
-Ru the Awakened
+ 觉醒者茹 
 %%%%
-Pakellas lastname
+ 帕凯拉斯姓 
 
-Pakellas the Inventive
+ 发明家帕凯拉斯 
 %%%%
-Uskayaw lastname
+ 乌斯卡亚夫姓 
 
-Uskayaw the Reveller
+ 狂欢者乌斯卡亚 
 %%%%
-Hepliaklqana lastname
+ 赫普利亚卡纳姓
 
-Hepliaklqana the Forgotten
+ 被遗忘者赫普利亚卡纳
 %%%%
-Ignis lastname
+伊格尼斯姓氏 
 
-Ignis, the Dying Flame
+ 垂死之火伊格尼斯 
 %%%%
-Wu Jian lastname
+ 吴健姓氏 
 
-the Wu Jian Council
+ 吴健议会 
 %%%%
-Xom lastname
+Xom 姓氏
 
 w:280
-Xom of Chaos
+混沌的Xom
 
 w:20
-Xom the Chaotic
+混沌的Xom
 
 w:5
-Xom the Random
+Xom 随机的
 
 w:5
-Xom the Random Number God
+Xom 随机数之神
 
 w:5
-Xom the Elder Chaos God
+远古混沌之神Xom
 
-Xom the Tricky
-
-w:5
-Xom the Less-Predictable
+诡计多端的 Xom
 
 w:5
-Xom the Unpredictable
-
-Xom of Many Doors
-
-Xom the Capricious
+不可预测的Xom
 
 w:5
-Xom of Bloodstained Whimsey
+不可预测的Xom
+
+多门的Xom
+
+反复无常的Xom
 
 w:5
-Xom of Enforced Whimsey
-
-Xom of Bone-Dry Humour
+血污奇思妙想的 Xom
 
 w:5
-Xom of Malevolent Giggling
+强化奇思妙想的 Xom
+
+干巴巴幽默的Xom
 
 w:5
-Xom of Malicious Giggling
+恶意咯咯笑的 Xom
+
+w:5
+恶意咯咯笑的 Xom
 
 w:2
-Xom of Gnomic Intent
+精明的 Xom 的意思
 
 w:2
-Xom of Ineffable Intent
+不可言喻的解释 Xom
 
 w:2
-Xom of Fickle Intent
+善变明白的Xom
 
 w:2
-Xom of Swiftly Tilting Intent
+快速的 Xom 倾向意图
 
 w:2
-Xom of Unknown Intent
+未知的 Xom 意图
 
-Xom the Fickle
+善变的Xom
 
-Xom of Unknown Intention
+未知的 Xom 意图
 
 w:4
-The Xom-Meister
+Xom-迈斯特
 
 w:2
-The Xom-Meister, Xom-a-lom-a-ding-dong
+Xom-Meister，Xom-a-lom-a-ding-dong
 
 w:2
-The Xom-Meister, Xom-o-Rama
+Xom-Meister，Xom-o-Rama
 
 w:2
-The Xom-Meister, Xom-Xom-bo-Bom, Banana-Fana-fo-Fom
+Xom-Meister、Xom-Xom-bo-Bom、Banana-Fana-fo-Fom
 
 w:5
-Xom the Begetter of Turbulence
+Xom 湍流产生者
 
 w:5
-Xom the Begetter of Discontinuities
+Xom 不连续性产生者
 %%%%

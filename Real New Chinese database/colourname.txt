@@ -1,905 +1,905 @@
 ##########################################################
-# colourname.txt: lookup colour names
+# colorname.txt：查找颜色名称 
 #
-# This file contains a list of names of colours, and of colour-related
-# things such as names of colour patterns.
+ # 该文件包含颜色名称列表，以及与颜色相关的 
+ # 内容，例如颜色图案名称。 
 #
-# Feel free to add to this list. Like for the other database lists,
-# you may add weights (defaults to w:10) to make certain names more
-# or less likely.
+ # 请随意添加到此列表中。与其他数据库列表一样，
+ # 您可以添加权重（默认为 w:10）以使某些名称更可能出现 
+ # 或更少。 
 #
 ##########################################################
 %%%%
-rainbow_colour
+ Rainbow_colour 
 
-red
+ red 
 
-orange
+ Orange 
 
-yellow
+ Yellow 
 
-green
+ green 
 
-blue
+ blue 
 
-indigo
+ indigo 
 
-violet
+ violet 
 %%%%
-# No black, white, or grey here.
-misc_colour
+ # 这里没有黑色、白色或灰色。 
+ Misc_colour 
 
-aero
+ 航空 
 
-alabaster
+ 雪花石膏 
 
-alizarin crimson
+ 茜素深红 
 
-almond
+ 杏仁色 
 
-amaranth
+ 苋菜色 
 
-amaranth pink
+ 苋菜粉色 
 
-amaranth purple
+ 苋菜紫色 
 
-amethyst
+ 紫水晶 
 
-ametrine
+紫黄晶 
 
-amber
+ 琥珀色 
 
-annatto
+ 红木 
 
-apple green
+ 苹果绿 
 
-apple red
+ 苹果红 
 
-apple yellow
+ 苹果黄 
 
-apricot
+ 杏色 
 
-aqua
+ 水绿色 
 
-aquamarine
+ 海蓝宝石 
 
-artichoke green
+ 朝鲜蓟绿 
 
-asparagus green
+ 芦笋绿
 
-atrovirens
+ atrovirens 
 
-aubergine
+ 茄子 
 
-auburn
+ 赤褐色 
 
-aureolin
+ aureolin 
 
-avocado green
+ 鳄梨绿
 
-azure
+天蓝色 
 
-azurite
+ 蓝铜色 
 
-baby blue
+ 浅蓝色 
 
-banana yellow
+ 香蕉黄 
 
-beetroot red
+ 甜菜红 
 
-beige
+ 米色 
 
-bisque
+ 浓汤 
 
-bistre
+ 浅色 
 
-blaze orange
+ 火焰橙 
 
-blood orange
+ 血橙 
 
-blood red
+ 血红 
 
-blueberry
+蓝莓色 
 
-blush
+ 腮红 
 
-bole
+ 伯莱色 
 
-brass
+ 黄铜 
 
-bronze
+ 青铜色 
 
-brown
+ 棕色 
 
-brown ochre
+ 棕色赭石色 
 
-buff
+ 浅黄色 
 
-burgundy
+ 酒红色 
 
-burlywood
+ 伯莱木色 
 
-burnt amber
+ 焦琥珀色 
 
-burnt ochre
+ 焦赭石色
 
-burnt orange
+ 焦橙色 
 
-burnt sienna
+ 焦赭色 
 
-burnt umber
+ 焦棕 
 
-byzantium
+ 拜占庭色 
 
-cadmium red
+ 镉红 
 
-cadmium green
+ 镉绿 
 
-cadmium orange
+ 镉橙色 
 
-cadmium yellow
+ 镉黄 
 
-cameo pink
+ 浮雕粉色
 
-candy apple green
+ 糖苹果绿 
 
-candy apple red
+ 糖苹果红 
 
-candy apple yellow
+ 糖苹果黄 
 
-caput mortuum
+ 头颅红 
 
-cardinal red
+ 红衣主教红 
 
-carmine
+ 胭脂红 
 
-carnation
+ 康乃馨 
 
-carnelian
+ 红玉髓
 
-carrot orange
+胡萝卜橙 
 
-cattleya
+ 卡特兰 
 
-celadon
+ 青瓷 
 
-celeste
+ 天蓝色 
 
-celestial blue
+ 天蓝色 
 
-cerise
+ 樱桃红 
 
-cerulean
+ 天蓝色 
 
-charcoal
+ 木炭色 
 
-chartreuse
+ 黄绿色 
 
-chartreuse green
+ 黄绿色绿色 
 
-cherry red
+ 樱桃红
 
-chestnut
+ 栗色 
 
-china blue
+ 中国蓝 
 
-chocolate
+ 巧克力色 
 
-chocolate cosmos
+ 巧克力波斯菊 
 
-chrome green
+ 铬绿 
 
-chrome orange
+ 铬橙 
 
-chrome yellow
+ 铬黄 
 
-cinnabar
+ 朱砂色 
 
-cinnamon
+ 肉桂色 
 
-citreous
+ 柠檬色
 
-citrine
+ 黄水晶 
 
-citron
+ 香橼 
 
-cloudy blue
+ 云蓝色 
 
-cobalt blue
+ 钴蓝 
 
-cobalt green
+ 钴绿 
 
-cobalt violet
+ 钴紫 
 
-cobalt yellow
+ 钴黄 
 
-coffee
+ 咖啡 
 
-cornflower blue
+ 矢车菊蓝 
 
-copper
+ 铜
 
-coquelicot
+ 虞美人 
 
-coral pink
+ 珊瑚粉 
 
-cordovan
+ 马臀皮 
 
-cream
+ 奶油色 
 
-crimson
+ 深红色 
 
-crocoite
+ 珊瑚色 
 
-cyan
+ 青色 
 
-cyclamen
+ 仙客来 
 
-dragon's blood
+ 龙血
 
-duck blue
+鸭蓝色 
 
-dun
+ 暗色 
 
-dusty orange
+ 灰橙色 
 
-dusty rose
+ 灰玫瑰色 
 
-ebony
+ 乌木色 
 
-ecru
+ 米色 
 
-eggplant
+ 茄子色 
 
-electric blue
+ 电蓝色 
 
-electric indigo
+ 电靛蓝 
 
-electric magenta
+ 电洋红色 
 
-electric purple
+ 电紫色 
 
-electric violet
+电紫 
 
-emerald
+ 翠绿 
 
-eminence
+ 显赫 
 
-erin
+ 艾琳 
 
-evergreen
+ 常绿 
 
-fallow
+ 休耕 
 
-falu red
+ 法鲁红 
 
-fandango
+ fandango 
 
-fawn
+ 黄褐色 
 
-feldgrau
+ 长草地 
 
-fern green
+ 蕨绿
 
-fire orange
+ 火橙 
 
-fire red
+ 火红 
 
-flax
+ 亚麻色 
 
-flirt
+ 调情 
 
-fluorescent blue
+ 荧光蓝 
 
-forest green
+ 森林绿 
 
-fuchsia
+ 紫红色 
 
-fuchsine
+ 品红 
 
-fulvous
+ 黄褐色 
 
-gamboge
+ 藤黄 
 
-garnet
+ 石榴石
 
-glaucous
+ 白灰色 
 
-goblin blue
+ 妖精蓝 
 
-goblin scarlet
+ 妖精猩红 
 
-green earth
+ 绿土色 
 
-green ochre
+ 绿赭色 
 
-greenockite
+ 绿石色 
 
-greige
+ 米色
 
-gold
+金色 
 
-gold ochre
+ 赭金 
 
-gold poppy
+ 罂粟花 
 
-golden brown
+ 金棕色 
 
-goldenrod
+ 一枝黄花 
 
-goshenite
+ 棉红石 
 
-gridelin
+ 网格石 
 
-grullo
+ 格鲁洛 
 
-haint blue
+ 哈恩特蓝色 
 
-hansa yellow
+ 汉莎黄 
 
-harlequin
+ 丑角
 
-heliodor
+ 天芥菜 
 
-heliotrope
+ 天芥菜 
 
-hibiscus
+ 木槿花 
 
-hot pink
+ 艳粉色 
 
-hunter green
+ 猎人绿 
 
-hunter orange
+ 猎人橙 
 
-hyacinth
+ 风信子 
 
-hyacinth blue
+ 风信子蓝 
 
-icterine
+ 黄水晶 
 
-imperial blue
+ 帝王蓝
 
-imperial orange
+ 帝王橙 
 
-imperial purple
+ 帝王紫 
 
-imperial red
+ 帝王红 
 
-imperial yellow
+ 帝王黄 
 
-indanthrone blue
+ 阴丹酮蓝 
 
-independence
+ 独立 
 
-irresistible
+ 不可抗拒 
 
-iris
+ 虹膜 
 
-isabelline
+ 伊莎贝琳 
 
-ivy green
+ 常春藤绿 
 
-jade
+ 玉色
 
-jale
+ 贾尔花 
 
-jasmine
+ 茉莉花 
 
-jonquil
+ 黄水仙花 
 
-kachi indigo
+ 卡其靛蓝 
 
-khaki
+ 卡其色 
 
-kobicha
+ 小碧茶 
 
-kombu green
+ 海带绿 
 
-labradorite
+ 拉长石
 
-lapis lazuli
+青金石 
 
-laurel green
+ 月桂绿 
 
-lavender
+ 薰衣草紫 
 
-lavender blue
+ 薰衣草蓝 
 
-lavender purple
+ 薰衣草紫 
 
-lavender indigo
+ 薰衣草靛蓝 
 
-lavender magenta
+ 薰衣草洋红 
 
-lavender rose
+ 薰衣草玫瑰 
 
-leaf green
+ 叶绿 
 
-leek green
+ 韭菜绿
 
-lemon yellow
+ 柠檬黄 
 
-liberty
+ 自由 
 
-lilac
+ 紫丁香 
 
-lime green
+ 柠檬绿 
 
-liseran purple
+ 利瑟兰紫 
 
-lusty gallant
+ 活力英勇 
 
-madder
+ 茜草色 
 
-magenta
+ 洋红色 
 
-mahogany
+ 桃花心木 
 
-malachite
+ 孔雀石 
 
-mandarin
+橘色 
 
-manganese violet
+ 锰紫 
 
-mango
+ 芒果 
 
-marigold
+ 万寿菊 
 
-marine blue
+ 海洋蓝 
 
-marmalade
+ 果酱 
 
-maroon
+ 栗色 
 
-mauve
+ 紫红色 
 
-mauve taupe
+ 紫红色 灰褐色 
 
-mauveine
+ 紫红色 
 
-maxixe
+ maxixe 
 
-mazarine
+ 玛扎林色 
 
-mellow yellow
+ 醇厚黄 
 
-midnight blue
+ 午夜蓝 
 
-mikado
+ 米卡多 
 
-mindaro
+ 心太郎 
 
-minium
+ 迷你 
 
-mint green
+ 薄荷绿 
 
-morganite
+ 摩根石 
 
-morning blue
+ 晨光蓝
 
-moss green
+苔绿 
 
-mulberry
+ 桑葚色 
 
-mustard brown
+ 芥末棕 
 
-mustard green
+ 芥末绿 
 
-mustard yellow
+ 芥末黄 
 
-myrtle
+ 香桃木 
 
-nattier
+ nattier 
 
-navy blue
+ 海军蓝 
 
-navy purple
+ 海军紫 
 
-nickel
+ 镍色 
 
-nutmeg
+ 肉豆蔻色
 
-nyanza
+ nyanza 
 
-ochre
+ 赭石 
 
-octarine
+ 辛烷 
 
-old helio
+ 老太阳花 
 
-old heliotrope
+ 老天芥菜 
 
-old rose
+ 老玫瑰 
 
-olive green
+ 橄榄绿 
 
-olive drab
+ 土褐色 
 
-olive ochre
+ 橄榄赭石 
 
-olivine
+ 橄榄石 
 
-olo
+ olo 
 
-orange ochre
+ 橙赭色 
 
-orchid
+ 兰花 
 
-orpiment
+ 雌黄 
 
-oxblood
+ 红血色 
 
-palatinate
+ 普法尔茨 
 
-palatinate blue
+ 普法尔茨蓝色 
 
-palatinate purple
+ 普法尔茨紫色 
 
-peach
+ 桃色 
 
-pear green
+ 梨绿色 
 
-pear yellow
+ 梨黄色
 
-peridot
+ 橄榄石 
 
-periwinkle
+ 长春花 
 
-persimmon
+ 柿子 
 
-phlox
+ 福禄考 
 
-picotee blue
+ 皮科蒂蓝色 
 
-pine green
+ 松绿色 
 
-pine tree
+ 松树 
 
-pink
+ 粉色
 
-pink lavender
+粉色 薰衣草色 
 
-pistachio
+ 开心果色 
 
-plum
+ 梅子色 
 
-ponceau
+ 丽春红 
 
-poppy red
+ 罂粟红 
 
-powder blue
+ 粉蓝色 
 
-prase
+ 普拉斯 
 
-primrose yellow
+ 报春花黄 
 
-puce
+ 深褐色 
 
-pumpkin
+ 南瓜色 
 
-purple
+ 紫色 
 
-purple ochre
+ 紫色赭色 
 
-purple taupe
+ 紫灰褐色 
 
-purpura
+ 紫斑 
 
-purpureus
+ 紫斑 
 
-quartz
+ 石英 
 
-quercitron
+ 槲皮素 
 
-raspberry
+ 覆盆子色 
 
-raspberry rose
+ 覆盆子玫瑰色 
 
-realgar
+ 雄黄 
 
-red emerald
+ 红祖母绿 
 
-red ochre
+ 红赭石
 
-rej
+ rej 
 
-rocket green
+ 火箭绿 
 
-rockmelon
+ 哈密瓜 
 
-rose
+ 玫瑰色 
 
-rose quartz
+ 玫瑰石英 
 
-rose vale
+ 玫瑰谷 
 
-rubric
+ 红宝石色 
 
-ruby
+ 红宝石色 
 
-ruddy blue
+ 红蓝色 
 
-rufous
+ 红褐色 
 
-russet
+ 赤褐色
 
-rust
+ 铁锈色 
 
-safflower orange
+ 红花橙 
 
-saffron
+ 藏红花 
 
-salmon
+ 鲑鱼色 
 
-sanguine
+ 血色 
 
-sap green
+ 暗绿色 
 
-sapphire
+ 蓝宝石
 
-sea blue
+海蓝色 
 
-sea green
+ 海绿色 
 
-sepia
+ 棕褐色 
 
-scarlet
+ 猩红色 
 
-scarlet emerald
+ 猩红色 翡翠色 
 
-shocking pink
+ 震撼粉色 
 
-sienna
+ 赭色 
 
-silver
+ 银色 
 
-silver pink
+ 银色粉红色 
 
-sinopia
+ 鳅 
 
-skobeloff
+ 斯科贝洛夫 
 
-sky blue
+天蓝色 
 
-sky magenta
+ 天洋红 
 
-slate
+ 板岩色 
 
-slate blue
+ 板岩蓝 
 
-smalt
+ 麦芽色 
 
-smaragdine
+ 锇色 
 
-sorcerer's violet
+ 魔法紫 
 
-spring bud
+ 春芽 
 
-spring green
+ 春绿 
 
-steel blue
+ 钢蓝色 
 
-strawberry red
+草莓红 
 
-strontium yellow
+ 锶黄 
 
-tamarind
+ 罗望子色 
 
-tang blue
+ 唐蓝色 
 
-tangerine
+ 橘红色 
 
-taupe
+ 灰褐色 
 
-tawny
+ 黄褐色 
 
-tea green
+ 茶绿色 
 
-teal
+ 水鸭色 
 
-teal blue
+ 水鸭蓝色 
 
-teal green
+ 水鸭绿色
 
-telemagenta
+ 洋红 
 
-terracotta
+ 赤土色 
 
-terre verte
+ 绿色 
 
-thistle
+ 蓟花 
 
-tiger's eye
+ 虎眼石 
 
-titanium yellow
+ 钛黄 
 
-tomato red
+ 番茄红 
 
-topaz
+ 黄玉
 
-turmeric
+姜黄色 
 
-turquoise
+ 绿松石色 
 
-ulfire
+ ulfire 
 
-ultramarine
+ 群青色 
 
-umber
+ 琥珀色 
 
-vanilla
+ 香草色 
 
-verdigris
+ 翠绿 
 
-vermilion
+ 朱红色 
 
-veronica
+ 维罗妮卡 
 
-viridian
+ 翠绿色 
 
-walnut
+ 胡桃木
 
-watermelon green
+ 西瓜绿 
 
-watermelon red
+ 西瓜红 
 
-wenge
+ 鸡翅木 
 
-wheat
+ 小麦 
 
-wine
+ 酒色 
 
-wisteria
+ 紫藤 
 
-xanthic
+ 黄质 
 
-xanthous
+ 黄质 
 
-yam
+ 山药 
 
-yellow ochre
+ 黄赭石 
 
-zaffre
+ zaffre 
 
-zinc yellow
+ 锌黄 
 
-zinnwaldite
+ 紫锌矿 
 
-zomp
+ zomp 
 
-zucchini green
+ 西葫芦绿 
 %%%%
-mono_colour
+ 单色 
 
-black
+ 黑色 
 
-white
+ 白色 
 
-grey
+ 灰色 
 %%%%
-any_colour
+ 任意颜色 
 
 w:40
-@rainbow_colour@
+ @rainbow_colour@ 
 
 w:20
-@misc_colour@
+ @misc_colour@ 
 
-@mono_colour@
+ @mono_colour@ 
 %%%%
-any_pattern
+ any_pattern 
 
-arabesque
+ 蔓藤花纹 
 
-arrows
+ 箭头 
 
-chequers
+ 跳棋 
 
-chevrons
+ V 形 
 
-diamonds
+ 钻石
 
-flamestitch
+火焰刺绣 
 
-fractals
+ 分形 
 
-gingham
+ 方格布 
 
-herringbone
+ 人字纹 
 
-houndstooth
+ 千鸟格 
 
-leopard spots
+ 豹纹 
 
-ogee
+ 双曲线 
 
-ombre
+ 渐变 
 
-paisley
+ 佩斯利 
 
-pinstripes
+ 细条纹 
 
-plaid
+格子 
 
-polka dots
+ 波尔卡圆点 
 
-quatrefoil
+ 四叶形 
 
-stripes
+ 条纹 
 
-spirals
+ 螺旋 
 
-spots
+ 斑点 
 
-squares
+ 方块 
 
-stars
+ 星星 
 
-tartan
+ 格子呢 
 
-triangles
+ 三角形 
 
-whorls
+ 螺纹 
 %%%%
-# Any word other than "glowing" itself will work here, as long as it's
-# not already in @_writing_adj_@ in graffiti.txt.
-glowing_adj
+ # 任何文字 其他比“发光”本身在这里也可以工作，只要它是 
+ # 尚未在 graffiti.txt 的 @_writing_adj_@ 中。 
+ 发光_adj 
 
-bright
+ 明亮 
 
-brilliant
+ 明亮 
 
-dark
+ 黑暗 
 
-dull
+ 暗淡 
 
-dusky
+ 昏暗 
 
-faint
+ 微弱 
 
-gleaming
+ 闪闪发光 
 
-glossy
+ 有光泽 
 
-intense
+ 强烈 
 
-luminous
+ 发光
 
-lurid
+ 鲜艳 
 
-lustrous
+ 有光泽 
 
-mottled
+ 斑驳 
 
-murky
+ 浑浊 
 
-pale
+ 苍白 
 
-shimmering
+ 闪烁
 
-shining
+闪亮的 
 
-vivid
+ 生动的 
 %%%%
-any_glowing_colour
+ any_glowing_colour 
 
-@glowing_adj@ @any_colour@
+ @glowing_adj@ @any_colour@ 
 %%%%
-# Patterns can be single colour or two colours. There's a chance of the
-# two colours being the same but in practise it happens little enough to
-# just be funny when it does.
-any_colour_pattern
+ # 图案可以是单色或两种颜色。 
+ # 两种颜色有可能相同，但实际上这种情况很少发生，
+ # 只是当它发生时很有趣。 
+ 任何_颜色_图案 
 
-@any_colour@ @any_pattern@
+ @any_colour@ @any_pattern@ 
 
-@any_colour@ on @any_colour@ @any_pattern@
+ @any_colour@ 上 @any_colour@ @any_pattern@ 
 %%%%
-any_glowing_colour_pattern
+ 任何_发光_颜色_图案 
 
-@any_glowing_colour@ @any_pattern@
+ @any_glowing_colour@ @any_pattern@ 
 
-@any_glowing_colour@ on @any_colour@ @any_pattern@
+ @any_glowing_colour@ 上@any_colour@ @any_pattern@ 
 
-@any_colour@ on @any_glowing_colour@ @any_pattern@
+ @any_colour@ 上 @any_glowing_colour@ @any_pattern@ 
 
-@any_glowing_colour@ on @any_glowing_colour@ @any_pattern@
+ @any_glowing_colour@ 上 @any_glowing_colour@ @any_pattern@

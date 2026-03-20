@@ -1,1260 +1,1260 @@
 ############################################################
-# Outsourced monster speech.
+# 外包怪物演讲。 
 #
-# insult.txt contains the messages imps and demons apply in
-# Crawl to insult players.
+ # 侮辱.txt 包含小鬼和恶魔在 
+ # 爬行侮辱玩家中应用的消息。 
 #
-# For an explanation of how to read insult.txt and how to
-# add new messages, see monster_speech.txt in the docs
-# directory.
+ # 有关如何读取侮辱.txt 以及如何 
+ # 添加新消息的说明，请参阅文档 
+ # 目录中的 monster_speech.txt。 
 ############################################################
 %%%%
-imp_taunt
+ imp_taunt 
 
-@run_or_give_up@, thou @generic_insult@!
+ @run_or_give_up@，你@generic_insult@！ 
 %%%%
-run_or_give_up
+ run_or_give_up 
 
 w:6
-@run_away@
+ @run_away@ 
 
 w:1
-@give_up@
+ @give_up@ 
 %%%%
-demon_taunt
+ Demon_taunt 
 
 w:1
-@run_away@, thou @generic_insult@!
+ @run_away@，你这个 @generic_insult@！ 
 
 w:2
-@give_up@, thou @generic_insult@!
+ @give_up@，你@generic_insult@！ 
 
 w:3
-@demon_taunt_special@
+ @demon_taunt_special@ 
 %%%%
-demon_taunt_special
+ Demon_taunt_special 
 
-Thy @body_or_spiritual_part@ shall be my @meal@!
+ 你的 @body_or_spiritual_part@ 将是我的 @meal@！ 
 
-@give_up@, thou tasty @meal@!
+ @give_up@，你这个美味的@meal@！ 
 
-@run_away@ @whilst_thou_can@!
+ @run_away@ @whilst_thou_can@！ 
 
-I @will_or_shall@ @feast_or_devour@ thy @body_or_spiritual_part@!
+ 我 @will_or_shall@ @feast_or_devour@ 你的 @body_or_spiritual_part@！ 
 %%%%
-# capitalised "flee" verbs
-run_away
+ # 大写的“逃离”动词 
+ run_away 
 
-Away with thee
+ 离开你 
 
-Back with thee
+ 回来 
 
-Begone
+ 离开 
 
-Bolt
+ 螺栓 
 
-Crawl home
+ 爬回家 
 
-Decamp
+ 逃亡 
 
-Escape
+ 逃跑 
 
-Flee
+ 逃离
 
-Fly
+ 飞 
 
-Get thee gone
+ 走开 
 
-Get thee hence
+ 带走你 
 
-Give up
+ 放弃 
 
-Go and return not
+ 不走不返回 
 
-Leave
+ 离开 
 
-Out, out
+ 出去，出去 
 
-Quit
+ 退出 
 
-Remove thy stench
+ 消除你的恶臭 
 
-Return whence thou came
+ 返回你来的地方
 
-Run away
+逃跑 
 
-Scamper away
+ 逃跑 
 
-Scamper hence
+ 逃跑因此 
 
-Scamper home
+ 逃跑回家 
 
-Slither away
+ 溜走 
 
-Slither hence
+ 溜走因此 
 
-Slither home
+ 溜回家 
 
-Take thy face hence
+ 拿走你的脸因此 
 
-Turn tail
+ 转身 
 %%%%
-# capitalised synonyms for "give up"
-give_up
+ # “放弃”的大写同义词
+放弃 
 
-Abandon hope
+ 放弃希望 
 
-Accept thy failure
+ 接受失败 
 
-Accept thy fall
+ 接受失败 
 
-Accept thy doom
+ 接受厄运 
 
-Admit defeat
+ 承认失败 
 
-Beg for mercy
+ 求饶 
 
-Capitulate
+ 投降 
 
-Despair
+ 绝望 
 
-Despond
+ 绝望
 
-Disclaim thyself
+ 放弃你自己 
 
-Embrace submission
+ 拥抱服从 
 
-Embrace thy dedition
+ 拥抱你的奉献 
 
-Embrace thy doom
+ 拥抱你的厄运 
 
-Embrace thy failure
+ 拥抱你的失败 
 
-Embrace thy fall
+ 拥抱你的堕落 
 
-Face thy fugue
+ 面对你的赋格 
 
-Face thy requiem
+ 面对你的安魂曲
 
-Flounder
+ 比目鱼 
 
-Give in
+ 屈服 
 
-Give up
+ 放弃 
 
-Kneel
+ 跪下 
 
-Quail
+ 鹌鹑 
 
-Quit
+ 退出 
 
-Surrender
+ 投降 
 
-Succumb
+ 屈服 
 
-Submit
+ 提交 
 
-Tremble
+ 颤抖 
 
-Relinquish hope
+ 放弃希望
 
-Repent
+ 悔改
 
-Taste defeat
+尝尝失败的滋味 
 %%%%
-whilst_thou_can
+ while_thou_can 
 
-whilst thou can
+ 当你可以 
 
-whilst thou may
+ 当你可以 
 
-whilst thou are able
+ 当你能够 
 
-if wit thou hast
+ 如果你拥有 
 
-whilst thy luck holds
+ 而你的运气在厄运抓住你之前 
 
-before doom catcheth thee
+ 
 
-lest death find thee
+ 以免死亡找到你 
 
-whilst thou art whole
+ 当你艺术整体 
 
-# screen vs. this for undead?
-whilst life thou hast
+ # 屏幕与这个不死族？ 
+ 当你有生命时 
 %%%%
-body_or_spiritual_part
+ 身体或精神部分 
 
 w:3
-@important_body_part@
+ @important_body_part@ 
 
 w:1
-@important_spiritual_part@
+ @important_spiritual_part@ 
 %%%%
-will_or_shall
+ 将会或应该 
 
-will
+ 将 
 
-shall
+ 将 
 %%%%
-feast_or_devour
+ 盛宴或吞噬 
 
-feast on
+ 盛宴
 
-devour
+ 吞噬 
 %%%%
-important_body_part
+ important_body_part 
 
-head
+ 头部 
 
-brain
+ 大脑 
 
-heart
+ 心脏 
 
-viscera
+ 内脏 
 
-eyes
+ 眼睛 
 
-lungs
+ 肺 
 
-liver
+ 肝脏 
 
-throat
+ 喉咙 
 
-neck
+ 颈部 
 
-gizzard
+砂囊 
 
-skull
+ 头骨 
 
-spine
+ 脊柱 
 %%%%
-important_spiritual_part
+ important_spiritual_part 
 
-soul
+ 灵魂 
 
-spirit
+ 精神 
 
-inner light
+ 内心之光 
 
-hope
+ 希望 
 
-faith
+ 信仰
 
-will
+意志 
 
-heart
+ 心 
 
-mind
+ 头脑 
 
-sanity
+ 理智 
 
-fortitude
+ 刚毅 
 
-life force
+ 生命力 
 
-vitality
+ 活力 
 %%%%
-meal
+ 餐 
 
-meal
+ 餐 
 
-breakfast
+ 早餐 
 
-lunch
+ 午餐 
 
-dinner
+ 晚餐 
 
-supper
+ 晚餐
 
-repast
+ 正餐 
 
-snack
+ 零食 
 
-victuals
+ 食物 
 
-refection
+ 零食 
 
-junket
+ 休闲 
 
-luncheon
+ 午餐 
 
-snackling
+ 小吃 
 
-curdle
+ 凝乳 
 
-snacklet
+ 零食 
 
-mouthful
+ 满口 
 %%%%
 #######################################################
-# generic insults consist of three random parts
+ # 一般侮辱包括三个随机部分 
 #######################################################
-generic_insult
+ generic_insult 
 
-@insult_adjective1@ @insult_adjective2@ @insult_noun@
+ @insult_adjective1@ @insult_adjective2@ @insult_noun@ 
 %%%%
 ###############################################################
-# adjective1, usually short and/or consisting of one word only
+ # adjective1，通常很短和/或仅由一个单词组成 
 ###############################################################
-insult_adjective1
+ Insult_adjective1 
 
 w:5
-@species_insult_adj1@
+ @species_insult_adj1@ 
 
-@insult general adj1@
+ @insult general adj1@ 
 %%%%
-insult general adj1
+ 侮辱一般adj1 
 
-artless
+ 无艺术的 
 
-baffled
+ 困惑的 
 
-bawdy
+ 下流的 
 
-beslubbering
+ 流泪的 
 
-bootless
+ 无靴的 
 
-bumbling
+ 装模作样的 
 
-canting
+ 倾斜的 
 
-churlish
+ 粗鲁的 
 
-cockered
+ 翘起的
 
-clouted
+暴躁的 
 
-craven
+ 懦弱的 
 
-currish
+ 野蛮的 
 
-defiled
+ 肮脏的 
 
-dankish
+ 丹麦式的 
 
-dissembling
+ 伪装的 
 
-droning
+ 嗡嗡声 
 
-ducking
+ 躲闪的 
 
-erky
+ 活泼的 
 
-errant
+ 游荡的 
 
-euchred
+ euchred 
 
-fawning
+ 讨好 
 
-feckless
+ 无能 
 
-feeble
+ 软弱 
 
-fobbing
+ 装腔作势 
 
-foisting
+ 装逼 
 
-foppish
+ 浮夸 
 
-froward
+ 愚昧无知 
 
-frothy
+ 泡沫 
 
-fulsome
+ 富丽堂皇 
 
-gleeking
+ 闪闪发光
 
-goatish
+ 山羊气 
 
-gorbellied
+ 大腹便便 
 
-grime-gilt
+ 镀金污垢 
 
-horrid
+ 可怕 
 
-hateful
+ 可恨 
 
-impertinent
+ 无礼 
 
-infectious
+ 传染性 
 
-jarring
+ 刺耳 
 
-loggerheaded
+ 赤裸裸 
 
-lumpish
+ 笨拙 
 
-mammering
+咀嚼 
 
-mangled
+ 受伤 
 
-mewling
+ 呜咽 
 
-obnoxious
+ 令人讨厌的 
 
-odious
+ 令人厌恶的 
 
-paunchy
+ 大腹便便的 
 
-peaked
+ 尖峰 
 
-peeagling
+ 偷窥 
 
-pribbling
+ 喋喋不休
 
-puking
+呕吐 
 
-puny
+ 弱小的 
 
-pandering
+ 迎合 
 
-pecksniffian
+ 啄食 
 
-plume-plucked
+ 羽毛拔毛 
 
-pottle-deep
+ 深壶 
 
-pox-marked
+ 痘痕 
 
-qualling
+ 夸林 
 
-quaking
+ 颤抖 
 
-rank
+ 等级
 
-reeling-ripe
+ 熟透的 
 
-rough-hewn
+ 粗糙的 
 
-simpering
+ 傻笑的 
 
-skyhacking
+ 空中黑客的 
 
-spongy
+ 海绵状的 
 
-surly
+ 乖戾的 
 
-tottering
+ 摇摇欲坠的 
 
-twisted
+ 扭曲
 
-unctious
+ 油腻的 
 
-unhinged
+ 精神错乱的 
 
-unmuzzled
+ 没有嘴套的
 
-vain
+ 虚荣 
 
-venomed
+ 恶毒 
 
-villainous
+ 恶毒 
 
-warped
+ 扭曲 
 
-wayward
+ 任性 
 
-weedy
+ 杂草 
 
-worthless
+ 没钱 
 
-yeasty
-%%%%
-##########################################################
-# adjective1, Elf special
-##########################################################
-insult elf adj1
-
-weakly
-
-sickly
-
-frail
-
-delicate
-
-fragile
-
-frumpy
-
-brittle
-
-tender
-
-mooning
-
-painted
-
-lily-hearted
-
-dandy
-
-featherweight
-
-flimsy
-
-rootless
-
-spindly
-
-puny
-
-shaky
-
-prissy
-
-underdone
+ 酵母 
 %%%%
 ##########################################################
-# adjective1, Felid special
+ # 形容词1，精灵专用 
 ##########################################################
-insult felid adj1
+ 侮辱精灵 adj1 
 
-matted
+ 弱
 
-grungy
+ 病弱 
 
-rabid
+ 脆弱 
 
-picayune
+ 精致 
 
-weenchy
+ 脆弱 
 
-crummy
+ 脾气暴躁 
 
-daggy
+ 脆弱 
 
-feral
+ 温柔 
 
-stray
+ 月光 
 
-sticky
+ 画 
 
-musky
+ 百合心
 
-slinking
+花花公子 
+
+ 羽量级 
+
+ 脆弱 
+
+ 无根 
+
+ 细长 
+
+ 弱小 
+
+ 摇摇欲坠 
+
+ 拘谨 
+
+ 欠熟 
+%%%%
+##########################################################
+ # 形容词 1，猫科动物特殊 
+##########################################################
+ 侮辱猫科动物 adj1 
+
+ 杂乱的 
+
+ 蹩脚的 
+
+ 狂乱的 
+
+ 皮卡尤恩 
+
+ 温奇的 
+
+ 肮脏的 
+
+ 邋遢的 
+
+ 野性的 
+
+ 流浪的 
+
+ 粘性
+
+ musky 
+
+ slinking 
 %%%%
 ###############################################################
-# adjective2, usually longer and consisting of two words
+ # 形容词2，通常较长，由两个词组成 
 ###############################################################
-insult_adjective2
+insertion_adjective2 
 
 w:5
-@species_insult_adj2@
+ @species_insult_adj2@ 
 
-@insult general adj2@
+ @insult general adj2@ 
 %%%%
-insult general adj2
+ 侮辱一般 adj2 
 
-base-court
+ base-court 
 
-bat-fowling
+蝙蝠捕鸟 
 
-beef-witted
+ 牛头 
 
-beetle-headed
+ 甲虫头 
 
-boil-brained
+ 煮脑 
 
-clapper-clawed
+ 拍手爪 
 
-clay-brained
+ 泥脑 
 
-common-kissing
+ 普通接吻 
 
-crook-pated
+ 歪头 
 
-dismal-dreaming
+ 悲惨的梦
 
-ditch-delivered
+ 沟交付 
 
-dizzy-eyed
+ 晕眼
 
-doghearted
+狗心 
 
-dread-bolted
+ 可怕螺栓 
 
-earth-vexing
+ 地球烦恼 
 
-elf-skinned
+ 精灵皮肤 
 
-fat-kidneyed
+ 肥肾 
 
-fen-sucked
+ 沼泽 
 
-flap-mouthed
+ 瓣嘴 
 
-flat-headed
+ 平头 
 
-fly-bitten
+ 苍蝇咬 
 
-fob-snatching
+抢夺表链的 
 
-folly-fallen
+ 愚蠢堕落的 
 
-fool-born
+ 傻瓜出生的 
 
-fool-headed
+ 傻瓜 
 
-full-gorged
+ 饱腹的 
 
-guts-griping
+ 胆量十足的 
 
-half-faced
+ 半脸 
 
-hasty-witted
+ 草率的 
 
-hedge-born
+ 树篱出生的 
 
-hell-hated
+ 地狱仇恨
 
-idle-headed
+ 懒惰 
 
-ill-breeding
+ 不良教养 
 
-ill-nurtured
+ 不良教养 
 
-kobold-kissing
+ 狗头人接吻 
 
-knotty-pated
+ 多节多节 
 
-limp-willed
+ 意志软弱 
 
-milk-livered
+ 奶肝 
 
-miscreant
+ 恶棍 
 
-moon-mazed
+ 月亮迷宫
 
-motley-minded
+ 杂七杂八 
 
-moldwarp
+ 霉菌 
 
-mumble-news
+ 咕哝新闻 
 
-nose-picking
+ 挖鼻孔 
 
-nut-hook
+ 坚果钩 
 
-onion-eyed
+ 洋葱眼 
 
-pigeon-egg
+ 鸽蛋 
 
-roguish
+ 流氓 
 
-rude-growing
+ 粗鲁生长 
 
-rump-fed
+臀部喂养 
 
-ruttish
+ 发脾气 
 
-saucy
+ 俏皮
 
-shard-borne
+碎片传播 
 
-sheep-biting
+ 咬羊 
 
-sow-suckled
+ 母猪哺乳 
 
-spleeny
+ 脾气暴躁 
 
-spur-galled
+ 毛刺 
 
-swag-bellied
+ 大腹便便 
 
-tardy-gaited
+ 步态迟缓 
 
-tickle-brained
+ 头脑痒痒 
 
-tip-merry
+ 尖头快乐 
 
-toad-spotted
+蟾蜍斑 
 
-toenail-biting
+ 咬脚趾甲 
 
-toot-wallowing
+ 滚嘟嘟 
 
-two-tin-hat
+ 两顶帽子 
 
-unchin-snouted
+ 下颌无下巴 
 
-weather-bitten
+ 饱经风霜的 
 
-weeb-spouting
+ 喷尿 
 
-weevil-witted
+ 象鼻虫 
 
-wibble-sucking
-%%%%
-##########################################################
-# adjective2, Dwarf special
-##########################################################
-insult dwarf adj2
-
-dirt-grubbing
-
-grit-sucking
-
-muck-plodding
-
-stone-broke
-
-pelf-dandling
-
-fault-botching
-
-gravel-grovelling
-
-boodle-bothering
-
-cabbage-coddling
-
-rhino-ravelling
-
-thigh-biting
-
-dirt-delving
+ 吸吮
 %%%%
 ##########################################################
-# adjective2, Felid special
+ #形容词2，矮人专用 
 ##########################################################
-insult felid adj2
+ 侮辱矮人 adj2 
 
-worm-riddled
+ 挖土 
 
-mange-covered
+ 吸砂 
 
-gunky-eyed
+ 泥巴踩 
 
-death-cheating
+ 碎石 
 
-cutty-eyed
+ 皮尔夫 
 
-gristle-gnawing
+ 故障 botching 
 
-spot-chasing
+ 砾石卑躬屈膝 
 
-chapped-arsed
+ 烦人 
 
-key-stepping
+ 卷心菜溺爱 
 
-rot-lapping
+ 犀牛撕扯 
+
+ 咬大腿 
+
+ 土钻 
 %%%%
 ##########################################################
-# adjective2, Tengu special
+ # 形容词2，猫科动物特殊 
 ##########################################################
-insult tengu adj2
+ 侮辱猫科动物 adj2 
 
-hollow-boned
+ 满身虫子 
 
-feather-brained
+ 满身疥疮 
 
-beak-witted
+ 眼睛发黑 
 
-hen-pecked
+ 死亡作弊 
 
-lightweight
+ 斜视 
 
-frail-limbed
+ 啃软骨
 
-bird-brained
+追斑 
 
-featherweight
+ 干瘪的屁股 
 
-pigeon-toed
+ 关键步 
 
-crow-beaked
-
-magpie-eyed
-
-mallardish
+ 旋转研磨 
 %%%%
 ##########################################################
-# adjective2, Mummy special
+ # 形容词2，天狗特殊 
 ##########################################################
-insult mummy adj2
+ 侮辱天狗 adj2 
 
-# pertaining to dryness and flammability
-desiccated
+ 空心 
 
-dried
+ 羽毛脑 
 
-musty
+ 喙智
 
-flammable
+ 怕老婆的 
 
-inflammable
+ 轻量型 
 
-ignitable
+ 肢弱型 
 
-combustible
+ 鸟脑型 
 
-smouldering
+ 羽量级 
 
-# pertaining to bandages
-shrink-wrapped
+ 内八字型 
 
-crepe-taped
+ 乌喙型 
 
-duct-taped
+ 喜鹊眼型 
 
-fraying
+ 野鸭型
+%%%%
+##########################################################
+ # 形容词2、木乃伊专用 
+##########################################################
+ 侮辱木乃伊 adj2 
 
-hand-wound
+ # 与干燥和易燃有关的 
+ 干燥的 
 
-tightly wound
+ 干燥的 
 
-high-strung
+ 发霉的 
 
-straight-laced
+ 易燃的 
 
-grave-robbed
+ 易燃的 
+
+可燃 
+
+ 可燃 
+
+ 阴燃 
+
+ # 与绷带相关 
+ 热收缩包装 
+
+ 绉布胶带 
+
+ 管道胶带 
+
+ 磨损 
+
+ 手缠绕 
+
+ 紧密缠绕
+
+ 高强度 
+
+ 直系带 
+
+ 盗墓 
 
 w:30
-@insult undead adj2@
+ @insult undead adj2@
 %%%%
 ##########################################################
-# adjective2, Vampire special
+#形容词2、吸血鬼专用 
 ##########################################################
-insult vampire adj2
+ 侮辱吸血鬼 adj2 
 
-bat-flapping
+ 蝙蝠扑动 
 
-blood-sucking
+ 吸血 
 
-light-shying
+ 闪光 
 
-pallid
+ 苍白 
 
-sallow
+ 蜡黄 
 
-cream-faced
+ 奶油脸 
 
-whey-faced
+ 乳白脸
 
-anaemic
+ 贫血 
 
-bloodless
+ 无血 
 
-exsanguinous
+ 无血 
 
 w:20
-@insult undead adj2@
+ @insult undead adj2@ 
 %%%%
 ##########################################################
-# adjective2, undead special
+ # 形容词2，不死族专用 
 ##########################################################
-insult undead adj2
+ 侮辱不死族 adj2 
 
-deathlike
+ 死亡般的 
 
-lifeless
+ 不死族 
 
-undead
+ 不死族
 
-corpse-like
+ 僵尸般的 
 
-deado
+ deado 
 %%%%
 ###############################################
-# noun of the insult
+ # 侮辱名词 
 ###############################################
-insult_noun
+ 侮辱_名词 
 
 w:5
-@species_insult_noun@
+ @species_insult_noun@ 
 
-@insult general noun@
+ @insult general noun@ 
 %%%%
-insult general noun
+ 侮辱一般名词 
 
-apple-john
+ apple-john 
 
-baggage
+ 行李 
 
-bandersnitch
+班德尼奇 
 
-barnacle
+ 藤壶 
 
-beggar
+ 乞丐 
 
-blabberskite
+ 胡言乱语者 
 
-bladder
+ 膀胱 
 
-bloater
+ 腹胀者 
 
-boar-pig
+ 野猪 
 
-bootlicker
+ 马屁精 
 
-bounder
+ 强盗 
 
-brigand
+ 强盗 
 
-bugbear
+ 熊
 
-bum-bailey
+ 野味贝利 
 
-buzzard-bait
+ 秃鹰诱饵
 
-canker-blossom
+溃疡花
 
-clack-dish
+叮当盘
 
-clam
+蛤
 
-clotpole
+克洛特波尔
 
-Cock-Lorel
+科克-罗雷尔
 
-coxcomb
+花花公子
 
-codpiece
+代码片段
 
-crab-lanthorn
+蟹兰索
 
-cross-patch
+交叉补丁
 
-dandiprat
+丹迪普拉特
 
-deadneck
+死脖子
 
-death-token
+死亡令牌
 
-dewberry
+露莓
 
-dingleberry
+丁格贝里
 
-efter
+之后
 
-erk
+埃克
 
-flap-bat
+拍打蝙蝠
 
-flax-wench
+亚麻姑娘
 
-fleecer
+羊毛衫
 
-flim-flammer
+忽悠人
 
-flirt-gill
+调情吉尔
 
-foot-licker
+舔脚者
 
-frater
+兄弟
 
-fustilarian
+富斯蒂拉人
 
-giglet
+吉莱特
 
-gnoll-tail
+豺狼人尾巴
 
-gonus
+戈努斯
 
-gudgeon
+鱼尾草
 
-guttersnipe
+格特斯奈普
 
-haggard
+枯槁
 
-harpy
+鹰身女妖
 
-hedge-pig
+豪猪
 
-hugger-mugger
+拥抱抢劫者
 
-jarkman
+贾克曼
 
-joithead
+联合头
 
-lewdster
+淫荡的
 
-lout
+粗鲁
 
-maggot-pie
+蛆饼
 
-malt-worm
+麦芽虫
 
-mammet
+玛梅特
 
-measle
+麻疹 
 
-mendicant
+ 乞丐 
 
-minnow reeky
+ 米诺鱼 热气腾腾的 
 
-mish-mash
+ 大杂烩 
 
-mule
+ 骡子 
 
-nert
+ 呆子 
 
-nightsoil
+ 夜粪 
 
-nobody
+ 没人 
 
-nothing
+ 没什么 
 
-pigeon-egg
+ 鸽蛋 
 
-pignut
+ 猪坚果
 
-pimple
+ 丘疹 
 
-pissant
+ 小便器 
 
-pot-faker
+ 骗子 
 
-prigger-of-prances
+ 舞步者 
 
-pustule
+ 脓包 
 
-puttock
+ 脓包 
 
-pumpion
+ 抽气器 
 
-ratsbane
+ 老鼠克星 
 
-reprobate
+ 恶棍 
 
-scavenger
+ 清道夫
 
-scut
+ scut 
 
-serf
+ 农奴 
 
-simpleton
+ 傻子 
 
-skainsmate
+ skainsmate 
 
-slabber
+ 板子 
 
-slime mould
+ 粘液霉菌 
 
-snaffler
+ 吸食者 
 
-snake-molt
+ 蛇蜕 
 
-socdollager
+ socdollager 
 
-strumpet
+ 喇叭
 
-surfacer
+ 铺地工 
 
-swadder
+ 襁褓 
 
-tinkerer
+ 修补匠
 
-tiddler
+ 拖泥工 
 
-tiler
+ 铺瓦工 
 
-toady
+ 谄媚者 
 
-urchin
+ 海胆 
 
-varlet
+ varlet 
 
-vassal
+ 附庸 
 
-vulture
+ 秃鹫
 
-wastrel
+wastrel 
 
-wagtail
+ 鹡鸰 
 
-whey-face
+ 乳清脸 
 
-whip-jack
+ 鞭子 
 
-wormtrail
+ 蠕虫踪迹 
 
-yak-dropping
+ 牦牛掉落 
 
-zombie-fodder
-%%%%
-##########################################################
-# noun, small species special
-##########################################################
-small_food
-
-snackling
-
-crunchlet
-
-half-meal
-
-supper-setting
-
-snacklet
-
-noshlet
-
-morsel
-
-mug-up
-
-bite-bait
-
-crunch-chow
-
-snack-pap
-
-grub
-
-mouthful
-
-half-pint
-
-weenchy-treat
+ 僵尸饲料 
 %%%%
 ##########################################################
-# noun, Felid special
+ # 名词，小物种特殊 
 ##########################################################
-insult felid noun
+ Small_food 
 
-kitten
+ 小吃
 
-fleabag
+ 脆饼 
 
-vermin
+ 半餐 
 
-loo-gargler
+ 晚餐 
 
-pate-warmer
+ 零食 
 
-pander-nanny
+ 小菜 
 
-hissie
+ 小口 
 
-cooking-fat
+ 小杯 
 
-sand-tongue
+ 咬饵 
 
-scamp
+ 脆饼 
 
-fur-fop
+小吃 
 
-toe-scratcher
+ 蛴螬 
 
-filth-coat
+ 满口 
 
-gob-dollager
+ 半品脱 
+
+ 威奇治疗 
 %%%%
 ##########################################################
-# noun, Spriggan special
+ # 名词，猫科动物特殊 
 ##########################################################
-insult spriggan noun
+ 侮辱猫科动物名词 
+
+ 小猫 
+
+ 跳蚤袋 
+
+ 害虫 
+
+厕所漱口者 
+
+ 暖胃者 
+
+ 迎合保姆 
+
+ 嘶嘶声 
+
+ 烹饪油 
+
+ 沙舌 
+
+ 流氓 
+
+ 毛皮花哨者 
+
+ 抓脚趾者 
+
+ 污秽外套
+
+ gob-dollarer
+%%%%
+##########################################################
+# 名词, Spriggan 特别 
+##########################################################
+ 侮辱 spriggan 名词 
 
 w:100
-@small_food@
+ @small_food@ 
 
-rat-rider
+ 老鼠骑手 
 
-quarter-pint
+ 四分之一品脱 
 
-nissette
+ nissette 
 
-fizzle-flop
+ 失败 
 
-spell-botch
+ 拼写失败 
 
-feeblet
+ 脚 
 
-weakling
+弱者 
 
-pinchbeck-pixie
+ 捏贝克小精灵 
 
-ankle-biter
+ 咬脚踝 
 
-bootstain
+ 靴子 
 
-nano-nebbish
+ 纳米 Nebbish 
 
-sopling
+ 索林 
 
-shrunken violet
+ 缩小紫罗兰 
 
-sissy-prig
+ 娘娘腔 
 
-pussyfoot
+ pussyfoot 
 
-creepsneak
+ 蠕动潜行
 %%%%
 ##########################################################
-# noun, Minotaur special
+ #名词，牛头怪专用 
 ##########################################################
-insult minotaur noun
+ 侮辱牛头怪名词 
 
-bovine
+ 牛 
 
-brisket
+ 牛胸 
 
-bull-brain
+ 牛脑 
 
-cud-chewer
+ 反刍者 
 
-calf-wit
+ 小牛智慧 
 
-cloven-toed
+ 偶趾 
 
-cretin
+ 白痴
 
-cow
+ 牛 
 
-cattle
+ 牛 
 
-horn-beast
+ 角兽 
 
-meatloaf
+ 肉饼 
 
-meatball
+ 肉丸 
 
-mooer
+ 穆尔 
 
-rump-roast
+ 烤臀肉 
 
-ruminant
+ 反刍动物 
 
-veal
+ 小牛肉 
 
-walking sirloin
+ 步行牛腰肉
 %%%%
 ##########################################################
-# noun, Mummy special
+ #名词，木乃伊专用
 ##########################################################
-insult mummy noun
+侮辱木乃伊名词
 
-dustbag
+集尘袋 
 
-deado
+ deado 
 
-fogey
+ 雾气 
 
-linensack
+ 亚麻布袋 
 
-clothbag
+ 布袋 
 
-tombling
+ 拖曳 
 
-mummylet
+ 木乃伊 
 
-shroud
+ 裹尸布 
 
-paper wrap
+ 纸包裹 
 
-roll of bandages
+ 绷带卷 
 
-bundle of gauze
+ 纱布束
 
-cotton waste
+ 废棉 
 
-wrapping tissue
+ 包裹纸巾 
 
-# susceptibility to fire
-pyre
+ # 易燃 
+ 柴堆 
 
-tinder
+ 火种

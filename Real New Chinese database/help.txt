@@ -1,727 +1,727 @@
 %%%%
-pick-up
+捡起
 
-                   <h>Picking up and dropping items</h>
+<h>拾取和放下物品</h>
 
-<h>Navigation and selecting items</h>
-Use the usual navigation keys (<w>arrow</w> keys, <w>pgdn</w>/<w>pgup</w>, <w>home</w>, <w>end</w>) to select
-items, and <w>Space</w>/<w>.</w> to toggle whether the selected item will be picked up or
-dropped. Pressing an item's letter key will also toggle its pickup/drop state.
-Gear, potions, scrolls, and evocable items are on separate pages which can be
-switched between by <w>left arrow</w> and <w>right arrow</w>.
-Press <w>Return</w> to accept the current set of items.
+<h>导航和选择项目</h>
+使用常用导航键（<w>arrow</w> 键、<w>pgdn</w>/<w>pgup</w>、<w>home</w>、<w>end</w>）进行选择
+项目，以及 <w>Space</w>/<w>.</w> 切换是否拾取所选项目或
+掉了。按项目的字母键也会切换其拾取/放下状态。
+装备、药水、卷轴和可召唤物品位于单独的页面上，可以
+通过<w>左箭头</w>和<w>右箭头</w>之间切换。
+按 <w>Return</w> 接受当前的项目集。
 
-Entering a number before selecting by letter will toggle just that quantity of
-a stack of items.
+在按字母选择之前输入数字将仅切换该数量
+一堆物品。
 
-<h>Regular expressions</h>
-You can press <w>Ctrl-F</w> to enter a word (or a regular expression). All matching
-items will be selected.
+<h>正则表达式</h>
+您可以按 <w>Ctrl-F</w> 输入单词（或正则表达式）。全部匹配
+将选择项目。
 
-<h>Category shortcuts</h>
-You can quickly select items by type by pressing:
-<w>!</w>   potions      <w>(</w>   weapons        <w>)</w>   ammunition      <w>[</w>   armour
-<w>/</w>   wands        <w>|</w>   magical staves <w>?</w>   scrolls         <w>:</w>   books
-<w>"</w>   amulets      <w>=</w>   rings          <w>}</w>   miscellaneous
-Global selects:  <w>,</w>   select all     <w>*</w>   invert all      <w>-</w>   deselect all
-                 <w>;</w>   select last unequipped
-Note that for dropping, the <w>,</w> command uses the <w>drop_filter</w> option, which
-narrows the range of items to be (de)selected. The default is all useless items.
+<h>类别快捷方式</h>
+您可以按类型快速选择项目：
+<w>!</w>药水<w>(</w>武器<w>)</w>弹药<w>[</w>装甲
+<w>/</w> 魔杖 <w>|</w> 魔法法杖 <w>?</w> 卷轴 <w>:</w> 书籍
+<w>"</w> 护身符 <w>=</w> 戒指 <w>}</w> 杂项
+全局选择： <w>,</w> 全选 <w>*</w> 反转全部 <w>-</w> 取消全选
+<w>;</w> 选择最后未装备的
+请注意，对于删除，<w>,</w> 命令使用 <w>drop_filter</w> 选项，该选项
+缩小要（取消）选择的项目范围。默认是所有无用的项目。
 %%%%
-known-menu
+已知菜单
 
-                   <h>Known items menu</h>
+<h>已知项目菜单</h>
 
-<h>Navigation and selecting items</h>
-Use the usual navigation keys (<w>arrow</w> keys, <w>pgdn</w>/<w>pgup</w>, <w>home</w>, <w>end</w>) to select
-items, and <w>Space</w>/<w>.</w> to toggle the autopickup mode for the selected item type.
-Pressing an item type's letter key will also toggle its autopickup state.
+<h>导航和选择项目</h>
+使用常用导航键（<w>arrow</w> 键、<w>pgdn</w>/<w>pgup</w>、<w>home</w>、<w>end</w>）进行选择
+项目，以及 <w>Space</w>/<w>.</w> 用于切换所选项目类型的自动拾取模式。
+按项目类型的字母键也会切换其自动拾取状态。
 
-<h>Selecting item types</h>
-Item types displayed in grey use the default autopickup options set in your
-configuration file. (Items that are useless to your character are displayed
-in <darkgrey>dark grey</darkgrey>.) Selecting a type of item overrides those options
-(indicated by <w>white</w> text), and toggles the item between the states:
- <w>+</w>  Items of this type will be picked up automatically.
- <w>-</w>  Items of this type will not be picked up automatically.
-Autopickup can also be toggled for all unknown items of a given category.
+<h>选择项目类型</h>
+以灰色显示的项目类型使用在您的项目中设置的默认自动拾取选项。
+配置文件。 （显示对你的角色无用的物品
+<darkgrey> 深灰色 </darkgrey>。）选择项目类型会覆盖这些选项
+（由 <w>white</w> 文本指示），并在状态之间切换项目：
+<w>+</w> 该类型的物品将被自动拾取。
+<w>-</w> 该类型的物品不会被自动拾取。
+还可以为给定类别的所有未知项目切换自动拾取。
 
-<h>Category shortcuts</h>
-You can quickly select all item types in a given category by pressing:
-<w>!</w>   potions      <w>?</w>   scrolls      <w>(</w>   ammunition        <w>"</w>   amulets
-<w>=</w>   rings        <w>/</w>   wands        <w>|</w>   magical staves
-Global selects:  <w>*</w>   invert all   <w>^</w>   reset all to default
+<h>类别快捷方式</h>
+您可以通过按以下键快速选择给定类别中的所有项目类型：
+<w>!</w> 药水 <w>?</w> 卷轴 <w>(</w> 弹药 <w>"</w> 护身符
+<w>=</w> 戒指 <w>/</w> 魔杖 <w>|</w> 法杖 
+ 全局选择：<w>*</w> 反转所有 <w>^</w> 全部重置为默认值 
 
-<h>Viewing unknown and known items</h>
-<w>\</w> and <w>-</w> toggle between the known and unknown items menus. Note
-that none of the above features are available from the unknown items menu.
+ <h>查看未知和已知项目</h> 
+ <w>\</w> 和 <w>-</w> 在已知和未知项目菜单之间切换。请注意 
+，未知项目菜单中不提供上述功能。 
 
-<h>Restoring autopickup defaults</h>
-Pressing <w>Ctrl-D</w> followed by an item letter or a category shortcut
-cancels the override and restores the selected item or items to their default
-settings.
+ <h> 恢复自动拾取默认值 </h> 
+ 按 <w>Ctrl-D</w> 后跟项目字母或类别快捷方式 
+ 可取消覆盖并将所选项目恢复为其默认 
+ 设置。 
 
-<h>Regular expressions</h>
-You can press <w>Ctrl-F</w> to enter a word (or a regular expression).
-All matching items will be selected.
-
-%%%%
-stash-search.prompt
-
-<h>Searching the stash-tracker</h>
-
-You can search for items and dungeon features by name (or a substring of the
-name). In the list of search results, you can select a search result by its
-hotkey to travel to its location.
-
-Some examples of search strings:
-<w>mutation</w>      find all potions of mutation, including potions in shops.
-<w>throwing net</w>  finds every single throwing net and piles of nets.
-<w>shop</w>          lists all shops. Press <w>!</w> and a shop's letter for the stock.
-<w>Lair:2</w>        find everything known to be on Lair:2.
-<w>/D:[2-4]</w>      finds everything on Dungeon levels 2-4. Regexes are allowed!
-              Note that /D:[3-10] will not work as intended, since [x-y] is a
-              regex character range.
-<w>rPois</w>         finds all items with an rPois resistance.
-<w>rC++</w>          finds all items with an rC++ resistance.
-<w>+3</w>            finds all items with a +3 enchantment.
-<w>/Lair.*axe</w> and <w>axe && Lair</w> both show all axes in the Lair.
-
-Some shortcuts:
-<w>.</w>             lists everything on your current level.
-<w>..</w>            lists all items you know.
-<w>0</w> to <w>9</w>        lists all items at the specified waypoint.
-<w>*</w>             lists all items at all waypoints.
-<w>@<<query></w>      lists everything matching <<query> on your current level.
-<w>/<<regex></w>      lists items matching <<regex> as a regular expression.
-<w>=<<string></w>     lists items containing <<string> as a substring.
-
-You can also examine shops and items in the search results by pressing <w>?</w> and
-then selecting the hotkey for the search result. This will give a description
-of the item or the contents of the shop.
-
-The stash search string is case-insensitive.
-
-<h>Searching by item properties:</h>
-
-You can search for spell names (such as <w>Ignite Poison</w>) to find spellbooks
-that contain the spell.
-
-You can search for artefact item properties (such as <w>/prevents.*teleport</w>)
-to find artefacts that have the property.
-
-You can search by some additional item properties: <w>artefact</w> or
-<w>artifact</w> will find identified artefacts, <w>ego</w> or <w>branded</w>
-will find non-artefacts with a brand and unidentified items which may be
-branded, <w>throwable</w> will find things you can throw, <w>dropped</w> will
-find items you have dropped, <w>in_shop</w> will find items in shops, and (if
-the autopickup_search option is enabled) <w>autopickup</w> will find items that
-would be automatically picked up.
-
-Skill names (such as <w>Polearms</w> or <w>Long Blades</w>) will find all weapons that
-train that skill. You can also look for <w>melee weapon</w> and <w>ranged weapon</w>.
-
-You can also search by item types such as <w>book</w> or <w>manual</w> or <w>jewellery</w>.
-For armour slots, use <w>helmet</w> (all headgear), <w>gloves</w>, <w>shield</w>, and <w>body</w>.
-Use <w>armour && !!body</w> to list all armour pieces except for body armour.
-
-<h>Finding Dungeon Features:</h>
-
-You can search for dungeon features by name: all shops will be found by a search
-for <w>shop</w> (including shops that do not have "shop" in their name); other
-dungeon features can also be found by name: <w>dispersal trap</w>, <w>altar</w>,
-etc. You can also search for altars by deity name: <w>Zin</w>.
-
-<h>Non-regex operators:</h>
-
-You can use !! to negate a search string, && for a boolean AND, || for
-boolean OR, and <<<< >> for grouping.
-
-For instance, to find rings (jewellery) but not ring mail you could use:
-<w>ring && !!mail</w>
-
-Note that <w>/</w> and <w>=</w> apply to individual patterns, not the entire query:
-you should search for <w>armour && /r(C|F|Pois|Elec)</w>, not
-<w>/armour && r(C|F|Pois|Elec)</w>.
-%%%%
-level-map
-
-<h>Level Map ('<w>X</w>' in the main screen):</h>
-<w>Esc</w>        : Leave level map (also <w>Space</w> or any unused key).
-<w>Dir.</w>       : Move the cursor.
-<w>Shift-Dir.</w> : Move the cursor in larger steps (7 by default).
-<w>-</w> or <w>+</w>     : Scroll level map 20 grids up or down.
-<w>.</w>          : Start travel (also <w>Enter</w> and <w>,</w> and <w>;</w>).
-             (Moves cursor to the last travel destination if still on @.)
-<w>[</w> or <w>]</w>     : Examine the next higher or lower level.
-             (Moves cursor to the staircase destination if a known staircase is
-             highlighted.)
-<w>G</w>          : View another level by choosing a branch and depth.
-<w>o</w>          : Move the cursor to the next autoexplore target.
-<w>{</w> or <w>}</w>     : Zoom out or in (tiles only).
-
-<h>Travel exclusions</h>
-<w>e</w>          : Create a travel exclusion, change its radius, or remove it.
-<w>R#</w>         : Create a travel exclusion with a specified radius or change
-             its radius to #, where # is a number from 1 to 8.
-<w>E</w>          : Cycle through travel exclusions.
-<w>Ctrl-E</w>     : Erase all travel exclusions on the level.
-
-<h>Waypoints</h>
-<w>w</w>          : Set waypoint to current position.
-<w>W</w>          : Cycle through all waypoints on the level.
-
-<h>Cycle through features</h>
-<w><<</w> or <w>></w>     : Cycle through up or down stairs.
-<w>^</w>          : Cycle through traps.
-<w>\</w> or <w>Tab</w>   : Cycle through shops and portals.
-<w>I</w>          : Cycle forward through all items.
-<w>O</w>          : Cycle backward through all items.
-<w>_</w>          : Cycle through altars.
-
-<h>Other</h>
-<w>v</w>          : Examine the last remembered state of the indicated tile.
-<w>!</w>          : Annotate level.
-<w>Ctrl-C</w>     : Clear monster memory.
-<w>Ctrl-F</w>     : Forget level map.
-<w>Ctrl-U</w>     : Restore forgotten level map.{{
-if you.wizard() then
-    return "\n\n"
-          .. "<h>Wizard commands</h>\n"
-          .. "<w>T</w>          : Teleport to cursor.\n"
-          .. "<w>Ctrl-X</w>     : Completely wipe out map."
-end }}
-%%%%
-interlevel-travel.branch.prompt
-
-<h>Interlevel Travel (choose a branch):
- Use the shortcut letter for a branch to select the branch for travel.
-
- Once you select a branch, you will be prompted for a depth in that
- branch (more help is available there).
-
- <w>Tab</w>    : Repeat last interlevel travel.
- <w>.</w>      : Travel to a level in the current branch.
- <w><<</w>      : Go up the nearest stairs.
- <w>></w>      : Go down the nearest stairs.
- <w>Ctrl-P</w> : Travel to a level in the branch above this one.
- <w>*</w>      : Show available waypoints (if any are set).
- <w>0</w>-<w>9</w>    : Go to the numbered waypoint.
- <w>_</w>      : Show available altars (if any are discovered).
-%%%%
-interlevel-travel.depth.prompt
-
-<h>Interlevel Travel (go to a specific level in the selected branch)
- Type in the level number you want to go to and press Enter, or use:
- <w>Enter</w>  : Go to the default level.
- <w>0</w>      : Go to the entrance to the current branch.
- <w><<</w>      : Change the default to one level above the current.
- <w>></w>      : Change default to one level below the current.
- <w>-</w> or <w>p</w> : Change default to the branch above this one.
- <w>$</w>      : Change default to deepest visited level in this branch.
- <w>^</w>      : Change default to the entrance to the current branch.
-%%%%
-interlevel-travel.altar.prompt
-
-<h>Interlevel Travel (go to an altar):
- Use the shortcut letter (the initial of a god, with TSO being replaced by 1)
- to select the altar for travel.
-
- Once you select a god, you will begin travelling to the nearst altar.
-
- <w>Enter</w>  : Repeat last interlevel travel.
-%%%%
-annotate.prompt
-
-<h>Annotate (select level):
- <w>Enter</w> or <w>.</w> : Annotate current level.
- any <w>letter</w> : Annotate a level in the branch corresponding to the letter.
- <w><<</w>          : Annotate the level upstairs.
- <w>></w>          : Annotate the level downstairs.
- <w>Ctrl-P</w>     : Annotate a level in the branch above this one.
- <w>!</w>          : Show list of dungeon branches.
+ <h>正则表达式</h> 
+ 您可以按<w>Ctrl-F</w> 输入单词（或正则表达式）。 
+ 将选择所有匹配的项目。 
 
 %%%%
-skill-menu
+ stash-search.prompt 
 
-                        <h>Skill management</h>
+ <h>搜索 stash-tracker</h> 
 
-You gain experience for killing monsters (and very few other activities). This
-experience is used to train skills. The skill screen allows you to select which
-skills to train.
+ 您可以按名称（或 
+ 名称的子字符串）搜索物品和地下城功能。在搜索结果列表中，您可以通过 
+ 热键选择搜索结果以前往其位置。 
 
-By pressing its letter, you can cycle if and how a skill is trained:
-  <darkgrey>- deselected</darkgrey>    Skill will not be trained.
-  + selected      Skill will be trained.
-  <w>* focused</w>       Skill will be weighted higher for training.
+ 搜索字符串的一些示例： 
+ <w>mutation</w> 查找所有突变药水，包括商店中的药水。 
+ <w>投掷网</w> 找到每一个投掷网和成堆的网。 
+ <w>shop</w> 列出所有商店。按 <w>！</w> 和商店的库存字母。 
+ <w>Lair:2</w> 找到 Lair:2 上所有已知的东西。 
+ <w>/D:[2-4]</w> 找到地牢 2-4 层的所有内容。允许使用正则表达式！ 
+ 请注意，/D:[3-10] 将无法按预期工作，因为 [x-y] 是 
+ 正则表达式字符范围。 
+ <w>rPois</w> 查找所有具有 rPois 电阻的项目。 
+ <w>rC++</w> 查找所有具有 rC++ 抗性的项目。 
+ <w>+3</w> 找到所有具有 +3 魔力的物品。 
+ <w>/Lair.*axe</w> 和 <w>axe && Lair</w> 均显示巢穴中的所有轴。 
 
-Pressing a capital letter selects that skill and deselects all the others.
-This shortcut is useful when you want to train only one skill.
+ 一些快捷键： 
+ <w>.</w> 列出当前级别的所有内容。 
+ <w>..</w> 列出了您知道的所有项目。 
+ <w>0</w> 至 <w>9</w> 列出指定路径点处的所有项目。 
+ <w>*</w> 列出所有航路点的所有项目。 
+ <w>@<<query></w> 列出了当前级别上与 <<query> 匹配的所有内容。 
+ <w>/<<regex></w> 将与 <<regex> 匹配的项目列为正则表达式。 
+ <w>=<<string></w> 列出包含 <<string> 作为子字符串的项目。 
 
-Training can be done in two modes, which are toggled with the <w>/</w> key.
-  - automatic:    Skills are weighted based on your use of them.
-  - manual:       Experience is spread evenly across all activated skills.
+ 您还可以通过按 <w>?</w> 和 
+ 然后选择搜索结果的热键来检查搜索结果中的商店和商品。这将给出商品或商店内容的描述 
+。
 
-In training target mode you can set skill training targets: target skill levels
-at which training of the skill will be automatically disabled.
+存储搜索字符串不区分大小写。 
 
-How fast you train a skill is governed by the following factors:
-  - aptitude: Shown <white>white</white> in the Apt column. Higher numbers mean that less
-              experience is needed to advance a skill. Depends on species.
-  - skill manuals: Rare books giving an aptitude bonus of <lightred>+4</lightred> in one skill.
+ <h>按物品属性搜索：</h> 
 
-On top of that, there are some effects which directly modify a skill, for
-example having trained a related skill (crosstraining), or certain god powers.
-Reduced skills are shown in <magenta>magenta</magenta>, and enhanced skills in <green>green</green>.
-The training percentage (in <brown>brown</brown>) shows the relative amount of experience
-which will be used to train this skill.
+ 您可以搜索法术名称（例如 <w>Ignite Poison</w>）来查找包含该法术的法术书 
+。 
 
-Apart from (de)selecting skills, you also have the following toggles:
-  <w>/</w> :  Switch between automatic and manual training modes.
-  <w>*</w> :  Display all skills, even those which aren't currently useful.
-  <w>?</w> :  Allows you to read the descriptions of skills.
-  <w>_</w> :  Show or hide skill level modifications (god powers, crosstraining).
-  <w>!</w> :  Switch between displaying training percentage, skill cost, or training
-       targets.
+ 您可以搜索人工制品物品属性（例如 <w>/prevents.*teleport</w>）
+ 以查找具有该属性的人工制品。 
+
+ 您可以按一些其他物品属性进行搜索：<w>artifact</w> 或 
+ <w>artifact</w> 将查找已识别的文物，<w>ego</w> 或 <w>branded</w> 
+ 将查找带有品牌的非文物和可能是未识别的物品
+ 品牌，<w>throwable</w> 将找到您可以扔掉的东西，<w>dropped</w> 将 
+ 查找您已掉落的物品，<w>in_shop</w> 将在商店中查找物品，并且（如果 
+ 启用了 autopickup_search 选项）<w>autopickup</w> 将查找
+ 将被自动拾取。 
+
+ 技能名称（例如 <w>Polearms</w> 或 <w>Long Blades</w>）将找到 
+ 训练该技能的所有武器。您还可以寻找 <w> 近战武器 </w> 和 <w> 远程武器 </w>。 
+
+ 您还可以按商品类型搜索，例如 <w>book</w> 或 <w>manual</w> 或 <w>jewellery</w>。 
+ 对于装甲槽，请使用 <w>helmet</w>（所有头饰）、<w>gloves</w>、<w>shield</w> 和 <w>body</w>。 
+ 使用 <w>armour && !!body</w> 列出除防弹衣之外的所有盔甲部件。 
+
+ <h>寻找地下城功能：</h> 
+
+ 您可以通过名称搜索地下城功能：通过搜索 
+ <w>shop</w> 可以找到所有商店（包括名称中没有“商店”的商店）；其他 
+ 地下城功能也可以通过名称找到：<w>分散陷阱</w>、<w>altar</w>、
+ 等。您还可以通过神名搜索祭坛：<w>Zin</w>。 
+
+ <h>非正则表达式运算符：</h> 
+
+ 您可以使用！否定搜索字符串，&& 为布尔 AND，||对于 
+ 布尔 OR，以及 <<<< >> 用于分组。 
+
+ 例如，要查找戒指（珠宝）但不查找戒指邮件，您可以使用： 
+ <w>ring && !!mail</w> 
+
+ 请注意，<w>/</w> 和 <w>=</w> 适用于单个模式，而不是整个查询：
+ 您应该搜索 <w>armour && /r(C|F|Pois|Elec)</w>，而不是 
+ <w>/装甲 && r(C|F|Pois|Elec)</w>。 
 %%%%
-spell-library
-<h>Spell Library</h>
-<w>Tab</w> or <w>!</w>  : Cycle forward through <w>Memorise</w>, <w>Describe</w>, <w>Hide</w>, and <w>Show</w> pages.
-<w>Shift-Tab</w> : Cycle backward through these pages.
-<w>Ctrl-F</w>    : Filter the list of spells shown with a regex.
-<w>?</w>         : Show this help.
+ 关卡地图 
 
-By default, the spell library opens to the <w>Memorise</w> page; to begin memorising a
-spell, just press its letter. To read a spell's description, first switch to
-the <w>Describe</w> page by pressing <w>Tab</w>, then press the spell's letter.
+ <h> 关卡地图（主屏幕中的“<w>X</w>”）：</h> 
+ <w>Esc</w> ：保留关卡地图（也包括 <w>Space</w> 或任何未使用的键）。 
+ <w>Dir.</w> : 移动光标。 
+ <w>Shift-Dir.</w> ：以更大的步长移动光标（默认为 7）。 
+ <w>-</w> 或 <w>+</w> ：向上或向下滚动关卡地图 20 格。 
+ <w>.</w> ：开始行驶（也可从 <w> 输入 </w> 和 <w>、</w> 和 <w>；</w>）。 
+（如果仍在@，则将光标移动到最后的行程目的地。） 
+ <w>[</w> or <w>]</w> ：检查下一个更高或更低的级别。
+（如果已知楼梯突出显示 
+，则将光标移动到楼梯目的地。） 
+ <w>G</w> ：通过选择分支和深度查看另一个楼层。 
+ <w>o</w> ：将光标移动到下一个自动探索目标。 
+ <w>{</w> or <w>}</w> ：缩小或放大（仅限图块）。 
 
-Most characters will not be interested in memorising the majority of spells that
-accumulate in their spell library; this is where the <w>Show</w> and <w>Hide</w> pages come in
-handy. To hide a spell from the <w>Memorise</w> and <w>Describe</w> pages, press its spell
-letter from the <w>Hide</w> page. Hidden spells can be shown again from the <w>Show</w> page.
+ <h>旅行排除 </h> 
+ <w>e</w> ：创建旅行排除、更改其半径或将其删除。 
+ <w>R#</w> ：创建具有指定半径的旅行排除项或将 
+ 其半径更改为 #，其中 # 是 1 到 8 之间的数字。 
+ <w>E</w> ：循环浏览旅行排除项。 
+ <w>Ctrl-E</w> ：删除该关卡上的所有旅行排除。 
 
-The <w>auto_hide_spells</w> option can be useful; when enabled, all newly discovered
-spells are hidden by default.
+ <h>Waypoints</h> 
+ <w>w</w> ：将航点设置为当前位置。 
+ <w>W</w> ：循环遍历关卡上的所有航路点。 
 
-<w>Ctrl-F</w> can be used to filter the list of spells. Any filter set in this way will
-persist until the spell library is closed and reopened, or until a new filter is
-set with <w>Ctrl-F</w>. If <w>Enter</w> is pressed at the prompt without entering any text,
-that will reset the filter to none.
-You can filter spells by name and by spell school.
+ <h> 在功能之间循环 </h> 
+ <w><<</w> 或 <w>></w> ：在上下楼梯之间循环。 
+ <w>^</w> ：循环遍历陷阱。 
+ <w>\</w> 或 <w>Tab</w> ：循环浏览商店和门户。 
+ <w>I</w> ：向前循环所有项目。 
+ <w>O</w> ：向后循环所有项目。 
+ <w>_</w> ：循环穿过祭坛。 
+
+ <h>Other</h> 
+ <w>v</w> ：检查指示图块的最后记忆状态。 
+ <w>!</w> ：注释级别。 
+ <w>Ctrl-C</w> ：清除怪物内存。 
+ <w>Ctrl-F</w> ：忘记关卡地图。 
+ <w>Ctrl-U</w> : 恢复忘记的关卡地图。{{ 
+ if you.wizard() then 
+ return "\n\n" 
+ .. "<h>Wizard Commands</h>\n" 
+ .. "<w>T</w> : 传送到光标。\n" 
+ .. "<w>Ctrl-X</w> : 完全擦除地图。" 
+ end }} 
 %%%%
-wiz-monster
-<h>Create specified monster</h>
-
-To create a monster with the default equipment for its species, simply enter
-the species name, such as <w>kobold</w> or <w>Yiuf</w>.
-
-A hydra or slymdra can be given a specific number of heads by calling it an
-n<w>-headed</w> <w>hydra</w> or n<w>-headed</w> <w>slymdra</w> (with a maximum of 20 heads):
-
-<w>four-headed hydra</w>
-
-To set the colour a (very) ugly thing takes when it is first created, use:
-
-<w>white very ugly thing</w>
-
-The valid colours are <w>brown</w>, <w>cyan</w>, <w>green</w>, <w>purple</w>, <w>red</w> and <w>white</w>.
-
-A mutant beast can be customised by prefacing it with a maturity level and/or
-hyphen-separated set of traits, as follows:
-
-<w>mature shock-weird mutant beast</w>
-
-The valid maturity levels are <w>larval</w>, <w>juvenile</w>, <w>mature</w>, <w>elder</w> and <w>primal</w>. The
-facets are <w>sting</w>, <w>bat</w>, <w>fire</w>, <w>weird</w>, <w>shock</w> and <w>ox</w>.
-
-A slime creature's size can be set to other than normal using the prefixes
-<w>large</w>, <w>very large</w>, <w>enormous</w> or <w>titanic</w>:
-
-<w>very large slime creature</w>
-
-If a monster is a member of a band, you can request that it be eligible for
-band members by adding the keyword <w>band</w> to the name. For instance:
-
-<w>orc warlord band</w>
-
-Specifying <w>band</w> doesn't force bands to be placed - it requests that the game
-use the normal chances of creating a band. A band will only be placed if there
-is space for it.
-
-A monster can be given specific items by following the monster name with a
-semi-colon and then with an item list. For example:
-
-<w>orc ; rapier | quick blade . chain mail | plate armour</w>
-
-will generate an orc wielding either a rapier or a quick blade and wearing
-either chain mail or plate armour. Randarts and ego items are only generated
-if they are explicitly requested. Note that any items that the monster was
-originally generated with will be removed and destroyed. This can be used to
-force a monster to have no items whatsoever:
-
-<w>orc; nothing</w>
-
-For further information, see <cyan>docs/develop/levels/syntax.txt</cyan>, section <cyan>ITEMS</cyan>.
-Any reference to a slash (<w>/</w>) should be replaced with a pipe (<w>|</w>) and any comma
-(<w>,</w>) with a full stop (<w>.</w>).
-
-The same syntax is also used to create a specific type of dancing weapon:
-
-<w>dancing weapon; rapier</w>
-
-Limitations: If a monster is given a random launcher, there is no way to force
-the ammo type to match the launcher type. As a special case, however, a
-launcher dancing weapon is always generated with some suitable ammunition.
-
-You can specify that a monster will always generate a corpse by using the tag
-<w>always_corpse</w>, or that it will never generate a corpse with <w>never_corpse</w>.
-
-By default, monsters are generated asleep. This is changed by prefixing the
-name with <w>generate_awake</w>.
-
-<w>generate_awake boulder beetle</w>
-
-A prefix of <w>patrolling</w> prevents it from walking out of sight of the the place
-where it was created.
-
-You can set the monster's god using the <w>god</w>: specifier as follows:
-
-<w>orc god:the_shining_one</w>
-
-If the monster is to be a gift of the specified god, this should be suffixed
-with <w>god_gift</w>:
-
-<w>orc god:the_shining_one god_gift</w>
-
-Note that the monster will not be considered a god gift unless <w>god_gift</w> is
-explicitly set.
-
-You can set the monster's faction by specifying <w>att</w>: one of:
-
-* <w>att:hostile</w> -- the default
-* <w>att:friendly</w> -- tame, will follow you
-* <w>att:neutral</w> -- hostile to both you and att:hostile monsters
-* <w>att:good_neutral</w> -- hostile to att:hostile
-* <w>att:fellow_slime</w> -- tame, won't follow you
-
-Monsters can be given colours that override their default colour:
-
-<w>col:darkgrey fungus</w>
-
-The colour <w>any</w> can be given, in which case a random colour will be chosen.
-
-You can override the displayed monster tile using the <w>tile</w>: specifier as
-follows:
-
-<w>rat tile:mons_giant_bat</w>
-
-In tiles version, this would create a monster that uses the "<cyan>mons_giant_bat</cyan>"
-tile, but is otherwise identical to a rat. In ASCII mode, this will do
-nothing.
-
-If you want to place a random monster suitable for the level the map is
-generated on, you can use
-
-<w>random</w>
-
-If you want to place a random monster suitable for some other place, you can
-use a place: tag in the monster spec:
-
-<w>place:Abyss</w>
-
-Using <w>place</w>: implies that you want a random monster. You can also request
-zombies from random monsters suitable for some other depth as (e.g.):
-
-<w>place:Elf:3 zombie</w>
-
-The available modifiers are <w>zombie</w>, <w>draugr</w>, <w>simulacrum</w>, and <w>spectre</w>.
-
-<h>Overriding Monster Names</h>
-
-Individual monsters can be given names as follows:
-
-<w>kobold name:Durwent</w>
-
-This will cause the monster to appear as "<cyan>Durwent the kobold</cyan>". Spaces can be
-placed in the name by substituting them with the _ symbol. It is worth noting
-that "<cyan>the <<race></cyan>" will be appended to all names, which should be considered
-when coming up with them.
-
-There are three different modifiers that can be used on a name:
-<w>name_adjective</w>, <w>name_suffix and </w>name_replace. <w>name_adjective</w> makes the
-name act as an adjective. For example:
-
-<w>kobold name:ugly name_adjective</w>
-
-Will cause "<cyan>An ugly kobold</cyan>", "<cyan>The ugly kobold hits you</cyan>", and so on.
-
-<w>name_suffix</w> does the same, but after the monster's base name:
-
-<w>kobold name:wearing_mittens name_suffix</w>
-
-Will give "<cyan>A kobold wearing mittens</cyan>", "<cyan>The kobold wearing mittens hits you</cyan>",
-and so on.
-
-<w>name_replace</w> causes the base name to be replaced by given name, as if the
-monster was a unique:
-
-<w>kobold name:Durwent name_replace</w>
-
-Will result in "<cyan>Durwent</cyan>" rather than "<cyan>Durwent the kobold</cyan>". The corpse will
-still be a "<cyan>kobold corpse of Durwent</cyan>".
-
-<w>name_species</w> uses the name for corpses as-is, without prefixing it with
-"<cyan>kobold</cyan> <cyan>corpse of X</cyan>" for <w>name_replace</w>. It also avoids the usual name tag
-that displays above unique and renamed monsters in local tiles.
-
-In combination with <w>name_replace</w> or <w>name_species</w>, there are two further tags
-that can be used when renaming monsters, but not giving them an actual "name":
-<w>name_descriptor</w>, and <w>name_definite</w>.
-
-For example:
-
-<w>kobold name:goblin name_replace</w>
-
-Will result in "<cyan>goblin hits you</cyan>". However, adding <w>name_descriptor</w> from the
-above flags will result in "<cyan>The goblin hits you</cyan>" and in the description of the
-monster, "<cyan>A goblin</cyan>".
-
-<w>kobold name:goblin name_replace name_descriptor</w>
-
-The <w>name_definite</w> flag ensures that it is never referred to as "<cyan>a</cyan>" or "<cyan>an</cyan>",
-but that the definite object is always used. Therefore, you will see "<cyan>The
-<cyan>goblin</cyan> <cyan>hits you</cyan>", as per above, but also "<cyan>The goblin</cyan>" in its description.
-Setting <w>name_definite</w> will automatically set the flag <w>name_descriptor</w>,
-therefore meaning that:
-
-<w>kobold name:goblin name_replace name_definite</w>
-
-is exactly the same as:
-
-<w>kobold name:goblin name_replace name_descriptor name_definite</w>
-
-<w>name_zombie</w> can be used to redefine already zombified monsters (including
-draugr, simulacra and spectrals).
-
-Finally, <w>name_nocorpse</w> will cause the name to be completely ignored for
-corpses. For example:
-
-<w>wizard name:sad name_adjective name_nocorpse</w>
-
-will result in "<cyan>a sad wizard</cyan>" that leaves "<cyan>a wizard corpse</cyan>".
-
-For instances where space in definitions is limited, you can use abbreviated
-forms of these tags:
-
-* <w>name_suffix</w> -> <w>n_suf</w>
-* <w>name_adjective</w> -> <w>n_adj</w>
-* <w>name_replace</w> -> <w>n_rpl</w>
-* <w>name_species</w> -> <w>n_spe</w>
-* <w>name_descriptor</w> -> <w>n_des</w>
-* <w>name_definite</w> -> <w>n_the</w>
-* <w>name_zombie</w> -> <w>n_zom</w>
-* <w>name_nocorpse</w> -> <w>n_noc</w>
-
-<h>Overriding Monster Stats</h>
-
-Further monster customisation can be made by using <w>hd</w> and <w>hp</w>. These two tags
-allow you to completely overwrite the original hit dice and hit points of a
-monster:
-
-<w>kobold hd:20</w>
-
-Creates a kobold with a hit dice of 20. As its hp is randomised, based on its
-hit dice, this will also be re-rolled. Monsters with a specific hit point
-value will not have this value change.
-
-You can also have a specific value for hit points:
-
-<w>kobold hp:20</w>
-
-Creates a kobold with 20 hit points. This is also useful for monsters (such as
-statues) which come with non-randomised HP values.
-
-Monsters can be marked as summoned by using <w>dur</w> and <w>sum</w> tags. The <w>dur</w> tag
-accepts an integer between 1 and 6 inclusive. The <w>sum</w> tag accepts the name of
-a spell (parsed as per the <w>spells</w> tag, described below) or any of <w>clone</w>
-(Rakshasa), <w>animate</w> (from animate dead), <w>chaos</w> (made from pure chaos), <w>miscast</w>
-(summoned from by spell miscast effect), <w>zot</w> (summoned by a Zot trap), <w>wrath</w>
-(summoned by a god in an act of retribution), <w>aid</w> (summoned by a god in order
-to give aid).
-
-Of the spells, <w>shadow_creatures</w> has the most significant effect, in that
-monsters will dissipate into the shadows rather than disappear in a puff of
-smoke. Using non-summoning spells will also have no effect.
-
-Tagging a monster with <w>seen</w> will override the system and force that monster to
-be marked as already viewed; this means that it won't generate messages such
-as "<cyan>A kobold comes into view</cyan>".
-
-<h>Overriding Monster Spells</h>
-
-Monster spell sets can be overridden with a <w>spells</w>: tag, used as follows:
-
-*<w>goblin spells:throw_flame.50.wizard</w>
-*<w>ancient lich spells:symbol_of_torment.26.wizard; glaciate.51.wizard</w>
-
-(a list of spell slots, consisting of a spell name with spaces replaced with
-underscores, a frequency of casting and set of spell slot flags specified
-afterwards with <w>.</w>, with slots separated by <w>;</w>. There should be no spaces around
-the <w>;</w> or after the <w>spells</w>: prefix)
-
-Spell names must exactly match the names in <cyan>spl-data.h</cyan>, with spaces replaced
-by underscores. Spell frequencies are an (x in 200) chance that that spell
-will be cast. Spell flags include:
-
-* <w>natural</w>, <w>magical</w>, <w>demonic</w>, <w>wizard</w>, or <w>priest</w> - the manner in which this
-spell is being cast. Wizards and priests can be silenced and will trigger
-appropriate conducts (Trog will appreciate killing wizards, Beogh will
-appreciate killing priests). Magical, demonic, and wizard spells are subject
-to anti-magic effects. Natural spells do not generate noise.
-* <w>emergency</w> - the monster will only cast the spell when low on health.
-* <w>breath</w> - the spell is a breath weapon, and using it triggers a breath
-timeout during which the spell cannot be cast again.
-* <w>no_silent</w> - the spell cannot be used while silent, even if it is an ability
-type normally not subject to silence.
-* <w>instant</w> - the spell does not expend the monster's energy; they may take
-another action on the same turn.
-* <w>noisy</w> - forces the spell to make noise even if it is a natural ability.
-
-You may use <w>none</w> specify that a slot should be left empty. You can force a
-spell-less monster with:
-
-<w>orc wizard spells:none</w>
-
-<h>Setting enchantments</h>
-
-You may give a monster any number of enchantments. It may start hasted, blind,
-have permanent RMsl, etc. The syntax is <w>ench:<<name>:<<duration>:<<degree></w> or
-<w>perm_ench:<<name>:<<degree></w>. The <w><<degree></w> and <w><<duration></w> fields may be
-omitted.
-
-For example:
-
-* <w>orc perm_ench:blind perm_ench:mad</w>
-* <w>dream sheep ench:sticky_flame</w>
-* <w>stone giant dur:1 ench:berserk</w>
+ interlevel-travel.branch.prompt 
+
+ <h>Interlevel 出行（选择分支）：
+ 使用分支的快捷字母来选择出行的分支。 
+
+ 选择分支后，系统将提示您输入该 
+ 分支的深度（那里提供了更多帮助）。 
+
+ <w>Tab</w> ：重复上次层间行驶。 
+ <w>.</w> ：前往当前分支中的某个级别。
+<w><<</w> ：走上最近的楼梯。 
+ <w>></w> ：走下最近的楼梯。 
+ <w>Ctrl-P</w> ：前往该分支之上的一级。 
+ <w>*</w> ：显示可用航路点（如果设置了）。 
+ <w>0</w>-<w>9</w> ：转到编号的航路点。 
+ <w>_</w> ：显示可用的祭坛（如果发现的话）。 
+%%%%
+ interlevel-travel.depth.prompt 
+
+ <h>Interlevel Travel（转到所选分支中的特定级别） 
+ 输入要转到的级别编号并按 Enter，或使用： 
+ <w>Enter</w> ：转到默认级别。 
+ <w>0</w> ：前往当前分支的入口。 
+ <w><<</w> ：将默认值更改为比当前高一级。 
+ <w>></w> ：将默认值更改为比当前低一级。 
+ <w>-</w> 或 <w>p</w> ：将默认值更改为该分支之上的分支。 
+ <w>$</w> ：将此分支中的默认值更改为最深访问级别。 
+ <w>^</w> ：将默认值更改为当前分支的入口。 
+%%%%
+ interlevel-travel.altar.prompt 
+
+ <h>Interlevel 旅行（前往祭坛）：
+ 使用快捷字母（神的首字母，TSO 替换为 1）
+ 选择旅行的祭坛。 
+
+ 一旦你选择了一位神，你将开始前往最近的祭坛。 
+
+ <w>Enter</w> ：重复上次层间行驶。 
+%%%%
+ annotate.prompt 
+
+ <h>Annotate（选择级别）：
+ <w>Enter</w> 或 <w>.</w> ：注释当前级别。 
+ any <w>letter</w> ：注释字母对应的分支中的级别。 
+ <w><<</w> ：注释楼上的关卡。 
+ <w>></w> ：注释楼下的关卡。 
+ <w>Ctrl-P</w> ：注释此级别之上的分支中的级别。 
+ <w>!</w> : 显示地牢分支列表。 
 
 %%%%
-macro-menu
+ 技能菜单 
 
-<h>Editing macros and keymaps</h>
+ <h> 技能管理</h> 
 
-To edit a current macro/keymap, select from the menu using the arrow keys or
-by hotkey. (Hotkeys that are used to navigate the menu can be selected by
-arrow keys). To create a new mapping by entering a key, use the [<w>~</w>] key
-or the corresponding menu item, and then enter the key. This allows you to
-create (and edit) mappings that use menu keys. Use the [<w>!</w>] key to switch
-to keymap editing mode (see below for more information on keymaps).
+ 您通过杀死怪物获得经验（以及很少的其他活动）。这个
+经验是用来训练技能的。技能屏幕允许您选择要训练的 
+ 技能。 
 
-<w>Macros</w> allow remapping keys that are sent to the game when inputting
-commands. This can be used to redefine a command key, or to define an unused
-key. They map a key to a sequence of keystrokes, and keystrokes do carry over
-into submenus.
+ 通过按其字母，您可以循环是否以及如何训练技能： 
+ <darkgrey>- 取消选择</darkgrey> 不会训练技能。 
+ + 选定的技能将被训练。 
+ <w>*focused</w> 训练时技能的权重将更高。 
 
-Example 1: mapping <w>e</w> to <w>p</w> would let the `e` key trigger the same
-command as the `p` key (which on the default settings is autofire).
+ 按大写字母可选择该技能并取消选择所有其他技能。
+当您只想训练一项技能时，此快捷方式非常有用。
 
-Example 2: mapping <w>1</w> to the sequence <w>zaf</w> would let the `1` key
-cast a spell that is on the letter `a` with default targeting.
+训练可以通过两种模式进行，使用 <w>/</w> 键进行切换。
+- 自动：技能根据您的使用情况进行加权。
+- 手动：经验均匀分布在所有激活的技能上。
 
-Example 3: mapping <w>F1</w> to <w>Q&a</w> would let the F1 key quiver the spell
-that is on letter `a`.
+在训练目标模式下可以设置技能训练目标：目标技能水平
+此时技能训练将自动停止。
 
-<w>Keymaps</w> are lower-level key substitutions that replace keys entirely with
-a sequence of keystrokes. They are recommended for changing keys uniformly to
-deal with alternative keyboard layouts. Keymaps are contextual, and the
-default/"regular" context is used anywhere that a non-specialised context is not
-active. Macros take the result of keymaps as input.
+训练技能的速度取决于以下因素：
+- aptitude：在 Apt 列中显示 <white>white</white>。数字越大意味着越少
+需要经验来提高技能。取决于物种。
+- 技能手册：稀有书籍，在一项技能中给予 <lightred>+4</lightred> 的天赋加值。
 
-Example: In some European keyboard layouts, the § symbol replaces ~. Therefore,
-it could be useful to keymap § to ~ in both the regular and menu keymap contexts
-so that the main menu and macro menu become a bit easier to access. (In other
-layouts, this applies instead to ½.)
+除此之外，还有一些直接修改技能的效果，例如
+例如训练了相关技能（交叉训练）或某些神的力量。
+降低的技能显示在 <magenta>magenta</magenta> 中，增强的技能显示在 <green>green</green> 中。
+训练百分比（<brown>brown</brown>）显示相对经验量
+这将用于训练这项技能。
 
-When used for mapping commands, keymaps can have unexpected side effects: e.g.
-mapping <w>1</w> to <w>zaf</w> via keymap is not recommended, because this will
-make it hard to type `1` when entering a skill target.
+除了（取消）选择技能之外，您还可以进行以下切换：
+<w>/</w>：自动和手动训练模式之间切换。
+<w>*</w> ：显示所有技能，甚至是那些当前没有用的技能。
+<w>?</w> ：允许您阅读技能的描述。
+<w>_</w> ：显示或隐藏技能级别修改（神力、交叉训练）。
+<w>!</w> ：在显示训练百分比、技能成本或训练之间切换
+目标。
+%%%%
+法术库
+<h>法术库</h>
+<w>Tab</w> 或 <w>!</w> ：向前循环浏览 <w>Memorise</w>、<w>Describe</w>、<w>Hide</w> 和 <w>Show</w> 页面。
+<w>Shift-Tab</w> ：向后循环浏览这些页面。
+<w>Ctrl-F</w> ：过滤使用正则表达式显示的咒语列表。
+<w>?</w> ：显示此帮助。
 
-<w>Keycodes</w>: Both macros and keymaps accept keycodes when describing the
-action, in the form of <w>\{n}</w> to enter keycode <w>n</w>. (Use <w>\\</w> to
-enter a backslash.) For example, use <w>\{9}</w> to enter the keycode for the
-<w>tab</w> button. You can bind macros and keymaps by keycode by using <w>~~</w>
-at the macro edit menu.
+默认情况下，咒语库打开到 <w>Memorise</w> 页面；开始记忆
+拼写，只需按其字母即可。要阅读咒语的描述，首先切换到
+按 <w>Tab</w> 进入 <w>Describe</w> 页面，然后按拼写字母。
 
-<w>Saving</w>: Bindings edited at this menu are saved in a .macro file in your
-save directory. They will be overridden by settings in your options file. See
-the `macro` command in options_guide.txt for more information.
+大多数角色不会有兴趣记住大部分咒语
+在他们的法术库中积累；这是 <w>Show</w> 和 <w>Hide</w> 页面出现的地方
+便利。要从 <w>Memorise</w> 和 <w>Describe</w> 页面隐藏咒语，请按其咒语
+来自 <w>Hide</w> 页面的信件。隐藏的咒语可以从 <w>Show</w> 页面再次显示。
+
+<w>auto_hide_spells</w> 选项可能很有用；启用后，所有新发现的
+默认情况下，法术是隐藏的。
+
+<w>Ctrl-F</w> 可用于过滤法术列表。以这种方式设置的任何过滤器都会
+持续到法术库关闭并重新打开，或者直到出现新的过滤器为止
+使用 <w>Ctrl-F</w> 设置。如果在提示时按下 <w>Enter</w> 而不输入任何文本，
+这会将过滤器重置为无。 
+ 您可以按名称和法术学校过滤法术。 
+%%%%
+ wiz-monster 
+ <h>创建指定怪物</h> 
+
+ 要创建具有其物种默认装备的怪物，只需输入
+物种名称，例如<w>kobold</w>或<w>Yiuf</w>。 
+
+ 九头蛇或斯莱姆德拉可以通过将其称为 
+ n<w>-headed</w> <w>Hydra</w> 或 n<w>-headed</w> <w>slymdra</w>（最多 20 个头）来赋予其特定数量的头：
+
+ <w>四头九头蛇</w> 
+
+ 要设置（非常）丑陋的东西在首次创建时所采用的颜色，请使用： 
+
+ <w>白色非常丑陋的东西</w> 
+
+ 有效颜色为 <w>brown</w>、<w>cyan</w>、 <w>绿色</w>、<w>紫色</w>、<w>红色</w>和<w>白色</w>。 
+
+ 突变兽可以通过在其前面加上成熟度级别和/或 
+ 连字符分隔的一组特征来定制，如下所示： 
+
+ <w>mature shock-weird 突变兽</w> 
+
+ 有效的成熟度级别为 <w>larval</w>、<w>juvenile</w>、 <w>mature</w>、<w>elder</w> 和 <w>primal</w>。 
+ 刻面为 <w>sting</w>、<w>bat</w>、<w>fire</w>、<w>weird</w>、<w>shock</w> 和 <w>ox</w>。 
+
+ 史莱姆生物的大小可以使用前缀 
+ <w>large</w>、<w>verylarge</w>、<w>enormous</w> 或 <w>titanic</w> 设置为非正常大小：
+
+ <w>verylarge 史莱姆生物</w> 
+
+ 如果怪物是乐队成员，您可以通过在名称中添加关键字 PHX0ZZbandPHX1ZZ 来请求其有资格成为 
+ 乐队成员。例如： 
+
+ <w>orc warlord band</w> 
+
+ 指定 <w>band</w> 不会强制放置乐队 - 它要求游戏 
+ 使用创建乐队的正常机会。仅当 
+ 有空间时才会放置乐队。 
+
+ 通过在怪物名称后面加上 
+ 分号，然后加上物品列表，可以为怪物提供特定物品。例如：
+
+ <w>orc；剑杆|快刀。连锁邮件|板甲</w> 
+
+ 将生成一个挥舞剑或快速刀片并穿着 
+ 链甲或板甲的兽人。 Randarts 和 ego 项目仅在明确请求时才会生成 
+。请注意，怪物最初生成时带有 
+ 的任何物品都将被移除并销毁。这可用于 
+ 强制怪物没有任何物品：
+
+ <w>orc； Nothing</w> 
+
+ 有关详细信息，请参阅 <cyan>docs/develop/levels/syntax.txt</cyan>，<cyan>ITEMS</cyan> 部分。 
+ 对斜杠 (<w>/</w>) 的任何引用都应替换为竖线 (<w>|</w>) 和任何带有句号 (<w>.</w>) 的逗号 
+ (<w>,</w>)。 
+
+ 相同的语法也用于创建特定类型的舞蹈武器：
+
+ <w>dancing Weapon；剑杆</w>
+
+限制：如果给怪物随机发射器，则无法强制 
+ 的弹药类型与发射器类型匹配。然而，作为一种特殊情况，
+ 发射器跳舞武器总是用一些合适的弹药生成的。 
+
+ 您可以使用标签 
+ <w>always_corpse</w> 指定怪物始终生成尸体，或者使用 <w>never_corpse</w> 指定永远不会生成尸体。 
+
+ 默认情况下，怪物生成时处于睡眠状态。这是通过在 
+ 名称前添加 <w>generate_awake</w> 来更改的。 
+
+ <w>generate_awake 巨石甲虫</w> 
+
+ <w>patrolling</w> 的前缀可以防止它走出它被创建的地方 
+ 的视线。 
+
+ 您可以使用 <w>god</w>: 说明符设置怪物的神，如下所示： 
+
+ <w>orc god:the_shining_one</w> 
+
+ 如果怪物是指定神的礼物，则应添加后缀 
+ <w>god_gift</w>: 
+
+ <w>orc god:the_shining_one god_gift</w> 
+
+ 请注意，除非明确设置 <w>god_gift</w> 为 
+，否则该怪物不会被视为神的礼物。 
+
+ 您可以通过指定 <w>att</w> 来设置怪物的阵营：以下之一： 
+
+ * <w>att:hostile</w> -- 默认 
+ * <w>att:Friendly</w> -- 驯服，会跟随你 
+ * <w>att:neutral</w> -- 对你和 att:hostile 怪物都怀有敌意 
+ * <w>att:good_neutral</w> -- 对 att:hostile 怀有敌意 
+ * <w>att:fellow_slime</w> -- 驯服，不会跟随你 
+
+ 怪物可以被赋予以下颜色：覆盖它们的默认颜色： 
+
+ <w>col:darkgrey fungus</w> 
+
+ 可以给出颜色 <w>any</w>，在这种情况下将选择随机颜色。 
+
+ 您可以使用 <w>tile</w>: 说明符覆盖显示的怪物图块，如 
+ 所示： 
+
+ <w>rattile:mons_giant_bat</w> 
+
+ 在图块版本中，这将创建一个使用“<cyan>mons_giant_bat</cyan>”的怪物
+ 瓷砖，但其他方面与老鼠相同。在 ASCII 模式下，这对 
+ 不起作用。 
+
+ 如果你想放置一个适合 
+ 生成地图的关卡的随机怪物，你可以使用 
+
+ <w>random</w> 
+
+ 如果你想放置一个适合其他地方的随机怪物，你可以 
+ 在怪物规格：
+
+ 中使用一个 place: 标签<w>place:Abyss</w> 
+
+ 使用 <w>place</w>：意味着你想要一个随机怪物。您还可以从适合其他深度的随机怪物中请求 
+ 僵尸（例如）：
+
+<w>place:Elf:3僵尸</w> 
+
+ 可用的修饰符有 <w>zombie</w>、<w>draugr</w>、<w>simulacrum</w> 和 <w>spectre</w>。 
+
+ <h>覆盖怪物名称</h> 
+
+ 单个怪物可以被命名如下： 
+
+ <w>kobold name:Durwent</w> 
+
+ 这将导致怪物显示为“<cyan>Durwent the kobold</cyan>”。空格可以 
+ 放置在名称中，方法是用 _ 符号替换它们。值得注意的是
+，“<cyan>the <<race></cyan>”将被附加到所有名称中，在提出它们时应该考虑
+。 
+
+ 名称可使用三种不同的修饰符：
+ <w>name_adjective</w>、<w>name_suffix 和 </w>name_replace。 <w>name_adjective</w> 使 
+ 名称充当形容词。例如：
+
+ <w>kobold name:ugly name_adjective</w> 
+
+ 会导致“<cyan>一个丑陋的狗头人</cyan>”，“<cyan>丑陋的狗头人打你</cyan>”，等等。 
+
+ <w>name_suffix</w> 做同样的事情，但在怪物的基本名称之后：
+
+ <w>kobold name:wearing_mittens name_suffix</w> 
+
+ 会给出“<cyan>A 穿着手套的狗头人</cyan>”，“<cyan>穿着手套的狗头人击中” you</cyan>”、
+ 等。 
+
+ <w>name_replace</w> 导致基本名称被给定名称替换，就好像 
+ 怪物是唯一的： 
+
+ <w>kobold name:Durwent name_replace</w> 
+
+ 将导致“<cyan>Durwent</cyan>”而不是“<cyan>Durwent 狗头人</cyan>”。尸体
+仍然是“Duwent</cyan>的<cyan>kobold尸体”。 
+
+ <w>name_species</w> 按原样使用尸体的名称，对于 PHX4ZZname_replacePHX5ZZ 不使用 
+“<cyan>kobold</cyan> <cyan>corpse of X</cyan>”作为前缀。它还避免了通常的名称标签 
+，该标签显示在本地图块中的独特和重命名的怪物上方。 
+
+ 与 <w>name_replace</w> 或 <w>name_species</w> 组合，还有两个标签 
+ 可以在重命名怪物时使用，但不给它们一个实际的“名称”：
+ <w>name_descriptor</w> 和<w>name_definite</w>。 
+
+ 例如：
+
+ <w>kobold name:goblin name_replace</w> 
+
+ 将导致“<cyan>goblin hit you</cyan>”。但是，从上述 
+ 标志中添加 PHX2ZZname_descriptorPHX3ZZ 将导致“<cyan>The goblin hit you</cyan>”，并在 
+ 怪物的描述中产生“<cyan>A goblin</cyan>”。 
+
+ <w>kobold name:goblin name_replace name_descriptor</w> 
+
+ <w>name_definite</w> 标志确保它永远不会被称为“<cyan>a</cyan>”或“<cyan>an</cyan>”，
+ 但始终使用确定对象。因此，您将看到“<cyan>The 
+ <cyan>goblin</cyan> <cyan>hits you</cyan>”，如上所述，而且在其描述中也会看到“<cyan>The goblin</cyan>”。 
+ 设置 <w>name_definite</w> 将自动设置标志 <w>name_descriptor</w>，
+ 因此意味着：
+
+<w>kobold name:goblin name_replace name_definite</w> 
+
+ 与：
+
+ <w>kobold name:goblin name_replace name_descriptor name_definite</w> 
+
+ <w>name_zombie</w> 已经可以用来重新定义僵尸怪物（包括 
+ 尸鬼、拟像和幽灵）。 
+
+ 最后，<w>name_nocorpse</w> 将导致 
+ 尸体的名称被完全忽略。例如： 
+
+ <w>wizard name:sad name_adjective name_nocorpse</w> 
+
+ 将导致“<cyan>a Sad Wizard</cyan>”，留下“<cyan>a Wizard corpse</cyan>”。 
+
+ 对于定义空间有限的实例，您可以使用这些标记的缩写 
+ 形式： 
+
+ * <w>name_suffix</w> -> <w>n_suf</w> 
+ * <w>name_adjective</w> -> <w>n_adj</w> 
+ * <w>name_replace</w> -> <w>n_rpl</w> 
+ * <w>name_species</w> -> <w>n_spe</w> 
+ * <w>name_descriptor</w> -> <w>n_des</w> 
+ * <w>name_definite</w> -> <w>n_the</w> 
+ * <w>name_zombie</w> -> <w>n_zom</w> 
+ * <w>name_nocorpse</w> -> <w>n_noc</w> 
+
+ <h>覆盖怪物统计</h> 
+
+ 可以使用 <w>hd</w> 和 <w>hp</w> 进行进一步的怪物定制。这两个标签 
+ 允许您完全覆盖 
+ 怪物的原始命中骰子和生命值： 
+
+ <w>kobold hd:20</w> 
+
+ 创建命中骰子为 20 的狗头人。由于其 hp 是随机的，基于其 
+ 命中骰子，这也将是重新卷起。具有特定生命值 
+ 值的怪物不会有此值变化。 
+
+ 您还可以为生命值指定一个特定值： 
+
+ <w>kobold hp:20</w> 
+
+ 创建具有 20 生命值的狗头人。这对于具有非随机 HP 值的怪物（例如 
+ 雕像）也很有用。 
+
+ 怪物可以使用 <w>dur</w> 和 <w>sum</w> 标签标记为召唤。 <w>dur</w> 标签 
+ 接受 1 到 6 之间的整数（含 1 和 6）。 <w>sum</w> 标签接受 
+ 咒语的名称（按照 <w>spells</w> 标签解析，如下所述）或 <w>clone</w> 
+（Rakshasa）、<w>animate</w>（来自死者）中的任何一个， <w>chaos</w>（由纯粹的混沌制成）、<w>miscast</w> 
+（由法术误施效果召唤）、<w>zot</w>（由Zot陷阱召唤）、<w>wrath</w> 
+（由神在报复行为中召唤）、 <w>aid</w>（被神召唤以 
+ 提供援助）。 
+
+ 在这些法术中，<w>shadow_creatures</w> 的效果最为显着，因为 
+ 怪物会消散到阴影中而不是凭空消失。
+抽烟。使用非召唤法术也不会产生任何效果。 
+
+ 用 <w>seen</w> 标记怪物将覆盖系统并强制该怪物 
+ 被标记为已查看；这意味着它不会生成诸如“PHX0ZZA kobold comes into viewPHX1ZZ”之类的 
+ 消息。 
+
+ <h>覆盖怪物法术</h> 
+
+ 怪物法术集可以用 <w>spells</w>: 标签覆盖，用法如下：
+
+ *<w>妖精法术: throw_flame.50.wizard</w> 
+ *<w>ancient巫妖法术：symbol_of_torment.26.wizard； glaciate.51.wizard</w> 
+
+（法术位列表，由用 
+ 下划线替换空格的法术名称组成，施法频率和后面用 PHX0ZZ.PHX1ZZ 指定的 
+ 法术位标志集，用 <w>;</w> 分隔槽位。周围不应有空格
+ <w>;</w> 或 <w>spells</w>: 前缀之后) 
+
+ 拼写名称必须与 <cyan>spl-data.h</cyan> 中的名称完全匹配，其中空格用下划线替换 
+。法术频率是指施放该法术 
+ 的几率（200 倍）。法术标志包括：
+
+ * <w>natural</w>、<w>magical</w>、<w>demonic</w>、<w>wizard</w> 或 <w>priest</w> - 
+ 法术的施法方式。巫师和牧师可以被沉默并会触发
+适当的行为（Trog会欣赏杀死巫师，Beogh会欣赏
+杀死牧师）。魔法、恶魔和巫师法术会受到 
+ 的反魔法效果影响。自然法术不会产生噪音。 
+ * <w>emergency</w> - 怪物只会在生命值较低时施展该法术。 
+ * <w>breath</w> - 该法术是喷吐武器，使用它会触发呼吸 
+ 超时，在此期间无法再次施放该法术。 
+ * <w>no_silent</w> - 该法术在沉默时无法使用，即使它是通常不受沉默影响的 
+ 类型的能力。 
+ * <w>instant</w> - 该法术不消耗怪物的能量；他们可以在同一回合采取 
+ 另一个行动。 
+ * <w>noisy</w> - 强制法术发出噪音，即使它是自然能力。 
+
+ 您可以使用 <w>none</w> 指定插槽应留空。你可以用以下方法强制 
+ 怪物无法术： 
+
+ <w>orc 巫师法术：无 </w> 
+
+ <h> 设置结界 </h> 
+
+ 你可以给怪物任意数量的结界。可能启动匆忙、盲目、
+有永久RMsl等。语法为<w>ench:<<name>:<<duration>:<<degree></w>或
+ <w>perm_ench:<<name>:<<degree></w>。 <w><<degree></w> 和 <w><<duration></w> 字段可以被省略 
+。 
+
+ 例如：
+
+ * <w>orc perm_ench:blind perm_ench:mad</w> 
+ * <w>dream 羊 ench:sticky_flame</w> 
+ * <w>stone Giant dur:1 ench:berserk</w>
 
 %%%%
-console-keycodes
+宏菜单 
 
-<h>Keycodes for console and webtiles</h>
+ <h>编辑宏和键盘映射</h> 
 
-Keycodes can be entered as numbers, or in some cases, human readable strings.
-The following tables give both the numeric keycode, and the string; modified
-keys generally must be entered by number. When entering a keycode  as part of a
-macro action, it should be wrapped using the following syntax for keycode n:
-<w>\{n}</w>. This should also be used when defining a keycode by number in your
-rc file. Example: when defining a macro that triggers F1, you can write
-"\{F1\}" or "\{-265}". For named keys as part of a macro definition, the \{}
-may be omitted.
+ 要编辑当前宏/键盘映射，请使用箭头键从菜单中选择，或使用热键选择 
+。 （可以通过 
+ 箭头键选择用于导航菜单的热键）。要通过输入密钥来创建新映射，请使用 [<w>~</w>] 键 
+ 或相应的菜单项，然后输入密钥。这允许您 
+ 创建（和编辑）使用菜单键的映射。使用 [<w>!</w>] 键将 
+ 切换到键盘映射编辑模式（有关键盘映射的更多信息，请参阅下文）。 
 
-Positive numeric values are ASCII character codes. Negative values are
-crawl-internal keycodes for special keys. The sign is required for these to
-be interpreted correctly. Keyboards vary quite a bit, and so not all of these
-bindings are available on all keyboards; cases where there is often variation
-are indicated specifically below.
+ <w>Macros</w> 允许重新映射输入 
+ 命令时发送到游戏的按键。这可用于重新定义命令键，或定义未使用的 
+ 键。它们将一个键映射到一系列击键，并且击键确实将 
+ 转移到子菜单中。 
 
-The following is a quick-reference for some of the main keys you might want to
-bind.
+ 示例 1：将 <w>e</w> 映射到 <w>p</w> 将使“e”键触发与“p”键相同的 
+ 命令（默认设置为自动触发）。 
 
-<w>8</w>: Backspace (and/or Delete, depending on keyboard)
-<w>9</w>: Tab
-<w>13</w>: Enter (and/or the Return key, depending on keyboard)
-<w>27</w>: Esc
+ 示例 2：将 <w>1</w> 映射到序列 <w>zaf</w> 将使“1”键 
+ 在默认定位的字母“a”上施展咒语。 
 
-<w>-233</w>: Shift-Tab
-<w>-222</w>: Ctrl-Tab (on some keyboards)
-<w>-255</w>: Delete (on some keyboards)
-<w>-265</w>: F1   <w>-264</w>: F2   <w>-263</w>: F3   <w>-262</w>: F4   <w>-261</w>: F5
-<w>-260</w>: F6   <w>-259</w>: F7   <w>-258</w>: F8   <w>-257</w>: F9   <w>-256</w>: F10
+ 示例 3：将 <w>F1</w> 映射到 <w>Q&a</w> 将使 F1 键颤动字母“a”上的拼写 
+。 
 
-Keycodes up to F22 are defined, but may not work on all builds. (On webtiles,
-F11 and F12 are reserved.)
+ <w>Keymaps</w> 是较低级别的按键替换，将按键完全替换为 
+ 击键序列。建议将按键统一更改为 
+ 处理替代键盘布局。键映射是上下文相关的，并且 
+ 默认/“常规”上下文用于非专用上下文未激活 
+ 的任何地方。宏将键盘映射的结果作为输入。 
 
-<w>Number pad and navigation keys:</w>
+ 示例：在某些欧洲键盘布局中，§ 符号替换 ~。因此，
+ 在常规和菜单键盘映射上下文 
+ 中将 § 键盘映射到 ~ 可能很有用，以便主菜单和宏菜单变得更容易访问。 （在其他 
+ 布局中，这适用于 ½。） 
 
-On many keyboards, <w>numlock</w> switches between the number keys and
-navigation keys. Modifiers for these keys may not work on all keyboards. When
-modified number pad keys do work, Shift and Ctrl typically treats those keys as
-modified navigation keys regardless of numlock status.
+ 当用于映射命令时，键盘映射可能会产生意想不到的副作用：例如不建议通过键盘映射 
+ 将 <w>1</w> 映射到 <w>zaf</w>，因为这将使 
+ 在输入技能目标时很难键入“1”。 
 
-Navigation keys:
+ <w>Keycodes</w>：宏和键盘映射在描述 
+ 动作时都接受键码，以 <w>\{n}</w> 的形式输入键码 <w>n</w>。 （使用 <w>\\</w> 到 
+ 输入反斜杠。）例如，使用 <w>\{9}</w> 输入 
+ <w>tab</w> 按钮的键码。您可以使用宏编辑菜单中的 <w>~~</w> 
+ 通过键码绑定宏和键盘映射。 
 
-<w>-245</w>: PgDn    <w>-234</w>: Shift-PgDn    <w>-223</w>: Ctrl-PgDn
-<w>-246</w>: PgUp    <w>-235</w>: Shift-PgUp    <w>-224</w>: Ctrl-PgUp
-<w>-247</w>: Clear   <w>-236</w>: Shift-Clear   <w>-225</w>: Ctrl-Clear
-<w>-248</w>: End     <w>-237</w>: Shift-End     <w>-226</w>: Ctrl-End
-<w>-249</w>: Home    <w>-238</w>: Shift-Home    <w>-227</w>: Ctrl-Home
-<w>-250</w>: Insert  <w>-239</w>: Shift-Insert  <w>-228</w>: Ctrl-Insert
-<w>-251</w>: Right   <w>-240</w>: Shift-Right   <w>-229</w>: Ctrl-Right
-<w>-252</w>: Left    <w>-241</w>: Shift-Left    <w>-230</w>: Ctrl-Left
-<w>-253</w>: Down    <w>-242</w>: Shift-Down    <w>-231</w>: Ctrl-Down
-<w>-254</w>: Up      <w>-243</w>: Shift-Up      <w>-232</w>: Ctrl-Up
+ <w>Saving</w>：在此菜单中编辑的绑定将保存在 
+ 保存目录中的 .macro 文件中。它们将被选项文件中的设置覆盖。有关详细信息，请参阅 options_guide.txt 中的 
+“宏”命令。 
 
-Number pad keys:
+%%%%
+ 控制台键码 
 
-<w>-1007</w>: NP7   <w>-1008</w>: NP8   <w>-1009</w>: NP9
-<w>-1004</w>: NP4   <w>-1005</w>: NP5   <w>-1006</w>: NP6
-<w>-1001</w>: NP1   <w>-1002</w>: NP2   <w>-1003</w>: NP3
-<w>-1000</w>: NP0
-<w>-1010</w>: NPenter
-<w>-1012</w>: NP/   <w>-1015</w>: NP*   <w>-1016</w>: NP+   <w>-1018</w>: NP-
-<w>-1019</w>: NP.   <w>-1021</w>: NP=
+ <h> 控制台和 webtiles 的键码</h>
 
-Some number pad punctuation keys may not be distinguished from their "regular"
-counterparts, again depending on keyboard and build.
+键码可以输入为数字，或者在某些情况下输入为人类可读的字符串。 
+ 下表给出了数字键码和字符串；修改后的
+按键一般必须按数字输入。输入键码作为 
+ 宏操作的一部分时，应使用以下键码 n 语法对其进行封装：
+ <w>\{n}</w>。在 
+ rc 文件中按数字定义键码时也应该使用此方法。例：定义触发F1的宏时，可以写
+“\{F1\}”或“\{-265}”。对于作为宏定义一部分的命名键，可以省略 \{} 
+。 
+
+ 正数值是 ASCII 字符代码。负值是特殊键的 
+ 爬网内部键码。需要该符号才能正确解释 
+。键盘差异很大，因此并非所有这些 
+ 绑定都适用于所有键盘；下面具体指出经常出现 
+ 变化的情况。 
+
+ 以下是您可能想要 
+ 绑定的一些主键的快速参考。 
+
+ <w>8</w>：退格键（和/或删除，取决于键盘） 
+ <w>9</w>：Tab 
+ <w>13</w>：Enter（和/或 Return 键，取决于键盘） 
+ <w>27</w>：Esc 
+
+ <w>-233</w>：Shift-Tab 
+ <w>-222</w>：Ctrl-Tab（在某些键盘上） 
+ <w>-255</w>：删除（在某些键盘上） 
+ <w>-265</w>：F1 <w>-264</w>：F2 <w>-263</w>：F3 <w>-262</w>：F4 <w>-261</w>：F5 
+ <w>-260</w>：F6 <w>-259</w>：F7 <w>-258</w>：F8 <w>-257</w>：F9 <w>-256</w>：F10 
+
+ 已定义直至 F22 的密钥代码，但可能不适用于所有版本。 （在 Webtile 上，
+ F11 和 F12 被保留。） 
+
+ <w> 数字键盘和导航键：</w> 
+
+ 在许多键盘上，<w>numlock</w> 在数字键和 
+ 导航键之间切换。这些键的修饰符可能不适用于所有键盘。当 
+ 修改后的数字键盘键起作用时，Shift 和 Ctrl 通常会将这些键视为 
+ 修改后的导航键，无论数字锁定状态如何。 
+
+ 导航键： 
+
+ <w>-245</w>：PgDn <w>-234</w>：Shift-PgDn <w>-223</w>：Ctrl-PgDn 
+ <w>-246</w>：PgUp <w>-235</w>：Shift-PgUp <w>-224</w>：Ctrl-PgUp 
+ <w>-247</w>：清除 <w>-236</w>：Shift-清除 <w>-225</w>：Ctrl-清除
+ <w>-248</w>：结束 <w>-237</w>：Shift-结束 <w>-226</w>：Ctrl-结束 
+ <w>-249</w>：主页 <w>-238</w>：Shift-主页<w>-227</w>：Ctrl-Home 
+ <w>-250</w>：插入 <w>-239</w>：Shift-插入 <w>-228</w>：Ctrl-插入 
+ <w>-251</w>：右<w>-240</w>：Shift-右 <w>-229</w>：Ctrl-右 
+ <w>-252</w>：左 <w>-241</w>：Shift-左 <w>-230</w>：Ctrl-左
+<w>-253</w>：向下 <w>-242</w>：向下 Shift <w>-231</w>：Ctrl-向下 
+ <w>-254</w>：向上 <w>-243</w>：向上 Shift <w>-232</w>：Ctrl-Up 
+
+ 数字键盘键：
+
+ <w>-1007</w>：NP7 <w>-1008</w>：NP8 <w>-1009</w>：NP9 
+ <w>-1004</w>：NP4 <w>-1005</w>：NP5 <w>-1006</w>：NP6 
+ <w>-1001</w>：NP1 <w>-1002</w>：NP2 <w>-1003</w>：NP3 
+ <w>-1000</w>：NP0 
+ <w>-1010</w>：NPenter 
+ <w>-1012</w>：NP/ <w>-1015</w>：NP* <w>-1016</w>：NP+ <w>-1018</w>：NP- 
+ <w>-1019</w>：NP。   <w>-1021</w>：NP= 
+
+ 某些数字键盘标点符号键可能无法与其“常规”
+ 对应键区分开来，这同样取决于键盘和构造。

@@ -1,478 +1,478 @@
 ##########################################################
-# monname.txt: lookup monster names
+# monname.txt: 查找怪物名称 
 #
-# This file contains a list of names for monster names.
-# This is currently only used when one of your orcish apostles as
-# Beogh's messiah gets named by Beogh, and for Hep's ancestor names.
-# The dual-wielding coglin species also gets their weapon names from
-# here.
+ # 该文件包含怪物名称的名称列表。 
+ # 目前仅当您的兽人使徒之一为 
+ # Beogh 的弥赛亚被 Beogh 命名时才使用，以及 Hep 的祖先名称。 
+ # 双持鳕鱼物种的武器名称也来自 
+ # 这里。 
 #
-# Some important orcish syllables
-#   beogh, bog = referring to Beogh
-#   ork, orc, org, og, ok etc. = referring to orcs
+ # 一些重要的兽人音节 
+ # beogh, bog = 指的是 Beogh 
+ # ork, orc, org, og, ok 等 = 指的是兽人 
 #
-# Other syllables may be borrowed from real life, or made up.
+ # 其他音节可能是从现实生活中借用的，或者是自己编造的。 
 #
-# To determine a name for an orcish apostle, the game looks for this
-# apostle's specific type, followed by the key word "name", e.g. "orc
-# apostle warrior name" or "orc apostle wizard name". An apostle can get
-# a name unique to its specific type or an ordinary orc name.
+ # 要确定兽人使徒的名称，游戏会查找该 
+ # 使徒的具体类型，后跟关键字“名称”，例如“兽人
+#使徒战士名字”或者“兽人使徒巫师名字”。使徒可以获得 
+ # 一个特定类型独有的名字或一个普通的兽人名字。 
 #
-# Monster names support a small subset of what monster speech does:
-# @RANDGEN@, @random_god@, @random_god_chaotic@, @random_god_evil@,
-# @random_god_good@, @random_skill@, @random_skill_magic@, and
-# @random_skill_mundane@.
+ # 怪物名称支持怪物语音功能的一小部分：
+ # @RANDGEN@、@random_god@、@random_god_chaotic@、@random_god_evil@、
+ # @random_god_good@、@random_skill@、@random_skill_magic@ 和 
+ # @random_skill_mundane@。 
 #
-# Feel free to add to this list. Like for the other database lists,
-# you may add weights (defaults to w:10) to make certain names more
-# or less likely.
+ # 请随意添加到此列表中。与其他数据库列表一样，
+ # 您可以添加权重（默认为 w:10）以使某些名称更可能出现 
+ # 或更少。 
 #
 ##########################################################
 %%%%
-# Any orc name, apostle-specific or otherwise. Any name will work here,
-# as long as it's not already in @_rare_graffiti_author_orc_@ in
-# graffiti.txt.
-any orc name
+ # 任何兽人名字，使徒特定的或其他的。任何名称都可以在这里使用，
+ # 只要它不在 
+ # graffiti.txt 的 PHX0ZZ 中即可。 
+ 任意兽人名称 
 
 w:1
-@_orc_warrior_name_@
+ @_orc_warrior_name_@ 
 
 w:1
-@_orc_wizard_name_@
+ @_orc_wizard_name_@ 
 
 w:1
-@_orc_priest_name_@
+ @_orc_priest_name_@ 
 
 w:50
-@orc name@
+ @orc name@ 
 %%%%
-orc name
+ 兽人名称 
 
 w:14
-@_beogh_name_@
+ @_beogh_name_@ 
 
 w:12
-@_orcish_name_@
+ @_orcish_name_@ 
 
 w:45
-@_other_orcish_name_@
+ @_other_orcish_name_@ 
 %%%%
-orc apostle warrior name
+ 兽人使徒战士姓名 
 
 w:1
-@_orc_warrior_name_@
+ @_orc_warrior_name_@ 
 
 w:50
-@orc name@
+ @orc name@ 
 %%%%
-orc apostle wizard name
+ 兽人使徒法师姓名 
 
 w:1
-@_orc_wizard_name_@
+ @_orc_wizard_name_@ 
 
 w:50
-@orc name@
+ @orc name@ 
 %%%%
-orc apostle priest name
+ 兽人使徒牧师姓名 
 
 w:1
-@_orc_priest_name_@
+ @_orc_priest_name_@ 
 
 w:50
-@orc name@
+ @orc name@ 
 %%%%
-_orc_warrior_name_
+ _orc_warrior_name_
 
-Orconan
+奥柯南 
 %%%%
-_orc_wizard_name_
+ _orc_wizard_name_ 
 
-Simorc Magus
+ Simorc Magus 
 %%%%
-_orc_priest_name_
+ _orc_priest_name_ 
 
-# Watch out! :p
-Judas
+ # 小心！ :p 
+ Judas 
 %%%%
-# Obvious references to Beogh
-# (20 at last count)
-_beogh_name_
+ # 明显引用 Beogh 
+ # (最后计数为 20) 
+ _beogh_name_ 
 
-Arbeogh
+ Arbeogh 
 
-Bogbarth
+ Bogbarth 
 
-# slavic name, meaning "god's gift" :)
-Bogdan
+ # 斯拉夫名字，意思是“上帝的礼物”:) 
+ 博格丹 
 
-Bogdar
+ 博格达尔 
 
-Bogbrand
+ 博格布兰德 
 
-Bogfrid
+ 博格弗里德 
 
-Boghold
+ 博格霍德 
 
-Bogloth
+ 博格洛特 
 
-Bogmar
+ 博格玛 
 
-Bogric
+ 博格里克 
 
-Bogrim
+ 博格瑞姆 
 
-Bogwald
+ 博格瓦尔德
 
-Bogward
+ Bogward 
 
-Bogwik
+ Bogwik 
 
-Korbok
+ Korbok 
 
-Marbaugh
+ Marbaugh 
 
-Morbeogh
+ Morbeogh 
 
-Orbeogh
+ Orbeogh 
 
-Vorbog
+ Vorbog 
 
-Warbeogh
+ Warbeogh 
 %%%%
-# Obvious references to orcs in general
-# (extremely subjective, and 21 at last count)
-_orcish_name_
+ # 明显提及兽人
+ #（非常主观，最后统计为 21） 
+ _orcish_name_ 
 
-Alork
+ Alork 
 
-Borgk
+ Borgk 
 
-Boruk
+ Boruk 
 
-Geork
+ Geork 
 
-Horkud
+ Horkud 
 
-Marbork
+ Marbork 
 
-Milork
+ Milork
 
-Orcesus
+奥喀苏斯 
 
-Ogrik
+ 奥格里克 
 
-Orkidu
+ 奥基杜 
 
-Okrist
+ 奥克里斯特 
 
-Oreg
+ 奥雷格 
 
-Orgrim
+ 奥格瑞姆 
 
-Orik
+ 奥里克 
 
-Orkrul
+ 奥克鲁尔 
 
-Orkwin
+ 奥克温 
 
-Oruk
+ 奥鲁克 
 
-Pellinorc
+ 佩林诺克
 
-Urtork
+ Urtork 
 
-Xexorm
+ Xexorm 
 
-Zandor
+ Zandor 
 %%%%
-# Other
-# (62 at last count)
-_other_orcish_name_
+ # 其他 
+ # (最后计数 62) 
+ _other_orcish_name_ 
 
-Agrik
+ Agrik 
 
-Arbolt
+ Arbolt 
 
-Argrim
+ Argrim 
 
-Arkwar
+ Arkwar 
 
-Beowulf
+ 贝奥武夫 
 
-Berold
+ Berold 
 
-Benkei
+ Benkei 
 
-Bladwarg
+ Bladwarg 
 
-Blodwig
+ 布洛德维格 
 
-Boderik
+ Boderik 
 
-Boldo
+ Boldo 
 
-Bolgrim
+ Bolgrim 
 
-Borgoth
+ Borgoth 
 
-Borgun
+ Borgun 
 
-Brandogh
+ 布兰多 
 
-Brun
+ 布伦 
 
-Brunolf
+ 布鲁诺夫 
 
-Creb
+ 克雷布 
 
-Dorog
+ 多罗格 
 
-Garatoth
+ 加拉托斯 
 
-Garbold
+ 加博尔德 
 
-Gorbash
+ 戈尔巴什 
 
-Gorg
+ 戈尔格
 
-Gorm
+戈姆 
 
-Grimold
+ 格里莫德 
 
-Hawl
+ 哈尔 
 
-Herok
+ 赫洛克 
 
-Hilgar
+ 希尔加 
 
-Jathrek
+ 贾斯雷克 
 
-Jorge
+ 豪尔赫 
 
-Koronagh
+ 科罗纳 
 
-Learuk
+ 利鲁克 
 
-Lorvak
+ 洛瓦克 
 
-Margrim
+ 玛格里姆
 
-Mogdar
+ 莫格达尔 
 
-Morguth
+ 莫古斯 
 
-Morun
+ 莫伦 
 
-Mugrim
+ 穆格里姆 
 
-Murdo
+ 默多 
 
-Myglar
+ 麦格拉 
 
-Norbak
+ 诺巴克 
 
-Nordag
+ 诺达格 
 
-Ognian
+ 奥尼安 
 
-Olfik
+ 奥尔菲克 
 
-Olfrun
+奥尔夫伦 
 
-Ortolf
+ 奥托夫 
 
-Rocco
+ 罗科 
 
-Shobas
+ 肖巴斯 
 
-Spirok
+ 斯皮罗克 
 
-Syrus
+ 赛鲁斯 
 
-Thalvi
+ 塔尔维 
 
-Thorok
+ 索罗克 
 
-Ugbert
+ 乌格伯特 
 
-Ugrim
+ 乌格里姆 
 
-Wardok
+ 沃多克 
 
-Wargath
+ Wargath 
 
-Wargrak
+ Wargrak 
 
-Warrok
+ Warrok 
 
-Worak
+ Worak 
 
-Wulfoc
+ Wulfoc 
 
-Zartorak
+ Zartorak 
 
-Zorug
+ Zorug 
 %%%%
-# Ancestor names, split by gender & culture.
-# FR: asian names
-ancestor name
+ # 祖先姓名，按性别和文化划分。
+# FR: 亚洲人姓名 
+ 祖先姓名 
 
-@ancestor male name@
+ @ancestor male name@ 
 
-@ancestor female name@
+ @ancestor female name@ 
 %%%%
-ancestor male name
+ 祖先男性姓名 
 
-@_west_european_male_name_@
+ @_west_european_male_name_@ 
 
-@_roman_male_name_@
+ @_roman_male_name_@ 
 
-@_aztec_male_name_@
+ @_aztec_male_name_@ 
 
-@_mesopotamian_male_name_@
+ @_mesopotamian_male_name_@ 
 
-@_egyptian_male_name_@
+ @_egyptian_male_name_@ 
 
-@_zulu_male_name_@
+ @_zulu_male_name_@ 
 
-# not many names
+ # 名字不多 
 w:5
-@_arabic_male_name_@
+ @_arabic_male_name_@ 
 
-# not many names
+ # 名字不多 
 w:5
-@_slavic_male_name_@
+ @_slavic_male_name_@ 
 
-# not many names
+ # 名字不多 
 w:2
-@_brazilian_male_name_@
+ @_brazilian_male_name_@ 
 %%%%
-ancestor female name
+ 祖先女名
 
-@_west_european_female_name_@
+ @_west_european_female_name_@ 
 
-@_roman_female_name_@
+ @_roman_female_name_@ 
 
-@_aztec_female_name_@
+ @_aztec_female_name_@ 
 
-@_mesopotamian_female_name_@
+ @_mesopotamian_female_name_@ 
 
-@_egyptian_female_name_@
+ @_egyptian_female_name_@ 
 
-@_zulu_female_name_@
+ @_zulu_female_name_@ 
 
-# not many names
+ # 名字不多 
 w:5
-@_arabic_female_name_@
+ @_arabic_female_name_@ 
 
-# not many names
+ # 名字不多 
 w:5
-@_slavic_female_name_@
+ @_slavic_female_name_@ 
 
-# not many names
+ # 名字不多 
 w:2
-@_brazilian_female_name_@
+ @_brazilian_female_name_@ 
 %%%%
-_west_european_male_name_
+ _west_european_male_name_ 
 
-Æschere
+ Æschere 
 
-Ælfric
+ Ælfric 
 
-Æthelred
+ Æthelred 
 
-Aylmer
+ Aylmer 
 
-Beorhtric
+ Beorhtric 
 
-Cenhelm
+ Cenhelm 
 
-Cynebald
+ Cynebald 
 
-Dunstan
+ Dunstan 
 
-Eadwine
+ Eadwine
 
-Eideard
+艾德尔德 
 
-Erdrick
+ 厄德里克 
 
-Esmond
+ 埃斯蒙德 
 
-Florimund
+ 弗洛里蒙德 
 
-Gaiseric
+ 盖瑟里克 
 
-Gladwin
+ 格拉德温 
 
-Hondscioh
+ 洪德西奥 
 
-Hrodric
+ 赫罗德里克 
 
-Hrodulf
+ 赫罗德夫 
 
-Hrothgar
+ 赫罗斯加 
 
-Kenrick
+ 肯里克
 
-Leofdaeg
+ 莱奥夫达格 
 
-Leofric
+ 莱奥弗里克 
 
-Leofsige
+ 莱奥夫西格 
 
-Osbert
+ 奥斯伯特 
 
-Sigurd
+ 西格德 
 
-Theodoric
+ 狄奥多里克 
 
-Ulric
+ 乌尔里克 
 
-Vidar
+ 维达尔 
 
-Wigmund
+ 维格蒙德 
 
-Wilburh
+ 威尔伯
 
-Wolf
+ 沃尔夫 
 
-Wystan
+ 维斯坦 
 %%%%
-_roman_male_name_
+ _roman_male_name_ 
 
-Appius
+ 阿皮乌斯 
 
-Gaius
+ 盖乌斯 
 
-Gnaeus
+ 格奈乌斯 
 
-Lucius
+ 卢修斯 
 
-Octavius
+ 奥克塔维斯 
 
-Paullus
+ 保卢斯 
 
-Publius
+ 普布利乌斯
 
-Quintus
+ 昆图斯 
 
-Septimus
+ 塞普蒂姆斯 
 
-Servius
+ 塞维乌斯 
 
-Sextus
+ 塞克斯图斯 
 
-Tiberius
+ 提比略 
 
-Titus
+ 提图斯 
 
 %%%%
-_aztec_male_name_
+ _aztec_male_name_ 
 
-Cipactli
+ Cipactli 
 
-Cuahtemoc
+ Cuahtemoc
 
 Cuetlachtli
 
@@ -515,7 +515,7 @@ Belshunu
 
 Eanasir
 
-Illuratum
+Iluratum
 
 Ilshubani
 
@@ -537,7 +537,7 @@ Taribatum
 
 Ur-Dumizida
 
-Yamquzzuhalamma
+Yamquuzzuhalamma
 
 Yayatum
 
@@ -545,7 +545,7 @@ Zimri-Dagan
 
 %%%%
 _egyptian_male_name_
-# includes some ptolemaic (greek) names
+# 包括一些托勒密（希腊）名字
 
 Aahotepre
 
@@ -553,251 +553,251 @@ Agathocles
 
 Ahmose
 
-Akhenaten
+阿肯那顿
 
-Amyrtaeus
+阿米尔泰乌斯 
 
-Anedjib
+ 阿内吉布 
 
-Ankherfenedjef
+ 安克赫芬德杰夫 
 
-Caesarion
+ 凯撒里昂 
 
-Demetirus
+ 德米提鲁斯 
 
-Duaenre
+ 杜阿恩雷 
 
-Hori
+ 霍里 
 
-Hsekiu
+ 赫塞基乌 
 
-Khabaw
+ 卡巴乌 
 
-Kheti
+ 赫蒂
 
-Merenptah
+ Merenptah 
 
-Paser
+ Paser 
 
-Psammuthes
+ Psammuthes 
 
-Ramose
+ Ramose 
 
-Senakhtenre
+ Senakhtenre 
 
-Shedsu-nefertum
+ Shedsu-nefertum 
 
-Si-Tayit
-
-w:1
-Snaaib
-# lmao
-
-Sosibius
-
-Thamphthis
-
-Udjahorresnet
-
-%%%%
-_zulu_male_name_
-Ayize
+ Si-Tayit 
 
 w:1
-Bongani
+ Snaaib 
+ # lmao 
 
-Cashile
+ Sosibius 
 
-Chakide
+ Thamphthis 
 
-Chitauli
+ Udjahorresnet 
 
-Dube
-
-Ingiyab
-
-Impisi
-
-Jabu
-
-Londisizwe
-
-Manelesi
-
-Msizi
-
-Njabulo
-
-Qinisela
-
-Sanele
-
-Sizwe
-
-Thabo
-
-Thulani
-
-Vusi
-
-Xolani
 %%%%
-_arabic_male_name_
-Arif
-
-Ferran
-
-Hamal
-
-Kateb
-
-Lufti
+ _zulu_male_name_ 
+ Ayize 
 
 w:1
-Rigel
+ Bongani 
 
-Rabi
+ Cashile 
 
-Shunnar
+ Chakide 
 
-Sofian
+ Chitauli 
 
-Tawil
+杜贝 
+
+ 因吉亚布 
+
+ 因皮西 
+
+ 贾布 
+
+ 隆迪西韦 
+
+ 马内莱斯 
+
+ 姆西兹 
+
+ 恩贾布洛 
+
+ 奇尼塞拉 
+
+ 萨内莱 
+
+ 西兹韦
+
+ 塔博
+
+Thulani 
+
+ Vusi 
+
+ Xolani 
+%%%%
+ _arabic_male_name_ 
+ Arif 
+
+ Ferran 
+
+ Hamal 
+
+ Kateb 
+
+ Lufti 
 
 w:1
-Zero
-%%%%
-_slavic_male_name_
+ Rigel 
 
-Bolek
+ Rabi 
 
-Bor
+ Shunnar 
 
-Branko
+ Sofian 
 
-Dejan
-
-Laslo
+ Tawil 
 
 w:1
-Lech
-
-Milos
-
-Mirko
-
-Plamen
-
-Preben
-
-Stanko
-
-Tihomir
-
-Vojtech
-
-Wenzel
-
-Zdislav
-
-Zoran
+ 零 
 %%%%
-_west_european_female_name_
+ _slavic_male_name_ 
 
-Ælfthryth
+ Bolek 
 
-Ælfwynn
+ Bor 
 
-Æðelind
+ Branko 
 
-Audrea
+ Dejan 
 
-Bealdhild
+ Laslo 
 
-Cyneburga
+w:1
+ 莱赫 
 
-Cynethryth
+ 米洛斯 
 
-Eadburga
+ 米尔科 
 
-Ealdgyð
+ 普拉门 
 
-Edmée
+ 普雷本 
 
-Edwyna
+ 斯坦科 
 
-Eormenhild
+ 蒂霍米尔 
 
-Friðuswiþ
+ 沃伊泰克 
 
-Godgifu
+ 文泽尔 
 
-Gudrun
+ Zdislav 
 
-Kendra
-
-Milburga
-
-Saranna
-
-Solveig
-
-Sunngifu
-
-Synnove
-
-Walburga
-
-Wilfreda
-
-Wynnflæd
+ 佐兰
 %%%%
-_roman_female_name_
+ _west_european_female_name_ 
 
-Appia
+ Ælfthryth 
 
-Aula
+ Ælfwynn 
 
-Decima
+ Æðelind 
 
-Lucia
+ Audrea 
 
-Mettia
+ Bealdhild 
 
-Numeria
+ Cyneburga 
 
-Octavia
+ Cynethryth
 
-Publia
+埃德布加 
 
-Septima
+ 埃尔德吉斯 
 
-Servia
+ 埃德梅 
 
-Tertia
+ 埃德温娜 
 
-Tiberia
+ 埃奥门希尔德 
+
+ 弗里杜斯威þ 
+
+ 戈吉福 
+
+ 古德伦 
+
+ 肯德拉 
+
+ 米尔堡加
+
+ Saranna 
+
+ Solveig 
+
+ Sunngifu 
+
+ Synnove 
+
+ Walburga 
+
+ Wilfreda 
+
+ Wynnflæd 
+%%%%
+ _roman_female_name_ 
+
+ Appia 
+
+ Aula 
+
+ Decima 
+
+ Lucia 
+
+ Mettia 
+
+ Numeria 
+
+ Octavia 
+
+ Publia 
+
+ Septima 
+
+ Servia 
+
+ Tertia 
+
+ Tiberia 
 
 %%%%
-_aztec_female_name_
+ _aztec_female_name_ 
 
-Centenhua
+ Centenhua 
 
-Cihuaton
+ Cihuaton 
 
-Citlalmina
+ Citlalmina 
 
-Izel
+ Izel 
 
-Nenetl
+ Nenetl 
 
-Teicuih
+ Teicuih 
 
-Tlalli
+ Tlalli 
 
-Xiloxoch
+ Xiloxoch 
 
-Xiuhtonal
+ Xiuhtonal
 
 Xochitl
 
@@ -835,7 +835,7 @@ Takurtum
 Yadidatum
 %%%%
 _egyptian_female_name_
-# includes some ptolemaic (greek) names
+# 包括一些托勒密（希腊）名字
 
 Agathoclea
 
@@ -940,25 +940,25 @@ Zulima
 %%%%
 _slavic_female_name_
 
-Bojana
+博亚娜
 
-Bozena
+博泽纳
 
-Bozidara
+博齐达拉
 
-Dagmar
+达格玛
 
-Dusana
+杜萨娜
 
-Libusa
-
-w:5
-Marzanna
+利布萨
 
 w:5
-Marzena
+马尔扎纳
 
-Mira
+w:5
+马尔泽纳
+
+米拉
 
 Mirna
 
@@ -981,9 +981,9 @@ Etelvina
 
 Josefina
 
-Laurinda
+劳琳达
 
-Úrsula
+乌苏拉
 %%%%
 _brazilian_male_name_
 
@@ -1005,19 +1005,19 @@ Honório
 
 Januári
 %%%%
-steelspirit name
+Steelspirit name
 
 w:50
-@ancestor name@
+ @ancestor name@ 
 
 w:1
-@RANDGEN@
+ @RANDGEN@ 
 
-# The names below are contemporary, not antique.
-# That's why we aren't using them for ancestors.
+# 下面的名称是当代的，而不是古董。
+# 这就是为什么我们不使用它们作为祖先。
 
 w:1
-@bland name@
+ @bland name@ 
 
 @_cantonese_female_name_@
 
@@ -1031,7 +1031,7 @@ w:1
 
 @_korean_male_name_@
 
-# Lots of hispanic names - let's weight em higher.
+# 很多西班牙裔名字 - 让我们权重更高。
 w:15
 @_hispanic_female_name_@
 
@@ -1050,405 +1050,405 @@ w:15
 
 @_thai_male_name_@
 %%%%
-bland name
+平淡的名字 
 
-# Look, it's funny to me.
-# No offense intended.
+ # 看，这对我来说很有趣。 
+ #无意冒犯。 
 
-@_bland_female_name_@
+ @_bland_female_name_@ 
 
-@_bland_male_name_@
+ @_bland_male_name_@ 
 %%%%
-_bland_female_name_
+ _bland_female_name_ 
 
-Abby
+ Abby 
 
-Babs
+ Babs 
 
-Betsy
+ Betsy 
 
-Carrie
+ Carrie 
 
-Deb
+ Deb 
 
-Izzy
+ Izzy 
 
-Jen
+ Jen 
 
-Mia
+ 米娅 
 
-Sue
+ 苏 
 
-Vera
+ 维拉 
 %%%%
-_bland_male_name_
+ _bland_male_name_ 
 
-Bill
+ 比尔 
 
-Bob
+ 鲍勃 
 
-Cal
+ 卡尔 
 
-Dave
+ 戴夫 
 
-Doug
+ 道格 
 
-Jeff
+ 杰夫 
 
-Jim
+ 吉姆
 
-Mack
+ 麦克 
 
-Ned
+ Ned 
 
-Pete
+ 皮特 
 %%%%
-_cantonese_female_name_
+ _cantonese_female_name_ 
 
-Ai
+ 艾 
 
-Caihong
+ 彩虹 
 
-Chun
+ 春 
 
-Hua
+ 华 
 
-Jingyi
+ 静怡 
 
-Kun
+ 坤 
 
-Lan
+ 兰
 
-Li
+ 李 
 
-Mei
+ 梅 
 
-Ning
+ 宁 
 
-Qing
+ 清 
 
-Qiuyue
+ 秋月
 
-Shu
+舒 
 
-Xiuying
+ 秀英 
 
-Xue
+ 薛 
 
-Yan
+ 颜 
 
-Yawen
+ 亚文 
 
-Zhen
+ 震 
 %%%%
-_cantonese_male_name_
+ _cantonese_male_name_ 
 
-Aiguo
+ 爱国 
 
-Bo
+ 博 
 
-Chang
+ 张 
 
-Feng
+ 冯 
 
-Haoran
+ 浩然
 
-Hong
+ 洪 
 
-Jin
+ 晋 
 
-Kai
+ 凯 
 
-Liang
+ 梁 
 
-Lin
+ 林 
 
-Ming
+ 明 
 
-Qiang
+ 强 
 
-Qiu
+ 邱 
 
-Shi
+ 石 
 
-Wei
+ 魏 
 
-Wu
+ 吴 
 
-Xiang
+ 翔 
 
-Yuxuan
+宇轩 
 
-Zihan
+ 子涵 
 %%%%
-_german_female_name_
+ _german_female_name_ 
 
-Anneliese
+ Anneliese 
 
-Annika
+ Annika 
 
-Astrid
+ Astrid 
 
-Berta
+ Berta 
 
-Birgit
+ Birgit 
 
-Constanze
+ Constanze 
 
-Dagmar
+ Dagmar 
 
-Edeltraud
+ Edeltraud 
 
-Else
+ Else 
 
-Ermengarde
+ Ermengarde 
 
-Frauke
+ Frauke 
 
-Friedl
+ Friedl 
 
-Gerda
+ Gerda
 
-Gisele
+吉赛尔 
 
-Heidi
+ 海蒂 
 
-Hilda
+ 希尔达 
 
-Ilse
+ 伊尔莎 
 
-Ingrid
+ 英格丽德 
 
-Isolde
+ 伊索尔德 
 
-Juhanna
+ 朱安娜 
 
-Karolin
+ 卡罗琳 
 
-Katrin
+ 卡特琳 
 
-Liesl
+ 莉丝尔 
 
-Lisbeth
+ 莉丝贝思 
 
-Margit
+玛吉特 
 
-Olga
+ 奥尔加 
 
-Renate
+ 雷纳特 
 
-Sieglinde
+ 齐格林德 
 
-Silke
+ 西尔克 
 
-Svenja
+ 斯文贾 
 
-Tamara
+ 塔玛拉 
 
-Therese
+ 特蕾莎 
 
-Ulrike
+ 乌尔里克 
 
-Wilhemina
+ 威廉米娜 
 
-Yvonne
+ 伊冯娜 
 %%%%
-_german_male_name_
+ _german_male_name_ 
 
-Adalbert
+ 阿达尔伯特 
 
-Albrecht
+ 阿尔布雷希特 
 
-Arnulf
+ 阿努尔夫 
 
-Bastian
+ 巴斯蒂安 
 
-Bernhard
+ 伯恩哈德 
 
-Conrad
+ 康拉德 
 
-Dietrich
+ 迪特里希 
 
-Egbert
+ 埃格伯特 
 
-Egon
+ 埃贡 
 
-Ernst
+ 恩斯特
 
-Fredrik
+ 弗雷德里克 
 
-Fritz
+ 弗里茨 
 
-Gebhard
+ 格布哈德 
 
-Gilbert
+ 吉尔伯特 
 
-Gottfried
+ 戈特弗里德 
 
-Gunther
+ 冈瑟 
 
-Gustav
+ 古斯塔夫
 
-Hans
+汉斯 
 
-Heine
+ 海涅 
 
-Helmut
+ 赫尔穆特 
 
-Jakob
+ 雅各布 
 
-Johann
+ 约翰 
 
-Karl
+ 卡尔 
 
-Kaspar
+ 卡斯帕 
 
-Lars
+ 拉尔斯 
 
-Lukas
+ 卢卡斯 
 
-Magnus
+ 马格努斯 
 
-Niklaus
+ 尼克劳斯 
 
-Olaf
+奥拉夫 
 
-Oskar
+ 奥斯卡 
 
-Otto
+ 奥托 
 
-Raimund
+ 雷蒙德 
 
-Rupprecht
+ 鲁普雷希特 
 
-Siegfried
+ 齐格弗里德 
 
-Theobald
+ 西奥博尔德 
 
-Tiedemann
+ 蒂德曼 
 
-Ulrich
+ 乌尔里希 
 
-Valter
+ 瓦尔特 
 
-Waldo
+ 沃尔多
 
-Wilfried
+ 威尔弗里德 
 %%%%
-_hispanic_female_name_
+ _hispanic_female_name_ 
 
-Aida
+ 阿伊达 
 
-Adela
+ 阿德拉 
 
-Alejandra
+ 亚历杭德拉 
 
-Ana
+ 安娜 
 
-Araceli
+ 阿拉塞利 
 
-Bianca
+ 比安卡 
 
-Carmen
+ 卡门 
 
-Clara
+ 克拉拉
 
-Consuela
+ 康苏埃拉 
 
-Elena
+ 埃琳娜 
 
-Fernanda
+ 费尔南达 
 
-Francisca
+ 弗朗西斯卡 
 
-Gabriela
+ 加布里埃拉 
 
-Gloria
+ 格洛丽亚 
 
-Inés
+ 伊内斯 
 
-Isabel
+ 伊莎贝尔
 
-Jacinta
+杰辛塔 
 
-Leticia
+ 莱蒂西亚 
 
-Lucía
+ 卢西亚 
 
-Malena
+ 马莱娜 
 
-María
+ 玛丽亚 
 
-Marisol
+ 马里索尔 
 
-Miranda
+ 米兰达 
 
-Paloma
+ 帕洛玛 
 
-Soledad
+ 索莱达 
 
-Ximena
+ 西梅娜 
 
-Yolanda
+ 尤兰达 
 %%%%
-_hispanic_male_name_
+ _hispanic_male_name_ 
 
-Agustín
+ 阿古斯丁 
 
-Armando
+ 阿曼多 
 
-Carlos
+ 卡洛斯 
 
-Cedro
+ 塞德罗 
 
-Cortez
+ 科尔特斯 
 
-Diego
+ 迭戈 
 
-Enrique
+ 恩里克 
 
-Esteban
+ 埃斯特班 
 
-Fernando
+ 费尔南多 
 
-Francisco
+ 弗朗西斯科
 
-Guillermo
+ 吉列尔莫 
 
-Gustavo
+ 古斯塔沃 
 
-Hugo
+ 雨果 
 
 w:1
-Ignacio
+ 伊格纳西奥 
 
-Javier
+ 哈维尔 
 
-José
+ 何塞 
 
-Juan
+ 胡安 
 
-Luis
+ 路易斯 
 
-Pancho
+ 潘乔 
 
-Rafael
+ 拉斐尔 
 
-Ramón
+ 拉蒙
 
-Raúl
+ 劳尔 
 
-Rubén
+ 鲁本 
 
-Salvador
+ 萨尔瓦多 
 
-Santiago
+ 圣地亚哥 
 
-Santos
+ 桑托斯 
 
-Sebastián
+ 塞巴斯蒂安 
 
-Tomás
+ 托马斯
 
 Vicente
 %%%%
@@ -1470,7 +1470,7 @@ Ciara
 
 Deidre
 
-# ... this one should probably go in the archaic set ...
+# ...这个可能应该放在古老的集合中...
 Dubhchobhlaigh
 
 Eithne
@@ -1491,7 +1491,7 @@ Onóra
 
 Órlaith
 
-# Another archaicism
+# 另一种古老主义
 Raghnailt
 
 Róisín
@@ -1526,328 +1526,328 @@ Eógan
 
 Eoin
 
-Fearghal
+菲尔格尔
 
-Fiachra
+Fiachra 
 
-Flann
+ Flann 
 
-Fothad
+ Fothad 
 
-Muiredach
+ Muiredach 
 
-Niall
+ Niall 
 
-Pádraig
+ Pádraig 
 
-Rónán
+ Rónán 
 
-Séamus
+ Séamus 
 
 w:1
-Toirdhealbhach
+ Toirdhealbhach 
 %%%%
-_japanese_female_name_
+ _japanese_female_name_ 
 
-Chidori
+ 千鸟 
 
-Chisato
+ 千里 
 
-Eiko
+ 英子 
 
-Etsuko
+ 悦子 
 
-Fubuki
+ 吹雪 
 
-Fuyuko
+ 冬子 
 
-Hana
+ 花 
 
-Hideko
+ 秀子 
 
-Hisae
+ 久荣 
 
-Io
+ 伊欧 
 
-Kaede
+ 枫
 
-Kaori
+ 香织 
 
-Kiko
+ 希子 
 
-Koruri
+ 小栗子 
 
-Kyoko
+ 杏子 
 
-Mai
+ 麻衣 
 
-Mariya
+ 玛丽亚 
 
-Matsuko
+ 松子 
 
-Mizue
+ 水江 
 
-Natsumi
+ 夏美 
 
-Nodoka
+ 野花 
 
-Ran
+ 兰
 
-Ruka
+ Ruka 
 
-Sachi
+ Sachi 
 
-Sarina
+ Sarina 
 
-Tae
+ Tae 
 
-Tamao
+ Tamao 
 
-Umi
+ Umi 
 
-Yae
+ Yae 
 
-Yuina
+ Yuina
 
-Yume
+梦 
 %%%%
-_japanese_male_name_
+ _japanese_male_name_ 
 
-Akihito
+ 明人 
 
-Arashi
+ 岚 
 
-Azuma
+ 东 
 
-Chikashi
+ 近志 
 
-Chujiro
+ 中次郎 
 
-Daichi
+ 大地 
 
-Daisaku
+ 大作 
 
-Eiko
+ 英子 
 
-Eitaro
+ 英太郎
 
-Fumito
+ 文人 
 
-Fusazane
+ 房真 
 
-Genichi
+ 玄一 
 
-Goro
+ 五郎 
 
-Gota
+ 刚太 
 
-Hachiro
+ 八郎 
 
-Haruki
+ 春树 
 
-Hayata
+ 早田 
 
-Hidetaka
+ 英高 
 
-Hisao
+ 久雄 
 
-Ichio
+ 一尾
 
-Ikko
+ 一幸 
 
-Iwao
+ 岩尾 
 
-Joji
+ 丈二 
 
-Jubei
+ 十兵卫 
 
-Junzo
+ 顺三 
 
-Kagemori
+ 影盛 
 
-Kanehira
+ 金平 
 
-Kansuke
+ 勘助 
 
-Kazuki
+ 一树 
 
-Kenji
+ 贤二 
 
-Kenzo
+ 贤三
 
-Kiyoto
+ Kiyoto 
 
-Kyogo
+ Kyogo 
 
-Masaaki
+ Masaaki 
 
-Masataka
+ Masataka 
 
-Minoru
+ Minoru 
 
-#OK that's enough.
+ #好吧，够了。 
 %%%%
-_korean_female_name_
+ _korean_female_name_
 
-Chaewon
+彩元 
 
-Choonhe
+ 春熙 
 
-Eunkyung
+ 恩庆 
 
-Gyeongja
+ 庆子 
 
-Haeun
+ 海恩 
 
-Hwan
+ 焕 
 
-Iseul
+ 伊瑟尔 
 
-Jia
+ 贾 
 
-Jinae
+ 珍爱 
 
-Minjee
+ 敏智 
 
-Mishil
+ 米希尔
 
-Myungok
+ 明谷 
 
-Nari
+ Nari 
 
-Sanghe
+ Sanghe 
 
-Seoyun
+ Seoyun 
 
-Yeongsuk
+ Yeongsuk 
 %%%%
-_korean_male_name_
+ _korean_male_name_ 
 
-Bonhwa
+ Bonhwa 
 
-Byeongho
+ 丙浩 
 
-Chinhae
+ Chinhae 
 
-Daeho
+ Daeho 
 
-Dongyul
+ 东律 
 
-Doyun
+ 道允 
 
-Eunwoo
+ 银宇 
 
-Hajoon
+ 河俊 
 
-Jihoo
+ 志虎 
 
-Juwon
+ 朱元 
 
-Minjun
+ 敏俊 
 
-Seojun
+ 徐俊 
 
-Tae
+ 泰 
 
-Yejun
+ 艺俊 
 
-Yongsun
+ 龙顺
 %%%%
-_sikh_female_name_
+ _sikh_female_name_ 
 
-Ashmeen
+ Ashmeen 
 
-Ajinder
+ Ajinder 
 
-Deepnoor
+ Deepnoor 
 
-Gurmehar
+ Gurmehar 
 
-Harkiran
+ Harkiran 
 
-Ishleen
+ Ishleen 
 
-Ishpreet
+ Ishpreet
 
-Jasleen
+Jasleen 
 
-Jaspreet
+ Jaspreet 
 
-Kamaljyot
+ Kamaljyot 
 
-Manveen
+ Manveen 
 
-Nimrit
+ Nimrit 
 
-Noor
+ Noor 
 
-Rabni
+ Rabni 
 
-Tejnoor
+ Tejnoor 
 
-Ujjalroop
+ Ujjalroop 
 
-Yashnoor
+ Yashnoor 
 %%%%
-_sikh_male_name_
+ _sikh_male_name_ 
 
-Agam
+ 阿加姆 
 
-Akal
+ 阿卡尔 
 
-Balvinder
+ 巴尔文德 
 
-Dalbir
+ 达尔比尔 
 
-Ekveer
+ 埃克维尔 
 
-Fatehjeet
+ 法塔吉特 
 
-Imanvir
+ 伊曼维尔 
 
-Kulveer
+ 库尔维尔 
 
-Navbir
+ 纳比尔
 
-Paramjit
+ Paramjit 
 
-Surjit
+ Surjit 
 
-Teghnoor
+ Teghnoor 
 
-Uttamveer
+ Uttamveer 
 
-Vikramjeet
+ Vikramjeet 
 
-Zorawar
+ Zorawar 
 %%%%
-_thai_female_name_
+ _thai_female_name_ 
 
-Bangon
+ Bangon 
 
-Chiraphon
+ Chiraphon 
 
-Kanchana
+ Kanchana 
 
-Kanlaya
+ Kanlaya 
 
-Kannika
+ Kannika 
 
-Latda
+ Latda 
 
-Malki
+ Malki 
 
-Nittaya
+ Nittaya 
 
-Prani
+ Prani 
 
-Somchit
+ Somchit 
 
-Sukanya
+ Sukanya 
 
-Suphaphon
+ Suphaphon 
 
-Suni
+苏尼
 
 Thatsani
 
